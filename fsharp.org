@@ -1,0 +1,190 @@
+# -*- mode: org; coding: utf-8 -*-
+#+STARTUP: showall
+
+* Item :drill:
+  SCHEDULED: <2021-01-25 seg>
+  :PROPERTIES:
+  :ID:       fc97c33d-d374-4c0e-b66f-ba25f8745787
+  :DRILL_LAST_INTERVAL: 3.9531
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-21 qui 22:34]
+  :END:
+
+You define functions by using the [let] keyword, or, if the function is
+recursive, the [let rec] keyword combination.
+
+* Item :drill:
+  SCHEDULED: <2021-01-27 qua>
+  :PROPERTIES:
+  :ID:       84d05487-d8fd-41f2-a96d-af1eb1553a60
+  :DRILL_LAST_INTERVAL: 5.851
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-21 qui 22:34]
+  :END:
+
+If you reuse a name, the name declared later [shadows the name declared earlier].
+However, at the top level scope in a module, [names must be unique].
+
+* Item :drill:
+  SCHEDULED: <2021-01-26 ter>
+  :PROPERTIES:
+  :ID:       8e794aca-cb04-4a32-ab96-906317b714cb
+  :DRILL_LAST_INTERVAL: 5.2725
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-21 qui 22:33]
+  :END:
+
+  Annotate the following function definition. The parameter x should be an integer.
+
+  #+begin_src fsharp
+    let f x = x + 1
+  #+end_src
+
+** Answer
+
+  #+begin_src fsharp
+    let f (x: int) = x + 1
+  #+end_src
+
+* Item :drill:
+
+  Annotate the function definition below to indicate the return type is float:
+
+  #+begin_src fsharp
+    let cylinderVolume radius length =
+       let pi = 3.14159
+       length * pi * radius * radius
+  #+end_src
+
+** Answer
+
+  #+begin_src fsharp
+    let cylinderVolume radius length : float =
+       let pi = 3.14159
+       length * pi * radius * radius
+  #+end_src
+
+* Item :drill:
+
+  Annotate ~f~ to indicate it is a function that takes 2 ints and return an int.
+
+   #+begin_src fsharp
+     let apply2 f x y = f x y
+     let mul x y = x * y
+     let result2 = apply2 mul 10 20
+   #+end_src
+
+** Answer
+   #+begin_src fsharp
+     let apply2 ( f: int -> int -> int) x y = f x y
+   #+end_src
+
+* Item :drill:
+
+  You define lambda expressions by using the [fun] keyword. A lambda
+  expression resembles a function definition, except that instead of
+  the ~=~ token, the [->] token is used to separate the argument list from
+  the function body.
+
+* Item :drill:
+<QUESTION>
+
+
+What's the result? 202 or 201?
+
+   #+begin_src fsharp
+     let function1 x = x + 1
+     let function2 x = x * 2
+     let h = function1 >> function2
+     let result5 = h 100
+   #+end_src
+
+** Answer
+
+   202
+
+* Item :drill:
+
+  The ~composition operator~ is [>>]. The ~pipeline operator~ is [|>].
+   
+* Item :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide1cloze
+:END:
+
+The [composition] operators take [two functions] and return a
+[function]; by contrast, the [pipeline] operators take [a function and an argument]
+and return [a value].
+
+* Item :drill:
+
+  Signature of the ~backward composition operator~
+
+** Answer
+   #+begin_src fsharp
+     // ( << ) : ('T2 -> 'T3) -> ('T1 -> 'T2) -> 'T1 -> 'T3
+   #+end_src
+
+* Item :drill:
+
+  A let binding in a class type defines [private fields] for that class type.
+
+
+* Item :drill:
+
+  The parameter-list in a function signature can be composed of any F# [patterns].
+
+
+
+* Item                                                                :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide1cloze
+:END:
+
+Methods are [implicitly recursive] within the type they are defined
+in, meaning there is no [need to add the rec keyword].
+
+* Item :drill:
+
+     Example of two mutually recursive functions.
+
+** Answer
+
+   #+begin_src fsharp
+     let rec Even x = 
+	 if x = 0 then true 
+	 else Odd (x-1) 
+     and Odd x = 
+	 if x = 0 then false 
+     else Even (x-1)
+   #+end_src
+
+* Item :drill:
+
+  How to indicate the entry point of a program? The main function?
+
+** Answer
+
+   Use the attribute ~[<EntryPoint]~
+
+   #+begin_src fsharp
+     [<EntryPoint>]
+     let main args =
+	 printfn "Arguments passed to function : %A" args
+	 0
+   #+end_src
