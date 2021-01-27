@@ -2,17 +2,17 @@
 #+STARTUP: showall
 
 * Item :drill:
-  SCHEDULED: <2021-01-25 seg>
+  SCHEDULED: <2021-02-06 sáb>
   :PROPERTIES:
   :ID:       fc97c33d-d374-4c0e-b66f-ba25f8745787
-  :DRILL_LAST_INTERVAL: 3.9531
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 10.8568
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 2
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.6
+  :DRILL_EASE: 2.7
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-21 qui 22:34]
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:19]
   :END:
 
 You define functions by using the [let] keyword, or, if the function is
@@ -36,17 +36,17 @@ If you reuse a name, the name declared later [shadows the name declared earlier]
 However, at the top level scope in a module, [names must be unique].
 
 * Item :drill:
-  SCHEDULED: <2021-01-26 ter>
+  SCHEDULED: <2021-02-08 seg>
   :PROPERTIES:
   :ID:       8e794aca-cb04-4a32-ab96-906317b714cb
-  :DRILL_LAST_INTERVAL: 5.2725
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 13.2985
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 2
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.6
+  :DRILL_EASE: 2.7
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-21 qui 22:33]
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:19]
   :END:
 
   Annotate the following function definition. The parameter x should be an integer.
@@ -62,6 +62,18 @@ However, at the top level scope in a module, [names must be unique].
   #+end_src
 
 * Item :drill:
+  SCHEDULED: <2021-01-31 dom>
+  :PROPERTIES:
+  :ID:       800bab77-60a5-40f6-b3e0-179d410ac95d
+  :DRILL_LAST_INTERVAL: 4.5441
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:39]
+  :END:
 
   Annotate the function definition below to indicate the return type is float:
 
@@ -80,6 +92,18 @@ However, at the top level scope in a module, [names must be unique].
   #+end_src
 
 * Item :drill:
+  SCHEDULED: <2021-01-30 sáb>
+  :PROPERTIES:
+  :ID:       cba1ed53-f553-4b6d-8f35-afd7d4fb6588
+  :DRILL_LAST_INTERVAL: 4.173
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_FAILURE_COUNT: 1
+  :DRILL_AVERAGE_QUALITY: 3.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:40]
+  :END:
 
   Annotate ~f~ to indicate it is a function that takes 2 ints and return an int.
 
@@ -95,6 +119,18 @@ However, at the top level scope in a module, [names must be unique].
    #+end_src
 
 * Item :drill:
+  SCHEDULED: <2021-01-31 dom>
+  :PROPERTIES:
+  :ID:       527d01b2-ee07-4bb1-9d21-d7c367a618e8
+  :DRILL_LAST_INTERVAL: 4.7651
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:39]
+  :END:
 
   You define lambda expressions by using the [fun] keyword. A lambda
   expression resembles a function definition, except that instead of
@@ -102,6 +138,18 @@ However, at the top level scope in a module, [names must be unique].
   the function body.
 
 * Item :drill:
+  SCHEDULED: <2021-01-30 sáb>
+  :PROPERTIES:
+  :ID:       aa46086c-fcaf-482b-ba04-7d4791918b3a
+  :DRILL_LAST_INTERVAL: 4.3351
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:36]
+  :END:
 <QUESTION>
 
 
@@ -119,12 +167,34 @@ What's the result? 202 or 201?
    202
 
 * Item :drill:
+  SCHEDULED: <2021-01-31 dom>
+  :PROPERTIES:
+  :ID:       dfc22b0a-b927-4f26-a983-10e2afcdea5e
+  :DRILL_LAST_INTERVAL: 4.5056
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:44]
+  :END:
 
   The ~composition operator~ is [>>]. The ~pipeline operator~ is [|>].
    
 * Item :drill:
+  SCHEDULED: <2021-01-30 sáb>
 :PROPERTIES:
 :DRILL_CARD_TYPE: hide1cloze
+:ID:       25e5dfc9-6283-4276-a818-dff63e9fb275
+:DRILL_LAST_INTERVAL: 4.1233
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-01-26 ter 22:43]
 :END:
 
 The [composition] operators take [two functions] and return a
@@ -132,6 +202,18 @@ The [composition] operators take [two functions] and return a
 and return [a value].
 
 * Item :drill:
+  SCHEDULED: <2021-02-01 seg>
+  :PROPERTIES:
+  :ID:       9ff9f70e-bb52-42db-84b9-fb1d6c7372a6
+  :DRILL_LAST_INTERVAL: 5.644
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_FAILURE_COUNT: 1
+  :DRILL_AVERAGE_QUALITY: 3.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:40]
+  :END:
 
   Signature of the ~backward composition operator~
 
@@ -141,25 +223,69 @@ and return [a value].
    #+end_src
 
 * Item :drill:
+  SCHEDULED: <2021-01-29 sex>
+  :PROPERTIES:
+  :ID:       957bbdf4-a6a8-4c61-936a-2e661af7d83f
+  :DRILL_LAST_INTERVAL: 2.9146
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 3.0
+  :DRILL_EASE: 2.36
+  :DRILL_LAST_QUALITY: 3
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:33]
+  :END:
 
   A let binding in a class type defines [private fields] for that class type.
 
-
 * Item :drill:
+  SCHEDULED: <2021-01-31 dom>
+  :PROPERTIES:
+  :ID:       06f192aa-0a2c-4176-80d9-0a1f2bda79b6
+  :DRILL_LAST_INTERVAL: 4.5512
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 4.0
+  :DRILL_EASE: 2.5
+  :DRILL_LAST_QUALITY: 4
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:21]
+  :END:
 
   The parameter-list in a function signature can be composed of any F# [patterns].
 
 
-
-* Item                                                                :drill:
+* Item :drill:
+  SCHEDULED: <2021-01-31 dom>
 :PROPERTIES:
 :DRILL_CARD_TYPE: hide1cloze
+:ID:       a0c8f608-5a31-4014-bfac-f69fe7a8fb9a
+:DRILL_LAST_INTERVAL: 4.8207
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-01-26 ter 22:36]
 :END:
 
 Methods are [implicitly recursive] within the type they are defined
 in, meaning there is no [need to add the rec keyword].
 
 * Item :drill:
+  SCHEDULED: <2021-01-30 sáb>
+  :PROPERTIES:
+  :ID:       33d7a599-d941-4ca6-8eaf-d763e1d343ce
+  :DRILL_LAST_INTERVAL: 4.0757
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_FAILURE_COUNT: 1
+  :DRILL_AVERAGE_QUALITY: 3.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:46]
+  :END:
 
      Example of two mutually recursive functions.
 
@@ -175,12 +301,24 @@ in, meaning there is no [need to add the rec keyword].
    #+end_src
 
 * Item :drill:
+  SCHEDULED: <2021-02-01 seg>
+  :PROPERTIES:
+  :ID:       7e5d0cd3-020d-4482-b46f-048a8b678d1d
+  :DRILL_LAST_INTERVAL: 5.5045
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:20]
+  :END:
 
   How to indicate the entry point of a program? The main function?
 
 ** Answer
 
-   Use the attribute ~[<EntryPoint]~
+   Use the attribute ~[<EntryPoint>]~
 
    #+begin_src fsharp
      [<EntryPoint>]
@@ -188,3 +326,518 @@ in, meaning there is no [need to add the rec keyword].
 	 printfn "Arguments passed to function : %A" args
 	 0
    #+end_src
+
+* Item :drill:
+  SCHEDULED: <2021-01-30 sáb>
+  :PROPERTIES:
+  :ID:       0d6fa2f3-cf7b-479a-be8f-3005dfa57f0e
+  :DRILL_LAST_INTERVAL: 4.2893
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:29]
+  :END:
+
+Fable is a
+
+** Answer
+
+dialect of F# that executes directly in your browser.
+
+* Item :drill:
+  SCHEDULED: <2021-01-31 dom>
+  :PROPERTIES:
+  :ID:       caae35ce-06ea-4527-beb4-0566413665f5
+  :DRILL_LAST_INTERVAL: 4.6766
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:20]
+  :END:
+
+Parentheses are optional for function arguments, except for
+
+** Answer
+
+when you use an explicit type annotation
+
+* Item :drill:
+  SCHEDULED: <2021-01-31 dom>
+  :PROPERTIES:
+  :ID:       a5238b0e-7fc9-4846-ab44-ce651e4a5b09
+  :DRILL_LAST_INTERVAL: 4.5706
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:40]
+  :END:
+
+If you require a mutable binding, you can use
+
+** Answer
+
+let mutable syntax
+
+#+begin_src fsharp
+   let mutable otherNumber = 2
+   otherNumber <- otherNumber + 1
+#+end_src
+
+* Item :drill:
+  SCHEDULED: <2021-01-31 dom>
+  :PROPERTIES:
+  :ID:       705d34af-8200-48e4-82fa-e0bb9e2b4add
+  :DRILL_LAST_INTERVAL: 4.5044
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:24]
+  :END:
+
+What are the two boolean values in F#?
+
+** Answer
+
+true false (lowercase)
+
+* Item :drill:
+  SCHEDULED: <2021-01-30 sáb>
+  :PROPERTIES:
+  :ID:       d48da1a2-a5be-4c72-b804-18a3f74e3700
+  :DRILL_LAST_INTERVAL: 4.2672
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:41]
+  :END:
+
+What is the casing for the boolean values?
+
+** Answer
+
+All lower case true false
+
+* Item :drill:
+  SCHEDULED: <2021-01-30 sáb>
+  :PROPERTIES:
+  :ID:       879c57c8-f172-40f8-bbd0-e23ce1ad98be
+  :DRILL_LAST_INTERVAL: 4.2448
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:43]
+  :END:
+
+/// A simple tuple of integers.
+
+** Answer
+
+let tuple1 = (1, 2, 3)
+
+* Item :drill:
+  SCHEDULED: <2021-01-30 sáb>
+  :PROPERTIES:
+  :ID:       caf68c0c-d3cd-4c70-bb6d-7d65ce31434c
+  :DRILL_LAST_INTERVAL: 3.9804
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:41]
+  :END:
+
+Tuples are normally objects, but they can also be represented as
+structs. How?
+
+** Answer
+
+   #+begin_src fsharp
+     let sampleStructTuple = struct (1, 2)
+   #+end_src
+
+* Item :drill:
+  SCHEDULED: <2021-01-31 dom>
+  :PROPERTIES:
+  :ID:       4d0f514c-5bed-4fb9-9e3d-bdcff9fa0062
+  :DRILL_LAST_INTERVAL: 4.6685
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:43]
+  :END:
+
+How to create list, array, and sequence
+
+** Answer
+
+   #+begin_src fsharp
+     let list2 = [ 1; 2; 3 ]
+     let array3 = [| 1 .. 1000 |]
+     let numbersSeq = seq { 1 .. 1000 }
+   #+end_src
+
+* Item :drill:
+  SCHEDULED: <2021-01-30 sáb>
+  :PROPERTIES:
+  :ID:       5c31fc50-e838-4f99-b8eb-8d7611729034
+  :DRILL_LAST_INTERVAL: 4.1156
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:45]
+  :END:
+
+Is this array or list? Is it good for random access or no?
+
+#+begin_src fsharp
+  let xs = [ 1; 2; 3 ]
+#+end_src
+
+** Answer
+
+List Bad for random access
+
+* Item :drill:
+  SCHEDULED: <2021-01-30 sáb>
+  :PROPERTIES:
+  :ID:       5f69ea58-dd22-4e35-8edc-97651ad4f0f8
+  :DRILL_LAST_INTERVAL: 4.0998
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:44]
+  :END:
+
+Syntax for defining and instanting a record
+
+** Answer
+
+   #+begin_src fsharp
+     type ContactCard = { Name : string; Phone : string; Verified : bool }
+     let contact1 = { Name = "Alf"; Phone = "(206) 555-0157"; Verified = false }
+   #+end_src
+
+* Item :drill:
+  SCHEDULED: <2021-01-31 dom>
+  :PROPERTIES:
+  :ID:       f9589165-260b-49df-af10-61d59bedc673
+  :DRILL_LAST_INTERVAL: 4.8672
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:28]
+  :END:
+
+Syntax for instantiating a record through copy-and-update
+
+** Answer
+
+   #+begin_src fsharp
+     let contact2 = { contact1 with Phone = "(206) 555-0112"; Verified = true }
+   #+end_src
+
+* Item :drill:
+  SCHEDULED: <2021-01-30 sáb>
+  :PROPERTIES:
+  :ID:       d30d38c9-f5cf-426d-b3d4-6e80d4fdf63e
+  :DRILL_LAST_INTERVAL: 4.0389
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 4.0
+  :DRILL_EASE: 2.5
+  :DRILL_LAST_QUALITY: 4
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:38]
+  :END:
+
+Syntax for adding methods to a record
+
+** Answer
+
+   #+begin_src fsharp
+     type MyRecordWithMethods =
+	 {
+	     x: int
+	 }
+	 member this.setX z = {this with x = z}
+   #+end_src
+
+* Item :drill:
+  SCHEDULED: <2021-01-30 sáb>
+  :PROPERTIES:
+  :ID:       cd6978a8-8be7-402f-8609-1067d73f6eb0
+  :DRILL_LAST_INTERVAL: 3.8118
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:33]
+  :END:
+
+You can also represent Records as structs. This is done with the [<Struct>]
+attribute
+
+* Item :drill:
+  SCHEDULED: <2021-01-30 sáb>
+  :PROPERTIES:
+  :ID:       5fdd1abb-15a4-4c89-ae1b-a38821de9ec2
+  :DRILL_LAST_INTERVAL: 4.3827
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:32]
+  :END:
+
+Inform:
+
+- 1. Simplest discriminated syntax for when all possible options are
+  simple names
+- 2. Discriminated union where one of the options is a string or other
+  primitive type
+- 3. Discriminated union where one option is of a anonymous named
+  tuple type
+
+** Answer
+
+   #+begin_src fsharp
+     type Suit =
+	 | Hearts
+	 | Clubs
+     type Rank =
+	 | Value of int
+	 | Ace
+     type Shape =
+	 | Circle of radius: float
+	 | Triangle of height: float * width: float
+   #+end_src
+
+* Item :drill:
+  SCHEDULED: <2021-01-30 sáb>
+  :PROPERTIES:
+  :ID:       dbab0f21-1303-4249-aa9d-23b0dcf86b9f
+  :DRILL_LAST_INTERVAL: 4.317
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:42]
+  :END:
+
+Syntax for declaring list
+
+** Answer
+
+   #+begin_src fsharp
+     let list2 = [ 1; 2; 3 ]
+   #+end_src
+
+* Item :drill:
+  SCHEDULED: <2021-01-31 dom>
+  :PROPERTIES:
+  :ID:       31912d59-f2b9-476b-9189-3d3bb031e7cf
+  :DRILL_LAST_INTERVAL: 4.9104
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:36]
+  :END:
+
+Declare array
+
+** Answer
+
+   #+begin_src fsharp
+     let array3 = [| 1 .. 1000 |]
+   #+end_src
+
+
+* Item :drill:
+  SCHEDULED: <2021-01-30 sáb>
+  :PROPERTIES:
+  :ID:       6cd7438a-f3d2-44a9-a2a3-457d68c69b01
+  :DRILL_LAST_INTERVAL: 4.4592
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:22]
+  :END:
+
+Declare sequence
+
+** Answer
+
+   #+begin_src fsharp
+     let numbersSeq = seq { 1 .. 1000 }
+   #+end_src
+
+* Item :drill:
+  SCHEDULED: <2021-01-30 sáb>
+  :PROPERTIES:
+  :ID:       f2d2d447-88fe-47b1-a010-dd0edda0b602
+  :DRILL_LAST_INTERVAL: 3.8196
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 3.0
+  :DRILL_EASE: 2.36
+  :DRILL_LAST_QUALITY: 3
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:24]
+  :END:
+
+What's wrong with this code?
+
+#+begin_src fsharp
+  type Foo =
+      | bar of string * string
+#+end_src
+
+** Answer
+
+Discriminated union cases and exception labels must be uppercase
+identifiers
+
+* Item :drill:
+  SCHEDULED: <2021-01-30 sáb>
+  :PROPERTIES:
+  :ID:       ca4d36f2-fbc3-4b59-affb-1a5ed4cba5a1
+  :DRILL_LAST_INTERVAL: 4.2666
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:26]
+  :END:
+
+If 2 discriminated unions share a given name, how to specify the
+construction of a value of a given DU?
+
+#+begin_src fsharp
+    type Foo =
+	| Bar of  string * string
+	| Zoom of string
+
+    type Foo2 =
+	| Bar of int * int
+#+end_src
+
+** Answer
+
+You use he full path to the constructor:
+
+#+begin_src fsharp
+  let x = Foo.Bar ("foo","bar")
+  let x2 = Foo2.Bar (1, 2)
+#+end_src
+
+* Item :drill:
+  SCHEDULED: <2021-01-30 sáb>
+  :PROPERTIES:
+  :ID:       947a30d5-8671-41b6-90a9-a8b660f50238
+  :DRILL_LAST_INTERVAL: 4.2287
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:36]
+  :END:
+
+How to declare a mutable variable?
+
+** Answer
+
+   #+begin_src fsharp
+     let mutable x = 0
+   #+end_src
+
+* Item :drill:
+  SCHEDULED: <2021-01-30 sáb>
+  :PROPERTIES:
+  :ID:       8c751902-8ff6-4bc0-a3bd-ee5917b5366c
+  :DRILL_LAST_INTERVAL: 4.3366
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:34]
+  :END:
+
+How to update the value of a mutable value?
+
+** Answer
+
+With the `<-` operator
+
+#+begin_src fsharp
+  x <- 1
+#+end_src
+
+* Item :drill:
+  SCHEDULED: <2021-01-30 sáb>
+  :PROPERTIES:
+  :ID:       f4bbb99f-13d0-4108-8490-2d5655729b09
+  :DRILL_LAST_INTERVAL: 4.2064
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:24]
+  :END:
+
+How to start the interactive F# prompt?
+
+** Answer
+
+dotnet fsi
