@@ -1,0 +1,55 @@
+# -*- mode: org; coding: utf-8 -*-
+#+STARTUP: showall
+
+* Encryption
+
+** Item                                                               :drill:
+
+   Generate a new private/public key pair w/ gpg
+
+*** Answer
+
+    #+begin_src
+ gpg --gen-key
+    #+end_src
+
+** Item                                                               :drill:
+
+   Export gpg public key
+
+
+*** Answer
+
+    #+begin_src
+gpg --export -a "<user-name>" > public.key
+    #+end_src
+** Item                                                               :drill:
+
+   Export gpg private key
+
+
+*** Answer
+
+    #+begin_src
+gpg --export-secret-key -a "<user-name>" > private.key
+    #+end_src
+
+** Item                                                               :drill:
+
+   Encrypt file
+
+*** Answer
+
+    #+begin_src
+    gpg -e -u "<your-email>" -r "<your-receiver-email>" somefile
+    #+end_src
+
+** Item                                                               :drill:
+
+   Decrypt file
+
+*** Answer
+
+    #+begin_src
+    gpg -d somefile
+    #+end_src
