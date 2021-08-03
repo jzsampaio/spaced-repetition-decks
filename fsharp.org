@@ -1,52 +1,54 @@
 # -*- mode: org; coding: utf-8 -*-
 #+STARTUP: showall
+#+PROPERTY: DRILL_CARD_TYPE_ALL hide1close twosided multisided show1cloze hide2cloze show2cloze hide1_firstmore show1_firstless show1_lastmore
+#+OPTIONS: prop:("drill_card_type")
 
 * Item :drill:
-  SCHEDULED: <2021-02-06 sáb>
+  SCHEDULED: <2021-12-03 sex>
   :PROPERTIES:
   :ID:       fc97c33d-d374-4c0e-b66f-ba25f8745787
-  :DRILL_LAST_INTERVAL: 10.8568
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 122.3678
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:19]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:20]
   :END:
 
 You define functions by using the [let] keyword, or, if the function is
 recursive, the [let rec] keyword combination.
 
 * Item :drill:
-  SCHEDULED: <2021-02-13 sáb>
+  SCHEDULED: <2021-12-14 ter>
   :PROPERTIES:
   :ID:       84d05487-d8fd-41f2-a96d-af1eb1553a60
-  :DRILL_LAST_INTERVAL: 15.8253
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 132.6684
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-28 qui 07:02]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:25]
   :END:
 
 If you reuse a name, the name declared later [shadows the name declared earlier].
 However, at the top level scope in a module, [names must be unique].
 
 * Item :drill:
-  SCHEDULED: <2021-02-08 seg>
+  SCHEDULED: <2021-11-19 sex>
   :PROPERTIES:
   :ID:       8e794aca-cb04-4a32-ab96-906317b714cb
-  :DRILL_LAST_INTERVAL: 13.2985
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 107.9543
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-26 ter 22:19]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:21]
   :END:
 
   Annotate the following function definition. The parameter x should be an integer.
@@ -62,17 +64,17 @@ However, at the top level scope in a module, [names must be unique].
   #+end_src
 
 * Item :drill:
-  SCHEDULED: <2021-02-15 seg>
+  SCHEDULED: <2021-12-02 qui>
   :PROPERTIES:
   :ID:       800bab77-60a5-40f6-b3e0-179d410ac95d
-  :DRILL_LAST_INTERVAL: 12.6614
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 121.0797
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-02-02 ter 07:16]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:27]
   :END:
 
   Annotate the function definition below to indicate the return type is float:
@@ -92,17 +94,17 @@ However, at the top level scope in a module, [names must be unique].
   #+end_src
 
 * Item :drill:
-  SCHEDULED: <2021-02-11 qui>
+SCHEDULED: <2021-08-07 sáb>
   :PROPERTIES:
   :ID:       cba1ed53-f553-4b6d-8f35-afd7d4fb6588
-  :DRILL_LAST_INTERVAL: 11.7773
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 3
-  :DRILL_FAILURE_COUNT: 1
-  :DRILL_AVERAGE_QUALITY: 3.667
-  :DRILL_EASE: 2.7
+  :DRILL_LAST_INTERVAL: 3.9377
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 6
+  :DRILL_FAILURE_COUNT: 2
+  :DRILL_AVERAGE_QUALITY: 3.5
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-30 sáb 02:32]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:26]
   :END:
 
   Annotate ~f~ to indicate it is a function that takes 2 ints and return an int.
@@ -119,17 +121,17 @@ However, at the top level scope in a module, [names must be unique].
    #+end_src
 
 * Item :drill:
-  SCHEDULED: <2021-02-15 seg>
+  SCHEDULED: <2021-11-20 sáb>
   :PROPERTIES:
   :ID:       527d01b2-ee07-4bb1-9d21-d7c367a618e8
-  :DRILL_LAST_INTERVAL: 12.9989
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 109.1363
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-02-02 ter 07:15]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:22]
   :END:
 
   You define lambda expressions by using the [fun] keyword. A lambda
@@ -138,17 +140,17 @@ However, at the top level scope in a module, [names must be unique].
   the function body.
 
 * Item :drill:
-  SCHEDULED: <2021-02-13 sáb>
+  SCHEDULED: <2021-11-13 sáb>
   :PROPERTIES:
   :ID:       aa46086c-fcaf-482b-ba04-7d4791918b3a
-  :DRILL_LAST_INTERVAL: 14.4457
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 102.1326
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-30 sáb 02:34]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:21]
   :END:
 <QUESTION>
 
@@ -167,34 +169,34 @@ What's the result? 202 or 201?
    202
 
 * Item :drill:
-  SCHEDULED: <2021-02-15 seg>
+  SCHEDULED: <2021-11-05 sex>
   :PROPERTIES:
   :ID:       dfc22b0a-b927-4f26-a983-10e2afcdea5e
-  :DRILL_LAST_INTERVAL: 13.4759
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 94.221
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
-  :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_AVERAGE_QUALITY: 4.5
+  :DRILL_EASE: 2.66
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-02-02 ter 07:17]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:27]
   :END:
 
   The ~composition operator~ is [>>]. The ~pipeline operator~ is [|>].
 
 * Item :drill:
-  SCHEDULED: <2021-02-12 sex>
+  SCHEDULED: <2021-11-27 sáb>
 :PROPERTIES:
 :DRILL_CARD_TYPE: hide1cloze
 :ID:       25e5dfc9-6283-4276-a818-dff63e9fb275
-:DRILL_LAST_INTERVAL: 13.2299
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 116.3856
+:DRILL_REPEATS_SINCE_FAIL: 5
+:DRILL_TOTAL_REPEATS: 4
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.9
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-01-30 sáb 02:32]
+:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:23]
 :END:
 
 The [composition] operators take [two functions] and return a
@@ -202,17 +204,17 @@ The [composition] operators take [two functions] and return a
 and return [a value].
 
 * Item :drill:
-  SCHEDULED: <2021-02-18 qui>
+  SCHEDULED: <2021-09-15 qua>
   :PROPERTIES:
   :ID:       9ff9f70e-bb52-42db-84b9-fb1d6c7372a6
-  :DRILL_LAST_INTERVAL: 16.1698
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 3
+  :DRILL_LAST_INTERVAL: 42.9258
+  :DRILL_REPEATS_SINCE_FAIL: 4
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 1
-  :DRILL_AVERAGE_QUALITY: 3.667
-  :DRILL_EASE: 2.7
+  :DRILL_AVERAGE_QUALITY: 4.0
+  :DRILL_EASE: 2.8
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-02-02 ter 07:17]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:18]
   :END:
 
   Signature of the ~backward composition operator~
@@ -222,68 +224,74 @@ and return [a value].
      // ( << ) : ('T2 -> 'T3) -> ('T1 -> 'T2) -> 'T1 -> 'T3
    #+end_src
 
+   if ~f = x + 1~ and ~g = x * 2~ then:
+
+   ~f << g = 2*x + 1~
+   ~g << f =2*(x + 1)x~
+
+
 * Item :drill:
-  SCHEDULED: <2021-02-17 qua>
+SCHEDULED: <2021-08-08 dom>
   :PROPERTIES:
   :ID:       957bbdf4-a6a8-4c61-936a-2e661af7d83f
-  :DRILL_LAST_INTERVAL: 13.5426
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 4
-  :DRILL_FAILURE_COUNT: 1
-  :DRILL_AVERAGE_QUALITY: 3.75
-  :DRILL_EASE: 2.56
+  :DRILL_LAST_INTERVAL: 4.5819
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 6
+  :DRILL_FAILURE_COUNT: 2
+  :DRILL_AVERAGE_QUALITY: 3.667
+  :DRILL_EASE: 2.66
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-02-03 qua 19:09]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:18]
   :END:
 
   A let binding in a class type defines [private fields] for that class type.
 
 * Item :drill:
-  SCHEDULED: <2021-02-14 dom>
+  SCHEDULED: <2021-10-19 ter>
   :PROPERTIES:
   :ID:       06f192aa-0a2c-4176-80d9-0a1f2bda79b6
-  :DRILL_LAST_INTERVAL: 11.7877
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 76.5122
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
-  :DRILL_AVERAGE_QUALITY: 4.5
-  :DRILL_EASE: 2.6
-  :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-02-02 ter 07:16]
+  :DRILL_AVERAGE_QUALITY: 4.25
+  :DRILL_EASE: 2.56
+  :DRILL_LAST_QUALITY: 3
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:20]
   :END:
 
   The parameter-list in a function signature can be composed of any F# [patterns].
 
 * Item :drill:
-  SCHEDULED: <2021-02-15 seg>
+SCHEDULED: <2021-08-08 dom>
 :PROPERTIES:
 :DRILL_CARD_TYPE: hide1cloze
 :ID:       a0c8f608-5a31-4014-bfac-f69fe7a8fb9a
-:DRILL_LAST_INTERVAL: 13.3905
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_LAST_INTERVAL: 4.7112
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.75
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-02-02 ter 07:16]
+:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:14]
 :END:
 
 Methods are [implicitly recursive] within the type they are defined
 in, meaning there is no [need to add the rec keyword].
 
 * Item :drill:
-  SCHEDULED: <2021-02-10 qua>
+  SCHEDULED: <2021-11-19 sex>
   :PROPERTIES:
   :ID:       33d7a599-d941-4ca6-8eaf-d763e1d343ce
-  :DRILL_LAST_INTERVAL: 11.0598
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 3
+  :DRILL_LAST_INTERVAL: 107.9603
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 5
   :DRILL_FAILURE_COUNT: 1
-  :DRILL_AVERAGE_QUALITY: 3.667
-  :DRILL_EASE: 2.7
+  :DRILL_AVERAGE_QUALITY: 4.2
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-30 sáb 02:34]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:20]
   :END:
 
      Example of two mutually recursive functions.
@@ -292,25 +300,25 @@ in, meaning there is no [need to add the rec keyword].
 
    #+begin_src fsharp
      let rec Even x =
-	 if x = 0 then true
-	 else Odd (x-1)
+         if x = 0 then true
+         else Odd (x-1)
      and Odd x =
-	 if x = 0 then false
+         if x = 0 then false
          else Even (x-1)
    #+end_src
 
 * Item :drill:
-  SCHEDULED: <2021-02-07 dom>
+  SCHEDULED: <2021-09-25 sáb>
   :PROPERTIES:
   :ID:       7e5d0cd3-020d-4482-b46f-048a8b678d1d
-  :DRILL_LAST_INTERVAL: 4.5233
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 3
+  :DRILL_LAST_INTERVAL: 52.6111
+  :DRILL_REPEATS_SINCE_FAIL: 4
+  :DRILL_TOTAL_REPEATS: 5
   :DRILL_FAILURE_COUNT: 1
-  :DRILL_AVERAGE_QUALITY: 4.0
-  :DRILL_EASE: 2.7
+  :DRILL_AVERAGE_QUALITY: 4.4
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-02-02 ter 07:19]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:19]
   :END:
 
   How to indicate the entry point of a program? The main function?
@@ -327,17 +335,17 @@ in, meaning there is no [need to add the rec keyword].
    #+end_src
 
 * Item :drill:
-  SCHEDULED: <2021-02-12 sex>
+SCHEDULED: <2021-08-18 qua>
   :PROPERTIES:
   :ID:       0d6fa2f3-cf7b-479a-be8f-3005dfa57f0e
-  :DRILL_LAST_INTERVAL: 13.1287
+  :DRILL_LAST_INTERVAL: 14.7038
   :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
-  :DRILL_FAILURE_COUNT: 0
-  :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_TOTAL_REPEATS: 5
+  :DRILL_FAILURE_COUNT: 1
+  :DRILL_AVERAGE_QUALITY: 4.4
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-30 sáb 02:33]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:18]
   :END:
 
 Fable is a
@@ -347,17 +355,17 @@ Fable is a
 dialect of F# that executes directly in your browser.
 
 * Item :drill:
-  SCHEDULED: <2021-02-15 seg>
+  SCHEDULED: <2021-12-18 sáb>
   :PROPERTIES:
   :ID:       caae35ce-06ea-4527-beb4-0566413665f5
-  :DRILL_LAST_INTERVAL: 12.636
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 136.7056
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-02-02 ter 07:17]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:27]
   :END:
 
 Parentheses are optional for function arguments, except for
@@ -367,17 +375,17 @@ Parentheses are optional for function arguments, except for
 when you use an explicit type annotation
 
 * Item :drill:
-  SCHEDULED: <2021-02-16 ter>
+SCHEDULED: <2021-08-08 dom>
   :PROPERTIES:
   :ID:       a5238b0e-7fc9-4846-ab44-ce651e4a5b09
-  :DRILL_LAST_INTERVAL: 13.6633
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
-  :DRILL_FAILURE_COUNT: 0
-  :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_LAST_INTERVAL: 5.1794
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 4
+  :DRILL_FAILURE_COUNT: 1
+  :DRILL_AVERAGE_QUALITY: 4.25
+  :DRILL_EASE: 2.8
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-02-02 ter 07:16]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:17]
   :END:
 
 If you require a mutable binding, you can use
@@ -392,17 +400,17 @@ let mutable syntax
 #+end_src
 
 * Item :drill:
-  SCHEDULED: <2021-02-16 ter>
+  SCHEDULED: <2021-12-25 sáb>
   :PROPERTIES:
   :ID:       705d34af-8200-48e4-82fa-e0bb9e2b4add
-  :DRILL_LAST_INTERVAL: 13.9643
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 144.4716
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-02-02 ter 07:17]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:25]
   :END:
 
 What are the two boolean values in F#?
@@ -412,17 +420,17 @@ What are the two boolean values in F#?
 true false (lowercase)
 
 * Item :drill:
-  SCHEDULED: <2021-02-12 sex>
+  SCHEDULED: <2021-12-08 qua>
   :PROPERTIES:
   :ID:       d48da1a2-a5be-4c72-b804-18a3f74e3700
-  :DRILL_LAST_INTERVAL: 12.6199
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 127.0805
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-30 sáb 02:33]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:22]
   :END:
 
 What is the casing for the boolean values?
@@ -432,17 +440,17 @@ What is the casing for the boolean values?
 All lower case true false
 
 * Item :drill:
-  SCHEDULED: <2021-02-12 sex>
+  SCHEDULED: <2021-11-14 dom>
   :PROPERTIES:
   :ID:       879c57c8-f172-40f8-bbd0-e23ce1ad98be
-  :DRILL_LAST_INTERVAL: 12.593
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 103.3476
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-30 sáb 02:33]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:21]
   :END:
 
 /// A simple tuple of integers.
@@ -452,17 +460,17 @@ All lower case true false
 let tuple1 = (1, 2, 3)
 
 * Item :drill:
-  SCHEDULED: <2021-02-12 sex>
+SCHEDULED: <2021-08-08 dom>
   :PROPERTIES:
   :ID:       caf68c0c-d3cd-4c70-bb6d-7d65ce31434c
-  :DRILL_LAST_INTERVAL: 12.8962
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
-  :DRILL_FAILURE_COUNT: 0
-  :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_LAST_INTERVAL: 4.8567
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 5
+  :DRILL_FAILURE_COUNT: 1
+  :DRILL_AVERAGE_QUALITY: 4.0
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-30 sáb 02:32]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:26]
   :END:
 
 Tuples are normally objects, but they can also be represented as
@@ -475,17 +483,17 @@ structs. How?
    #+end_src
 
 * Item :drill:
-  SCHEDULED: <2021-02-15 seg>
+  SCHEDULED: <2021-11-19 sex>
   :PROPERTIES:
   :ID:       4d0f514c-5bed-4fb9-9e3d-bdcff9fa0062
-  :DRILL_LAST_INTERVAL: 13.0325
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 107.7003
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
-  :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_AVERAGE_QUALITY: 4.75
+  :DRILL_EASE: 2.8
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-02-02 ter 07:15]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:27]
   :END:
 
 How to create list, array, and sequence
@@ -499,17 +507,17 @@ How to create list, array, and sequence
    #+end_src
 
 * Item :drill:
-  SCHEDULED: <2021-02-11 qui>
+  SCHEDULED: <2021-11-11 qui>
   :PROPERTIES:
   :ID:       5c31fc50-e838-4f99-b8eb-8d7611729034
-  :DRILL_LAST_INTERVAL: 12.1855
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 99.6309
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-30 sáb 02:31]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:22]
   :END:
 
 Is this array or list? Is it good for random access or no?
@@ -523,17 +531,17 @@ Is this array or list? Is it good for random access or no?
 List Bad for random access
 
 * Item :drill:
-  SCHEDULED: <2021-02-11 qui>
+  SCHEDULED: <2021-11-19 sex>
   :PROPERTIES:
   :ID:       5f69ea58-dd22-4e35-8edc-97651ad4f0f8
-  :DRILL_LAST_INTERVAL: 12.0199
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 108.457
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-30 sáb 02:33]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:21]
   :END:
 
 Syntax for defining and instanting a record
@@ -546,17 +554,17 @@ Syntax for defining and instanting a record
    #+end_src
 
 * Item :drill:
-  SCHEDULED: <2021-02-15 seg>
+  SCHEDULED: <2021-12-18 sáb>
   :PROPERTIES:
   :ID:       f9589165-260b-49df-af10-61d59bedc673
-  :DRILL_LAST_INTERVAL: 13.4297
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 136.9502
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-02-02 ter 07:16]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:28]
   :END:
 
 Syntax for instantiating a record through copy-and-update
@@ -568,17 +576,17 @@ Syntax for instantiating a record through copy-and-update
    #+end_src
 
 * Item :drill:
-  SCHEDULED: <2021-02-17 qua>
+SCHEDULED: <2021-08-08 dom>
   :PROPERTIES:
   :ID:       d30d38c9-f5cf-426d-b3d4-6e80d4fdf63e
-  :DRILL_LAST_INTERVAL: 14.0248
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 4
-  :DRILL_FAILURE_COUNT: 1
-  :DRILL_AVERAGE_QUALITY: 3.75
-  :DRILL_EASE: 2.6
-  :DRILL_LAST_QUALITY: 4
-  :DRILL_LAST_REVIEWED: [2021-02-03 qua 19:08]
+  :DRILL_LAST_INTERVAL: 4.939
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 6
+  :DRILL_FAILURE_COUNT: 2
+  :DRILL_AVERAGE_QUALITY: 3.333
+  :DRILL_EASE: 2.7
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:18]
   :END:
 
 Syntax for adding methods to a record
@@ -594,34 +602,34 @@ Syntax for adding methods to a record
    #+end_src
 
 * Item :drill:
-  SCHEDULED: <2021-02-13 sáb>
+SCHEDULED: <2021-08-08 dom>
   :PROPERTIES:
   :ID:       cd6978a8-8be7-402f-8609-1067d73f6eb0
-  :DRILL_LAST_INTERVAL: 13.9023
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
-  :DRILL_FAILURE_COUNT: 0
-  :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_LAST_INTERVAL: 4.553
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 5
+  :DRILL_FAILURE_COUNT: 1
+  :DRILL_AVERAGE_QUALITY: 4.0
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-30 sáb 02:35]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:26]
   :END:
 
 You can also represent Records as structs. This is done with the [<Struct>]
 attribute
 
 * Item :drill:
-  SCHEDULED: <2021-02-12 sex>
+SCHEDULED: <2021-08-07 sáb>
   :PROPERTIES:
   :ID:       5fdd1abb-15a4-4c89-ae1b-a38821de9ec2
-  :DRILL_LAST_INTERVAL: 13.4589
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
-  :DRILL_FAILURE_COUNT: 0
-  :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_LAST_INTERVAL: 4.4969
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 5
+  :DRILL_FAILURE_COUNT: 1
+  :DRILL_AVERAGE_QUALITY: 4.0
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-30 sáb 02:31]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:26]
   :END:
 
 Inform:
@@ -648,17 +656,17 @@ Inform:
    #+end_src
 
 * Item :drill:
-  SCHEDULED: <2021-02-13 sáb>
+  SCHEDULED: <2021-12-30 qui>
   :PROPERTIES:
   :ID:       dbab0f21-1303-4249-aa9d-23b0dcf86b9f
-  :DRILL_LAST_INTERVAL: 14.0516
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 149.2534
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-30 sáb 02:33]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:25]
   :END:
 
 Syntax for declaring list
@@ -670,17 +678,17 @@ Syntax for declaring list
    #+end_src
 
 * Item :drill:
-  SCHEDULED: <2021-02-16 ter>
+  SCHEDULED: <2021-09-04 sáb>
   :PROPERTIES:
   :ID:       31912d59-f2b9-476b-9189-3d3bb031e7cf
-  :DRILL_LAST_INTERVAL: 14.123
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 46.8658
+  :DRILL_REPEATS_SINCE_FAIL: 4
+  :DRILL_TOTAL_REPEATS: 3
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_EASE: 2.8
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-02-02 ter 07:17]
+  :DRILL_LAST_REVIEWED: [2021-07-19 seg 17:01]
   :END:
 
 Declare array
@@ -692,17 +700,17 @@ Declare array
    #+end_src
 
 * Item :drill:
-  SCHEDULED: <2021-02-11 qui>
+  SCHEDULED: <2021-11-17 qua>
   :PROPERTIES:
   :ID:       6cd7438a-f3d2-44a9-a2a3-457d68c69b01
-  :DRILL_LAST_INTERVAL: 12.0631
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 106.1595
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-30 sáb 02:33]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:21]
   :END:
 
 Declare sequence
@@ -714,17 +722,17 @@ Declare sequence
    #+end_src
 
 * Item :drill:
-  SCHEDULED: <2021-02-11 qui>
+  SCHEDULED: <2021-11-27 sáb>
   :PROPERTIES:
   :ID:       f2d2d447-88fe-47b1-a010-dd0edda0b602
-  :DRILL_LAST_INTERVAL: 12.1334
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 116.2177
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
-  :DRILL_AVERAGE_QUALITY: 4.0
-  :DRILL_EASE: 2.46
+  :DRILL_AVERAGE_QUALITY: 4.5
+  :DRILL_EASE: 2.66
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-30 sáb 02:35]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:20]
   :END:
 
 What's wrong with this code?
@@ -740,17 +748,17 @@ Discriminated union cases and exception labels must be uppercase
 identifiers
 
 * Item :drill:
-  SCHEDULED: <2021-02-12 sex>
+  SCHEDULED: <2021-12-04 sáb>
   :PROPERTIES:
   :ID:       ca4d36f2-fbc3-4b59-affb-1a5ed4cba5a1
-  :DRILL_LAST_INTERVAL: 13.2575
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 122.6345
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-30 sáb 02:35]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:24]
   :END:
 
 If 2 discriminated unions share a given name, how to specify the
@@ -775,17 +783,17 @@ You use he full path to the constructor:
 #+end_src
 
 * Item :drill:
-  SCHEDULED: <2021-02-13 sáb>
+  SCHEDULED: <2021-12-29 qua>
   :PROPERTIES:
   :ID:       947a30d5-8671-41b6-90a9-a8b660f50238
-  :DRILL_LAST_INTERVAL: 14.1796
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 147.6742
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-30 sáb 02:35]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:23]
   :END:
 
 How to declare a mutable variable?
@@ -797,17 +805,17 @@ How to declare a mutable variable?
    #+end_src
 
 * Item :drill:
-  SCHEDULED: <2021-02-13 sáb>
+  SCHEDULED: <2021-11-23 ter>
   :PROPERTIES:
   :ID:       8c751902-8ff6-4bc0-a3bd-ee5917b5366c
-  :DRILL_LAST_INTERVAL: 14.1306
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 112.1255
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-30 sáb 02:32]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:21]
   :END:
 
 How to update the value of a mutable value?
@@ -821,17 +829,17 @@ With the ~<-~ operator
 #+end_src
 
 * Item :drill:
-  SCHEDULED: <2021-02-10 qua>
+  SCHEDULED: <2021-11-06 sáb>
   :PROPERTIES:
   :ID:       f4bbb99f-13d0-4108-8490-2d5655729b09
-  :DRILL_LAST_INTERVAL: 10.8968
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 94.6908
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.7
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-01-30 sáb 02:35]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:20]
   :END:
 
 How to start the interactive F# prompt?
@@ -841,17 +849,17 @@ How to start the interactive F# prompt?
 dotnet fsi
 
 * Item :drill:
-  SCHEDULED: <2021-02-06 sáb>
+SCHEDULED: <2021-08-07 sáb>
   :PROPERTIES:
   :ID:       2fd90de9-da22-446b-8401-ec71869115d3
-  :DRILL_LAST_INTERVAL: 3.8792
+  :DRILL_LAST_INTERVAL: 4.0634
   :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
-  :DRILL_FAILURE_COUNT: 0
-  :DRILL_AVERAGE_QUALITY: 4.0
-  :DRILL_EASE: 2.5
-  :DRILL_LAST_QUALITY: 4
-  :DRILL_LAST_REVIEWED: [2021-02-02 ter 07:18]
+  :DRILL_TOTAL_REPEATS: 4
+  :DRILL_FAILURE_COUNT: 1
+  :DRILL_AVERAGE_QUALITY: 3.25
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:26]
   :END:
 
 When you call a method asynchronously, instead of an ordinary let
@@ -860,17 +868,17 @@ continue on other computations or threads as the computation is being
 performed].
 
 * Item :drill:
-  SCHEDULED: <2021-02-06 sáb>
+  SCHEDULED: <2021-09-01 qua>
   :PROPERTIES:
   :ID:       0822cd56-1cdb-43d7-94e2-b956b1f74360
-  :DRILL_LAST_INTERVAL: 3.8296
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 29.3022
+  :DRILL_REPEATS_SINCE_FAIL: 4
+  :DRILL_TOTAL_REPEATS: 3
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.6
+  :DRILL_EASE: 2.8
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-02-02 ter 07:19]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:19]
   :END:
 
   Native F# async code returns the types [~Async<'T>~] and [~Async~].
@@ -878,34 +886,34 @@ performed].
 
 
 * Item :drill:
-  SCHEDULED: <2021-02-07 dom>
+  SCHEDULED: <2021-09-17 sex>
   :PROPERTIES:
   :ID:       c8e71c6c-bfac-43fa-b811-d4d0f760e2c5
-  :DRILL_LAST_INTERVAL: 5.1598
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 45.0336
+  :DRILL_REPEATS_SINCE_FAIL: 4
+  :DRILL_TOTAL_REPEATS: 3
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.6
+  :DRILL_EASE: 2.8
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-02-02 ter 07:19]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:20]
   :END:
 
   When doing async code and using a C# library which returns
   ~Task<TResult>~ you can await the task w/ [Async.AwaitTask].
 
 * Item :drill:
-  SCHEDULED: <2021-02-06 sáb>
+  SCHEDULED: <2021-09-09 qui>
   :PROPERTIES:
   :ID:       5b137354-14b0-4530-996e-00649ab9a726
-  :DRILL_LAST_INTERVAL: 4.2657
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 36.8614
+  :DRILL_REPEATS_SINCE_FAIL: 4
+  :DRILL_TOTAL_REPEATS: 3
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.6
+  :DRILL_EASE: 2.8
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-02-02 ter 07:19]
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:19]
   :END:
 
   Given an array of async tasks, you can run them with:
@@ -916,3 +924,523 @@ performed].
   In any case, after building the parallel/sequential computation
   description, you mostly likely need to start it w/
   [Async.RunSynchronously].
+
+* Item :drill:
+SCHEDULED: <2021-08-07 sáb>
+:PROPERTIES:
+:ID:       37304dd3-009d-40d8-b5ed-7db5fdbdcf62
+:DRILL_LAST_INTERVAL: 4.4845
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:45]
+:END:
+
+  How to do try/catches in F#?
+
+** Answer
+
+   #+begin_src fsharp
+     try
+       expression
+     with
+       | pattern1 -> expression2
+       | pattern2 -> expression2
+   #+end_src
+* Item :drill:
+SCHEDULED: <2021-08-07 sáb>
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: hide1cloze
+  :ID:       f2945929-b12e-467e-b815-a42af5aafc6d
+  :DRILL_LAST_INTERVAL: 4.079
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_FAILURE_COUNT: 1
+  :DRILL_AVERAGE_QUALITY: 2.5
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:48]
+  :END:
+
+  Exception handling in FSharp takes the following format:
+
+   #+begin_src fsharp
+     try
+       expression
+     with
+       | pattern1 -> expression2
+   #+end_src
+
+   The alternatives for patterns are:
+   - [:? exception-type] :: Matches the specified .NET exception type.
+   - [:? exception-type as identifier] :: Matches the specified .NET
+     exception type, but gives the exception a named value.
+   - [exception-name(arguments)] :: Matches an F# exception type and
+     binds the arguments.
+   - [identifier] :: Matches any exception and binds the name to the
+     exception object. Equivalent to ~:? System.Exception as identifier~
+   - [identifier when condition] :: Matches any exception if the
+     condition is true.
+
+* Item :drill:
+SCHEDULED: <2021-08-07 sáb>
+:PROPERTIES:
+:ID:       fa60ea7b-4b9d-437b-8a55-16ae2f759e7c
+:DRILL_LAST_INTERVAL: 4.0014
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:49]
+:END:
+The following is a record
+  #+begin_src fsharp
+	type Foo = {
+          // ...
+	}
+  #+end_src
+
+  How to turn it into a class?
+
+** Answer
+  #+begin_src fsharp
+	type Foo() =
+          // ...
+  #+end_src
+
+* Computation Expression
+
+** Item                                                               :drill:
+SCHEDULED: <2021-08-08 dom>
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :ID:       eadaa815-955b-4a56-bbf6-9cc220726e79
+   :DRILL_LAST_INTERVAL: 4.6169
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 2
+   :DRILL_FAILURE_COUNT: 1
+   :DRILL_AVERAGE_QUALITY: 2.5
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:46]
+   :END:
+
+ The symbol [>>=] is the standard way of writing [bind] as an infix operator.
+
+** Item                                                               :drill:
+SCHEDULED: <2021-08-08 dom>
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :ID:       0f55e49c-3a48-4b01-ac6f-2f6638dd5da6
+   :DRILL_LAST_INTERVAL: 4.866
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 5.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:28]
+   :END:
+
+ In the context of computaiton expressions, [return] is used as a way
+ of easily wrapping up an unwrapped return value.
+
+ But sometimes we have a function that already returns a wrapped value,
+ and we want to return it directly. return is no good for this, because
+ it requires an unwrapped type as input.
+
+ The solution is a variant on return called [return!], which takes a
+ wrapped type as input and returns it.
+
+ The corresponding method in the “builder” class is called [ReturnFrom].
+
+** Item                                                               :drill:
+SCHEDULED: <2021-08-07 sáb>
+:PROPERTIES:
+:ID:       67bb51ae-f81b-4ba1-af98-2d526dcea291
+:DRILL_LAST_INTERVAL: 4.3892
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:49]
+:END:
+
+   Every computation expression must have an associated wrapper type.
+   The constraint on this wrapper type is that [it must take a generic
+   parameter].
+
+   Note: this seems to be a recommendation only.
+
+** Item                                                               :drill:
+SCHEDULED: <2021-08-07 sáb>
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: show2cloze
+   :ID:       7f9553c3-13eb-42cf-825b-fa98665fa609
+   :DRILL_LAST_INTERVAL: 4.1394
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 2
+   :DRILL_FAILURE_COUNT: 1
+   :DRILL_AVERAGE_QUALITY: 2.5
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:48]
+   :END:
+
+   Rules relating Bind and Return for implementing a sane computation expression:
+   + [If you start with an unwrapped value, and then you wrap it (using
+     return), then unwrap it (using bind), you should always get back
+     the original unwrapped value.]
+   + [If you start with a wrapped value, and then you unwrap it (using
+     bind), then wrap it (using return), you should always get back the
+     original wrapped value.]
+   + [If you create a child workflow, it must produce the same result as
+     if you had “inlined” the logic in the main workflow.]
+
+** Item                                                               :drill:
+SCHEDULED: <2021-08-07 sáb>
+:PROPERTIES:
+:ID:       18b401d9-4bbe-439d-bf11-ae54e66af537
+:DRILL_LAST_INTERVAL: 3.5295
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:45]
+:END:
+
+ To enable the F# compiler to enable ~for i in [1;2;3]~ in a CE, we
+ need to add a [For] method to our builder class. It generally has
+ exactly the same implementation as the normal Bind method, but [is
+ required to accept a sequence type].
+
+** Item                                                               :drill:
+SCHEDULED: <2021-08-08 dom>
+:PROPERTIES:
+:ID:       28a5375e-4e16-4b32-93a5-44458c9a6de5
+:DRILL_LAST_INTERVAL: 4.9656
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:34]
+:END:
+
+   Regarding the pair of regular operators and their bang-veriong
+   (let, let!, return, return!, ...):
+
+   - Things with bangs have [wrapped types] on the right hand side.
+   - Things without bangs have [unwrapped types] on the right hand side.
+
+** Item                                                               :drill:
+SCHEDULED: <2021-08-15 dom>
+:PROPERTIES:
+:ID:       b7d0c073-2bae-474c-9b8b-ebb9154c8d87
+:DRILL_LAST_INTERVAL: 12.4003
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:18]
+:END:
+
+   You need to implement Zero if [you want a workflow that doesn’t
+   explicitly return a value].
+
+** Item                                                               :drill:
+SCHEDULED: <2021-08-08 dom>
+:PROPERTIES:
+:ID:       e77444eb-c208-4b1e-9318-47dfc100b4a8
+:DRILL_LAST_INTERVAL: 4.5008
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:45]
+:END:
+
+   Rule/recommendation that relates Combine and Zero:
+
+   Combine(a,Zero) should be the same as [Combine(Zero,a)] which should
+   the same as just [a].
+
+** Item                                                               :drill:
+SCHEDULED: <2021-08-07 sáb>
+:PROPERTIES:
+:ID:       01542cf2-b52f-47d5-bbe8-97050e5795cc
+:DRILL_LAST_INTERVAL: 3.7245
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 1.5
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:47]
+:END:
+
+   Considering:
+
+   #+begin_src fsharp
+     member this.Combine (a,b) =
+	     printfn "combining %A and %A" a b
+	     List.concat [a;b]
+   #+end_src
+
+   What will be printed on the following code?
+
+   #+begin_src fsharp
+     listbuilder {
+	 yield 1
+	 yield 2
+	 yield 3
+	 yield 4
+     } |> printfn "Result for yield x 4: %A"
+   #+end_src
+
+*** Answerr
+
+    combining [3] and [4]
+    combining [2] and [3, 4]
+    combining [1] and [2,3,4]
+
+** Item                                                               :drill:
+SCHEDULED: <2021-08-08 dom>
+:PROPERTIES:
+:ID:       6a595a68-5eda-4181-ba4d-8ede06b4200b
+:DRILL_LAST_INTERVAL: 4.9992
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:49]
+:END:
+
+  By default, is there such a thing as an early return on a
+  computation expression?
+
+*** Answer
+
+    No. ~return~ and ~yield~ do not generate an early return from a
+    computation expression. The entire computation expression, all the
+    way to the last curly brace, is always evaluated and results in a
+    single value.
+
+** Item                                                               :drill:
+SCHEDULED: <2021-08-08 dom>
+:PROPERTIES:
+:ID:       0bb4fdc0-fe72-4e13-91e8-6a64e8701306
+:DRILL_LAST_INTERVAL: 4.6568
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 1.5
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:48]
+:END:
+
+  What should be done to the builder of the CE below so that
+  the 2nd printfn is not evaluated?
+
+  #+begin_src fsharp
+    trace {
+	printfn "Part 1: about to return 1"
+	return 1
+	printfn "Part 2: after return has happened"
+    } |> printfn "Result for Part1 without Part2: %A"
+  #+end_src
+
+*** Answer
+
+    To make it not be evaluated one would have to customize the
+    methods ~Combine~, ~Delay~, and ~Run~ of the CE.
+
+* Item :drill:
+SCHEDULED: <2021-08-07 sáb>
+:PROPERTIES:
+:ID:       2e3b909f-e409-4cb8-933f-72bbc37807ae
+:DRILL_LAST_INTERVAL: 3.9099
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 1.5
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:45]
+:END:
+
+How to add Paket to a dotnet project? (2 commands)
+
+** Answer
+
+#+begin_src sh
+  dotnet new tool-manifest
+  dotnet tool install Paket
+#+end_src
+
+
+* Item :drill:
+SCHEDULED: <2021-08-07 sáb>
+:PROPERTIES:
+:ID:       8032c51e-b934-4341-bfc1-22c370f5318e
+:DRILL_LAST_INTERVAL: 3.9275
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:45]
+:END:
+
+In defining a class, ~class~ and ~end~ are [optional].
+
+#+begin_src fsharp
+type type-name () =
+class
+end
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-08-08 dom>
+:PROPERTIES:
+:ID:       e756cbc8-65fd-4847-a706-fb3ac290f4ce
+:DRILL_LAST_INTERVAL: 5.2026
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:47]
+:END:
+
+In a class definition, the first access modifier pertains to the [type];
+the second pertains to the [primary constructor]. In both cases, the
+default is [public].
+
+#+begin_src fsharp
+type [access-modifier] type-name [type-params] [access-modifier] ( parameter-list ) [ as identifier ] =
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-08-08 dom>
+:PROPERTIES:
+:ID:       d1210906-6844-4d50-8e1f-65ba1f7a22a0
+:DRILL_LAST_INTERVAL: 4.5834
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:44]
+:END:
+
+You specify the base class for a class by using the [inherit]
+keyword. You must supply arguments, in parentheses, for the base class
+constructor.
+
+** Answer
+
+#+begin_src fsharp
+type [access-modifier] type-name [type-params] [access-modifier] ( parameter-list ) [ as identifier ] =
+inherit base-type-name(base-constructor-args)
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       61b950c5-8cd2-476a-8933-27c2df0bdf7a
+:DRILL_CARD_TYPE: hide1close
+:END:
+<QUESTION>
+
+On a class definition, the member-list consists of additional:
+
+- [constructors]
+- [instance and static method declarations]
+- [interface declarations]
+- [abstract bindings]
+- [property]
+- [event declarations.]
+
+#+begin_src fsharp
+type [access-modifier] type-name [type-params] [access-modifier] ( parameter-list ) [ as identifier ] =
+member-list
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-08-07 sáb>
+:PROPERTIES:
+:ID:       5ab73c5d-0312-4210-b7f1-d98cff650f38
+:DRILL_LAST_INTERVAL: 4.4499
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:46]
+:END:
+
+You can add additional constructors by using the [new] keyword to add a member, as follows:
+
+** Answer
+
+#+begin_src fsharp
+new(argument-list) = constructor-body
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-08-07 sáb>
+:PROPERTIES:
+:ID:       089e5171-deac-4aff-80c5-43c2f1d0417f
+:DRILL_LAST_INTERVAL: 3.876
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 1.5
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:45]
+:END:
+
+The body of the new constructor must invoke the [primary constructor]
+that is specified at the top of the class declaration.
+
+* Item :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide1cloze
+:END:
+
+F# code can define [aliases], which are named [type abbreviations],
+that are alternative names for types.
+
+* Item :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide1cloze
+:END:
+
+You might use type abbreviations when:
+
+- 1. [the type might change in the future and you want to avoid
+  changing the code that depends on the type.]
+- 2. [Or, you might use a type abbreviation as a friendly name for a
+  type that can make code easier to read and understand.]
