@@ -1,0 +1,112 @@
+# -*- mode: org; coding: utf-8 -*-
+#+STARTUP: showall
+#+PROPERTY: DRILL_CARD_TYPE_ALL hide1close twosided multisided show1cloze hide2cloze show2cloze hide1_firstmore show1_firstless show1_lastmore
+#+OPTIONS: prop:("drill_card_type")
+
+* Item :drill:
+
+A “prefix argument” is passed to an interactive function by
+
+- typing the [<META>] key followed by a number
+- or [‘C-u’] and then a number
+
+** Example
+
+- M-3 M-e
+- C-u 3 M-e
+
+* Item :drill:
+
+To print string on the minibuffer user the elisp function [message].
+
+** Example
+
+#+begin_src elisp
+(message "Hello %s! It has been %d since we don't talk." "Jhon" 10)
+#+end_src
+
+* Item :drill:
+
+To define a function, use [defun].
+
+** Example
+
+#+begin_src elisp
+(defun f (x) "Return the square of x" (* x x))
+(f 9)
+#+end_src
+
+* Item :drill:
+
+To define a variable use either [seq] or [setq].
+
+#+begin_src elisp
+  (set 'x 10)
+  (setq y 10)
+  (* x y)
+#+end_src
+
+* Item :drill:
+
+What will be print?
+
+#+begin_src elis
+     (let ((zebra "stripes")
+           (tiger "fierce"))
+       (message "One kind of animal has %s and another is %s."
+                zebra tiger))
+#+end_src
+
+** Answer
+
+"One kind of animal has stripes and another is fierce."
+
+* Item :drill:
+
+If you do not bind the variables in a ‘let’ statement to specific
+initial values, they will automatically be bound to an initial value
+of [nil].
+
+* Item :drill:
+
+Is ~()~ different than ~nil~?
+
+** Answer
+
+
+No.
+
+#+begin_src elisp
+  (if (equal () nil)
+      (message "They are the same!")
+    (message "They are not the same!"))
+#+end_src
+
+* Item :drill:
+
+The expression ‘(> 5 4)’ returns [t] when
+evaluated
+
+     (> 5 4)
+
+This function returns [nil] if the test is false.
+
+                               (> 4 5)
+
+                            * Item :drill:
+
+ In Emacs Lisp, point is an integer.  The first character in a buffer
+                           is number [one].
+
+
+* Item :drill:
+
+- ~equal~ returns true if the two objects [have a similar structure
+  and contents].
+- ~eq~, returns true if both arguments [are actually the same object].
+
+* Item :drill:
+
+- [~equal~] returns true if the two objects have a similar structure
+  and contents.
+- [~eq~], returns true if both arguments are actually the same object.
