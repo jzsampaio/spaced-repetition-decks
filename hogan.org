@@ -1,0 +1,255 @@
+# -*- mode: org; coding: utf-8 -*-
+#+STARTUP: showall
+#+PROPERTY: DRILL_CARD_TYPE_ALL hide1close twosided multisided show1cloze hide2cloze show2cloze hide1_firstmore show1_firstless show1_lastmore
+#+OPTIONS: prop:("drill_card_type")
+
+* Item :drill:
+
+The complete Hogan survey is composed of 3 parts:
+
+- HPI :: Hogan P[ersonality] Inventory
+- HDS :: Hogan D[evelopment] Survey
+- MVPI :: M[otives], V[alues], P[references] Inventory
+
+* Item :drill:
+
+The MVPI talks about the [inner](dark,bright,inner) side
+
+* Item :drill:
+
+The HDS talks about the [dark](dark,bright,inner) side
+
+* Item :drill:
+
+The HPI talks about the [bright](dark,bright,inner) side
+
+* Item :drill:
+
+The results of Hogan surveys are presented on a bell curve. Both high
+and low scores are s[trong] scores. Very strong scores are more likely
+to be overused than average scores.
+
+* Item :drill:
+
+TODO 
+The scales of HDS are 11 and the initials of the dimensions form the
+word []
+
+ex: ex, exodo,
+sk: skirt, skull, 
+ca: car, 
+rese: resistance, resource, restaurant, 
+le: less, lemon
+bo: boring, boston,
+mi: miracle, mimic, 
+col: column, colesterol
+im: imortal, imaginação
+di: disc, dicotomy, directory
+du: duck, donkey, dust, 
+
+* Item :drill:
+
+The scales of the HDS are [11]:
+
+The *Excitable* scale only concerns working with passion and
+enthusiasm, but also being easily frustrated, moody, irritable, and
+inclined to give up on projects and people.
+
+The *Skeptical* scale concerns being alert for signs of decpetive
+behavior in others nad taking action when it is detected.
+
+The *Cautious* scale concerns risk aversion, fear of failure, and
+avoiding criticism.
+
+The *Reserved* scale concerns seeming tough, aloof, remote, and
+unconcerned with the feelings of others.
+
+The *Leisurely* scale concersn appearing to be friendly and
+cooperative, but actually following one's own agenda and quitely but
+stubbornly resisting those of others.
+
+The *Bold* scale concerns seeming fearless, confident, and
+self-assured, always expecting to succeed, and unable to admit
+mistakes or learn from experience.
+
+The *Mischievous* scale concerns seeming bright, attractive,
+adventurous, risk-seeking, and limit-testing.
+
+The *Colorful* scale concerns enjoying being in the spotlight and
+seeming gregarious, fun, and entertaining.
+
+The *Imaginative* scale concerns seeming innovative, creative,
+possibly exxentric, and sometimes self-absorbed.
+
+The *Diligent* scale concerns being hardworking and detail oriented, and
+having high standards of performance for self and others.
+
+The *Dutiful* scale concerns seeming to be a loyal and dependable
+subordinate and organizational citizen.
+
+
+* Item :drill:
+
+The *Excitable* scale not only concerns working with passion and
+enthusiasm, but also being easily frustrated, moody, irritable, and
+inclined to give up on projects and people.
+
+[Low] scores seem calm to the point of appearing to lack passion or
+urgency.
+
+* Item :drill:
+
+The *Excitable* scale not only concerns working with passion and
+enthusiasm, but also being easily frustrated, moody, irritable, and
+inclined to give up on projects and people.
+
+[High] scores dislpay dramatic emotional peaks and valleys regarding
+people and projects.
+
+* Item :drill:
+
+The *Skeptical* scale concerns being alert for signs of decpetive
+behavior in others nad taking action when it is detected.
+
+[Low] scores seem trusting to the point of naiveté.
+
+* Item :drill:
+
+The *Skeptical* scale concerns being alert for signs of decpetive
+behavior in others nad taking action when it is detected.
+
+[High] scores are negative or cynycal and expect to be betrayed.
+
+* Item :drill:
+
+The *Cautious* scale concerns risk aversion, fear of failure, and
+avoiding criticism.
+
+[High] Scores are reluctant to take risks regardless of risk assessment.
+
+* Item :drill:
+
+The *Cautious* scale concerns risk aversion, fear of failure, and
+avoiding criticism.
+
+[Low] scores are willing to take risks without adequate risk assessment.
+
+* Item                                                                :drill:
+
+The *Reserved* scale concerns seeming tough, aloof, remote, and
+unconcerned with the feelings of others.
+
+[Low] scores are too concerned about the feelings of others.
+
+* Item                                                                :drill:
+
+The *Reserved* scale concerns seeming tough, aloof, remote, and
+unconcerned with the feelings of others.
+
+[High] scores are indifferent to the feelings of others.
+
+* Item :drill:
+
+The *Leisurely* scale concersn appearing to be friendly and
+cooperative, but actually following one's own agenda and quitely but
+stubbornly resisting those of others.
+
+[Low] scorers appear to lack an agenda or direction.
+
+* Item :drill:
+
+The *Leisurely* scale concersn appearing to be friendly and
+cooperative, but actually following one's own agenda and quitely but
+stubbornly resisting those of others.
+
+[High] scoresrs are passive aggressive and agenda driven.
+
+* Item :drill:
+
+The *Bold* scale concerns seeming fearless, confident, and
+self-assured, always expecting to succeed, and unable to admit
+mistakes or learn from experience.
+
+[Low] scorers appear to alck self-confidence and resolve.
+
+* Item :drill:
+
+The *Bold* scale concerns seeming fearless, confident, and
+self-assured, always expecting to succeed, and unable to admit
+mistakes or learn from experience.
+
+[High] scorers seem assertive, self-promoting, and overly
+self-confident.
+
+* Item :drill:
+
+The *Mischievous* scale concerns seeming bright, attractive,
+adventurous, risk-seeking, and limit-testing.
+
+[Low] scorers are conservative, compliant, and potentially boring.
+
+* Item :drill:
+
+The *Mischievous* scale concerns seeming bright, attractive,
+adventurous, risk-seeking, and limit-testing.
+
+[High] scorers are impulsive, limit-testing, and at times, devious.
+
+* Item :drill:
+
+The *Colorful* scale concerns enjoying being in the spotlight and
+seeming gregarious, fun, and entertaining.
+
+[High] scorers are attention-seeking, dramatic, and socially prominent.
+
+* Item :drill:
+
+The *Colorful* scale concerns enjoying being in the spotlight and
+seeming gregarious, fun, and entertaining.
+
+[Low] scorers are modest, unassuming, quiet, and self-restrained.
+
+* Item :drill:
+
+The *Imaginative* scale concerns seeming innovative, creative,
+possibly exxentric, and sometimes self-absorbed.
+
+[Low] scorers are practical, rely on routine, and often lack new
+ideas.
+
+* Item :drill:
+
+The *Imaginative* scale concerns seeming innovative, creative,
+possibly exxentric, and sometimes self-absorbed.
+
+[High] scorers may seem impactical and unpredictable, and offer
+unusual ideas.
+
+* Item :drill:
+
+The *Diligent* scale concerns being hardworking and detail oriented, and
+having high standards of performance for self and others.
+
+[Low] scorers have poor attention to detail and tend to over-delegate.
+
+* Item :drill:
+
+The *Diligent* scale concerns being hardworking and detail oriented, and
+having high standards of performance for self and others.
+
+[High] scorers are picky and overly conscientious, and tend to
+micromanage.
+
+* Item :drill:
+
+The *Dutiful* scale concerns seeming to be a loyal and dependable
+subordinate and organizational citizen.
+
+[Low] scorers are overly independent and seem to resent authority.
+
+* Item :drill:
+
+The *Dutiful* scale concerns seeming to be a loyal and dependable
+subordinate and organizational citizen.
+
+[High] scorers are excessively eager to please superiors.
