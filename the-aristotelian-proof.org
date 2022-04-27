@@ -1,0 +1,229 @@
+#+TITLE: The Aristotelian Proof
+
+* Outline for the Proof of the Existence of a Purely Actual Actualizer
+
+- Change is a real feature of the world
+- But change is the actualization of potential
+- So, the actualization of potential is a real feature of the world
+- The Principle of Causality: No potential can be actualized unless
+  something already actual actualizes it
+- So, any change is caused by something already actual
+- The ocurrence of any change C pressuposes some thing or substance S
+  which changes
+    * The existence of S at any given moment itself pressuposes the
+      concurrent actualization of S's potential for existence
+    * So, any substance S has at any moment some actualizer A of its
+      existence
+    * A's own existence at the moment it actualizes S itself
+      pressuposes either (a) the concurrent actualization of its own
+      potential for existence of (b) A's being purely actual
+    * If A's existence at the moment it actualizes S pressuposes the
+      concurrent actualization of its own potential for existence,
+      then there exists a regress of concurrent actualizers that is
+      either infinite or terminates in a purely actual actualizer
+    * But such a regress of concurrent actualizers would constitute a
+      hierarchical causal series, and such a series cannot regress
+      infinitely.
+    * So, either A itself is a purely actual actualizer or there is a
+      purely actual actualizer which terminates the regress that
+      begins with the actualization of A
+    * So, the occurrence of C and thus the existence of S at any given
+      moment pressupposes the existence of a purely actual actualizer.
+- So, there is a purely actual actualizer
+
+* Change Occurs
+
+Change is evident from our experiences. From the data that our senses
+bring to us. Change is evident for our thought process. Any human
+rational inquiry pressuposes change. It is impossible to convince a
+human mind that change does not exist without giving further evidence
+that change occurrs.
+
+** Challenge's to existence of Change
+*** Our Sense Data Could Be Wrong
+
+Still, many have argued that our senses could be wrong, an indeed they
+often are. Could the fact that our sense data be wrong undermine the
+fact that change occurrs?
+
+**** Rebutal
+
+No. Because even in that scenario, it would still be a fact that our
+thought process envolves change. As you read this lines, even if the
+lines are bugs in your sense data, your thought process is moving from
+one idea to another, and that is change. Change is real.
+
+*** Parmenides: Change Is Impossible
+
+Yet, some philosophers have argued that change is really impossible,
+because it would entail that *something* comes out out of
+*nothing*. E.g.: you are reading the 1st line of a text, you read the
+second, before you had read the 2nd line, your thought about the 2nd
+line did not exist (it is nothing), once you read the 2nd line it
+exists (it is *something*). Parmenides thus argued that change would
+entail miracles, and could not exist.
+
+**** Rebutal
+
+Parmenides' argument is self defeating. If it convinces you, then it
+changed your understanding, and thus it caused the occurrence of
+*change*, which the argument tries to proof it cannot occurr.
+
+Furthermore, Parmenides is wrong when he says that your knowledge of
+the 2nd line is *nothing* before you read the 2nd line. Such knowledge
+must exist at least *in potential* at the previous states. Existing
+*in potential* is a lower kind of existence than *actual existence*,
+but it is *not* *nothing*.
+
+* How can there be change? Change is actualization of Potential
+
+What the hell is change then? Aristotle explains change as the
+actualization of potential. He agrees that something cannot come from
+nothing, but a potential is not nothing. If object A turns into B at
+time T, then B is said to exist at A at time Y < T in A's potential.
+
+* Only something actual can do anything and cause change
+
+Consider a cup of coffee growing colder as time goes by. Intially,
+*cold* exists in the coffee as potential. What causes *cold* to come
+into actuality? In general, how does change occurr? The answer: change
+requires a changer.
+
+How do we know that? Is it only a generalization from every day
+experience?
+
+Could it be potential could itseld? Consider this was the case. How
+would *cold* know when to turn actual? Why would it wait to be
+actualized?
+
+Another problem: what would the universe be like if change could be
+caused by something which is not already actual? Would we be able to
+explain the world and make sense of it? It seems the world would be
+very weird if things which exist in potential could cause themselves,
+or perhaps cause the actualization of other potentials (e.g.: A's
+potential causing one of B's potential to come into existence). I bet
+this rule (the rule that change requires an actual changer) to be
+tracen back to PSR.
+
+* A chain of changes
+
+We've seen that some potentials are actualized, when when that
+happens, there is an actual actualizer that actualized the change.  In
+most things of experience, the actualization triggered by the
+actualizer also is accompanied by some change in the actualizer, which
+must have itself another actualizer.
+
+Note however, that not necessarily the changer must undergo change
+himself. However, if the changer is changing, then he also needs a
+cause.
+
+* For the sake of this argument, is it relevant that the universe had a beginning?
+
+No. Aristotle himself, who first proposed this argument, believed the
+universe had always existed, and had always being changing.
+
+You can consider this argument, even if you take our univers to go
+back infinitely in time, or branching from parallel universes.
+
+* Hierarchical Series
+
+In a hierarchical series, there is a sort of dependence of the later
+members on the earlier ones.
+
+On a hierarychical series, we would like to explain a property of the
+end node which we know to exist. This property is explained by a link
+from that node to a parent node. The parent node however can only pass
+that property forward by receiving it from a further parent node. The
+regression continues until the key source node is achieved. This key
+source node is source of the property, and all other intermediary
+nodes are *instruments* for transmitting the property from the source
+and into the end node.
+
+The chaing is exemplified below:
+
+#+begin_quote
+End Node (which is know to have property p) <-p-- Parent <-p-- Grand Parent <-p-- ..... <-p-- Source of p
+#+end_quote
+
+Can there be an infinite hierarchical series? No. The property p must
+come from somewhere. There must be a first member.
+
+Consider if it were infinite. We would have a bunch of ~<-X--~ arrows,
+and we would ask ourselves: how do we know the X in the arrow is a ~p~
+and not something else? There must be a first member that informs the
+series and makes it specific.
+
+When we find a property ~p~ on an object ~o~, and that property ~p~ is
+not mandatory on that object ~o~, we say it must have come from some
+other object ~x~. What is said for ~o~ is valid equally for ~x~. There is then a seried of:
+
+- s(i) = cause of property ~p~ on element s(i+1)
+- s(K) = o, for some value of K (recall: o is the known object)
+- s(0) = the source of the property ~p~. ~s0~ has ~p~ by its nature
+  and is able to pass it along without needing to receive ~p~ from
+  somewhere else.
+- the elements s(j) for which j > 0 have ~p~ in a deritivite
+  manner. They have ~derivative causal power~. They only have it by
+  indirect influence of ~s0~.
+- ~s0~ is said to have non derived (or iherent or built-in) causal
+  power. ~s0~ is the first cause.
+
+  
+
+
+
+
+* What keeps thing existing as they are?
+
+Zoom into a single instant of time and ask, why is this like it is?
+The question is not about how we got here, and the answer should not
+refer to something back in time. Focus instead on: what keeps things
+in existence the way they are.
+
+Why is such question reasonable? To begin with, things which exist
+have potentials. Things that exist could be something else. Every that
+has parts (and all objects of common experience have) could exist in
+different ways. E.g.: all that has water could exist right now as
+different configurations of hidrogen and oxygen. Even those atoms,
+could exist as something else: their sub-particles re-arranged as
+something else. So, right now and right here, the things which exist
+are actualizing one of their potentials, while keeping every other
+potential as simply potential.
+
+Now, as we have seen, on things of common experience, if there is
+actualization of potentials, there must be an actual actualizer. There
+must exist something else other than the object we are considering tha
+actulizes the object's potential for existing the way it is existing.
+
+The concurrent actual cause of the object we consider is itself
+approachable with the same lenses: something must be actualizing
+it. Either this cause is itself capable of actualizing without being
+actualized, or it must be actualized. In the terminology of
+hierarchical series, this cause we are considering is either a "source
+cause" or a "derivative cause". And the series must terminate in a
+source node.
+
+What is the property of this first node? It can actualize the
+existence of others without needing something to actualize itself. It
+is pure actuality because it is from this source node that every other
+actuality derives. Being pure actuality, it has no potential
+(otherwise, who would actualize it?).
+
+
+* The scope of what we have discussed
+
+We have discussed change of ordinary processes, but there seems to be
+nothing in special about the specific process we picked to
+discuss. What we've discussed about a cup of coffee also applies to
+other material things.
+
+Take anything in the universe. At a single moment in time, what keeps
+it in existence? If it is the case the the object you picked has the
+potential to exist in a different form, then the specific form that is
+actualized at single instant is being actualized out of a potential of
+forms. Trace back the chain of actulizers which inpart actualization
+to your object, you will be constructing an hierarchical series which
+must terminate in a first cause.
+
+This first cause that the property of being able to actualize reality
+without the need of having to be actualized by something else.

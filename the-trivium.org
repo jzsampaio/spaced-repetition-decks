@@ -1,0 +1,944 @@
+#+STARTUP: showall
+#+PROPERTY: DRILL_CARD_TYPE_ALL hide1close twosided multisided show1cloze hide2cloze show2cloze hide1_firstmore show1_firstless show1_lastmore
+
+* The Trivium
+
+- In nature there are no contradictions.
+- Contradictions exist on things created by man.
+- Process:
+    * Represent nature (gather data)
+    * Remove contradictions from your representation (get to a complete understanding)
+    * Communicate to others (wisdom)
+- Paradox:
+    * apparent contradiction on nature
+- Contradiction:
+    * contradiction on man made concept
+- An educated man could consider any topic thoroughly without
+  embracing it (emotionally) (nor dismiss it).
+- Liberal arts: they free the mind.
+
+** Logic
+
+- Definitions
+- Common Logic Fallacies (from 20 ~ 30)
+    * a shortcut to dismiss ideas
+    * 1. Argument by authority
+    * 2. Argument against the man
+    * 3. Argument from force
+    * 4. Argument of ignorance
+    * 5. Only a positive affirmation can be proven
+
+** Grammar
+** Rhetoric
+* The System of Thomas Acquinus
+
+** TODO I - Introduction (NEED REVIEW)
+
+- what is knowing?
+    * an object is known when it is present in a certain way in the
+      knowing consciousness
+- The privilege of a being which knows consists precisely in this
+  ability of being enriched by something which belongs to
+  something else
+- non-knowing beings have only their own reality, but knowing beings
+  are capable of possessing also the reality of something else.
+- knowing of the ideal order
+    * knowable as a result of the mere juxtaposition of the terms
+- knowing of the existential order: requires experience
+- Epistemology is the theory of knowledge, especially with regard to
+  its methods, validity, and scope. Epistemology is the investigation
+  of what distinguishes justified belief from opinion.
+
+** TODO II - Different Kinds of Knowledge
+
+- 2 kinds of knowledge
+    * knowledge of particular objects
+    * intellectual knowledge (abstract and general)
+- Forms of intellectual knowledge
+    * Idea
+    * Judgement: realizing that the content of 2 ideas (2 objects
+      present to the mind) are in mutual agreement or disagreement
+    * Reasoning: producing a new judgement by means of two others
+- The mind must make judgements because [we are incapable of grasping
+  by one single insight all that there is in a real being]. We hunt
+  and stalk reality but never completely capture it.
+
+** TODO III - How Our Knowledge Is Formed
+
+** TODO IV - The Directing Principles of Knowledge
+
+- directing principles of knowledge:
+    * principle of contradiction (a thing cannot both be and not be)
+    * identity (being is equal to itself)
+    * excluded middle (there is no middle term betwee being and non-being)
+    * sufficient reason (being is endowed with all the elements
+      without which it could not be)
+    * totality (the whole is equal to the sum of its parts)
+    * efficient causality (non-necessary beings exists by the
+      influence of a being other than itself)
+** V - Various Aspects of the Epistemological Problem
+
+- The problem of truth is considered by Aquinas from 2 points:
+    * methaphysical: Good is infinite. Everything derives from Him. He
+      creates the world, as well as the mind to understand the world.
+    * Psycological:
+        + To start the conversation, we review the data (the facts)
+          about the certitude of truth:
+            - a) we get to it by reflection of believes formed
+              spontaneously in our minds
+            - b) truth is an attribute of judgements (propositions)
+            - c) the examination of expontaneous judgements is carried
+              based on top of judgements form previously through
+              reflection
+
+** TODO VI - Moderate Realism and the Universals
+** VII - Desire and Freedom
+
+- Nothing is desired unless it is first known
+- Appetite is the tendency of a knowing subject towards what it
+  perceives as good;
+- Just as knowledge is twofold, so is appetite:
+    * sense appetite: succeeds an act of sense perception
+    * will: succeeds an act of abstract representation
+- Emotions (such as love, hatred, courage, fear, and anger) accompany
+  and intensify sense appetite.
+- In the field of our earthly activity we are confronted only by
+  partially good things:
+    * Each good thing is good only from certain points of view, and is
+      deficient from others. Consequently, the intellect presents us
+      with two judgements. Which shall I accept? It is the will which
+      must make the choice, and the decision will be quite free, since
+      neither judgment demands necessarily our assent. We choose
+      freely the good as offered by one of both judgements, not
+      because it is a greater good, but because it possesses some
+      good.
+    * In point of fact, the will can give its preference to either of
+      the alternatives, by loading the scale as it were.
+- Liberty manifests itself in two forms:
+    * exercise of will (or liberty of exercise): you can choose to
+      choose later
+    * and choice
+- Liberty belong to the domain of consciousness
+    * external violence does not affect it
+    * carrying out of actions is a result of a free decision
+- Clear mental vision is the primordial condition of the normal
+  exercise of liberty;
+- Liberty presupposes a mind which reflects upon and judges its own
+  judgment
+- We are liable to be influenced by our emotions, passions,
+  sentiments, and may be overcome by their disordered promptings,
+  unless we take the precaution to discipline them by our reason
+    * Our again, our spontaneous sympathy or preference for one of the
+      alternatives may obscure the real value of the objects of choice
+- Anything which clarifies the mental vision of things increases
+  thereby our liberty, and conversely, whatever darkens the
+  intelligence diminishes our freedom
+
+** TODO VIII - A Universe of Individuals
+** IX - The Process of Change
+
+- actuality is any present degree of reality
+- potency is the aptitude or capacity of reaching that stage of
+  reality
+
+** TODO X - Soul and Body
+** TODO XI - God
+** XII - Personal Conduct and Moral Values
+
+- The activity of man is characterized by te[leology], i.e., he desires
+  certain things as ends, and he wills other things as means to these
+  ends.
+- The study of human conduct as directed by us towards an end forms
+  the subject matter of [Ethics].
+- Moral Philosophy is also known as [Ethics].
+- The g[ood] is that which all desire.
+- Nothing is more personal than conduct, and the ends we aim at in our
+  lives. The end is a personal one, because man is an in[dividual]
+  su[bstance].
+- An end which is subordinated to another, or is useful, becomes a
+  m[eans].
+- We do make actual decisions, and in order to explain their
+  actuality, there must be some real end towards which they are
+  directed. Otherwise we should be led into an in[finite]
+  reg[ression], which is an absurd.
+- The truly human good ought to consist in that which will satisfy our
+  specifically human aspirations: intelligence and will.
+- human asp[irations]: those faculties which are the highest we
+  possess: intelligence and will.
+- the happiness which corresponds to our mode of being will consist in
+  kno[wing] and l[oving].
+- Is it possible to man to achieve his ultimate good? Scholastic Moral
+  Philosophy says that [yes].
+- When confronted with a good thing which our minds regard as simply
+  good and without defect, we necessarily w[ill] it.
+- Liberty enters only in the choice of things which are pa[rtially]
+  good.
+- It is f[ree] act which is endowed with morality.
+- A morally good or bad act is always a f[ree] act.
+- A thing or act is morally good only if it is in agreement with the
+  t[rue] e[nd] of m[an], and contribute directly or indirectly to our
+  real perfection.
+- From the moral point of view, pleasure and wealth are neither good
+  nor evil. They only become so when the will, guided by the reason,
+  either does or does not employ them in the service of the tr[uly]
+  hu[man] g[ood], by allocating them their proper place in the scale
+  of values.
+- Factors that contribute to the richness of morality of an act:
+    * in[trinsic] ch[aracter]
+    * in[tention]
+    * cir[cumstances]
+
+** XIII - Obligation and Moral Law
+
+- Among acts which are morally good some are ob[ligatory]
+- Moral obligation consists in the necessity of willing our su[preme]
+  go[od], combined with the lib[erty] of ch[oosing] the concrete
+  objects wherein it is in fact realized.
+- Moral obligation is founded upon hu[man] na[ture] itself and its
+  need of w[ell]-b[eing].
+- A moral law governs (only the majority / the totality) of cases?
+  Only the majority.
+- Aquinas distinguishes 2 kinds of commands dictated by the natural
+  law to man. These 2 principles explain the fi[xity] and va[riability] of
+  laws. The 2 principles are the following.
+    * the fundamental command to act ac[cording] to re[ason]
+    * principles which we may describe as ci[rcumstantial]
+- If an act freely willed, moral or immoral, had nothing to do with
+  merit or demerit then liberty would no longer have a su[fficient]
+  ree[ason].
+
+** XIV - Conscience and Moral Virtue
+
+- Moral virtue is the result of moral conduct in the p[ast], and the
+  source of similar conduct in the f[uture].
+- The moral virtues are:
+    * pr[udence] :: right reasoning concerning things to be done
+    * ju[stice] :: to will firmly and permanently to render to each
+      one his due
+    * fo[rtitute] :: regulates boldness and fear
+    * te[mprerance] :: limits our appetites
+- A pr[udent] man is one who by the frequency of practical judgments
+  which consider all the circumstances sees and decides rapidly and
+  without hesitation what is to be done in a particular case.
+- Ri[ght], or that which is just, is some work related to another
+  according to some kind of equity.
+- Right presupposes the living together of many human beings in a
+  co[mmunity].
+
+** XV - Group Life and the State
+
+- The group life is necessary precisely and only because of this
+  insufficiency of the individual for his own needs
+- The collectivity exists for the sake of the individual, and not the
+  individual for the collectivity.
+- A few of the prerogatives of the indivual from the ~Declaration of
+  the Rights of Man~:
+    * to preserve his life
+    * to marry
+    * to bring up children
+    * to develop his intelligence
+    * to be instructed
+    * to hold to the truth
+    * to live in Society
+- sovereignty :: the power of a man to command and rule his fellows
+
+** TODO XVI - The Construction of the Sciences
+** XVII - The Aesthetic Aspect of the Universe
+
+- Any external product of man may possess beauty
+- If a man transforms preexisting realities, then he is an artist
+- Beauty is real and has an objective aspect
+- Beauty is found in those things which realize and manifest:
+    * multiplicity of parts
+    * variety
+    * unity of plan (which combines the parts into one coherent whole)
+- Order becomes sethetic only when it speaks clearly and with no
+  uncertain voice to a human intelligence by means of sensations, and
+  thus brings to the mind the pleasure of disisterested contemplation;
+
+** XVIII - Classification of the Sciences and Divisions of Philosophy
+
+- Philosophy is defines as the investigation of all things by means of
+  that which is fundamental in them and common to all;
+- Philosophy subvides into:
+    * practical :: studies the universal order in so far as it enters
+      into relation with our conscious life
+    * theoretical (os speculative) :: seeks knowledge for its own sake
+- Theoretical philosophy sub-divides futher into:
+    * Physics :: studies change
+    * Mathematics :: studies quantity
+    * Metaphysics :: studies being and the general determinations of
+      being (such as essence, existence, substance, unity, goodness,
+      action, totality, causality, ...)
+- Since man is part of the sense reality, psycology is part of
+  physics, as well as the epistemological inquiry;
+- Practical philosophy subdivides futher into:
+    * Moral Philosophy (Ethics), individual and social
+    * Logic
+    * Esthetics
+
+** XIX - Doctrinal Characteristics of Scholasticism
+
+- Truth, for Thomas, cannot contradict truth; and a doctrine, once
+  established in one department, has validity in all others.
+- 3 doctrines on top of which the coherence of Thomism relies:
+    * intellectualism (the supremacy of reason)
+        + We apprehend reality by means of abstractions; and though
+          such a mode of knowing is poor and restricted, nevertheless
+          it is man's privilege, and raises him above the mere animal
+          kingdom
+    * emphasis of the value of human personality
+        + it declares each man to be an autonomous being, possessing
+          his own body and his own soul, an agent with his own
+          intelligence, will, and powers of action
+    * central place of God
+- Reason leads to faith, philosophy to theology
+- The life of the Christian appears as a more complete approach to God
+
+* Five Proofs of the Existence of God
+** Ch I - The Aristotelian Proof
+
+- Change occurrs
+- Change involves the actualization of potential
+- Change requires a changer
+    * A hot coffee contains the potential of being cold, but potential
+      cold cannot turn into actuality alone, otherwise, the coffee
+      would be all that it can at once, and we don't see this
+      happening;
+- Some potentials are actualized, and when they are, there must be
+  something already actual which actualizes them
+- Sometimes when potential is actualized by a changer, what actualizs
+  is itself being changed, and there must be something further causing
+  this change
+- A hierarchical series of causes must have a first member (not
+  necessarily a first temporal member)
+- There are 2 kinds of series in which a member is caused by its
+  predecessor: linear and hierarchical series
+    * in one hierarchical series of causality, the intermerdiary links
+      can only move the next link due to it's predecessor. They have
+      derivativa causal powers.
+    * The very first link is able to move the following ones without
+      requiring a previous link. This first link changes without being
+      changed. It moves without being moved. It acts without having
+      been acted.
+- Where can we find such hierarchical sequence?
+    * It doesn't take us to go back in time.
+    * We can find one at each frozen moment of time. What causes a cup
+      of coffe to exist? It's water. What causes it? It's atoms. Keep
+      going. There must be something which exist without needing
+      something else to explain its existence.
+- From the fact that change occurrs, we are lead to conclude that
+  there must be an Unmoved Mover.
+- Why call the Unmoved Moved "God"?
+- Various further attributes definitive of God as traditionally
+  conceived follow from the Unmoved Mover
+    * The cause of things is pure actuality, and thus has no
+      potential. It cannot change.
+    * Existing in time entails changeability (e.g.: growing
+      older). Thus the thing that cannot change exists outside of
+      time.
+    * Because the Unmoved Mover cannot change, there is nothing which
+      its nature would dictate that it did, that it doesn't. The
+      Unmoved Moves is thus perfect according to its nature.
+    * Could there be 2 of euch Unmoved Movers? Given one UM is
+      perfect, there would be no difference in between them. Plus,
+      they are not corporeal, and timeless. It is impossible for us
+      to differentiate between the 2.
+    * By being perfect, there is nothing that nature says the UM
+      should do that it doesn't. The UM is said to be perfectly good.
+- Can we find more attribute for the Unmoved Mover? Perhaps, to call
+  it intelligent?
+    * Let's consider what is intelligence. Intelligence comprises of 3
+      capacities:
+        + abstract ideas
+        + connection between abstract ideas (propositions)
+        + reasoning between one proposition and another
+    * abstract ideas are the pure forms which all things that exist
+      have
+    * To have abstract ideas is to have in one's mind a reality of
+      other beings
+    * Now consider the law of causality: change is explained by the
+      actualization of a potential by something which is already
+      actual
+    * And the law of proportionate causaility that states the effect
+      is somehow already present in the cause
+    * Consider that in the act of creating specific things, these
+      things must match specific forms
+    * The actual cause of all things must somehow contain the abstract
+      forms of all things (the first capacity of intelligence)
+    * Consider also, that the actual cause creates not only the
+      things, but also all the relation between things. These
+      relations must exist in the actual cause in the form of thoughts
+      (connection between absctract concepts)
+    * It is now clear that the actual cause possesses 2 of the 3
+      fundamental capacities of intelligence.
+- Common objections:
+    * How are we so sure the universe had a beggining? We are not, and
+      time is irrelevant for the argument. The argument focuses on
+      what causes actuality of the the universe at a given moment in
+      time;
+    * Why does everything have a cause? The key assumption of the
+      argument is that "everything that changes must have a cause".
+    * What caused God? Again: everything that changes must have an
+      external cause
+- Physical based objections:
+    * E.g.: Newton's innertia: the body is change it's position
+      without any external actuator. Eisten's 4 dimensional space-time
+      in which there is no change and the future exists the same way
+      the present and the past. Quantum mechanics w/ 1. particles
+      popping out of existence, 2. indeterminism, and 3. something I
+      don't know.
+    * Newton's law describe an equation that is good for prediction,
+      but it tells nothing about causality. Physics laws are like
+      this.  They abstract away and mathemacize nature, but can be
+      applied only to that which can be turned into mathematics.
+    * Causality is in the realm of philosophy and it caputres a deeper
+      aspect of the universe than what physics can capture.
+    * Think of an artist which draws a picture in black and white. The
+      fact the picture has no colors in it does not mean there are not
+      colors in nature. Colores were removed by the very method the
+      artist used to represent nature. The same happens to physics
+      (the method) and causality (color in nature).
+    * Similar refutation can be applied to arguments against causality
+      brought forth based on Einsten's relativity and Quantum
+      Mechanics.
+    * Also: a law os physics is a shorthand description for the way a
+      thing will behave given it's nature. Changes that happen "due to
+      a law of physics" are simply a "formal cause" to Aristotle.
+    * Note: not all causality is deterministic. A sample of that is
+      the decaying process of unstable atoms.
+- Objection: this proof is based on outdate concepts
+    * Not all Aristotelian ideas have been proven wrong
+    * The concept of potential and actualization is one from
+      metaphysics. It is philosophical, not scientific.
+    * Are there really hierarchical causal changes? Humes argues that
+      causes and effects are nor simultaneous.
+        * immediate causes are always simultaneous with their effects.
+        * remember that “simultaneous” does not entail “instantaneous”
+- The following is an analogy to explain why even in an infinite
+  hierarchical series, there must be something outside of it which
+  starts the chain of Being:
+       #+begin_quote
+       Or consider a mirror which reflects the image of a face present in
+       another mirror, which in turn reflects the image of a face present in
+       another, and so on ad infinitum. Even if we allowed that there could
+       be such a series of mirrors, there would still have to be something
+       outside this infinite series—the face itself—which could impart the
+       content of the image without having to derive it.
+       #+end_quote
+- Even if there is one initial cause, how are we sure it has no other
+  potential? Maybe this initial cause does not change when it is
+  suporting everything else, but it could change at a different moment
+    * If the first cause A has indeed a potential, who actualizes
+      that?  A few options:
+        + A further cause B: so A is not really the first actualizer
+        + A itself: But then A must be composed of 2 parts - A' purely
+          actual and A'' w/ potencial. It is A' the pure potenrial
+          which is indeed the first actualizer, and A'' simply one of
+          its causes.
+        + A itself: But A' is a mix of purely actual and potential. In
+          that case, who actualies the potential of A'? A' itself must
+          be composed of 2 parts: one actual A'x and one w/ potential
+          A'y. And so on and so forth. There must be one purely actual
+          A to start the whole chain.
+        + From a purely action first cause, all the divine attributes
+          must follow.
+*** In My Own Words
+
+We know there is change in world. Our senses inform us that things are
+changing. If if we didn't have the senses, ss we think, our mind
+itself changing. As we learn, we acquire realities which were not
+previously in us. Change exists.
+
+How can things change? When an object A turns into B. Where did B came
+from? When objects A and B combine into C, where did C came from? It
+seems we assume the world is not mad nor magic. Objects don't pop out
+of existence. Objects change, but they don't pop out, nor they are
+destroyed. The only way A turns into B is if B is already present in
+A. How can that? A is A, not B. But B must be in A at time T, if at
+any moment T2 > T, A turns in B.
+
+We will say that A potentially contains B, or, that B is in the
+potential of A. Now, not necessarily A turns into B. It could be the
+case, that A turned into C. The whole set of future possibilities for
+A all live in the potential of A. What is the difference between A and
+the Pot(A)? Elements of Pot(A) are potentials, whereas A is
+actual. And how can an actual A turn into any of it's potential B? Can
+A, and object that has potential, turn itself into B?
+
+If so, how would A pick any of it's potentials? Why B and not C (also
+in Pot(A))? The world would be madness if objects could change
+themselves. Could A turn itself into any Pot(A) through a
+probabilistic rule? What a strange universe this would be. I am not
+sure this does not happen on quantum mechanics, but it seems clear it
+doesn't happen on macroscopic objects. This seems a core assumption as
+we move on: object A with non empty Pot(A) cannot change itself. When
+it seems it does, it could be because it is actually composed of
+sub-objects, which are not changing themselves (and thus follow the
+core assumption), but which interact in ways we don't understand, and
+thus we can only model the probabilistic behavior.
+
+So A must be changed by another object X. This is theory of
+potentials: an object w/ potential can change into any form present
+into its potentials, but only by the action of another external actual
+object. A (A real) turns into A' (A' in Pot(A)), by action of X (X !=
+A, X real). X is said to be the cause of the change of A into A'.
+
+Whenever we observe change we can ask: what was the cause of the
+chage? Whe can ask: why? When we do so, we want our mind to become
+aware of another object that caused the change we observe.
+
+What about when we don't observe change? An object has potential, but
+yet at any given moment, an object is exactly one of its
+possibilities. Can we still ask why? Why is it A and not A' at any
+given moment? It seems we could answer w/ causality: A doesn't change
+unless an external real object changes it. A is A because no one has
+changed it. But why does A follow this rule? We could say that A is
+such an object whose nature is to follow causality. But why? Does the
+question "why" make sense in this case? It seems valid: we want to
+know the actual object that caused A to be of such nature.
+
+Is it the case that all questions which make sense can be answered?
+What is the expected answer to "Why". Is there any case in which "Why"
+is nonsense? "Why do objects follow the rule of causality?" Can this
+be asked? What could possible answers to "Why" encompass?
+
+When we ask "Why" we want to find more primitive causes of a an
+observed reality. These causes could themselves be caused by something
+else. If they are, we could ask why, and keep investigating the more
+primitive causes. However, the answer to any "why" might be a
+fundamental answer, which cannot be explained in terms of anything
+else. And how do we know if we have reached such fundamental answer?
+
+Back to "why do objects follow the rule of causality?". Could the
+answer be: "These objects follow the rule of causality, and this
+sentence is a fundamental one (that cannot be further broke down)".
+How many fundamental properties are out there? "Space exists and this
+is a fundamental rule". "Time exists and this is a fundamental rule",
+... We could build a set of all the fundamental rule. And then we
+could ask: why does this set exist? And this would be yet another
+fundamental rule, so the set would have to include itself. Which seems
+ok.
+
+Let's try a different question: "what caused or what causes". The
+answer to "what causes" or "what is the cause" must be an object (I
+think the best word here is Being). What is an object? We say reality
+is composed of objects. Each object however can be isolated from
+reality and analysed independently. Objects exist separately from one
+another. The answer to "what causes" must be an isolated part of
+reality. Can we now ask: "what causes objects to follow the rule of
+causality?". The answer could be X. And X is either sufficient or not.
+If it is not sufficient we will ask what causes X. If it is sufficient
+we will say that X causes other object to follow causality, and X is
+sufficient (it cannot be caused by anything else).
+
+Summarizing so far: things w/ potential change, and when they do, they
+need another external thing to change it. If this other thing that
+caused the change has potential, we can keep asking: what caused this
+thing.
+
+*** In My Own Words - Attempt 2
+
+Change exists. And change entails the actualization of a potential by
+another actor which is actual. Substace A can only turn into A', A'
+belonging to the potential of A, by action of an external substance X
+which is actual and can cause change.
+
+Change only occur to substances. If change C occurs, it must be
+occurring into into a substance S. If S exists and has the potential
+for not existing, then there must be a concurrent cause for the
+actualization of the existence of S. So at any moment, any substance S
+has an actualizer A of S's existence.
+
+If ~A~ exists, it is either: 1. dependent upon another A' for
+actualizing its existence, or 2. ~A~ is pure existence. This chain of
+actulizer must end at an spacial ~A~ which is pure existence.
+
+The occurence of C, thus the existence of S, pressuposes the existence
+of a pure actualizer.
+
+** Ch II - The Neo-Platonic Argument (from Plotinus)
+
+- Whatever is composite has a cause;
+- The ultimate cause must be a non composite Being, which will be
+  called The One;
+- The One can also be proved to hold the divine attributes. It is also
+  pure actuality.
+- we started from the idea of things that are composed of parts, and
+  concluded that there must be something which is simple or
+  noncomposite.
+- The intellect, omnipotence, eternity, immateriality, and so forth of
+  the One are really all one and the same thing, just conceived of or
+  described in different ways.
+- When we say of God that he is powerful, or has intellect, or is
+  good, then, we should (so Aquinas argues, rightly in my view)
+  understand these terms analogically. We are saying that there is in
+  God something [analogous|univocal, equivocal, methaphorical,
+  analogous] to what we call power in us.
+- Reason itself thus tells us that there is a level of reality that
+  reason can only partially comprehend.
+- Everything is either a mind, or a mental content, or a material entity, or an abstract entity.
+
+** Ch III - The Augustinian Argument
+
+universals and propositions, numbers and other mathematical objects
+are abstract objects.
+
+Finally, consider what philosophers call possible worlds.
+
+What worlds are possible, in the sense of “possible” in question here,
+is not constrained by the laws of physics, but it is constrained by
+the laws of logic.
+
+Possible worlds too are obviously objects of thought,
+
+So, in some sense there are abstract objects such as universals,
+propositions, numbers and other mathematical objects, and possible
+worlds.  But in what sense, exactly, do they exist?
+
+Discussion on realism, conceptualism, and nominalism.
+
+Discussion on forms of realism: Platonic, Aristotilian, and
+Scholastic.
+
+The Platonic form of realism—named after Plato, who was the first to
+formulate a version of it—holds that if the abstract objects we have
+been discussing depend for their existence neither on the material
+world nor on the human mind, then they must exist in a “third realm”
+that is neither material nor mental. This is the famous realm of
+Platonic Forms, entities which exist outside time and space and which
+the things of our experience merely imperfectly “resemble” or
+“participate” in.
+
+On Plato's realism: Platonic Forms and other denizens of the “third
+realm” seem to be causally inert, yet if it has no causal powers, and
+thus no effects on anything, then it would follow that it has no
+effects on us. And in that case, how could we possibly even know about
+it?
+
+Aristotelian Realism:
+- substance—something existing in its own right
+- Aristotelian realism therefore denies that universals exist in a
+  “third realm” of Forms.
+- it holds that universals considered in abstraction from other
+  features exist only in the mind, it also holds that universals exist
+  in the extramental things themselves (albeit always tied there to
+  other features).
+- there are universals, propositions, mathematical objects,
+  necessities, and possibilities that the Aristotelian realist is
+  bound to have a more difficult time dealing with.
+
+*Scholastic Realism*
+
+Scholastic realism, which is essentially Aristotelian in spirit, but
+gives at least a nod to Platonic realism.
+
+Scholastic realism affirms that universals exist only either in the
+things that instantiate them, or in intellects which entertain them.
+
+Universals, propositions, mathematical and logical truths, and
+necessities and possibilities exist in an infinite, eternal, divine
+intellect
+
+Realism about abstract objects entails the existence of a necessarily
+existing intellect which is one, omniscient, omnipotent, fully good,
+immutable, immaterial, incorporeal, and eternal. In short, it entails
+the existence of God.
+
+**Rebuttal**
+
+If abstract objects exist on this mind, are they really abstract? We
+don't know. What we call abstract objects is what the intellect forms
+when it abstracts from particular things. If they are concrete in a
+different way, that doesn't change our classification of them as
+abstract objects in the sense just described.
+
+Isn't assuming the abstract ideas exist independently of the human
+mind already pressuposing they exist in an eternal mind? No. In the
+argument, it is assumed they must exist somehow. 3 choices are
+considered (platonic, aristotelian, ...), and only after evaluating
+the alternatives it becomes clear that an eternal mind is needed.
+
+** Ch IV - The Thomistics Proof
+
+We can distinguish between a thing’s essence and its existence,
+between what it is and the fact that it is.
+
+if the essence and existence of a thing were not distinct features of
+reality, then knowing the former should suffice for knowing the
+latter, yet it doesn’t.
+
+A second reason why the essences of the things of our experience must
+be distinct from the existence of those things has to do with their
+contingency—the fact that, though they do exist, they could have
+failed to exist.
+
+If existence were just part of what it is, then it would not need
+something else to cause it, and there would not be anything in it that
+could give it the potential to go out of existence.
+
+there really is no sense to be made of there being more than one of
+something which just is existence itself. And in that case there is no
+way to make sense of there being more than one of something whose
+essence and existence are not really distinct.  If there is such a
+thing, it will be unique.
+
+There really is no middle ground between the case where a thing’s
+essence and existence are really distinct and the case where its
+essence just is existence itself.
+
+Naturally, then, a thing whose essence and existence are distinct
+cannot impart existence to its own essence, for in that case it would
+have to exist before it exists so as to cause itself to exist—which
+makes no sense. Nothing can be the cause of its own existence.
+
+for Fido to exist here and now and at any moment, his existence must
+here and now be caused, whether directly or indirectly, by something
+the essence of which is identical to its existence, something which is
+subsistent existence itself. And that entails that it must be caused
+by God.
+
+*deriving the divine attributes*
+
+As Aquinas emphasized, in a thing whose essence is distinct from its
+existence, its essence and existence are related as potentiality and
+actuality. Fido’s essence, for example, by itself amounts only to a
+potential thing, not an actual thing. Only when Fido’s essence has
+existence imparted to it is there an actual thing—namely, Fido. Now if
+essence considered by itself is a kind of potentiality, and existence
+considered by itself is a kind of actuality, then that which just is
+existence, that which just is subsistent existence itself rather than
+merely one derivatively existing thing alongside others, must be
+purely actual.
+
+Hence, the purely actual actualizer, to which the Aristotelian proof
+leads, and that which just is subsistent existence, to which the
+Thomistic proof leads, are really the same one cause of all things,
+arrived at from different starting points.
+
+Hence, that which is subsistent existence itself must be one,
+necessarily existing, the uncaused cause of everything other than
+itself, purely actual, immutable, eternal, immaterial, incorporeal,
+perfect, omnipotent, fully good, intelligent, and omniscient. It is,
+in short, God.
+
+In general, for the Thomist, when the mind grasps the essence of a
+thing, it grasps it as something distinct from its existence (or lack
+thereof), even if that of which the existence is ultimately predicated
+is the thing itself and not a mere concept.
+
+It is also obvious that the essences of some things are at least in
+part the product of convention. What makes something a carburetor or a
+can opener, for example, is determined by the purposes for which we
+make such artifacts.  For Thomists and many other philosophers,
+however, the essences of at least some things, and in particular of
+natural objects or substances, are real or mind-independent as opposed
+to merely being the product of convention.  Essentialism is the thesis
+that there are such real essences.
+
+Aristotle’s view, expressed in book 2 of the Physics, that it would be
+absurd to try to prove that things have natures. The idea is not that
+it is doubtful that things have natures or essences, but rather that
+it is obvious that they do —indeed, that the belief that things have
+essences is more obviously correct than any argument that can be given
+for or against it.
+
+Precisely what a thing’s essence is is by no means always easy to
+determine. But these considerations by themselves do not cast doubt on
+the reality of essence.
+
+the point is that the unity and order of things would be mystifying if
+essence were not a pervasive feature of mind-independent reality.
+
+* Scholastic Metaphysics - A Modern Introduction
+
+** Ch. 0
+
+*** 4 Problems w/ scientism
+
+Four general problems with scientism. First, scientism is
+self-defeating, and can avoid being self- defeating only at the cost
+of becoming trivial and uninteresting. Sec- ond, the scientific method
+cannot even in principle provide us with a complete description of
+reality. Third, the “laws of nature” in terms of which science
+explains phenomena cannot in principle provide us with a complete
+explanation of reality. Fourth, what is probably the main argument in
+favor of scientism – the argument from the predictive and
+technological successes of modern physics and the other sciences – has
+no force.
+
+** Ch. 1 - Act and Potency
+
+*** What is change?
+
+Being-in-potency is thus a middle ground between being-in-act on the
+one hand, and sheer nothingness or non-being on the other. And change
+is not a matter of being arising from non- being, but rather of
+being-in-act arising from being-in-potency. It is the actualization of
+a potential – of something previously non-actual but still real.
+
+*** Refuring Heraclitus on the non existing of being-in-act
+
+how could the Heraclitean philoso- pher so much as reason through the
+steps of his own argument so as to be convinced by it? For there will
+on the Heraclitean view be no persisting subject, so that the person
+who reaches the conclusion will not be the same as the person who
+entertained the premises
+
+
+*** TODO Understand Heraclitus, Zeno, and the Eleatics and their position about monism vs multiplicity, as well as change and static universe
+
+*** A proof for the distinction of act and potency
+
+That change and permanence, multiplicity and unity, are all real
+features of the world cannot coherently be denied; but they can be
+real features of the world only if there is a distinction in things
+between what they are in act and what they are in potency; therefore
+there is a distinction to be made in things between what they are in
+act and what they are in potency.
+
+*** My Take
+
+We seek to explain change. Experience tells us that A turns into B (B
+!= A). How can this be possible? We start by assuming there are only 2
+cases for thing to be real: either something is REAL or it is NOT
+REAL.
+
+Start w/ a cup of hot coffe which is real. How can it become a cup of
+cold coffee? Note that hot coffee is different than hold coffee. They
+are not the same. How does the transformation happens? And recall, we
+are trying to assume things are either REAL or NOT REAL.
+
+In the universe at time T the hot coffee is REAL and the cold coffee
+is NOT REAL. At time T2, the opposite is truth. Has the hot coffee
+turned into NOT REAL, and the cold coffee turned into REAL? If that is
+the case, then cold coffe (REAL) cames out of nothingness (NOT
+REAL). This would be a miracle, and if we are to make sense of the
+world, we cannot explain such common phenomena as miracles. We thus
+are forced to reject that BEING can come out of NOT BEING. Had we
+agreed to that, we would be losing our sense of reality.
+
+Now, it is impossible then to explain change by defining only 2 states
+(REAL and NOT REAL). We will add a third elemnt: BEING IN ACT, BEING
+IN POTENCY, and NOT BEING.
+
+We can now cay that the cold coffee existed in the hot coffee as BEING
+IN POTENCY. When the hot coffee coolled down, the BEING IN POTENCY
+became BEING IN ACT. Potentiality became actuality.
+
+*** Logical Possibility and Real Potency
+
+*** Passive Potency and Active Potency
+
+An active potency is a power; a passive potency is a potentiality in
+the strict sense
+
+- Being
+    * Logical possibility
+    * Real Potency
+        + Passive Potency (Potentiality) (capacity to be affected)
+        + Active Potency (Actuality) (the capacity to bring about an effect)
+- Passive potency and be analysed further into 2 ways:
+    * When considered from the point of view of the being that has it:
+        + Considered in relation to a thing's Essence
+            - Note: the essence of a material thing can be further be broken into:
+                * Prime matter (pure potentiality)
+                * Second matter (matter in a given substancial form
+                  (of a given kind of being), but still in potency to
+                  receive accidents)
+        + Considered in relation to a things existence
+    * When considered from the point of view of an external being that
+      brings about an effect in the being that has the potency
+        + Natural passive potency
+        + Supernatural passive potency
+- Active potency:
+    * when analyzed in purity:
+        + pure actuality
+        + mixed actuality
+    * when analyzed what it is (entitative acts) vs what it does
+      (operative acts)
+        + entitative acts:
+            - essential act. Further broke down into
+                * substantial form (makes it the kind of substance it is)
+                * accidental form (modifies an already existing substance)
+            - existencial act
+
+*** Aristotle's 4 Causes
+
+- material
+- formal
+- efficient
+- final
+
+** Ch. 3 - Substance
+*** Item                                                            :drill:
+
+The determinable substratum of potency is what the Scholastic means by
+m[atter], and the determining patterns that exist once the potency is
+actualized is what is meant by f[orm].
+
+
+*** Item                                                            :drill:
+
+[matter vs form]
+
+[Matter] is, essentially, that which needs actualizing in change;
+[form] is, essentially, that which results from the actualization.
+
+*** Item                                                            :drill:
+
+[Form] is that intrinsic principle by which a thing exhibits whatever
+permanence, perfection, and identity that it does.
+
+*** Item                                                            :drill:
+
+[Matter] is that intrinsic principle by which a thing
+exhibits the changeability, imperfection, and diversity that it does.
+
+*** Item                                                            :drill:
+
+Can some forms exist without matter?
+
+[Yes]
+
+*** Item                                                            :drill:
+
+Can matter never exist without form?
+
+[No].
+
+*** Item                                                            :drill:
+
+A natural object is one whose characteristic behavior – the ways in
+which it manifests either stability or changes of various sorts –
+derives from something i[ntrinsic] to it.
+
+*** Item                                                            :drill:
+
+To have a s[ubstantial] form is to be a “natural” object in
+Aristotle’s sense of something which “contains within itself a source
+of change and of stability.” This in turn involves being intrinsically
+directed toward certain ends, where this directedness manifests itself
+through the operation of a thing’s causal powers.
+
+*** Item                                                            :drill:
+
+To have a substantial form is to be a s[ubstance].
+
+*** Item                                                            :drill:
+
+Hype in Hylemorphism means [matter] and morphism means [form].
+
+*** Item                                                            :drill:
+
+Hylemorphism is a philosophical theory developed by Aristotle, which
+conceives every being as a compound of matter and form
+
+*** Item                                                            :drill:
+
+There are 2 arguments to defend hylemorphism: from ch[ange], and from
+lim[itation].
+
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
