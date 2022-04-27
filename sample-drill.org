@@ -1,0 +1,52 @@
+# -*- mode: org; coding: utf-8 -*-
+#+STARTUP: showall
+#+PROPERTY: DRILL_CARD_TYPE_ALL hide1close twosided multisided show1cloze hide2cloze show2cloze hide1_firstmore show1_firstless show1_lastmore
+
+* Item :drill:
+
+What is the answer to life the universe and everything else?
+
+** Answer
+42
+
+* Item :drill:
+
+What is the meaning of life?
+
+** Side A
+
+Foo
+
+** Side B
+
+Bar
+
+* Item :drill:
+
+The answer to [life, the universe, and everything else] is [42]
+
+* Item :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide1close
+:END:
+
+The answer to [life], [the universe], and [everything else] is [42]
+
+* Item :drill:
+<QUESTION>
+
+** Answer
+<ANSWER>
+
+2
+
+* Item :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+
+<QUESTION>
+
+** Side A
+
+** Side B
