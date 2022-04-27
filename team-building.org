@@ -1,0 +1,565 @@
+# -*- mode: org; coding: utf-8 -*-
+#+STARTUP: showall
+#+PROPERTY: DRILL_CARD_TYPE_ALL hide1close twosided multisided show1cloze hide2cloze show2cloze hide1_firstmore show1_firstless show1_lastmore
+#+OPTIONS: prop:("drill_card_type")
+
+* WIP Accelerate (The Science of Lean Software and Devos) - Building and Scaling High Performing Technology Organizations (by Nicole Forgren, Jez Humble, and Gene Kim)
+** Ch 1 - Accelerate
+*** Item                                                            :drill:
+SCHEDULED: <2022-05-04 qua>
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide1cloze
+:ID:       c42e0abf-54f0-4dbf-8928-374b9e3837aa
+:DRILL_LAST_INTERVAL: 9.0059
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-25 seg 19:36]
+:END:
+
+
+FOCUS ON CAP[ABILITIES], NOT MAT[URITY]
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-04-29 sex>
+:PROPERTIES:
+:ID:       92d41aec-05b8-47af-ae50-64d24ac50bad
+:DRILL_LAST_INTERVAL: 4.2158
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.333
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-25 seg 19:41]
+:END:
+
+Our research has identified 24 key [capabilities] that drive
+improvement in software delivery performance and, in turn,
+organizational performance
+
+** Ch 2 - Measuring Performance
+*** Item                                                            :drill:
+SCHEDULED: <2022-04-30 sáb>
+:PROPERTIES:
+:ID:       d293d65f-79aa-4891-bf35-3ae299569fc4
+:DRILL_LAST_INTERVAL: 4.8981
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-25 seg 19:37]
+:END:
+
+Queue theory in math tells us that as utilization approaches 100%,
+lead times approach [infinity]
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-04-29 sex>
+:PROPERTIES:
+:ID:       d6a32459-904a-4dc9-b034-0286c24264cf
+:DRILL_LAST_INTERVAL: 3.9236
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-25 seg 19:42]
+:END:
+
+A successful measure of performance should have two key
+characteristics:
+
+- it should focus on a gl[obal] outcome
+- our measure should focus on outcomes not [output]
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-04-29 sex>
+:PROPERTIES:
+:ID:       f3a4c909-886c-4331-902d-b00c71c1e91a
+:DRILL_LAST_INTERVAL: 3.9746
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-25 seg 19:41]
+:END:
+
+The 4 metrics for measuring performance of delivery are:
+
+- delivery l[ead] time
+- deployment f[requency]
+- time to r[estore] service
+- change f[ail] r[ate]
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-04-28 qui>
+:PROPERTIES:
+:ID:       ee7f48e2-a737-46c7-a1fc-bb0ff8ac56c1
+:DRILL_LAST_INTERVAL: 3.4029
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-25 seg 19:40]
+:END:
+
+We measured product delivery l[ead] t[ime] as the time it takes to go
+from code committed to code successfully running in production
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-04-29 sex>
+:PROPERTIES:
+:ID:       daeb1e25-6bf2-446d-8538-274d82000ea8
+:DRILL_LAST_INTERVAL: 3.9377
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-25 seg 19:40]
+:END:
+
+We settled on deployment frequency as a proxy for b[atch] s[ize] since
+it is easy to measure and typically has low variability
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-04-29 sex>
+:PROPERTIES:
+:ID:       6f7300cd-e189-47b8-b8ed-086e6d083392
+:DRILL_LAST_INTERVAL: 3.5805
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-25 seg 19:39]
+:END:
+
+Traditionally, reliability is measured as t[ime] b[etween]
+f[ailures]. However, in modem software products and services, which
+are rapidly changing complex systems, failure is inevitable, so the
+key question becomes: How quickly can service be r[estored]?
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-04-29 sex>
+:PROPERTIES:
+:ID:       0e1b6e05-9bbf-4e73-a1fe-4893fe7597d5
+:DRILL_LAST_INTERVAL: 3.7645
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-25 seg 19:40]
+:END:
+
+Software d[elivery] performance impacts or[ganizational] performance and
+no[ncommercial] performance
+
+** Ch 3 - Measuring and Changing Culture
+*** Item :drill:
+SCHEDULED: <2022-05-01 dom>
+:PROPERTIES:
+:ID:       476dac66-19d4-4ac9-a850-b0bb5668c8a4
+:DRILL_LAST_INTERVAL: 4.074
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-27 qua 19:11]
+:END:
+
+Organizational culture can exist at three levels in organizations:
+basic ass[umptions], val[ues], and art[ifacts].
+
+*** Item :drill:
+SCHEDULED: <2022-05-02 seg>
+:PROPERTIES:
+:ID:       42efc890-8bb2-4dd3-be6a-0925da6ebdb5
+:DRILL_LAST_INTERVAL: 4.8616
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-27 qua 19:13]
+:END:
+
+ “what my . . . experience taught me that was so powerful was that the
+ way to change culture is not to first change how people think, but
+ instead to start by changing how people be[have]”
+
+*** Item :drill:
+SCHEDULED: <2022-05-01 dom>
+:PROPERTIES:
+:ID:       5e0a2cfb-1c50-4f10-ad5f-2ee57799cf9a
+:DRILL_LAST_INTERVAL: 4.1383
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-27 qua 19:12]
+:END:
+
+Westrum's typology of organizational cultures classifies cultures in 3
+levels:
+
+- Pat[hological]
+- Bur[eaucratic]
+- Gen[erative]
+
+The best culture level is [Generative].
+
+*** Item :drill:
+SCHEDULED: <2022-05-01 dom>
+:PROPERTIES:
+:ID:       d04eb077-c50c-4803-963a-0d5e912deee3
+:DRILL_LAST_INTERVAL: 3.6102
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-27 qua 19:11]
+:END:
+
+(Generative, bureaucratic, or pathological).
+
+On the Westrum culture level [Generative], everything is subordinated
+to good performance.
+
+** Ch 4 - Technical Practices (Devops)
+*** Item                                                            :drill:
+SCHEDULED: <2022-05-02 seg>
+:PROPERTIES:
+:ID:       0a6887ee-0300-4ef6-a693-0ba69a20d2e3
+:DRILL_LAST_INTERVAL: 5.1343
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-27 qua 19:13]
+:END:
+
+There are five *key principles* at the heart of continuous delivery:
+
+- build qu[ality] in
+- work in sm[all] batches
+- Computers perform rep[etitive] tasks; people solve pr[oblems]
+- Relentlessly pursue con[tinuous] improvement
+- Everyone is res[ponsible].
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-05-01 dom>
+:PROPERTIES:
+:ID:       174a5b94-d79f-4c2c-94ca-f9e7d63692b1
+:DRILL_LAST_INTERVAL: 3.9956
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-27 qua 19:13]
+:END:
+
+What correlates *more* to Software Delivery Performance?
+
+- a) keeping system and application configuration in version control
+- b) keeping application code in version control
+
+Answer: [a]
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-05-02 seg>
+:PROPERTIES:
+:ID:       c0c75353-4e57-437b-87e0-e5c55870352f
+:DRILL_LAST_INTERVAL: 4.6751
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-27 qua 19:11]
+:END:
+
+9 key capabilities that drive Continuous Delivery:
+
+- The use of ve[rsion] control for application code, system
+  configuration, application configuration, and build and
+  configuration scripts
+- Comprehensive te[st] automation that is reliable, easy to fix, and
+  runs regularly
+- Deployment au[tomation]
+- Continuous in[tegration]
+- Shifting le[ft] on security: bringing security—and security teams—in
+  process with software delivery rather than as a downstream phase
+- Using tr[unk]-based development as opposed to long-lived feature
+  branches
+- Effective test da[ta] management
+- A loosely coupled, well-encapsulated arc[hitecture]
+- Teams that can choose their own to[ols]
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-05-02 seg>
+:PROPERTIES:
+:ID:       0ee61ab4-88a5-4045-b3e8-2cccd22a09ef
+:DRILL_LAST_INTERVAL: 4.5112
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-27 qua 19:12]
+:END:
+
+Continuous delivery is a s[et] of cap[abilities] that enable us to get
+changes of all kinds into production or into the hands of users
+safely, quickly, and sustainably.
+
+** Ch 5 - Architecture
+*** Item                                                            :drill:
+
+#+begin_quote
+organizations which design systems . . . are constrained to produce
+designs which are copies of the communication structures of these
+organizations
+#+end_quote
+
+The sentence above is from researcher called ~Conway~
+
+*** Item                                                            :drill:
+
+The “in[verse] Co[nway] Maneuver: organizations should evolve their
+team and organizational structure to achieve the desired architecture.
+
+*** Item                                                            :drill:
+
+According to ~Accelerate~, the 2 key architecture characteristics are:
+
+- Tes[tability]: We can do most of our testing wit[hout] requiring an
+  int[egrated] environment.
+- Dep[loyability]: We can and do dep[loy] or release our application
+  in[dependently] of other applications/services it depends on.
+
+** Ch 6 - Integrating Infosec into the Delivery Lifecycle
+*** Item                                                            :drill:
+
+The OWASP (O[pen] W[eb] A[pplication] S[ecurity] P[roject]) is an
+online community that produces freely-available articles,
+methodologies, documentation, tools, and technologies in the field of
+web application security.
+
+*** Item                                                            :drill:
+
+Ru[gged] DevOps is another name for DevSecOps.
+
+* DONE Scaling Agile @ Spotify - with Tribes, Squads, Chapters & Guilds (by Henrik Kniberg & Anders Ivarsson)
+** Item                                                              :drill:
+SCHEDULED: <2022-04-30 sáb>
+:PROPERTIES:
+:ID:       5a899842-7e5b-4a31-b52b-6dcf64a5d9bc
+:DRILL_LAST_INTERVAL: 4.868
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-25 seg 19:38]
+:END:
+
+The basic unit of development at Spotify is the S[quad].
+
+** Item :drill:
+SCHEDULED: <2022-05-02 seg>
+:PROPERTIES:
+:ID:       3aaeee9e-be40-4ec0-86cb-d23c9d3882d3
+:DRILL_LAST_INTERVAL: 4.607
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-27 qua 19:11]
+:END:
+
+A Squad is similar to a Sc[rum] team
+
+** Item                                                              :drill:
+SCHEDULED: <2022-04-29 sex>
+:PROPERTIES:
+:ID:       a86adec5-51b4-40a3-8eca-68be94bbda6d
+:DRILL_LAST_INTERVAL: 4.0568
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-25 seg 19:41]
+:END:
+
+The c[hapter] is your small family of people having similar skills and
+working within the same general competency area, within the same
+tribe.
+
+** Item :drill:
+SCHEDULED: <2022-05-02 seg>
+:PROPERTIES:
+:ID:       2d34c7e3-52da-4c84-9412-9439c42e7a37
+:DRILL_LAST_INTERVAL: 4.7606
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-27 qua 19:11]
+:END:
+
+A tr[ibe] is a collection of squads that work in related areas
+
+** Item :drill:
+SCHEDULED: <2022-05-02 seg>
+:PROPERTIES:
+:ID:       897386a2-9dae-40b2-bfe4-76a667e71422
+:DRILL_LAST_INTERVAL: 4.5492
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-27 qua 19:12]
+:END:
+
+A tribe is a collection of sq[uads] that work in related areas
+
+** Item :drill:
+SCHEDULED: <2022-05-02 seg>
+:PROPERTIES:
+:ID:       064f4e73-7285-4b02-8c86-d46cdb7508f1
+:DRILL_LAST_INTERVAL: 5.0682
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-27 qua 19:12]
+:END:
+
+Tribes are sized based on the concept of the “Dunbar number”, which
+says that most people cannot maintain a social relationship with more
+than [100] people or so
+
+** Item :drill:
+SCHEDULED: <2022-05-01 dom>
+:PROPERTIES:
+:ID:       68507e24-60a2-40e3-b8ed-003defda7761
+:DRILL_LAST_INTERVAL: 4.3144
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-27 qua 19:13]
+:END:
+
+A gu[ild] is a more organic and wide-­reaching “community of
+interest”, a group of people that want to share knowledge, tools,
+code, and practices.
+
+** Item :drill:
+SCHEDULED: <2022-05-02 seg>
+:PROPERTIES:
+:ID:       ac2077c0-a558-4e34-ae19-e5fdc199d4bb
+:DRILL_LAST_INTERVAL: 4.5567
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-04-27 qua 19:09]
+:END:
+
+(chapter vs guild)
+
+[Chapters] are always local to a Tribe, while a [guild] usually cuts
+across the whole organization.
+
+** Item :drill:
+SCHEDULED: <2022-05-01 dom>
+:PROPERTIES:
+:ID:       8fa91f19-94f3-4f16-a179-b332e0bac2ab
+:DRILL_LAST_INTERVAL: 4.4331
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-27 qua 19:09]
+:END:
+
+(professor and entrepreneur) model recommended by Mary and Tom
+Poppendieck.
+
+The PO is the [entrepreneur], focusing on delivering a great product,
+while the chapter lead is the [professor], focusing on technical
+excellence.
+
+** Item :drill:
+SCHEDULED: <2022-05-03 ter>
+:PROPERTIES:
+:ID:       727df847-adf5-409a-b2ea-fd1cf0cbde22
+:DRILL_LAST_INTERVAL: 5.6607
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-04-27 qua 19:10]
+:END:
+
+The terms used to describe teams under Spotify model are:
+
+- S[quad]
+- T[ribe]
+- C[hapter]
+- G[uild]
+
+* TODO Team Topologies: Organizing Business and Technology (by Matthew Skelton and Manuel Pais)
+* TODO No Rules Rules - Netflix and the Culture of Reinvention (by Reed Hastings and Erin Meyer)
+* TODO Inspired - How to Create Tech Products Customers Love (by Marty Cagan)
+* TODO Empowered - Ordinary People, Extraordinary Products (by Marty Cagan)
+* TODO The Principles of Product Development Flow - Second Generation Lean Product Development

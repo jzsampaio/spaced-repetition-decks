@@ -94,17 +94,17 @@ However, at the top level scope in a module, [names must be unique].
   #+end_src
 
 * Item :drill:
-SCHEDULED: <2021-08-07 sáb>
+SCHEDULED: <2021-10-13 qua>
   :PROPERTIES:
   :ID:       cba1ed53-f553-4b6d-8f35-afd7d4fb6588
-  :DRILL_LAST_INTERVAL: 3.9377
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 6
+  :DRILL_LAST_INTERVAL: 48.8591
+  :DRILL_REPEATS_SINCE_FAIL: 4
+  :DRILL_TOTAL_REPEATS: 8
   :DRILL_FAILURE_COUNT: 2
-  :DRILL_AVERAGE_QUALITY: 3.5
-  :DRILL_EASE: 2.9
+  :DRILL_AVERAGE_QUALITY: 3.875
+  :DRILL_EASE: 3.1
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:26]
+  :DRILL_LAST_REVIEWED: [2021-08-25 qua 18:50]
   :END:
 
   Annotate ~f~ to indicate it is a function that takes 2 ints and return an int.
@@ -231,17 +231,17 @@ and return [a value].
 
 
 * Item :drill:
-SCHEDULED: <2021-08-08 dom>
+SCHEDULED: <2021-10-17 dom>
   :PROPERTIES:
   :ID:       957bbdf4-a6a8-4c61-936a-2e661af7d83f
-  :DRILL_LAST_INTERVAL: 4.5819
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 6
-  :DRILL_FAILURE_COUNT: 2
-  :DRILL_AVERAGE_QUALITY: 3.667
-  :DRILL_EASE: 2.66
+  :DRILL_LAST_INTERVAL: 40.6536
+  :DRILL_REPEATS_SINCE_FAIL: 4
+  :DRILL_TOTAL_REPEATS: 10
+  :DRILL_FAILURE_COUNT: 3
+  :DRILL_AVERAGE_QUALITY: 3.7
+  :DRILL_EASE: 2.96
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:18]
+  :DRILL_LAST_REVIEWED: [2021-09-06 seg 13:31]
   :END:
 
   A let binding in a class type defines [private fields] for that class type.
@@ -263,18 +263,18 @@ SCHEDULED: <2021-08-08 dom>
   The parameter-list in a function signature can be composed of any F# [patterns].
 
 * Item :drill:
-SCHEDULED: <2021-08-08 dom>
+SCHEDULED: <2021-10-01 sex>
 :PROPERTIES:
 :DRILL_CARD_TYPE: hide1cloze
 :ID:       a0c8f608-5a31-4014-bfac-f69fe7a8fb9a
-:DRILL_LAST_INTERVAL: 4.7112
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 4
+:DRILL_LAST_INTERVAL: 36.919
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 6
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 3.75
-:DRILL_EASE: 2.8
+:DRILL_AVERAGE_QUALITY: 3.833
+:DRILL_EASE: 2.76
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:14]
+:DRILL_LAST_REVIEWED: [2021-08-25 qua 18:45]
 :END:
 
 Methods are [implicitly recursive] within the type they are defined
@@ -335,17 +335,17 @@ in, meaning there is no [need to add the rec keyword].
    #+end_src
 
 * Item :drill:
-SCHEDULED: <2021-08-18 qua>
+SCHEDULED: <2021-10-07 qui>
   :PROPERTIES:
   :ID:       0d6fa2f3-cf7b-479a-be8f-3005dfa57f0e
-  :DRILL_LAST_INTERVAL: 14.7038
-  :DRILL_REPEATS_SINCE_FAIL: 3
-  :DRILL_TOTAL_REPEATS: 5
+  :DRILL_LAST_INTERVAL: 49.4428
+  :DRILL_REPEATS_SINCE_FAIL: 4
+  :DRILL_TOTAL_REPEATS: 6
   :DRILL_FAILURE_COUNT: 1
-  :DRILL_AVERAGE_QUALITY: 4.4
-  :DRILL_EASE: 2.9
+  :DRILL_AVERAGE_QUALITY: 4.5
+  :DRILL_EASE: 3.0
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:18]
+  :DRILL_LAST_REVIEWED: [2021-08-19 qui 08:02]
   :END:
 
 Fable is a
@@ -375,17 +375,17 @@ Parentheses are optional for function arguments, except for
 when you use an explicit type annotation
 
 * Item :drill:
-SCHEDULED: <2021-08-08 dom>
+SCHEDULED: <2021-10-15 sex>
   :PROPERTIES:
   :ID:       a5238b0e-7fc9-4846-ab44-ce651e4a5b09
-  :DRILL_LAST_INTERVAL: 5.1794
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 4
+  :DRILL_LAST_INTERVAL: 51.3422
+  :DRILL_REPEATS_SINCE_FAIL: 4
+  :DRILL_TOTAL_REPEATS: 6
   :DRILL_FAILURE_COUNT: 1
-  :DRILL_AVERAGE_QUALITY: 4.25
-  :DRILL_EASE: 2.8
+  :DRILL_AVERAGE_QUALITY: 4.5
+  :DRILL_EASE: 3.0
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:17]
+  :DRILL_LAST_REVIEWED: [2021-08-25 qua 19:12]
   :END:
 
 If you require a mutable binding, you can use
@@ -460,17 +460,17 @@ All lower case true false
 let tuple1 = (1, 2, 3)
 
 * Item :drill:
-SCHEDULED: <2021-08-08 dom>
+SCHEDULED: <2021-10-07 qui>
   :PROPERTIES:
   :ID:       caf68c0c-d3cd-4c70-bb6d-7d65ce31434c
-  :DRILL_LAST_INTERVAL: 4.8567
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 5
+  :DRILL_LAST_INTERVAL: 43.2353
+  :DRILL_REPEATS_SINCE_FAIL: 4
+  :DRILL_TOTAL_REPEATS: 7
   :DRILL_FAILURE_COUNT: 1
   :DRILL_AVERAGE_QUALITY: 4.0
-  :DRILL_EASE: 2.9
+  :DRILL_EASE: 2.86
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:26]
+  :DRILL_LAST_REVIEWED: [2021-08-25 qua 19:00]
   :END:
 
 Tuples are normally objects, but they can also be represented as
@@ -576,17 +576,17 @@ Syntax for instantiating a record through copy-and-update
    #+end_src
 
 * Item :drill:
-SCHEDULED: <2021-08-08 dom>
+SCHEDULED: <2021-10-09 sáb>
   :PROPERTIES:
   :ID:       d30d38c9-f5cf-426d-b3d4-6e80d4fdf63e
-  :DRILL_LAST_INTERVAL: 4.939
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 6
+  :DRILL_LAST_INTERVAL: 44.9329
+  :DRILL_REPEATS_SINCE_FAIL: 4
+  :DRILL_TOTAL_REPEATS: 8
   :DRILL_FAILURE_COUNT: 2
-  :DRILL_AVERAGE_QUALITY: 3.333
-  :DRILL_EASE: 2.7
+  :DRILL_AVERAGE_QUALITY: 3.75
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:18]
+  :DRILL_LAST_REVIEWED: [2021-08-25 qua 19:10]
   :END:
 
 Syntax for adding methods to a record
@@ -602,34 +602,34 @@ Syntax for adding methods to a record
    #+end_src
 
 * Item :drill:
-SCHEDULED: <2021-08-08 dom>
+SCHEDULED: <2021-09-24 sex>
   :PROPERTIES:
   :ID:       cd6978a8-8be7-402f-8609-1067d73f6eb0
-  :DRILL_LAST_INTERVAL: 4.553
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 5
+  :DRILL_LAST_INTERVAL: 30.6805
+  :DRILL_REPEATS_SINCE_FAIL: 4
+  :DRILL_TOTAL_REPEATS: 7
   :DRILL_FAILURE_COUNT: 1
   :DRILL_AVERAGE_QUALITY: 4.0
-  :DRILL_EASE: 2.9
+  :DRILL_EASE: 2.86
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:26]
+  :DRILL_LAST_REVIEWED: [2021-08-24 ter 07:49]
   :END:
 
 You can also represent Records as structs. This is done with the [<Struct>]
 attribute
 
 * Item :drill:
-SCHEDULED: <2021-08-07 sáb>
+SCHEDULED: <2021-10-21 qui>
   :PROPERTIES:
   :ID:       5fdd1abb-15a4-4c89-ae1b-a38821de9ec2
-  :DRILL_LAST_INTERVAL: 4.4969
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 5
+  :DRILL_LAST_INTERVAL: 56.7491
+  :DRILL_REPEATS_SINCE_FAIL: 4
+  :DRILL_TOTAL_REPEATS: 7
   :DRILL_FAILURE_COUNT: 1
-  :DRILL_AVERAGE_QUALITY: 4.0
-  :DRILL_EASE: 2.9
+  :DRILL_AVERAGE_QUALITY: 4.286
+  :DRILL_EASE: 3.1
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:26]
+  :DRILL_LAST_REVIEWED: [2021-08-25 qua 19:07]
   :END:
 
 Inform:
@@ -678,17 +678,17 @@ Syntax for declaring list
    #+end_src
 
 * Item :drill:
-  SCHEDULED: <2021-09-04 sáb>
+  SCHEDULED: <2022-02-06 dom>
   :PROPERTIES:
   :ID:       31912d59-f2b9-476b-9189-3d3bb031e7cf
-  :DRILL_LAST_INTERVAL: 46.8658
-  :DRILL_REPEATS_SINCE_FAIL: 4
-  :DRILL_TOTAL_REPEATS: 3
+  :DRILL_LAST_INTERVAL: 143.4072
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.8
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-07-19 seg 17:01]
+  :DRILL_LAST_REVIEWED: [2021-09-16 qui 08:15]
   :END:
 
 Declare array
@@ -849,17 +849,17 @@ How to start the interactive F# prompt?
 dotnet fsi
 
 * Item :drill:
-SCHEDULED: <2021-08-07 sáb>
+SCHEDULED: <2021-10-02 sáb>
   :PROPERTIES:
   :ID:       2fd90de9-da22-446b-8401-ec71869115d3
-  :DRILL_LAST_INTERVAL: 4.0634
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 4
+  :DRILL_LAST_INTERVAL: 38.4992
+  :DRILL_REPEATS_SINCE_FAIL: 4
+  :DRILL_TOTAL_REPEATS: 6
   :DRILL_FAILURE_COUNT: 1
-  :DRILL_AVERAGE_QUALITY: 3.25
-  :DRILL_EASE: 2.6
+  :DRILL_AVERAGE_QUALITY: 3.5
+  :DRILL_EASE: 2.56
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:26]
+  :DRILL_LAST_REVIEWED: [2021-08-25 qua 19:00]
   :END:
 
 When you call a method asynchronously, instead of an ordinary let
@@ -868,17 +868,17 @@ continue on other computations or threads as the computation is being
 performed].
 
 * Item :drill:
-  SCHEDULED: <2021-09-01 qua>
+  SCHEDULED: <2021-12-02 qui>
   :PROPERTIES:
   :ID:       0822cd56-1cdb-43d7-94e2-b956b1f74360
-  :DRILL_LAST_INTERVAL: 29.3022
-  :DRILL_REPEATS_SINCE_FAIL: 4
-  :DRILL_TOTAL_REPEATS: 3
+  :DRILL_LAST_INTERVAL: 86.3306
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.8
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:19]
+  :DRILL_LAST_REVIEWED: [2021-09-07 ter 08:17]
   :END:
 
   Native F# async code returns the types [~Async<'T>~] and [~Async~].
@@ -903,17 +903,17 @@ performed].
   ~Task<TResult>~ you can await the task w/ [Async.AwaitTask].
 
 * Item :drill:
-  SCHEDULED: <2021-09-09 qui>
+  SCHEDULED: <2022-01-16 dom>
   :PROPERTIES:
   :ID:       5b137354-14b0-4530-996e-00649ab9a726
-  :DRILL_LAST_INTERVAL: 36.8614
-  :DRILL_REPEATS_SINCE_FAIL: 4
-  :DRILL_TOTAL_REPEATS: 3
+  :DRILL_LAST_INTERVAL: 121.849
+  :DRILL_REPEATS_SINCE_FAIL: 5
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.8
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:19]
+  :DRILL_LAST_REVIEWED: [2021-09-16 qui 08:24]
   :END:
 
   Given an array of async tasks, you can run them with:
@@ -926,17 +926,17 @@ performed].
   [Async.RunSynchronously].
 
 * Item :drill:
-SCHEDULED: <2021-08-07 sáb>
+SCHEDULED: <2021-09-24 sex>
 :PROPERTIES:
 :ID:       37304dd3-009d-40d8-b5ed-7db5fdbdcf62
-:DRILL_LAST_INTERVAL: 4.4845
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 31.0736
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.5
-:DRILL_EASE: 2.6
+:DRILL_AVERAGE_QUALITY: 3.75
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:45]
+:DRILL_LAST_REVIEWED: [2021-08-24 ter 18:05]
 :END:
 
   How to do try/catches in F#?
@@ -951,18 +951,18 @@ SCHEDULED: <2021-08-07 sáb>
        | pattern2 -> expression2
    #+end_src
 * Item :drill:
-SCHEDULED: <2021-08-07 sáb>
+SCHEDULED: <2021-10-30 sáb>
   :PROPERTIES:
   :DRILL_CARD_TYPE: hide1cloze
   :ID:       f2945929-b12e-467e-b815-a42af5aafc6d
-  :DRILL_LAST_INTERVAL: 4.079
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 2
-  :DRILL_FAILURE_COUNT: 1
-  :DRILL_AVERAGE_QUALITY: 2.5
-  :DRILL_EASE: 2.6
+  :DRILL_LAST_INTERVAL: 52.8125
+  :DRILL_REPEATS_SINCE_FAIL: 4
+  :DRILL_TOTAL_REPEATS: 6
+  :DRILL_FAILURE_COUNT: 2
+  :DRILL_AVERAGE_QUALITY: 3.333
+  :DRILL_EASE: 2.9
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:48]
+  :DRILL_LAST_REVIEWED: [2021-09-07 ter 08:18]
   :END:
 
   Exception handling in FSharp takes the following format:
@@ -986,17 +986,17 @@ SCHEDULED: <2021-08-07 sáb>
      condition is true.
 
 * Item :drill:
-SCHEDULED: <2021-08-07 sáb>
+SCHEDULED: <2021-09-16 qui>
 :PROPERTIES:
 :ID:       fa60ea7b-4b9d-437b-8a55-16ae2f759e7c
-:DRILL_LAST_INTERVAL: 4.0014
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 27.4297
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 3.5
-:DRILL_EASE: 2.6
+:DRILL_AVERAGE_QUALITY: 3.75
+:DRILL_EASE: 2.56
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:49]
+:DRILL_LAST_REVIEWED: [2021-08-20 sex 08:05]
 :END:
 The following is a record
   #+begin_src fsharp
@@ -1008,6 +1008,9 @@ The following is a record
   How to turn it into a class?
 
 ** Answer
+
+- Add ~()~ as the constructor parameter
+- Remove the curly braces
   #+begin_src fsharp
 	type Foo() =
           // ...
@@ -1016,35 +1019,35 @@ The following is a record
 * Computation Expression
 
 ** Item                                                               :drill:
-SCHEDULED: <2021-08-08 dom>
+SCHEDULED: <2021-09-29 qua>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
    :ID:       eadaa815-955b-4a56-bbf6-9cc220726e79
-   :DRILL_LAST_INTERVAL: 4.6169
-   :DRILL_REPEATS_SINCE_FAIL: 2
-   :DRILL_TOTAL_REPEATS: 2
+   :DRILL_LAST_INTERVAL: 35.5147
+   :DRILL_REPEATS_SINCE_FAIL: 4
+   :DRILL_TOTAL_REPEATS: 4
    :DRILL_FAILURE_COUNT: 1
-   :DRILL_AVERAGE_QUALITY: 2.5
-   :DRILL_EASE: 2.6
+   :DRILL_AVERAGE_QUALITY: 3.75
+   :DRILL_EASE: 2.8
    :DRILL_LAST_QUALITY: 5
-   :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:46]
+   :DRILL_LAST_REVIEWED: [2021-08-24 ter 07:46]
    :END:
 
  The symbol [>>=] is the standard way of writing [bind] as an infix operator.
 
 ** Item                                                               :drill:
-SCHEDULED: <2021-08-08 dom>
+SCHEDULED: <2021-10-03 dom>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
    :ID:       0f55e49c-3a48-4b01-ac6f-2f6638dd5da6
-   :DRILL_LAST_INTERVAL: 4.866
-   :DRILL_REPEATS_SINCE_FAIL: 2
-   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_LAST_INTERVAL: 39.1427
+   :DRILL_REPEATS_SINCE_FAIL: 4
+   :DRILL_TOTAL_REPEATS: 3
    :DRILL_FAILURE_COUNT: 0
    :DRILL_AVERAGE_QUALITY: 5.0
-   :DRILL_EASE: 2.6
+   :DRILL_EASE: 2.8
    :DRILL_LAST_QUALITY: 5
-   :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:28]
+   :DRILL_LAST_REVIEWED: [2021-08-25 qua 19:11]
    :END:
 
  In the context of computaiton expressions, [return] is used as a way
@@ -1060,17 +1063,17 @@ SCHEDULED: <2021-08-08 dom>
  The corresponding method in the “builder” class is called [ReturnFrom].
 
 ** Item                                                               :drill:
-SCHEDULED: <2021-08-07 sáb>
+SCHEDULED: <2021-10-04 seg>
 :PROPERTIES:
 :ID:       67bb51ae-f81b-4ba1-af98-2d526dcea291
-:DRILL_LAST_INTERVAL: 4.3892
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 39.6403
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.5
-:DRILL_EASE: 2.6
+:DRILL_AVERAGE_QUALITY: 3.75
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:49]
+:DRILL_LAST_REVIEWED: [2021-08-25 qua 18:46]
 :END:
 
    Every computation expression must have an associated wrapper type.
@@ -1080,18 +1083,18 @@ SCHEDULED: <2021-08-07 sáb>
    Note: this seems to be a recommendation only.
 
 ** Item                                                               :drill:
-SCHEDULED: <2021-08-07 sáb>
+SCHEDULED: <2021-10-02 sáb>
    :PROPERTIES:
    :DRILL_CARD_TYPE: show2cloze
    :ID:       7f9553c3-13eb-42cf-825b-fa98665fa609
-   :DRILL_LAST_INTERVAL: 4.1394
-   :DRILL_REPEATS_SINCE_FAIL: 2
-   :DRILL_TOTAL_REPEATS: 2
+   :DRILL_LAST_INTERVAL: 39.3136
+   :DRILL_REPEATS_SINCE_FAIL: 4
+   :DRILL_TOTAL_REPEATS: 4
    :DRILL_FAILURE_COUNT: 1
-   :DRILL_AVERAGE_QUALITY: 2.5
-   :DRILL_EASE: 2.6
+   :DRILL_AVERAGE_QUALITY: 3.75
+   :DRILL_EASE: 2.8
    :DRILL_LAST_QUALITY: 5
-   :DRILL_LAST_REVIEWED: [2021-08-03 ter 08:48]
+   :DRILL_LAST_REVIEWED: [2021-08-24 ter 07:52]
    :END:
 
    Rules relating Bind and Return for implementing a sane computation expression:
@@ -1105,36 +1108,36 @@ SCHEDULED: <2021-08-07 sáb>
      if you had “inlined” the logic in the main workflow.]
 
 ** Item                                                               :drill:
-SCHEDULED: <2021-08-07 sáb>
+SCHEDULED: <2021-10-22 sex>
 :PROPERTIES:
 :ID:       18b401d9-4bbe-439d-bf11-ae54e66af537
-:DRILL_LAST_INTERVAL: 3.5295
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.5
-:DRILL_EASE: 2.6
+:DRILL_LAST_INTERVAL: 44.9058
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 3.333
+:DRILL_EASE: 2.9
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:45]
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:16]
 :END:
 
- To enable the F# compiler to enable ~for i in [1;2;3]~ in a CE, we
+ To enable the F# compiler to enable ~for i in a_list~ in a CE, we
  need to add a [For] method to our builder class. It generally has
  exactly the same implementation as the normal Bind method, but [is
  required to accept a sequence type].
 
 ** Item                                                               :drill:
-SCHEDULED: <2021-08-08 dom>
+SCHEDULED: <2021-10-03 dom>
 :PROPERTIES:
 :ID:       28a5375e-4e16-4b32-93a5-44458c9a6de5
-:DRILL_LAST_INTERVAL: 4.9656
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 39.8553
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:34]
+:DRILL_LAST_REVIEWED: [2021-08-24 ter 07:51]
 :END:
 
    Regarding the pair of regular operators and their bang-veriong
@@ -1144,34 +1147,34 @@ SCHEDULED: <2021-08-08 dom>
    - Things without bangs have [unwrapped types] on the right hand side.
 
 ** Item                                                               :drill:
-SCHEDULED: <2021-08-15 dom>
+SCHEDULED: <2021-09-25 sáb>
 :PROPERTIES:
 :ID:       b7d0c073-2bae-474c-9b8b-ebb9154c8d87
-:DRILL_LAST_INTERVAL: 12.4003
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 39.2846
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:18]
+:DRILL_LAST_REVIEWED: [2021-08-17 ter 07:47]
 :END:
 
    You need to implement Zero if [you want a workflow that doesn’t
    explicitly return a value].
 
 ** Item                                                               :drill:
-SCHEDULED: <2021-08-08 dom>
+SCHEDULED: <2021-09-23 qui>
 :PROPERTIES:
 :ID:       e77444eb-c208-4b1e-9318-47dfc100b4a8
-:DRILL_LAST_INTERVAL: 4.5008
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 30.3974
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.5
-:DRILL_EASE: 2.6
+:DRILL_AVERAGE_QUALITY: 3.25
+:DRILL_EASE: 2.56
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:45]
+:DRILL_LAST_REVIEWED: [2021-08-24 ter 07:43]
 :END:
 
    Rule/recommendation that relates Combine and Zero:
@@ -1180,17 +1183,17 @@ SCHEDULED: <2021-08-08 dom>
    the same as just [a].
 
 ** Item                                                               :drill:
-SCHEDULED: <2021-08-07 sáb>
+SCHEDULED: <2021-10-16 sáb>
 :PROPERTIES:
 :ID:       01542cf2-b52f-47d5-bbe8-97050e5795cc
-:DRILL_LAST_INTERVAL: 3.7245
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 1.5
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:47]
+:DRILL_LAST_INTERVAL: 39.0508
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.66
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:17]
 :END:
 
    Considering:
@@ -1198,7 +1201,7 @@ SCHEDULED: <2021-08-07 sáb>
    #+begin_src fsharp
      member this.Combine (a,b) =
 	     printfn "combining %A and %A" a b
-	     List.concat [a;b]
+	     List.concat \[a;b]
    #+end_src
 
    What will be printed on the following code?
@@ -1219,17 +1222,17 @@ SCHEDULED: <2021-08-07 sáb>
     combining [1] and [2,3,4]
 
 ** Item                                                               :drill:
-SCHEDULED: <2021-08-08 dom>
+SCHEDULED: <2021-10-01 sex>
 :PROPERTIES:
 :ID:       6a595a68-5eda-4181-ba4d-8ede06b4200b
-:DRILL_LAST_INTERVAL: 4.9992
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 36.906
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 3.5
-:DRILL_EASE: 2.6
+:DRILL_AVERAGE_QUALITY: 4.25
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:49]
+:DRILL_LAST_REVIEWED: [2021-08-25 qua 18:48]
 :END:
 
   By default, is there such a thing as an early return on a
@@ -1243,17 +1246,17 @@ SCHEDULED: <2021-08-08 dom>
     single value.
 
 ** Item                                                               :drill:
-SCHEDULED: <2021-08-08 dom>
+SCHEDULED: <2021-10-01 sex>
 :PROPERTIES:
 :ID:       0bb4fdc0-fe72-4e13-91e8-6a64e8701306
-:DRILL_LAST_INTERVAL: 4.6568
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 1.5
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:48]
+:DRILL_LAST_INTERVAL: 25.4159
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.66
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:19]
 :END:
 
   What should be done to the builder of the CE below so that
@@ -1273,17 +1276,17 @@ SCHEDULED: <2021-08-08 dom>
     methods ~Combine~, ~Delay~, and ~Run~ of the CE.
 
 * Item :drill:
-SCHEDULED: <2021-08-07 sáb>
+SCHEDULED: <2021-10-02 sáb>
 :PROPERTIES:
 :ID:       2e3b909f-e409-4cb8-933f-72bbc37807ae
-:DRILL_LAST_INTERVAL: 3.9099
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 1.5
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:45]
+:DRILL_LAST_INTERVAL: 25.8197
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.66
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:20]
 :END:
 
 How to add Paket to a dotnet project? (2 commands)
@@ -1297,17 +1300,17 @@ How to add Paket to a dotnet project? (2 commands)
 
 
 * Item :drill:
-SCHEDULED: <2021-08-07 sáb>
+SCHEDULED: <2021-10-01 sex>
 :PROPERTIES:
 :ID:       8032c51e-b934-4341-bfc1-22c370f5318e
-:DRILL_LAST_INTERVAL: 3.9275
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 38.103
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.5
-:DRILL_EASE: 2.6
+:DRILL_AVERAGE_QUALITY: 3.75
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:45]
+:DRILL_LAST_REVIEWED: [2021-08-24 ter 07:47]
 :END:
 
 In defining a class, ~class~ and ~end~ are [optional].
@@ -1319,17 +1322,17 @@ end
 #+end_src
 
 * Item :drill:
-SCHEDULED: <2021-08-08 dom>
+SCHEDULED: <2021-09-18 sáb>
 :PROPERTIES:
 :ID:       e756cbc8-65fd-4847-a706-fb3ac290f4ce
-:DRILL_LAST_INTERVAL: 5.2026
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 29.0731
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.5
-:DRILL_EASE: 2.6
+:DRILL_AVERAGE_QUALITY: 3.25
+:DRILL_EASE: 2.56
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:47]
+:DRILL_LAST_REVIEWED: [2021-08-20 sex 08:10]
 :END:
 
 In a class definition, the first access modifier pertains to the [type];
@@ -1337,21 +1340,21 @@ the second pertains to the [primary constructor]. In both cases, the
 default is [public].
 
 #+begin_src fsharp
-type [access-modifier] type-name [type-params] [access-modifier] ( parameter-list ) [ as identifier ] =
+type <access-modifier> type-name <type-params> <access-modifier> ( parameter-list ) < as identifier > =
 #+end_src
 
 * Item :drill:
-SCHEDULED: <2021-08-08 dom>
+SCHEDULED: <2021-10-04 seg>
 :PROPERTIES:
 :ID:       d1210906-6844-4d50-8e1f-65ba1f7a22a0
-:DRILL_LAST_INTERVAL: 4.5834
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 40.2573
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:44]
+:DRILL_LAST_REVIEWED: [2021-08-25 qua 19:03]
 :END:
 
 You specify the base class for a class by using the [inherit]
@@ -1387,17 +1390,17 @@ member-list
 #+end_src
 
 * Item :drill:
-SCHEDULED: <2021-08-07 sáb>
+SCHEDULED: <2021-11-02 ter>
 :PROPERTIES:
 :ID:       5ab73c5d-0312-4210-b7f1-d98cff650f38
-:DRILL_LAST_INTERVAL: 4.4499
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.5
-:DRILL_EASE: 2.6
+:DRILL_LAST_INTERVAL: 56.3424
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 3.667
+:DRILL_EASE: 2.9
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:46]
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:18]
 :END:
 
 You can add additional constructors by using the [new] keyword to add a member, as follows:
@@ -1409,33 +1412,53 @@ new(argument-list) = constructor-body
 #+end_src
 
 * Item :drill:
-SCHEDULED: <2021-08-07 sáb>
+SCHEDULED: <2021-10-18 seg>
 :PROPERTIES:
 :ID:       089e5171-deac-4aff-80c5-43c2f1d0417f
-:DRILL_LAST_INTERVAL: 3.876
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 1.5
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2021-08-03 ter 08:45]
+:DRILL_LAST_INTERVAL: 41.4508
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 3.167
+:DRILL_EASE: 2.66
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:11]
 :END:
 
 The body of the new constructor must invoke the [primary constructor]
 that is specified at the top of the class declaration.
 
 * Item :drill:
+SCHEDULED: <2021-09-11 sáb>
 :PROPERTIES:
 :DRILL_CARD_TYPE: hide1cloze
+:ID:       09aa761f-6ca4-4800-972b-961ff315bd83
+:DRILL_LAST_INTERVAL: 4.5319
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 4.25
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:33]
 :END:
 
 F# code can define [aliases], which are named [type abbreviations],
 that are alternative names for types.
 
 * Item :drill:
+SCHEDULED: <2021-09-28 ter>
 :PROPERTIES:
 :DRILL_CARD_TYPE: hide1cloze
+:ID:       fc733949-33db-4ca6-a37f-1c9e277b4f2b
+:DRILL_LAST_INTERVAL: 34.3115
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-25 qua 18:47]
 :END:
 
 You might use type abbreviations when:
@@ -1444,3 +1467,5181 @@ You might use type abbreviations when:
   changing the code that depends on the type.]
 - 2. [Or, you might use a type abbreviation as a friendly name for a
   type that can make code easier to read and understand.]
+
+* Item :drill:
+SCHEDULED: <2021-09-25 sáb>
+:PROPERTIES:
+:ID:       59437a20-cc7f-4eb1-b228-156614f6d7fd
+:DRILL_LAST_INTERVAL: 30.9089
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-25 qua 19:12]
+:END:
+
+What is the type of literal ~100~?
+
+** Answer
+int
+
+* Item :drill:
+SCHEDULED: <2021-09-13 seg>
+:PROPERTIES:
+:ID:       2d60324a-60c9-4d5d-be39-4bc13bda9266
+:DRILL_LAST_INTERVAL: 25.0278
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.667
+:DRILL_EASE: 2.32
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-19 qui 07:56]
+:END:
+
+If the function code is not dependent on the type of a parameter, the
+compiler considers the parameter to be generic. This is called
+[automatic generalization].
+
+* Item :drill:
+SCHEDULED: <2021-10-20 qua>
+:PROPERTIES:
+:ID:       fd093690-faf0-45bc-a013-0bf89bf2dbcd
+:DRILL_LAST_INTERVAL: 43.1331
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 4.4
+:DRILL_EASE: 2.9
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:17]
+:END:
+
+When representing literals (byte, int, ...), characters that represent
+digits in hexadecimal notation are **not** case-sensitive (e.g.: [0xA and 0xa]); characters that
+identify the type are case-sensitive (e.g.[8l is 32-bit int and 8L is 64-bit int]).
+
+
+* Item :drill:
+SCHEDULED: <2021-09-15 qua>
+:PROPERTIES:
+:ID:       e5c7e86c-a3d2-4b98-80cc-40f3f249575b
+:DRILL_LAST_INTERVAL: 25.7665
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-20 sex 08:04]
+:END:
+
+8l is [32]-bit int and 8L is [64]-bit int
+
+* Item :drill:
+SCHEDULED: <2021-09-13 seg>
+:PROPERTIES:
+:ID:       9aa7f1ab-65d7-4de9-81e8-7586bed77cdc
+:DRILL_LAST_INTERVAL: 5.0052
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 9
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 3.0
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:35]
+:END:
+
+- 4.12 is a [64 bit float]
+- 4.12f is a [32 bit float]
+- 4.12F is a [32 bit float as well]
+- 4.12M is a [decimal (fractional representation)]
+- 4.12m is a [decimal (fractional representation) as well]
+
+* Item                                                                :drill:
+SCHEDULED: <2021-10-16 sáb>
+:PROPERTIES:
+:ID:       d2432d9c-fc66-4c96-893c-21b11d3d2fb3
+:DRILL_LAST_INTERVAL: 39.2465
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.9
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:13]
+:END:
+
+What is the type of ~"foobar"B~?
+
+** Answer
+
+~byte array~
+
+* Item :drill:
+SCHEDULED: <2021-10-04 seg>
+:PROPERTIES:
+:ID:       bda74e02-4420-4d5b-8ef0-684bb23f0779
+:DRILL_LAST_INTERVAL: 40.873
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-24 ter 07:50]
+:END:
+
+- ~'a'~ is a [char]
+- ~"a"~ is a [string]
+- ~'a'B~ is a [byte]
+- ~"a"B~ is [byte array]
+
+
+* Item :drill:
+SCHEDULED: <2021-10-08 sex>
+:PROPERTIES:
+:ID:       3be29cb6-9df4-4c36-b2f0-82a469af8c25
+:DRILL_LAST_INTERVAL: 31.5328
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.6
+:DRILL_EASE: 2.66
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:20]
+:END:
+
+Values that are intended to be constants can be marked with the
+[Literal] attribute. This attribute has the effect of causing [a value to
+be compiled as a constant.]
+
+** Example
+
+#+begin_src fsharp
+[<Literal>]
+let SomeJson = """{"numbers":[1,2,3,4,5]}"""
+#+end_src
+
+
+
+* Item :drill:
+SCHEDULED: <2021-09-27 seg>
+:PROPERTIES:
+:ID:       00e8cf49-71ee-4dde-b34a-5a079c4f02fc
+:DRILL_LAST_INTERVAL: 32.9151
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-25 qua 19:09]
+:END:
+
+Is the following correct?
+
+#+begin_src fsharp
+let valueAsBits = 0b1101_1110_1010_1101_1011_1110_1110_1111
+#+end_src
+
+** Answer
+
+Yes. You can separate digits with the underscore character (_).
+
+* Item :drill:
+SCHEDULED: <2021-11-05 sex>
+:PROPERTIES:
+:ID:       47ab0f13-8ce1-4f5e-b544-b26eeb11bec6
+:DRILL_LAST_INTERVAL: 50.2236
+:DRILL_REPEATS_SINCE_FAIL: 5
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.18
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:22]
+:END:
+
+Sample signed byte: [8y]; Sample unsigned byte: [8uy]
+
+* Item :drill:
+SCHEDULED: <2021-10-18 seg>
+:PROPERTIES:
+:ID:       e8406310-4a9c-498d-834d-64c8b8b43325
+:DRILL_LAST_INTERVAL: 53.6678
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-25 qua 18:59]
+:END:
+
+The unit type has a single value, and that value is indicated by the token [()].
+
+* Item :drill:
+SCHEDULED: <2021-09-20 seg>
+:PROPERTIES:
+:ID:       5e6d05ea-5806-4b94-b490-9ff3c71f100d
+:DRILL_LAST_INTERVAL: 26.7845
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-24 ter 07:43]
+:END:
+
+Among F# collections, only the [array] collection has mutable
+elements.
+
+* Item :drill:
+SCHEDULED: <2021-10-17 dom>
+:PROPERTIES:
+:ID:       49510628-d310-43e6-947f-d4ed727ad0e1
+:DRILL_LAST_INTERVAL: 41.1897
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:18]
+:END:
+
+Sequences are represented by the seq<'T> type, which is an alias for
+[IEnumerable<T>]
+
+* Item :drill:
+SCHEDULED: <2021-10-16 sáb>
+:PROPERTIES:
+:ID:       c646eccf-e681-428e-9501-ac50b6115678
+:DRILL_LAST_INTERVAL: 40.1342
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.667
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:18]
+:END:
+
+The 5 main types of collections in F# are:
+
+** Answer
+
+- list
+- array
+- seq
+- Map
+- Set
+
+* Item :drill:
+SCHEDULED: <2021-09-28 ter>
+:PROPERTIES:
+:ID:       301812f6-5f61-45c2-96d6-aff3d2d27578
+:DRILL_LAST_INTERVAL: 34.9429
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.667
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-24 ter 07:50]
+:END:
+
+Normally, all list elements must be the same type. An exception is
+that a list in which the [elements are specified to be a base type can
+have elements that are derived types].
+
+* Item :drill:
+SCHEDULED: <2021-09-26 dom>
+:PROPERTIES:
+:ID:       2fe6f097-9eaf-43bb-8a2f-7ca524a864d1
+:DRILL_LAST_INTERVAL: 32.029
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-25 qua 19:09]
+:END:
+
+You can also define list elements by using a range indicated by
+integers separated by the range operator ([..]), as shown in the
+following code.
+
+** Answer
+
+#+begin_src fsharp
+let list1 = [ 1 .. 10 ]
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-27 seg>
+:PROPERTIES:
+:ID:       a21581eb-ba52-408a-b0ec-ef40480871d2
+:DRILL_LAST_INTERVAL: 32.8028
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.25
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-25 qua 18:50]
+:END:
+
+What is name for the expression used to initialize the list below?
+
+#+begin_src fsharp
+let listOfSquares = \[ for i in 1 .. 10 -> i*i ]
+#+end_src
+
+** Answer
+
+A *sequence expression*.
+
+* Item :drill:
+SCHEDULED: <2021-11-19 sex>
+:PROPERTIES:
+:ID:       f2ce502d-8f53-4cbc-9402-63e88f97cccc
+:DRILL_LAST_INTERVAL: 10.1951
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.8
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2021-11-09 ter 15:25]
+:END:
+
+You can attach elements to a list by using the [:: (cons)] operator
+
+* Item :drill:
+SCHEDULED: <2021-09-20 seg>
+:PROPERTIES:
+:ID:       ee3bbac6-9f9e-4f41-b788-9e88a9b1fad7
+:DRILL_LAST_INTERVAL: 26.9354
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-24 ter 07:50]
+:END:
+
+You can concatenate lists that have compatible types by using the [@]
+operator.
+
+* Item :drill:
+SCHEDULED: <2021-10-17 dom>
+:PROPERTIES:
+:ID:       4f484306-c57c-4a25-973c-ca07bee183df
+:DRILL_LAST_INTERVAL: 40.9503
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.667
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:19]
+:END:
+
+Lists in F# are implemented as [singly linked lists].
+
+* Item :drill:
+SCHEDULED: <2021-09-17 sex>
+:PROPERTIES:
+:ID:       51213136-194e-4f7f-ba3d-39a6a39912fc
+:DRILL_LAST_INTERVAL: 24.1455
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-24 ter 07:44]
+:END:
+
+Optimize this snippet by tail recursion.
+
+#+begin_src fsharp
+let rec sum list =
+   match list with
+   | head :: tail -> head + sum tail
+   | \[] -> 0
+#+end_src
+
+** Answer
+
+#+begin_src fsharp
+let sum list =
+   let rec loop list acc =
+       match list with
+       | head :: tail -> loop tail (acc + head)
+       | [] -> acc
+   loop list 0
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-23 qui>
+:PROPERTIES:
+:ID:       437714ae-72e4-42dc-8122-941200e710a4
+:DRILL_LAST_INTERVAL: 29.3364
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.667
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-25 qua 19:01]
+:END:
+
+What is the problem w/ the following recursive function? How can it be improved?
+
+#+begin_src fsharp
+let rec sum list =
+   match list with
+   | head :: tail -> head + sum tail
+   | [] -> 0
+#+end_src
+
+** Answer
+
+It will overflow the stack on long inputs. It can be optimized by
+re-writing it in tail recursion fashion.
+
+* Item :drill:
+SCHEDULED: <2021-11-04 qui>
+:PROPERTIES:
+:ID:       2a06a8c3-d82c-4e92-a394-38861b5ef18d
+:DRILL_LAST_INTERVAL: 48.6337
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.9
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:21]
+:END:
+
+~List.pick~ is similar to [List.find] except that the elements are
+transformed first.  ~List.pick~ takes a function that returns an
+[option], and looks for the first option value that is [Some(x)].
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       3e9552af-f8ae-45b0-b0cb-cd11b9d130a8
+:DRILL_LAST_INTERVAL: 22.9623
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.667
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-20 sex 08:05]
+:END:
+
+Lists that contain tuples can be manipulated by zip and unzip
+functions.
+
+- zip: [combine two lists of single values into one list of tuples]
+- unzip: [separate one list of tuples into two lists of single values.]
+
+
+* Item :drill:
+SCHEDULED: <2021-09-24 sex>
+:PROPERTIES:
+:ID:       8b2b486a-6616-4449-91d8-ffd687acee17
+:DRILL_LAST_INTERVAL: 30.7411
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.667
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-24 ter 07:48]
+:END:
+
+List.collect is like List.map, except that [each element produces a
+list and all these lists are concatenated into a final list].
+
+* Item :drill:
+SCHEDULED: <2021-10-16 sáb>
+:PROPERTIES:
+:ID:       7f3faa8e-4f6f-4643-bf06-4742f79bde47
+:DRILL_LAST_INTERVAL: 39.7348
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:19]
+:END:
+
+~List.choose~ takes as input function that returns an [option] to each
+element of a list; ~List.choose~ returns a new list of the results for
+elements [when the function returns the option value Some.]
+
+* Item :drill:
+SCHEDULED: <2021-09-30 qui>
+:PROPERTIES:
+:ID:       ae025c40-48a8-4bf5-84dc-825ecc33169e
+:DRILL_LAST_INTERVAL: 36.3847
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-25 qua 18:45]
+:END:
+
+List.pick is to List.find the same way List.choose is to
+[List.filter].
+
+** Note
+
+That is: they use the trick of taking an input function which returns
+option, and using the returned option as search criteria.
+
+* Item :drill:
+SCHEDULED: <2021-10-01 sex>
+:PROPERTIES:
+:ID:       ed9d1282-f621-433b-ad54-35c1a464fa70
+:DRILL_LAST_INTERVAL: 36.5294
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-25 qua 18:59]
+:END:
+
+ To join two lists into one, use [List.append]. To join more than two
+ lists, use [List.concat]
+
+** Example
+
+#+begin_src fsharp
+List.append [1; 2; 3] [4; 5; 6; 7; 8; 9; 10]
+List.concat [ [1; 2; 3]; [4; 5; 6]; [7; 8; 9] ]
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-16 qui>
+:PROPERTIES:
+:ID:       19a55ddb-448d-4651-bd82-c16d04bda0ab
+:DRILL_LAST_INTERVAL: 23.294
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-24 ter 07:45]
+:END:
+
+Is the following correct?
+
+#+begin_src fsharp
+List.concat \[1; 2; 3] \[4; 5; 6; 7; 8; 9; 10]
+List.append \[ \[1; 2; 3]; \[4; 5; 6]; \[7; 8; 9] ]
+#+end_src
+
+
+** Answer
+
+No. To join two lists into one, use List.append. To join more than
+two lists, use List.concat
+
+* Item :drill:
+SCHEDULED: <2021-09-29 qua>
+:PROPERTIES:
+:ID:       ba51a2b8-e593-4f77-ba75-fe59439a19fb
+:DRILL_LAST_INTERVAL: 34.6512
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.667
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-25 qua 18:48]
+:END:
+
+Is the following correct?
+
+#+begin_src fsharp
+List.append \[1; 2; 3] \[4; 5; 6; 7; 8; 9; 10]
+List.concat \[ \[1; 2; 3]; \[4; 5; 6]; \[7; 8; 9] ]
+#+end_src
+
+** Answer
+
+Yes. To join two lists into one, use List.append. To join more than
+two lists, use List.concat
+
+* Item :drill:
+SCHEDULED: <2021-09-24 sex>
+:PROPERTIES:
+:ID:       e873630b-c687-4229-bc5f-1928e2336382
+:DRILL_LAST_INTERVAL: 30.5948
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.667
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-24 ter 07:49]
+:END:
+
+List.fold and List.scan differ in that List.fold returns the final
+value of the extra parameter, but List.scan returns the [list of the
+intermediate values (along with the final value) of the extra
+parameter.]
+
+* Item :drill:
+SCHEDULED: <2021-10-25 seg>
+:PROPERTIES:
+:ID:       4e08c9d1-d32d-4eae-bf3d-b38c3be88e74
+:DRILL_LAST_INTERVAL: 48.856
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:24]
+:END:
+
+Which of these returns the accumulator, and which return a list of the
+intermediate values of the accumulator?
+
+List.fold vs List.scan
+
+** Answer
+
+- List.fold return the final value of the accumulator
+- List.scan returns the list w/ all intermediate values
+
+* Item :drill:
+SCHEDULED: <2021-10-11 seg>
+:PROPERTIES:
+:ID:       c6161bed-b439-4b5c-a122-3c47ca83ab2d
+:DRILL_LAST_INTERVAL: 35.007
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.66
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:30]
+:END:
+
+Regarding the order of parameters to the input function:
+
+- List.fold :: [(acc, elem)]
+- List.foldBack :: [(elem, acc)]
+
+* Item :drill:
+SCHEDULED: <2021-09-18 sáb>
+:PROPERTIES:
+:ID:       4b253c49-fbbd-4605-a054-6a61eb03d23b
+:DRILL_LAST_INTERVAL: 25.4693
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-24 ter 07:47]
+:END:
+
+The function ~List.reduce~ is somewhat like ~List.fold~ and
+~List.scan~, except that instead of passing around a separate
+accumulator, List.reduce [takes a function that takes two arguments of
+the element type instead of just one]
+
+* Item :drill:
+SCHEDULED: <2021-09-30 qui>
+:PROPERTIES:
+:ID:       866cce63-63f7-443f-9fc1-29eac2a8b99a
+:DRILL_LAST_INTERVAL: 35.9194
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.667
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-25 qua 19:08]
+:END:
+
+List.reduce can be used in place of List.fold only when [the
+accumulator and the element type have the same type].
+
+* Item :drill:
+SCHEDULED: <2021-09-17 sex>
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide1cloze
+:ID:       00292b50-492c-460f-a7e5-5cb8040a5e33
+:DRILL_LAST_INTERVAL: 23.141
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-25 qua 18:45]
+:END:
+
+map vs collect vs scan vs fold vs reduce:
+
+- map :: [transforms 'A list into 'B list. Both list have same size.]
+- collect :: [transforms 'A list into 'B list. The input and output
+  list are likely to have different size. Each entry of input list can
+  produce multiple entries on the output list.]
+- fold :: [loop through collection while accumulating a value. The
+  next accumulator is a function of the current accumulator and the
+  current list element. Accumulator and list element can be of
+  different types]
+- scan :: [Similar to ~fold~, but returns a list w/ all the
+  intermediate states of the computation]
+- reduce :: [similar to fold, but the initial accumulator is the very
+  first element of the list.]
+
+* Item :drill:
+SCHEDULED: <2021-10-06 qua>
+:PROPERTIES:
+:ID:       16273d24-6aba-433e-aad1-6f260569511b
+:DRILL_LAST_INTERVAL: 30.4742
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:27]
+:END:
+
+When you write out the name of a type that is a tuple, you use the [*]
+symbol to separate elements. For a tuple that consists of an int, a
+float, and a string, such as (10, 10.0, "ten"), the type would be
+written as follows.
+
+** Answer
+#+begin_src fsharp
+int * float * string
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-10-16 sáb>
+:PROPERTIES:
+:ID:       935fb5dd-f0bf-4254-88d9-0be93359e23b
+:DRILL_LAST_INTERVAL: 38.7813
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:16]
+:END:
+
+Tuples in C# are structs, and are equivalent to [struct tuples] in F#.
+
+* Item :drill:
+SCHEDULED: <2021-10-09 sáb>
+:PROPERTIES:
+:ID:       2e520803-80fb-4243-b4f8-627d931b5918
+:DRILL_LAST_INTERVAL: 33.4529
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:26]
+:END:
+
+How to deconstruct a struct tuple?
+
+** Answer
+
+#+begin_src
+let struct (c, d) = struct (1, 2)
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-10-06 qua>
+:PROPERTIES:
+:ID:       0b338872-4d2f-4f41-b8a5-36da15a030ef
+:DRILL_LAST_INTERVAL: 29.7519
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.667
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:23]
+:END:
+
+How to copy the values of a refernce tuple into a struct tuple?
+
+** Answer
+
+You de-construct the inner member, and then construct a struct tuple.
+
+#+begin_src fsharp
+// Create a reference tuple
+let (a, b) = (1, 2)
+
+// Construct a struct tuple from it
+let struct (c, d) = struct (a, b)
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-10-07 qui>
+:PROPERTIES:
+:ID:       eff995d5-adbf-486c-a02a-832c6665163d
+:DRILL_LAST_INTERVAL: 31.3845
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:23]
+:END:
+
+In a sequence expression, what is the symbol that separates the loop
+expression (e.g.: ~for i in 1 .. 10~) and the body (e.g.: ~i * i~)?
+
+** Answer
+
+The symbol is ~->~
+
+#+begin_src fsharp
+let array3 = [| for i in 1 .. 10 -> i * i |]
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-10-15 sex>
+:PROPERTIES:
+:ID:       6de5fafe-6899-42c5-a865-289eb2e102cb
+:DRILL_LAST_INTERVAL: 38.9262
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:22]
+:END:
+
+When array slicing is used, are you creating a reference or a copy of the sliced content?
+
+E.g. ~array1.[0..2]~
+
+** Answer
+
+A copy.
+
+* Item :drill:
+SCHEDULED: <2021-10-05 ter>
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide1cloze
+:ID:       a18a7a07-c8eb-430a-afe3-784f66655629
+:DRILL_LAST_INTERVAL: 29.3977
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:20]
+:END:
+
+
+On array initialization:
+
+- Array.empty [creates a new array that does not contain any
+  elements.]
+- Array.create [creates an array of a specified size and sets
+all the elements to provided values.]
+- Array.init [creates an array, given a dimension and a function to
+  generate the elements.]
+- Array.zeroCreate [creates an array in which all the elements
+  are initialized to the zero value for the array's type.]
+
+* Item :drill:
+SCHEDULED: <2021-10-17 dom>
+:PROPERTIES:
+:ID:       d5c2e051-c930-43c2-99d1-19300ced7c39
+:DRILL_LAST_INTERVAL: 39.6366
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:14]
+:END:
+
+When you specify an index in multiple dimensions, you use [commas] to
+separate the indexes, as illustrated in the following code example.
+
+** Sample
+
+#+begin_src fsharp
+twoDimensionalArray.[0, 1] <- 1.0
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-10-25 seg>
+:PROPERTIES:
+:ID:       4fe33e18-43c0-426d-ba1a-050b84141565
+:DRILL_LAST_INTERVAL: 39.1538
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 4.25
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:18]
+:END:
+
+2 dimensional arrays can be created by calls to the module
+~[Array2D]~. Examples below.
+
+** Example
+
+Array2D.init, .create, ...
+
+
+* Item :drill:
+SCHEDULED: <2021-11-10 qua>
+:PROPERTIES:
+:ID:       88350f6d-1d66-4187-8e9b-6d8a6e6e61fa
+:DRILL_LAST_INTERVAL: 54.7195
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:20]
+:END:
+
+The type of a two-dimensional array is written out as:
+
+
+** Answer
+
+~<type>[,]~ (for example, int[,], double[,]),
+
+* Item :drill:
+SCHEDULED: <2021-10-01 sex>
+:PROPERTIES:
+:ID:       567fb8c8-c505-4be3-9066-6b2708b0bcfd
+:DRILL_LAST_INTERVAL: 24.018
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:18]
+:END:
+
+In a two-dimensional array (a matrix), you can extract a sub-matrix by
+specifying [ranges (e.g.: 1 .. 10)] and using a wildcard [*] character
+to specify whole rows or columns.
+
+** Answer
+
+#+begin_src fsharp
+matrix.[1.., *]
+matrix.[1..3, *]
+matrix.[*, 1..3]
+matrix.[1..3, 1..3]
+#+end_src
+
+
+* Item :drill:
+SCHEDULED: <2021-10-02 sáb>
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide1cloze
+:ID:       9518e179-40b7-46f3-bc2f-5f475bcc62d0
+:DRILL_LAST_INTERVAL: 24.7488
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:19]
+:END:
+
+- Use [Array.sort] to sort an array by using the generic comparison
+  function.
+- Use [Array.sortBy] to specify a function that generates a value,
+  referred to as a key, to sort by using the generic comparison
+  function on the key.
+- Use [Array.sortWith] if you want to provide a custom comparison
+  function.
+
+* Item :drill:
+SCHEDULED: <2021-10-29 sex>
+:PROPERTIES:
+:ID:       4430fe5f-a632-4ed4-abe1-0b9e502eb282
+:DRILL_LAST_INTERVAL: 42.8339
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.75
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:24]
+:END:
+
+Array.sort, Array.sortBy, and Array.sortWith all return the sorted
+array as a new array.  [Array.sortInPlace] [Array.sortInPlaceBy], and
+[Array.sortInPlaceWith] modify the existing array instead of returning
+a new one.
+
+* Item :drill:
+SCHEDULED: <2021-10-08 sex>
+:PROPERTIES:
+:ID:       a4173406-3665-4565-b47b-ebd8db491cfa
+:DRILL_LAST_INTERVAL: 30.6095
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:20]
+:END:
+
+Sequence expressions can take a number of forms. Is the following
+valid sequence expressions?
+
+#+begin_src fsharp
+  seq { for n in 1 .. 100 do if isprime n then n }
+#+end_src
+
+** Answer
+
+Yes.
+
+* Item :drill:
+SCHEDULED: <2021-10-11 seg>
+:PROPERTIES:
+:ID:       a4173406-3665-4565-b47b-ebd8db491cfa
+:DRILL_LAST_INTERVAL: 34.3332
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:21]
+:END:
+
+Sequence expressions can take a number of forms. Are the following
+valid sequence expressions?
+
+#+begin_src fsharp
+  seq { 1 .. 5 }
+  seq { 0 .. 10 .. 100 }
+#+end_src
+
+** Answer
+
+Yes.
+
+
+
+* Item :drill:
+SCHEDULED: <2021-10-30 sáb>
+:PROPERTIES:
+:ID:       a4173406-3665-4565-b47b-ebd8db491cfa
+:DRILL_LAST_INTERVAL: 44.131
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:24]
+:END:
+
+Sequence expressions can take a number of forms. Are the following
+valid sequence expressions?
+
+#+begin_src fsharp
+  seq { for i in 1 .. 10 -> i * i }
+  seq { for i in 1 .. 10 do yield i * i }
+  seq { for i in 1 .. 10 do i * i }
+#+end_src
+
+** Answer
+
+Yes.
+
+* Item :drill:
+SCHEDULED: <2021-10-26 ter>
+:PROPERTIES:
+:ID:       0c2061e1-1034-42e3-983a-8650fd2bdd22
+:DRILL_LAST_INTERVAL: 39.9078
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:18]
+:END:
+<QUESTION>
+Is the following correct?
+
+#+begin_src fsharp
+seq { for n in 1 .. 100 -> if isprime n then n }
+#+end_src
+
+** Answer
+
+No. ~do~ is required here because there is no else branch that goes with
+the if. If you try to use ->, you'll get an error saying that not all
+branches return a value.
+
+#+begin_src fsharp
+seq { for n in 1 .. 100 do if isprime n then n }
+#+end_src
+
+In a sequence expression, you can only use -> if every part of the
+code that follows it returns a value.
+
+
+* Item :drill:
+SCHEDULED: <2021-10-25 seg>
+:PROPERTIES:
+:ID:       91bffd80-af3b-4e24-be30-5529d8fc45d2
+:DRILL_LAST_INTERVAL: 39.3726
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:19]
+:END:
+Is the following correct?
+
+#+begin_src fsharp
+seq {
+    for row in 0 .. width - 1 ->
+        for col in 0 .. height - 1 ->
+            (row, col, row*width + col)
+    }
+#+end_src
+** Answer
+No. The first loop requires a ~do~.
+
+#+begin_src fsharp
+seq {
+    for row in 0 .. width - 1 do
+        for col in 0 .. height - 1 ->
+            (row, col, row*width + col)
+    }
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-10-09 sáb>
+:PROPERTIES:
+:ID:       44a9c917-1473-41bc-a44c-ff30e6d630ee
+:DRILL_LAST_INTERVAL: 32.1466
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:21]
+:END:
+
+A function that takes a sequence as an argument works with any of the
+common F# collection types such as [arrays, lists, sets, and maps].
+
+
+* Item :drill:
+SCHEDULED: <2021-09-21 ter>
+:PROPERTIES:
+:ID:       b2f211f2-0d61-4862-b5e3-c44fec5b3c03
+:DRILL_LAST_INTERVAL: 5.0015
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 4.25
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:25]
+:END:
+
+Seq.[unfold] generates a sequence from a computation function that
+takes a state and transforms it to produce each subsequent element in
+the sequence. The state is just a value that is used to compute each
+element, and can change as each element is computed.
+
+* Item :drill:
+SCHEDULED: <2021-10-29 sex>
+:PROPERTIES:
+:ID:       9aa70f4c-c7cd-48e8-82eb-1c6d1a97ee9c
+:DRILL_LAST_INTERVAL: 43.2375
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.75
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:24]
+:END:
+
+How to terminate a sequence created w/ Seq.unfold?
+
+** Answer
+
+Seq.unfold uses an option type for the state, which enables you to
+terminate the sequence by returning the None value.
+
+* Item :drill:
+SCHEDULED: <2021-10-12 ter>
+:PROPERTIES:
+:ID:       d9f52d20-b427-427b-bfad-1885b076fbfa
+:DRILL_LAST_INTERVAL: 34.7137
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:19]
+:END:
+
+The difference between Seq.take and Seq.truncate is that Seq.truncate
+[does not produce an error if the number of elements is fewer than the
+number you specify.]
+
+* Item :drill:
+SCHEDULED: <2021-10-18 seg>
+:PROPERTIES:
+:ID:       f93cfe33-645c-4cf1-ae1c-0bb6de5ac7d6
+:DRILL_LAST_INTERVAL: 39.7423
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:25]
+:END:
+
+Which of these throws error if you specify a number of elements
+greater than there is in the sequence?
+
+Seq.take or Seq.truncate?
+
+** Answer
+
+~Seq.take~
+
+* Item :drill:
+SCHEDULED: <2021-11-04 qui>
+:PROPERTIES:
+:ID:       bc7e8e9b-2cd5-4b53-8cef-a47549473d6e
+:DRILL_LAST_INTERVAL: 48.6404
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.75
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:23]
+:END:
+
+Seq.[pairwise] creates a new sequence in which **successive** elements of
+the input sequence are grouped into tuples.
+
+* Item :drill:
+SCHEDULED: <2021-10-11 seg>
+:PROPERTIES:
+:ID:       292b770f-c18a-4e20-b155-44280cc67357
+:DRILL_LAST_INTERVAL: 32.8443
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:23]
+:END:
+
+Seq.pairwise creates a new sequence in which [successive elements of
+the input sequence are grouped into tuples].
+
+* Item :drill:
+SCHEDULED: <2021-10-17 dom>
+:PROPERTIES:
+:ID:       e1c61d5c-44aa-4540-a1fe-34da126a134c
+:DRILL_LAST_INTERVAL: 38.5946
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:23]
+:END:
+
+Seq.windowed is like Seq.pairwise, except that instead of producing a
+sequence of tuples, it produces [a sequence of arrays that contain
+copies of adjacent elements (a window) from the sequence.]
+
+* Item :drill:
+SCHEDULED: <2021-10-06 qua>
+:PROPERTIES:
+:ID:       fff83c4d-e16d-419e-b9e5-146a818fa056
+:DRILL_LAST_INTERVAL: 29.0603
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:19]
+:END:
+
+Seq.[windowed] is like Seq.pairwise, except that instead of producing
+a sequence of tuples, it produces a sequence of arrays that contain
+copies of adjacent elements (a window) from the sequence.
+
+* Item :drill:
+SCHEDULED: <2021-10-11 seg>
+:PROPERTIES:
+:ID:       505099e8-477c-48c9-87dd-3084236d4d23
+:DRILL_LAST_INTERVAL: 33.0225
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.75
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:24]
+:END:
+
+You can create a sequence that eliminates duplicate elements by calling Seq.[distinct]
+
+* Item :drill:
+SCHEDULED: <2021-10-26 ter>
+:PROPERTIES:
+:ID:       0d3bbe02-e549-4fbb-b9c5-8f871df66acb
+:DRILL_LAST_INTERVAL: 40.2139
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:18]
+:END:
+
+Use Seq.[cache] to avoid reevaluation of a sequence, or when you have
+multiple threads that use a sequence, but you must make sure that each
+element is acted upon only one time.
+
+* Item :drill:
+SCHEDULED: <2021-09-28 ter>
+:PROPERTIES:
+:ID:       47674b1f-3868-4c8e-b52d-118be426b16e
+:DRILL_LAST_INTERVAL: 21.2986
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:18]
+:END:
+
+Is the following a valid operation on a list?
+
+#+begin_src fsharp
+let fullList = \[ 1 .. 100 ]
+let smallSlice = fullList.\[1..5]
+#+end_src
+
+** Answer
+
+Yes. One can slice lists in F#.
+
+* Item :drill:
+SCHEDULED: <2021-10-28 qui>
+:PROPERTIES:
+:ID:       44a40972-d8e6-4a4b-8664-87a58253be02
+:DRILL_LAST_INTERVAL: 41.7182
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:23]
+:END:
+
+Is the following a valid operation on a list?
+
+#+begin_src fsharp
+let fullList = \[ 1 .. 100 ]
+let smallSlice = fullList.\[1]
+#+end_src
+
+** Answer
+
+Yes. One can use indexers on lists in F#.
+
+* Item :drill:
+SCHEDULED: <2021-10-21 qui>
+:PROPERTIES:
+:ID:       2ca71ec1-9ab3-459e-9b8a-1111558633fd
+:DRILL_LAST_INTERVAL: 34.8198
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.75
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:20]
+:END:
+
+What it is returned by an out of bounds slice?
+
+#+begin_src fsharp
+let x = \[1; 2]
+x.\[0..10];;
+#+end_src
+
+** Answer
+
+The entire array. No exception is thrown.
+
+#+begin_src fsharp
+val it : int list = [1; 2]
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-10-24 dom>
+:PROPERTIES:
+:ID:       a931fea4-3689-4644-8a0a-3de1ae9118dd
+:DRILL_LAST_INTERVAL: 38.2118
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:20]
+:END:
+
+What it is returned by an out of bounds indexer??
+
+#+begin_src fsharp
+let x = \[1; 2]
+x.\[10];;
+#+end_src
+
+** Answer
+
+An exception is raisen.
+
+* Item :drill:
+SCHEDULED: <2021-10-22 sex>
+:PROPERTIES:
+:ID:       a0f8a485-d39e-474c-8e34-7a80c52e910b
+:DRILL_LAST_INTERVAL: 36.4679
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:16]
+:END:
+
+Can Discriminated Unions have members?
+
+** Answer
+
+Yes.
+
+#+begin_src fsharp
+type Shape =
+    | Circle of float
+    | EquilateralTriangle of float
+    | Square of float
+    | Rectangle of float * float
+
+    member this.Area =
+        match this with
+        | Circle r -> Math.PI * (r ** 2.0)
+        | EquilateralTriangle s -> s * s * sqrt 3.0 / 4.0
+        | Square s -> s * s
+        | Rectangle(l, w) -> l * w
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-10-04 seg>
+:PROPERTIES:
+:ID:       0e122cee-e836-434f-91c3-414f33435f5d
+:DRILL_LAST_INTERVAL: 27.3909
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:19]
+:END:
+
+Can discriminated unions implement interfaces?
+
+** Answer
+
+Yes.
+
+#+begin_src fsharp
+  type IPrintable =
+      abstract Print: unit -> unit
+
+  type Shape =
+      | Circle of float
+      | EquilateralTriangle of float
+      | Square of float
+      | Rectangle of float * float
+
+      interface IPrintable with
+          member this.Print () =
+            ...
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-10-04 seg>
+:PROPERTIES:
+:ID:       d747cb1e-f377-40aa-838e-09d124aa4aa5
+:DRILL_LAST_INTERVAL: 27.2025
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:19]
+:END:
+
+Is the following correct?
+
+#+begin_src fsharp
+// Declaration of an enumeration.
+type Color =
+   | Red = 0
+   | Green = 1
+   | Blue = 2
+// Use of an enumeration.
+let col1 : Color = Red
+#+end_src
+
+** Answer
+
+No. When you refer to the named values, you must use the name of the
+enumeration type itself as a qualifier, that is, enum-name.value1, not
+just value1
+
+* Item :drill:
+SCHEDULED: <2021-10-12 ter>
+:PROPERTIES:
+:ID:       9fcd3a33-6141-4c29-8839-d880e07586a4
+:DRILL_LAST_INTERVAL: 33.5838
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.75
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:34]
+:END:
+
+If an enumeration has underlying type ~int~, how to convert an
+instance of the enumeration to int?
+
+** Answer
+
+#+begin_src fsharp
+    // Declaration of an enumeration.
+    type Color =
+       | Red = 0
+       | Green = 1
+       | Blue = 2
+    // Use of an enumeration.
+    let col1 : Color = Color.Red
+
+  // Conversion to an integral type.
+    let n = int col1
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-10-20 qua>
+:PROPERTIES:
+:ID:       d77a2b14-9f6b-4aad-babc-9052c53f414e
+:DRILL_LAST_INTERVAL: 34.3409
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:16]
+:END:
+
+When pattern matching on an enumeration that defines 4 values, how
+many cases you should cover on the pattern options?
+
+** Answer
+
+Up to 5. One for each of the 4 labeled values, and an extra one for
+any other value of the underlying type.
+
+Any value of the underlying type is a valid value of the
+enumeration. This is significant when pattern matching on enumeration
+values, because you have to provide a pattern that catches the unnamed
+values.
+
+* Item :drill:
+SCHEDULED: <2021-10-21 qui>
+:PROPERTIES:
+:ID:       348231ed-ca24-4a92-a7a0-ad5224a6fcfb
+:DRILL_LAST_INTERVAL: 34.8045
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:19]
+:END:
+<QUESTION>
+
+How to cast from a integer to an enum value of an enumeration w/ integer underlying type?
+
+** Answer
+
+Use the ~enum<'T>~ function:
+
+#+begin_src fsharp
+let col2 = enum<Color>(3)
+#+end_src
+
+Note: it only works for int32 though. For other underlying types, you
+will need the more verbose:
+
+#+begin_src fsharp
+let col3 = Microsoft.FSharp.Core.LanguagePrimitives.EnumOfValue<uint32, uColor>(2u)
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-11-13 sáb>
+:PROPERTIES:
+:ID:       19d70803-254d-44fb-b625-03b613cf3c8b
+:DRILL_LAST_INTERVAL: 58.245
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:25]
+:END:
+
+What is the difference between ~enum<'T>~ and ~Microsoft.FSharp.Core.LanguagePrimitives.EnumOfValue<'T, 'E>~?
+
+** Answer
+
+The first works only w/ int32 types. The second work w/ any integral
+underlying type.
+
+* Item :drill:
+SCHEDULED: <2021-10-23 sáb>
+:PROPERTIES:
+:ID:       47ba2401-9990-46a6-bc08-5422c0fb363a
+:DRILL_LAST_INTERVAL: 37.0132
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:20]
+:END:
+
+Is the following correct?
+
+#+begin_src fsharp
+type Transform<'a> = 'a -> 'a
+#+end_src
+
+** Answer
+
+Yes. In the previous code, Transform is a type abbreviation that
+represents a function that takes a single argument of any type and
+that returns a single value of that same type.
+
+* Item :drill:
+SCHEDULED: <2021-10-31 dom>
+:PROPERTIES:
+:ID:       f5734dda-59d8-4fc1-a177-695a6938b3db
+:DRILL_LAST_INTERVAL: 44.7607
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:18]
+:END:
+
+Is the following correct example of inheritance in F#?
+
+#+begin_src fsharp
+  let MyClass() =
+    inherit BaseClass()
+#+end_src
+
+** Answer
+
+Yes
+
+* Item :drill:
+SCHEDULED: <2021-10-09 sáb>
+:PROPERTIES:
+:ID:       9fcaf506-b1ed-4cb3-8aef-652fe7287f65
+:DRILL_LAST_INTERVAL: 30.7917
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:23]
+:END:
+
+Is the following correct example of inheritance in F#?
+
+#+begin_src fsharp
+  let MyClass() =
+    inherit BaseClass
+#+end_src
+
+** Answer
+
+No. Missing the call to the constructor of the base class (must add
+~()~ af the base class name).
+
+* Item :drill:
+SCHEDULED: <2021-10-18 seg>
+:PROPERTIES:
+:ID:       56489942-aa2f-4e66-a607-f8fba3b913fe
+:DRILL_LAST_INTERVAL: 40.2781
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:28]
+:END:
+
+Is the following correct example of inheritance in F#?
+
+#+begin_src fsharp
+  let MyClass() =
+    inherits BaseClass()
+#+end_src
+
+** Answer
+
+No. The keywork is ~inherit~ not ~inherits~.
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       c3ffc493-8bd5-4a02-84ab-fa5a1b2505e5
+:DRILL_LAST_INTERVAL: 18.128
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-25 qua 18:53]
+:END:
+
+Is the following correct example of inheritance in F#?
+
+#+begin_src fsharp
+  let MyClass =
+    inherit BaseClass()
+#+end_src
+
+** Answer
+
+No. Missing ~()~ at the type definition.
+
+~let Type~ is a record or discriminated union. ~let Type()~ defines a
+class in which the primary constructor takes no parameter.
+
+* Item :drill:
+SCHEDULED: <2021-09-11 sáb>
+:PROPERTIES:
+:ID:       32473e8b-fdab-4e14-989a-d457df32b2f5
+:DRILL_LAST_INTERVAL: 17.4587
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-25 qua 18:46]
+:END:
+
+Is the following a correct form of accessing fields defined w/ let
+binding in a class constructor?
+
+#+begin_src fsharp
+  type C() =
+    let myVar = 0
+
+    member this.MyMethod () = printfn "%A" this.myVar
+#+end_src
+
+** Answer
+
+No. Fields that are created by let bindings can be accessed throughout
+the methods and properties of the class; however, they cannot be
+accessed by using the self identifier, if one exists.
+
+The correct would be:
+
+#+begin_src fsharp
+    member this.MyMethod () = printfn "%A" myVar
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-10-20 qua>
+:PROPERTIES:
+:ID:       91406781-51c3-46eb-a62a-897529047002
+:DRILL_LAST_INTERVAL: 41.5744
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:25]
+:END:
+
+You can access the methods and properties of the base class from the
+derived class by using the language keyword ~[base]~ as an identifier,
+followed by a period (.) and the name of the member.
+
+* Item :drill:
+SCHEDULED: <2021-10-26 ter>
+:PROPERTIES:
+:ID:       c41bcf7f-4dad-4a7f-bfc6-0026d78e02b6
+:DRILL_LAST_INTERVAL: 39.6218
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.75
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:21]
+:END:
+
+Because structures do not allow let bindings, you must declare fields
+in structures by using the [val] keyword.
+
+* Item :drill:
+SCHEDULED: <2021-10-13 qua>
+:PROPERTIES:
+:ID:       ba2de5dc-993a-4a85-acfe-0769e838c6db
+:DRILL_LAST_INTERVAL: 34.8023
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:25]
+:END:
+
+What is the difference between ~let~ and ~val~?
+
+** Answer
+
+The val keyword defines a field and its type but does not allow
+initialization. Instead, val declarations are initialized to zero or
+null.
+
+* Item :drill:
+SCHEDULED: <2021-10-27 qua>
+:PROPERTIES:
+:ID:       ed03b9e4-8bbb-482c-a255-ec94580c3500
+:DRILL_LAST_INTERVAL: 40.6385
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:17]
+:END:
+
+If ~var~ declarations do not allow for initialization, what are
+val-declared variables initialized to?
+
+** Answer
+
+val declarations are initialized to zero or null, or to the
+value informed by the attribute ~[DefaultValue]~.
+
+* Item :drill:
+SCHEDULED: <2021-10-14 qui>
+:PROPERTIES:
+:ID:       f63d0b12-26b4-4435-a490-e190750ff845
+:DRILL_LAST_INTERVAL: 35.7293
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:27]
+:END:
+
+Can structs have let and do binding? (similar to classes)
+
+** Answer
+
+No. Structs cannot contain let or do bindings.
+
+* Item :drill:
+SCHEDULED: <2021-11-01 seg>
+:PROPERTIES:
+:ID:       30739325-eed9-4561-afac-b58612f8398a
+:DRILL_LAST_INTERVAL: 45.7225
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:23]
+:END:
+
+Can structs have constructors? (similar to classes)
+
+** Answer
+
+Yes.
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       01c6064d-4c65-467c-a44e-af39e1930859
+:DRILL_LAST_INTERVAL: 4.9321
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 4.25
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:22]
+:END:
+
+How to declared a Nullable<int>?
+
+** Answer
+
+#+begin_src fsharp
+let nullableX = Nullable<int> x
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       a24df5b5-69e6-4752-898a-ac552980c366
+:DRILL_LAST_INTERVAL: 4.5336
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 4.25
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:22]
+:END:
+
+How to assign ~null~ to a ~Nullable<int>~?
+
+** Answer
+
+You use ~Nullable()~:
+
+#+begin_src fsharp
+let mutable a = Nullable 42
+a <- Nullable()
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-10-14 qui>
+:PROPERTIES:
+:ID:       7852ca2f-eb27-4cec-b0d6-45c204342f4a
+:DRILL_LAST_INTERVAL: 36.4117
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:24]
+:END:
+
+How to check if a ~Nullable<'T>~ is null or not? How to get the underlying value?
+
+** Answer
+
+You use ~.HasValue~ and ~.Value~. Example:
+
+#+begin_src fsharp
+let a = Nullable 42
+
+if a.HasValue then
+    printfn $"{a} is {a.Value}"
+else
+    printfn $"{a} has no value."
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-10-20 qua>
+:PROPERTIES:
+:ID:       e3a7a786-8a78-47d7-aa02-63417ed9a5fa
+:DRILL_LAST_INTERVAL: 34.4654
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:17]
+:END:
+
+Translate the following expression w/ a nullable operator to its longer form.
+
+#+begin_src fsharp
+let isBigger = nullableFloat ?> 1.0
+#+end_src
+
+** Answer
+
+#+begin_src fsharp
+let isBiggerLongForm = nullableFloat.HasValue && nullableFloat.Value > 1.0
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-10-09 sáb>
+:PROPERTIES:
+:ID:       8294e55b-5570-4123-be59-a63e23acfabf
+:DRILL_LAST_INTERVAL: 31.171
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:24]
+:END:
+
+Translate the following expression to a shorter one w/ a nullable operator.
+
+#+begin_src fsharp
+let isBiggerLongForm = nullableFloat.HasValue && nullableFloat.Value > 1.0
+#+end_src
+
+** Answer
+
+#+begin_src fsharp
+let isBigger = nullableFloat ?> 1.0
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-10-13 qua>
+:PROPERTIES:
+:ID:       04faf114-a108-438b-8c53-5682c09bf7e2
+:DRILL_LAST_INTERVAL: 36.2162
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:21]
+:END:
+
+If you do not specify a base class by using the inherit keyword, the
+class implicitly inherits from [System.Object].
+
+* Item :drill:
+SCHEDULED: <2021-10-25 seg>
+:PROPERTIES:
+:ID:       b2349f37-90ec-4862-8c83-82c6c852f830
+:DRILL_LAST_INTERVAL: 39.0364
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:22]
+:END:
+
+If a class inherits from another class, the methods and members of the
+base class are available to users of the derived class as if they were
+direct members of the derived class.
+
+What about let bindings though?
+
+** Answer
+
+Any let bindings and constructor parameters are private to a class
+and, therefore, cannot be accessed from derived classes.
+
+* Item :drill:
+SCHEDULED: <2021-10-26 ter>
+:PROPERTIES:
+:ID:       e6d5ef10-f6c1-4fce-89ca-edf5468b1bc1
+:DRILL_LAST_INTERVAL: 40.0752
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:23]
+:END:
+
+In the following, is ~function1~ an abstract or virtual method?
+
+#+begin_src fsharp
+type MyClassBase1() =
+   let mutable z = 0
+   abstract member function1 : int -> int
+   default u.function1(a : int) = z <- z + a; z
+#+end_src
+
+** Answer
+
+A virtual method.
+
+* Item :drill:
+SCHEDULED: <2021-09-21 ter>
+:PROPERTIES:
+:ID:       7345c7cd-8249-4ebf-8dda-85c9cd5237ce
+:DRILL_LAST_INTERVAL: 4.6986
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 4.25
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:25]
+:END:
+
+How to declare a virtual method in F#?
+
+** Answer
+
+- 1. On base class, declare an abstract member function
+- 2. Yet on base class, declare a ~default~
+- 3. On derived class, declare an ~override~
+
+  #+begin_src fsharp
+type MyClassBase1() =
+   let mutable z = 0
+   abstract member function1 : int -> int
+   default u.function1(a : int) = z <- z + a; z
+
+type MyClassDerived1() =
+   inherit MyClassBase1()
+   override u.function1(a: int) = a + 1
+  #+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-11 sáb>
+:PROPERTIES:
+:ID:       2e7a9381-f2c0-488c-ba25-51628894bbac
+:DRILL_LAST_INTERVAL: 17.4904
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-08-25 qua 18:59]
+:END:
+
+Is the following correct?
+
+#+begin_src fsharp
+type MyClassBase1() =
+   let mutable z = 0
+   abstract member function1 : int -> int
+   default member u.function1(a : int) = z <- z + a; z
+
+#+end_src
+
+** Answer
+
+No. When declaring the ~default~, you don't add ~member~.
+
+* Item :drill:
+SCHEDULED: <2021-11-02 ter>
+:PROPERTIES:
+:ID:       c03ba13f-ee62-4eb2-adf9-7046608f5c07
+:DRILL_LAST_INTERVAL: 47.0123
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.75
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:22]
+:END:
+
+Is the following correct?
+
+#+begin_src fsharp
+type MyClassBase1() =
+   let mutable z = 0
+   abstract function1 : int -> int
+   default u.function1(a : int) = z <- z + a; z
+
+#+end_src
+
+** Answer
+
+No. Missing ~member~ on the abstract declaration. It should be ~abstract member~.
+
+* Item :drill:
+SCHEDULED: <2021-10-15 sex>
+:PROPERTIES:
+:ID:       07bb1ef9-bce3-4930-8a89-e94f94eb10c0
+:DRILL_LAST_INTERVAL: 37.5827
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:20]
+:END:
+
+Is the following correct?
+
+#+begin_src fsharp
+type MyClassBase1() =
+   let mutable z = 0
+   abstract member function1 : int -> int
+   default u.function1(a : int) = z <- z + a; z
+
+type MyClassDerived1() =
+   inherit MyClassBase1()
+   override member u.function1(a: int) = a + 1
+#+end_src
+
+** Answer
+
+No. When overriding you don't add the keyword ~member~.
+
+* Item :drill:
+SCHEDULED: <2021-09-17 sex>
+:PROPERTIES:
+:ID:       743ccc0d-7f7e-4779-b8aa-6dfa3d79e832
+:DRILL_LAST_INTERVAL: 11.3922
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:30]
+:END:
+
+Is the following the correct way to declare a virtual method and then override it?
+
+#+begin_src fsharp
+type MyClassBase1() =
+   let mutable z = 0
+   abstract member function1 : int -> int
+   default u.function1(a : int) = z <- z + a; z
+
+type MyClassDerived1() =
+   inherit MyClassBase1()
+   override u.function1(a: int) = a + 1
+#+end_src
+
+** Answer
+
+Yes.
+
+* Item :drill:
+SCHEDULED: <2021-11-02 ter>
+:PROPERTIES:
+:ID:       05ce241e-ee38-455f-9704-4d6e8709c445
+:DRILL_LAST_INTERVAL: 54.6517
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:33]
+:END:
+
+Object expression are an alternative to [inheritance].
+
+** Example
+
+#+begin_src fsharp
+let object1 = { new Object() with
+      override this.ToString() = "This overrides object.ToString()"
+      }
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-21 ter>
+:PROPERTIES:
+:ID:       b44a2db5-efa1-4418-81c6-255139c2eeea
+:DRILL_LAST_INTERVAL: 13.5821
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 3.6
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:13]
+:END:
+
+2 common alternatives to inheritance in F# are: 1. [object
+expressions] and 2. [Discriminated Unions].
+
+* Item :drill:
+SCHEDULED: <2021-10-06 qua>
+:PROPERTIES:
+:ID:       e1859cde-2c51-45d9-845a-e454e90d2bd7
+:DRILL_LAST_INTERVAL: 28.366
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:23]
+:END:
+
+What is the name for the following kind of expression?
+
+#+begin_src fsharp
+{ new Object() with override this.ToString() = "This overrides object.ToString()" }
+#+end_src
+
+** Answer
+
+Object expression
+
+* Item :drill:
+SCHEDULED: <2021-09-11 sáb>
+:PROPERTIES:
+:ID:       c9b7fcc7-f6a5-4c46-9915-efe7077caf10
+:DRILL_LAST_INTERVAL: 4.8912
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 2.8
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:34]
+:END:
+
+Is the following correct?
+#+begin_src fsharp
+  type IPrintable =
+     abstract member Print : unit -> unit
+
+  type SomeClass1(x: int, y: float) =
+     interface IPrintable with
+        member this.Print() = printfn "%d %f" x y
+
+  let x1 = new SomeClass1(1, 2.0)
+  x1.Print()
+#+end_src
+
+** Answer
+
+No. Interface methods can be called only through the interface, not
+through any object of the type that implements the interface. Thus,
+you might have to upcast to the interface type by using the ~:>~
+operator or the upcast operator in order to call these methods.
+
+#+begin_src fsharp
+let x1 = new SomeClass1(1, 2.0)
+(x1 :> IPrintable).Print()
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-18 sáb>
+:PROPERTIES:
+:ID:       cf21c4c6-3fd6-47d8-a6c5-3bb479dd3ede
+:DRILL_LAST_INTERVAL: 11.6147
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:26]
+:END:
+
+Is the following the correct way of implementing an interface w/ an object expression?
+
+#+begin_src fsharp
+  type IPrintable = abstract member Print : unit -> unit
+
+  let makePrintable(x: int, y: float) = {
+      new IPrintable
+      with member this.Print() = printfn "%d %f" x y
+  }
+  let x3 = makePrintable(1, 2.0)
+  x3.Print()
+#+end_src
+
+** Answer
+
+Yes.
+
+* Item :drill:
+SCHEDULED: <2021-09-21 ter>
+:PROPERTIES:
+:ID:       1b1a67c8-8f74-4da1-9e93-e1bed4e944b6
+:DRILL_LAST_INTERVAL: 14.1694
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:13]
+:END:
+
+Is the following the correct way of implementing an interface w/ an object expression?
+
+#+begin_src fsharp
+  type IPrintable =
+     abstract member Print : unit -> unit
+
+  let makePrintable(x: int, y: float) =
+      { new IPrintable() with
+                member this.Print() = printfn "%d %f" x y }
+  let x3 = makePrintable(1, 2.0)
+  x3.Print()
+#+end_src
+
+** Answer
+
+No. Inside the object expression, you don't call the constructor of
+the interface. You do this for a class, but for for an interface.
+
+* Item :drill:
+SCHEDULED: <2021-09-11 sáb>
+:PROPERTIES:
+:ID:       926b08a9-7dd5-4f09-b398-c1334a0163bc
+:DRILL_LAST_INTERVAL: 4.2078
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:22]
+:END:
+
+Is the following the correct way of implementing an interface w/ an object expression?
+
+#+begin_src fsharp
+  type IPrintable = abstract member Print : unit -> unit
+
+  let makePrintable(x: int, y: float) =
+      { new IPrintable with
+            this.Print() = printfn "%d %f" x y }
+      let x3 = makePrintable(1, 2.0)
+      x3.Print()
+#+end_src
+
+** Answer
+
+No. Missing the ~member~ keywork before ~this.Print()~.
+
+* Item :drill:
+SCHEDULED: <2021-09-17 sex>
+:PROPERTIES:
+:ID:       565b1a17-954c-465f-a693-6a36fac26e5b
+:DRILL_LAST_INTERVAL: 10.7016
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:24]
+:END:
+
+Is the following correct?
+#+begin_src fsharp
+type Interface1 =
+    abstract member Method1 : int -> int
+
+type Interface2 =
+    abstract member Method2 : int -> int
+
+type Interface3 =
+    inherit Interface1
+    inherit Interface2
+    abstract member Method3 : int -> int
+#+end_src
+
+** Answer
+
+Yes. Interfaces can inherit from one or more base interfaces.
+
+* Item :drill:
+SCHEDULED: <2021-09-11 sáb>
+:PROPERTIES:
+:ID:       2125ed52-c651-429c-afab-12bb5bd06052
+:DRILL_LAST_INTERVAL: 4.2789
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:22]
+:END:
+
+Is the following an interface or an abstract class? How to make it more clear which case it is?
+
+#+begin_src fsharp
+type T =
+    abstract member Method1 : int -> int
+#+end_src
+
+** Answer
+
+An interface. To make it more clear:
+
+#+begin_src fsharp
+  type T =
+      interface
+      abstract member Method1 : int -> int
+      end
+#+end_src
+
+The keywords ~interface~ and ~end~, which mark the start and end of the
+definition, are optional when you use lightweight syntax. If you do
+not use these keywords, the compiler attempts to infer whether the
+type is a class or an interface by analyzing the constructs that you
+use. If you define a member or use other class syntax, the type is
+interpreted as a class.
+
+* Item :drill:
+SCHEDULED: <2021-09-19 dom>
+:PROPERTIES:
+:ID:       924ba8a3-5d66-4279-8ed0-bc78255aa9ec
+:DRILL_LAST_INTERVAL: 12.7487
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:31]
+:END:
+
+the F# equivalent of a virtual method declaration and definition in
+another .NET language is a combination of both an abstract method
+declaration and a separate definition, with either the [default]
+keyword or the [override] keyword.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       d7c3305b-1089-427b-b002-3653280eb4e9
+:END:
+
+Abstract classes must have the [AbstractClass] attribute.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       09d435bc-31d1-43eb-ab9e-62b012a737dc
+:END:
+
+Answer with either: public/private/internal
+
+Members are [public]  unless otherwise specified.
+
+* Item :drill:
+SCHEDULED: <2021-09-19 dom>
+:PROPERTIES:
+:ID:       1f3acac3-b075-48b2-bf2f-a36ff6e1dc28
+:DRILL_LAST_INTERVAL: 13.2955
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:33]
+:END:
+
+~member~ definitions can appear in all of
+
+- r[ecords]
+- c[lasses]
+- d[iscriminated unions],
+- i[nterfaces]
+- s[tructures]
+
+* Item :drill:
+SCHEDULED: <2021-09-19 dom>
+:PROPERTIES:
+:ID:       bfe2c008-f2ce-447f-8d93-1afd178d494c
+:DRILL_LAST_INTERVAL: 12.9254
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:28]
+:END:
+
+~member~ definitions can appear on all of records, classes,
+disc. unions, interfaces, and structures.
+
+Private fields and do bindings, appear only on the following:
+[classes]
+
+* Item :drill:
+SCHEDULED: <2021-09-17 sex>
+:PROPERTIES:
+:ID:       263cea2c-9a83-4e34-a94d-7f01fb755db7
+:DRILL_LAST_INTERVAL: 11.3162
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:30]
+:END:
+
+There are 2 ways of declaring private fields:
+
+- [class let bindings]
+- [private members]
+
+** Example
+
+#+begin_src fsharp
+  type PointWithCounter(a: int, b: int) =
+      let (x, y) = (a, b)
+      private member this.Prop1 = x
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-20 seg>
+:PROPERTIES:
+:ID:       f3a14b0a-8384-4943-a395-1c109a3db54f
+:DRILL_LAST_INTERVAL: 12.7187
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:14]
+:END:
+
+What will be printed first?
+
+#+begin_src fsharp
+type MyType(a:int, b:int) as this =
+    do printfn "Foo"
+    static do printfn "Bar"
+
+let obj1 = new MyType(1, 2)
+#+end_src
+
+** Answer
+
+Bar. The static do-binding executes when the class is first used.
+
+Static do bindings become part of the static initializer for the
+class, which is guaranteed to execute before the class is first used.
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       8c9bf88f-1f34-4dbc-a7b3-1ee5aeaa29ec
+:DRILL_LAST_INTERVAL: 4.2445
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:34]
+:END:
+
+To declare a property explicitly, use the [member] keyword.  To have
+the compiler create the backing store automatically, use the keywords
+[member val].
+
+* Item :drill:
+SCHEDULED: <2021-09-16 qui>
+:PROPERTIES:
+:ID:       b0886ea0-9a41-4348-aa4f-ff74f9d6e5be
+:DRILL_LAST_INTERVAL: 10.0223
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:27]
+:END:
+
+Assuming random.Next will return values of the sequence 0,1,2,... What
+will be print? Why?
+
+#+begin_src fsharp
+  type MyClass() =
+      let random  = new System.Random()
+      member val AutoProperty = random.Next() with get, set
+      member this.ExplicitProperty = random.Next()
+
+  let class1 = new MyClass()
+
+  printfn $"class1.AutoProperty = %d{class1.AutoProperty}"
+  printfn $"class1.AutoProperty = %d{class1.AutoProperty}"
+  printfn $"class1.ExplicitProperty = %d{class1.ExplicitProperty}"
+  printfn $"class1.ExplicitProperty = %d{class1.ExplicitProperty}"
+#+end_src
+
+** Answer
+
+#+begin_src fsharp
+class1.AutoProperty = 0
+class1.AutoProperty = 0
+class1.ExplicitProperty = 1
+class1.ExplicitProperty = 2
+#+end_src
+
+The expression that initializes an automatically implemented property
+is only evaluated upon initialization, and not every time the property
+is accessed.
+
+* Item :drill:
+SCHEDULED: <2021-09-22 qua>
+:PROPERTIES:
+:ID:       012f8a5b-f057-4da2-bff1-ce62e0695e2b
+:DRILL_LAST_INTERVAL: 15.6536
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:33]
+:END:
+
+In the following, P is called a read only property. What about Q?
+
+#+begin_src fsharp
+// A read-only property.
+member this.P = myInternalValue
+member this.Q
+    with get () = myInternalValue
+#+end_src
+
+** Answer
+
+It is also a read only property. The 2 forms are equivalent.
+
+* Item :drill:
+SCHEDULED: <2021-09-11 sáb>
+:PROPERTIES:
+:ID:       9ad2a957-7cf4-468a-accb-e6fbb9e5da2c
+:DRILL_LAST_INTERVAL: 4.8511
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:34]
+:END:
+
+The following is how to define a write-only property. How to define a
+read-write property?
+
+#+begin_src fsharp
+member this.MyWriteOnlyProperty with set (value) = myInternalValue <- value
+#+end_src
+
+** Answer
+
+Similarly, but you use ~with~ for the first accessor, and ~and~ for the
+second.
+
+#+begin_src fsharp
+member this.MyReadWriteProperty
+    with get () = myInternalValue
+    and set (value) = myInternalValue <- value
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-23 qui>
+:PROPERTIES:
+:ID:       6871ecec-631a-4c4c-ac6a-d36783af91bd
+:DRILL_LAST_INTERVAL: 15.673
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:16]
+:END:
+
+To provide array like access to a class add an [Indexed Property] to
+the class. This is done by adding a member called [Item].
+
+** Example
+
+#+begin_src fsharp
+member self-identifier.Item
+    with get(index-values) =
+        get-member-body
+    and set index-values values-to-set =
+        set-member-body
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-11 sáb>
+:PROPERTIES:
+:ID:       b5af2f9b-6965-49f9-a446-c01c0c4dddb9
+:DRILL_LAST_INTERVAL: 5.2648
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:34]
+:END:
+
+In the following, Ordinal is an indexed property. Is it a default
+indexed property? Can it be accessed w/ array list syntax?
+
+#+begin_src fsharp
+type NumberStrings() =
+   let mutable ordinals = \[| "one"; "two"; "three"; "four"; "five";
+                             "six"; "seven"; "eight"; "nine"; "ten" |]
+   member this.Ordinal
+      with get(index) = ordinals.\[index]
+      and set index value = ordinals.\[index] <- value
+#+end_src
+
+** Answer
+
+No. Ordinal is a non-default indexed property (ie it is not called
+Item). It can be accessed w/ the following:
+
+#+begin_src fsharp
+  let nstrs = new NumberStrings()
+  // setter
+  nstrs.Orginal(5) <- "6th"
+  // getter
+  printf "%s " (nstrs.Ordinal(0))
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-17 sex>
+:PROPERTIES:
+:ID:       3b56af82-a44a-43fd-96df-568489dfaa9a
+:DRILL_LAST_INTERVAL: 10.7371
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.333
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:32]
+:END:
+
+To give default values to a method parameter, you need to add 2
+attributes to the parameter. These are:
+
+** Answer
+
+Optional and DefaultParameterValue. E.g.:
+
+#+begin_src fsharp
+type C() =
+    _.M([<Optional; DefaultParameterValue(12)>] i) = i + 1
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-18 sáb>
+:PROPERTIES:
+:ID:       94c6d1af-b175-4ae6-bad4-4e8582a5dea8
+:DRILL_LAST_INTERVAL: 11.8972
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:29]
+:END:
+
+Is method overloading permitted in F#?
+
+** Answer
+
+Yes. Overloaded methods are permitted in the language, provided that
+the arguments are in tuple form, not curried form.
+
+* Item :drill:
+SCHEDULED: <2021-09-17 sex>
+:PROPERTIES:
+:ID:       9d2e296a-08df-4fb3-a33b-e3580d3c195a
+:DRILL_LAST_INTERVAL: 11.2556
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:32]
+:END:
+
+Is the following correct?
+
+#+begin_src fsharp
+type C() =
+    _.M i = i + 1
+    _.M i j = i + j
+#+end_src
+
+** Answer
+
+No. Overloaded methods are permitted in the language, provided that
+the arguments are in tuple form, not curried form.
+
+The correct is:
+
+#+begin_src fsharp
+type C() =
+    _.M(i) = i + 1
+    _.M(i, j) = i + j
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       2c042ca6-cc3f-4c41-8a14-39ac4ae72232
+:DRILL_LAST_INTERVAL: 3.8832
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:32]
+:END:
+
+Is the following correct?
+
+#+begin_src fsharp
+type C() =
+    _.M(i) = i + 1
+    _.M(i, j) = i + j
+#+end_src
+
+** Answer
+
+Yes. Overloaded methods are permitted in the language, provided that
+the arguments are in tuple form, not curried form.
+
+* Item :drill:
+SCHEDULED: <2021-09-20 seg>
+:PROPERTIES:
+:ID:       229ecd03-72e2-48a7-b82d-b0597ef5b374
+:DRILL_LAST_INTERVAL: 12.8318
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:12]
+:END:
+
+When creating an instance of an objcet, the ~new~ keyword is: (optional or mandatory?)
+
+** Answer
+
+Optional
+
+#+begin_src fsharp
+  type MyClass(x0, y0, z0) =
+    ...
+
+  // Create by using the new keyword.
+  let myObject1 = new MyClass(1, 2, 3)
+  // Create without using the new keyword.
+  let myObject2 = MyClass(4, 5, 6)
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-18 sáb>
+:PROPERTIES:
+:ID:       e7499fc5-b35a-45a6-812d-27e1c8987a01
+:DRILL_LAST_INTERVAL: 11.3556
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:12]
+:END:
+
+WTF is the code after ~then~? What will be printed?
+
+#+begin_src fsharp
+  type Person(nameIn : string, idIn : int) =
+      do printfn "Created a person object."
+      new() =
+          Person("Invalid Name", -1)
+          then
+              printfn "Created an invalid person object."
+
+let person2 = new Person()
+
+#+end_src
+
+** Answer
+
+It is code that runs after the initialization of the primary
+constructor.
+
+It will print:
+
+
+#+begin_src
+Created a person object.
+Created an invalid person object.
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-19 dom>
+:PROPERTIES:
+:ID:       42f13741-2797-472e-8f78-24b8d910f107
+:DRILL_LAST_INTERVAL: 12.5442
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:26]
+:END:
+
+Many C# code samples use the following syntax to initialize objects. How
+to do it in F#?
+
+#+begin_src csharp
+var x = new MyClass() { Porperty1 = 1.0; P2 = "foobar" }
+#+end_src
+
+** Answer
+
+You can assign values to the properties of a class object in the
+initialization code by appending a list of assignments of the form
+property = value to the argument list for a constructor.
+
+#+begin_src fsharp
+let x = new MyClass(Property1 = 1.0, P2 = "foobar")
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       97b2d7a2-7246-46b7-bb27-8ede83f5d752
+:DRILL_LAST_INTERVAL: 5.9059
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:34]
+:END:
+
+There are 2 ways of specifying events on a class:
+
+
+** Answer
+
+#+begin_src fsharp
+  type MyClassWithCLIEvent() =
+
+    // first way
+    let ev = new Event<_>()
+
+    // second way
+    [<CLIEvent>]
+    member this.Event1 = event1.Publish
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       dd401f3b-83a2-4e9c-9bf3-d714cdd3b9dc
+:DRILL_LAST_INTERVAL: 5.9131
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 3.25
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:35]
+:END:
+
+In order to specify an event as a property, one attribute must be
+added to the property. Which one is it?
+
+** Answer
+
+CLIEvent
+
+* Item :drill:
+SCHEDULED: <2021-09-11 sáb>
+:PROPERTIES:
+:ID:       8f8e6f80-8bd3-4e4c-9f47-7f40c940a2e5
+:DRILL_LAST_INTERVAL: 5.023
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:35]
+:END:
+
+To add a callback to an event, call [Add] on the event.
+
+* Item :drill:
+SCHEDULED: <2021-09-28 ter>
+:PROPERTIES:
+:ID:       6a6640a7-4c32-4037-b266-fab4361f3d02
+:DRILL_LAST_INTERVAL: 11.6244
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.75
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2021-09-16 qui 08:25]
+:END:
+
+You can use the [Trigger] property of the event to raise the event,
+passing the arguments to the handler function.
+
+* Item :drill:
+SCHEDULED: <2021-09-21 ter>
+:PROPERTIES:
+:ID:       718102e0-1206-49fb-a29e-0011f43a5277
+:DRILL_LAST_INTERVAL: 14.1707
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:14]
+:END:
+
+To register a callback to an event, call [Add]. To raise the event
+call [Trigger].
+
+* Item :drill:
+SCHEDULED: <2021-09-23 qui>
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide1cloze
+:ID:       b673bdb3-15be-48d4-885b-78d751988df3
+:DRILL_LAST_INTERVAL: 15.6091
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-07 ter 08:12]
+:END:
+
+
+The [val] keyword is used to declare [a location to store a value in a
+class or structure type, without initializing it].
+
+* Item :drill:
+SCHEDULED: <2021-09-19 dom>
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide1cloze
+:ID:       c099f2a4-99a7-499e-919a-6b92a2f83f88
+:DRILL_LAST_INTERVAL: 12.7927
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-06 seg 13:32]
+:END:
+
+
+Storage locations declared with [val] are called [explicit fields].
+
+* Item :drill:
+:PROPERTIES:
+:ID:       cefb197f-230b-4004-8f49-7f85b4de62e5
+:END:
+
+There are 3 forms of type extension in F#:
+
+- [intrinsic type extension]
+- [optional type extension]
+- [extension methods]
+
+* Item :drill:
+:PROPERTIES:
+:ID:       5f7228e3-c73a-47e5-b8f9-6a41bcf1edcf
+:END:
+
+Intrinsic type extensions are defined in the same [file] and
+[namespace].
+
+** Example
+
+#+begin_src fsharp
+namespace Example
+
+type Variant =
+    | Num of int
+    | Str of string
+
+module Variant =
+    let print v =
+        match v with
+        | Num n -> printf "Num %d" n
+        | Str s -> printf "Str %s" s
+
+// Add a member to Variant as an extension
+type Variant with
+    member x.Print() = Variant.print x
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-11 sáb>
+:PROPERTIES:
+:ID:       ecc53f62-a112-4bea-a84a-0816841ad35e
+:DRILL_LAST_INTERVAL: 3.3133
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:32]
+:END:
+
+An optional type extension are like intrinsic type extension, except
+they [appears outside the original module, namespace, or assembly of
+the type being extended.]
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       c6856a70-406b-4750-bde9-6175606a34b6
+:DRILL_LAST_INTERVAL: 3.731
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:35]
+:END:
+
+What is this?
+
+#+begin_src fsharp
+type Variant with
+    member x.Print() = Variant.print x
+#+end_src
+
+** Answer
+
+A type extension.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       a613e294-311b-4518-b113-8bfb631f643b
+:END:
+
+"C#-style type extension" are also known as [extension method].
+
+** Example
+
+#+begin_src fsharp
+namespace Extensions
+
+open System.Collections.Generic
+open System.Runtime.CompilerServices
+
+[<Extension>]
+type IEnumerableExtensions =
+    [<Extension>]
+    static member inline Sum(xs: IEnumerable<'T>) = Seq.sum xs
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       355fd93b-f798-4fbe-820f-092c46d0dca7
+:DRILL_LAST_INTERVAL: 3.8751
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:26]
+:END:
+
+In order to add a type extension of the kind "extension method", add
+the attribute [Extension] to both 1. [the type] and 2. [the method].
+
+** Example
+
+#+begin_src fsharp
+namespace Extensions
+
+open System.Collections.Generic
+open System.Runtime.CompilerServices
+
+[<Extension>]
+type IEnumerableExtensions =
+    [<Extension>]
+    static member inline Sum(xs: IEnumerable<'T>) = Seq.sum xs
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       0e958227-388e-4a78-a9ab-9d876dcab4f6
+:END:
+
+Is there any limitation on the match expressions that can be used on
+function parameters?
+
+** Answer
+
+No.
+
+If the match expressions allows for incomplete matches, and one of
+uncovered cases is executed during runtime, an error will be thrown.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       8b969a46-c964-4a3f-bf8a-6fd3ddf03459
+:END:
+
+What is the type of isNil?
+
+#+begin_src fsharp
+let isNil = function [] -> true | _::_ -> false
+#+end_src
+
+** Answer
+
+#+begin_src fsharp
+'a list -> bool
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       58dffac5-94bd-4417-a408-5a1daca1c1b4
+:END:
+
+Are named arguments allowed for methods? Are they allowed for let bound
+functions?
+
+** Answer
+
+Yes, just like in c#. No.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       1b2e4fcf-cc30-4e6a-9922-81cf652bf2af
+:END:
+
+Are option parameters allowed on methods? Are they allowed on let
+bounds functions?
+
+** Answer
+
+Yes. No.
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       413b10bb-b7b8-4618-a83b-98360b9f223b
+:DRILL_LAST_INTERVAL: 4.1476
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:35]
+:END:
+
+There are 2 ways of specifying an option value on a method:
+
+- [using a question mark in front of the parameter name]
+- [adding the attributes Optional and DefaultParameterValue]
+
+** Example
+
+#+begin_src fsharp
+  type Connection(?rate0 : int, ?duplex0 : DuplexType, ?parity0 : bool) =
+      //...
+
+  type C =
+      static member Foo([<Optional; DefaultParameterValue("Hello world")>] message) =
+          printfn $"{message}"
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       4d27ef3c-d88e-4a68-94b4-0ffc6a207c28
+:END:
+
+There are 3 type of pointer types:
+
+- [inref<'T>] :: read only pointer
+- [outref<'T>] :: write only pointer
+- [byref<'T>] :: read-write pointer
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       2e275ebe-7bf4-4f1f-9531-a0bea3b3bb5d
+:DRILL_LAST_INTERVAL: 4.4506
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:35]
+:END:
+
+There are 3 type of pointer types:
+
+- inref<'T> :: [read only pointer]
+- outref<'T> :: [write only pointer]
+- byref<'T> :: [read-write pointer]
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       d271320f-0252-465f-9efd-127c10e10e6e
+:DRILL_LAST_INTERVAL: 4.2737
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:35]
+:END:
+
+You define a parameter array by using the [ParamArray] attribute.
+
+** Example
+
+#+begin_src fsharp
+type X() =
+    member this.F([<ParamArray>] args: Object[]) =
+        for arg in args do
+            printfn "%A" arg
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       d5be9e12-df0f-4d34-94b7-c940378e221d
+:END:
+
+What are these operators used for?
+
+- :?
+    * [in a pattern match as a ~type test pattern~.]
+    * [in a try/catch, to specify the exception type]
+- :>
+    * [upcast operator. Always succeeds.]
+- :?>
+    * [downcast operators. Might throw runtime error]
+
+* Item :drill:
+:PROPERTIES:
+:ID:       c4ed97f9-e691-43cf-8b51-6469ece634f5
+:END:
+
+What is the name for ~(|Even|Odd|)~ in the following?
+
+#+begin_src fsharp
+let (|Even|Odd|) input = if input % 2 = 0 then Even else Odd
+#+end_src
+
+** Answer
+
+An active pattern
+
+* Item :drill:
+:PROPERTIES:
+:ID:       08aef537-b5f3-45b9-97ed-32e3b23b97de
+:END:
+
+Because of the ~_~ as one of the cases, the following is a [partial]
+active pattern.
+
+#+begin_src fsharp
+let (|Integer|_|) (str: string) =
+   let mutable intvalue = 0
+   if System.Int32.TryParse(str, &intvalue) then Some(intvalue)
+   else None
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       24c57c15-68cd-490d-89d4-085a1f201b2f
+:END:
+
+Given the definition
+
+#+begin_src fsharp
+let (| P |) (w: int) (x: int) = if x = w then Some (x, 0) else Some (0, x);;
+#+end_src
+
+and
+
+#+begin_src fsharp
+let f (P 10 x) = x;;
+#+end_src
+
+- ~f 1~ evaluates to [(0, 1)]
+- ~f 10~ evaluates to [(10, 0)]
+
+* Item :drill:
+:PROPERTIES:
+:ID:       d774fa6f-371d-40f6-9b9e-3a590bf508f0
+:END:
+
+The following active pattern takes a parameter and it is thus called a
+[parameterized active pattern].
+
+#+begin_src fsharp
+let (|ParseRegex|_|) regex str =
+   let m = Regex(regex).Match(str)
+   if m.Success
+   then Some (List.tail [ for x in m.Groups -> x.Value ])
+   else None
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       6b52d110-e487-4727-9874-b02a32864ac0
+:END:
+
+Is the following valid f#?
+
+#+begin_src fsharp
+let function1() =
+  for i = 1 to 10 do
+    printf "%d " i
+  printfn ""
+#+end_src
+
+** Answer
+
+Yes. It illustrates a ~for...to~ expression.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       85ae8a41-6758-420f-8024-e5e66b538956
+:END:
+
+Are F# exceptions and .Net exceptions the same thing?
+
+** Answer
+
+No.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       1c0228e5-07a6-4444-9062-19c246b56a4e
+:END:
+
+Is the following a definition of a .Net or a F# exception?
+
+#+begin_src fsharp
+exception MyError of string
+#+end_src
+
+** Answer
+
+An F# exception.
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       297a2b6a-0345-4200-8d17-bea54c951ecf
+:DRILL_LAST_INTERVAL: 4.1616
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:30]
+:END:
+
+When catching an F# exception, how to pattern match for it?
+
+** Answer
+
+You use ~FsharpExceptionName(any parameters it take)~ . Example:
+
+#+begin_src fsharp
+exception Error1 of string
+// Using a tuple type as the argument type.
+exception Error2 of string * int
+
+let function1 x y =
+   try
+      if x = y then raise (Error1("x"))
+      else raise (Error2("x", 10))
+   with
+      | Error1(str) -> printfn "Error1 %s" str
+      | Error2(str, i) -> printfn "Error2 %s %d" str i
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       78c330b0-cb9e-4090-89a0-27221b645c0f
+:DRILL_LAST_INTERVAL: 4.0535
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:33]
+:END:
+
+Is the following correct?
+#+begin_src fsharp
+  let foo () =
+     try
+        // something
+        1
+     with
+        | :? System.DivideByZeroException -> 0.0
+#+end_src
+
+** Answer
+
+No. The types of the values returned from each expression in the
+exception handlers must match the type returned from the expression in
+the try block.
+
+* Item :drill:
+SCHEDULED: <2021-09-13 seg>
+:PROPERTIES:
+:ID:       0b0398a9-23be-4ce3-8e21-30639352d028
+:DRILL_LAST_INTERVAL: 4.9125
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:28]
+:END:
+
+In exception handling, how to match for an F# exception? How to match
+for a .NET exception?
+
+** Answer
+
+- F# exception: you use ~| ExceptionName(args)~
+- .NET Exception: you use ~| :? NetException~ or ~| :? NetException as
+  identifier~
+
+* Item :drill:
+:PROPERTIES:
+:ID:       e06d18fd-1b98-44e6-b05c-a706732b31eb
+:END:
+
+Is the following correct?
+#+begin_src fsharp
+try
+     try
+        if x = y then raise (InnerError("inner"))
+        else raise (OuterError("outer"))
+     with
+      | InnerError(str) -> printfn "Error1 %s" str
+   finally
+      printfn "Always print this."
+#+end_src
+
+** Answer
+
+Yes. If your code requires both a with block and a finally block, you
+have to nest the two constructs.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       6f6f2a92-f386-42ae-951d-7b14d3c61e21
+:END:
+
+Is the following correct?
+#+begin_src fsharp
+   try
+      if x = y then raise (InnerError("inner"))
+      else raise (OuterError("outer"))
+   with
+    | InnerError(str) -> printfn "Error1 %s" str
+   finally
+      printfn "Always print this."
+#+end_src
+
+** Answer
+
+No. If your code requires both a with block and a finally block, you
+have to nest the two constructs.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       6dd34c06-ebe1-48cc-80df-051db34a2dd1
+:END:
+
+The [reraise] function can be used in a with block to propagate a
+handled exception up the call chain.
+
+** Example
+
+#+begin_src fsharp
+let getFirstCharacter(value: string) =
+    try
+        value.[0]
+    with :? IndexOutOfRangeException as e ->
+        reraise()
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       78756041-434a-4986-a287-5e8022f3c397
+:END:
+
+What arguments does ~reraise~ take?
+
+** Answer
+
+None. Simply call it with ~reraise ()~.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       6ebc5f67-9a08-4454-96c5-bd3c9570379e
+:END:
+
+Should ~raise~ be used w/ both .Net exceptions and F# exceptions?
+
+** Answer
+
+Yes.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       e60e6027-5bd3-47bf-821a-5544d18281b2
+:END:
+
+What is the difference between ~raise~ and ~failwith~?
+
+** Answer
+
+- ~raise~: raises any exception
+- ~failwith~: takes string as arguments, creates an F# exception that
+  has the string under ~.Message~.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       9a55a326-d3bd-4c3a-ac93-db208fe1c469
+:END:
+
+When catching in a ~try/with~ block an exception that was raised w/
+~failwith~, you should use the F# exception type [Failure].
+
+** Example
+
+#+begin_src fsharp
+let testDivideFailwith x y =
+  try
+     divideFailwith x y
+  with // calls `failwith "Boobar"`
+     | Failure(msg) -> printfn "%s" msg; 0
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       270574c7-a335-4418-8016-1567978ec5d7
+:END:
+
+Compare:
+
+- raise :: [raises any kind of exception]
+- failwith :: [raises an F# exception, capture w/ the pattern ~Failure(message)~]
+- reraise :: [takes no parameter, re-raises the current exception]
+- invalidArg :: [raises a System.ArgumentException (which is a dotnet exception)]
+
+* Item :drill:
+:PROPERTIES:
+:ID:       81b611ff-85fa-4d7d-a7f2-bcdca7425129
+:END:
+
+What is the correct way of setting multiple attributes?
+
+#+begin_src fsharp
+[<Owner("Jason Carlson")>]
+[<Company("Microsoft")>]
+type SomeType1 =
+#+end_src
+
+or
+
+#+begin_src fsharp
+[<Owner("Darren Parker"); Company("Microsoft")>]
+type SomeType2 =
+#+end_src
+
+** Answer
+
+Both are correct.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       30d4bfa4-2ccf-4a6a-ba24-79e4930fcbee
+:END:
+
+The following is the syntax for an attribute:
+
+#+begin_src fsharp
+[<target:attribute-name(arguments)>]
+#+end_src
+
+What is ~target~ used for?
+
+** Answer
+
+In the previous syntax, the target is optional and, if present,
+specifies the kind of program entity that the attribute applies to.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       3d365c6b-78b2-4be0-addb-9a9ad8511d71
+:END:
+
+You can query attributes at run time by using .NET [reflection].
+
+* Item :drill:
+:PROPERTIES:
+:ID:       a6b9a129-26b5-4ea1-9fa1-4ef4aab91c24
+:END:
+
+The use keyword has a form that resembles that of the let binding:
+
+
+#+begin_src fsharp
+use value = expression
+#+end_src
+
+It provides the same functionality as a let binding but adds a call to
+Dispose on the value when [the value goes out of scope].
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       bb07a297-3069-4505-9a0d-2780f7730d8c
+:DRILL_LAST_INTERVAL: 4.3182
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:31]
+:END:
+
+Which construct provides more control over resource usage? ~use~ or ~using~?
+
+** Answer
+
+~using~ providers more control.
+
+The ~using~ function and the ~use~ binding are nearly equivalent ways
+to accomplish the same thing. The ~using~ keyword provides more
+control over when Dispose is called. When you use ~using~, Dispose is
+called at the end of the function or lambda expression; when you use
+the ~use~ keyword, Dispose is called at the end of the containing code
+block.
+
+
+* Item :drill:
+:PROPERTIES:
+:ID:       2440d00b-9efc-4b42-ba41-a9ec864a9f15
+:END:
+
+Is the following correct?
+#+begin_src fsharp
+namespace Foo
+let doSomething () = ()
+let x = 12
+#+end_src
+
+** Answer
+
+No. Namespaces cannot directly contain values and functions.
+Namespaces can contain types, modules.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       a25894d6-ce95-42a7-a3f1-f01acf6220b9
+:END:
+
+Namespaces can contain: [types] and [modules].
+
+* Item :drill:
+:PROPERTIES:
+:ID:       ffa3653e-f02b-472d-8992-357751ef8916
+:END:
+
+What is the difference in form of the following code snippets? What is the difference in behavior?
+
+#+begin_src fsharp
+module Widgets.WidgetModule
+
+let widgetFunction x y =
+   printfn "%A %A" x y
+#+end_src
+
+#+begin_src fsharp
+namespace Widgets
+
+module WidgetModule =
+
+    let widgetFunction x y =
+        printfn "%A %A" x y
+#+end_src
+
+** Answer
+
+In form: first one uses implicit namespace declaration; second one uses
+explicit namespace declaration.
+
+In behavior: no difference. The two are equivalent.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       e0e56b0f-1193-4290-83a6-d24f21f828d8
+:END:
+
+You use the predefined namespace [global] to put names in the .NET
+top-level namespace.
+
+** Example
+
+#+begin_src fsharp
+namespace global
+
+type SomeType() =
+    member this.SomeMember = 0
+#+end_src
+
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       06585234-0eb7-4c30-8c78-d68fc5d097c6
+:DRILL_LAST_INTERVAL: 4.1065
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:28]
+:END:
+
+Can namespaces span multiple files? Can they span multiple assemblies?
+
+** Answer
+
+Yes for both.
+
+* Item :drill:
+SCHEDULED: <2021-09-13 seg>
+:PROPERTIES:
+:ID:       693b2d51-2b80-48ce-af09-8f727c81ffe5
+:DRILL_LAST_INTERVAL: 4.7749
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:34]
+:END:
+
+What changes when you declare that a namespace is recursive?
+
+** Answer
+
+Namespaces can also be declared as recursive to allow for all
+contained code to be mutually recursive.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       6a1e4dfa-3e01-4c28-a34e-12a6713df8bf
+:END:
+
+What is wrong in the definitions below? How to fix it?
+
+#+begin_src fsharp
+  namespace MutualReferences
+
+  exception DontSqueezeTheBananaException of Banana
+
+  type Banana(orientation : Orientation) =
+      // ...
+      member self.SqueezeJuiceOut() = raise (DontSqueezeTheBananaException self)
+#+end_src
+
+** Answer
+
+The exception depends on the type Banana, and that type depends on the
+Exception. types are not recursive by default.
+
+This can be fixed by making the namespace a recursive one:
+
+#+begin_src fsharp
+  namespace rec MutualReferences
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       6bd190c2-45ec-42f6-a699-8a69ea8fea1b
+:DRILL_LAST_INTERVAL: 3.9363
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:32]
+:END:
+
+In the following, what are the top level modules? What are the local
+modules?
+
+Is Bar sibling to Foo or nested into Foo? Is Zoom nested into Bar or
+is it sibling to Bar?
+
+#+begin_src fsharp
+
+  module Foo
+
+  let topLevelX = 5
+
+  module Bar =
+      let inner1X = 1
+  module Zoom =
+      let inner2X = 5
+
+#+end_src
+
+** Answer
+
+- Top level: Foo
+- Local modules: Bar Zoom
+- Bar and Zoom are both nested into Foo
+- Zoom is sibling to Bar
+
+* Item :drill:
+:PROPERTIES:
+:ID:       b897eb35-9288-4f12-a455-1dd1eb140cf5
+:END:
+
+What is a recursive module?
+
+** Answer
+
+A module which allow for all contained code to be mutually
+recursive.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       2ccf1b32-6b36-4e4e-9c89-47b3733ff57b
+:END:
+
+What does opening a type mean?
+
+Example:
+
+#+begin_src fsharp
+open type System.Math
+#+end_src
+
+** Answer
+
+This will expose all accessible static fields and members on the type.
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       7c3e65e5-d181-4ee8-b278-43c7b148688b
+:DRILL_LAST_INTERVAL: 4.0117
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:30]
+:END:
+
+5 namespaces are opened by default:
+
+- FSharp.C[ore] :: Contains basic F# type definitions for built-in
+  types such as int and float.
+- FSharp.C[ore].O[perators] :: Contains basic arithmetic operations such
+  as + and *.
+- FSharp.C[ollections] :: Contains immutable collection classes such
+  as List and Array.
+- FSharp.C[ontrol] :: Contains types for control constructs such as
+  lazy evaluation and asynchronous workflows.
+- FSharp.T[ext] :: Contains functions for formatted IO, such as the
+  printf function.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       cf360c07-8065-46cb-80ec-0b01ce672f0b
+:END:
+
+The extension for F# signature files is [.fsi].
+
+* Item :drill:
+:PROPERTIES:
+:ID:       acc318ae-8fae-4ca3-91ae-5c209d61c2e2
+:END:
+
+In the fsproj, what is the relationship between signature and
+implementation files?
+
+** Answer
+
+In a project, the signature file should precede the associated code
+file.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       6144c9fc-1b88-437c-a455-3eb8090e90af
+:END:
+
+You can generate a signature file by using the [--sig] compiler option.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       e9cd9d2e-2f0d-43f4-8afe-e22b384e2337
+:END:
+
+To define a unit of measure, you add the attribute [Measure] to a
+type.
+
+** Example
+
+#+begin_src fsharp
+[<Measure>] type cm
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       dabd0951-67ea-4948-b487-800d9552f20a
+:END:
+
+What is the following defining?
+
+#+begin_src fsharp
+[<Measure>] type cm
+#+end_src
+
+** Answer
+
+A unit of measure called ~cm~.
+
+* Item                                                                :drill:
+:PROPERTIES:
+:ID:       38a6f2ee-fb87-4086-ac9f-135810d9bafa
+:END:
+
+Are units of measure available during runtime?
+
+** Answer
+
+No. Units of measure are used for static type checking. When floating
+point values are compiled, the units of measure are eliminated, so the
+units are lost at run time.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       03211363-7843-48a8-ad1d-5f0767e02a12
+:END:
+
+How to declare a floating point w/ dimension of the unit of measure <cm>?
+
+** Answer
+
+Suffix the literal w/ ~<cm>~.
+
+E.g.:
+
+#+begin_src fsharp
+1.0<cm>
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       f36eee44-cdcb-42aa-a045-05ae03a1339c
+:END:
+
+A unit library is available in the [FSharp.Data.UnitSystems.SI].
+
+* Item :drill:
+:PROPERTIES:
+:ID:       ba99a1aa-0b20-4900-a0e2-e57341ea853d
+:END:
+
+To convert from a dimensioned floating point to a regular float you can:
+
+- [cancel out the unit of measure]
+- [call float]
+
+** Example
+
+#+begin_src fsharp
+  [<Measure>]
+  type cm
+  let length = 12.0<cm>
+  let x = float length
+  // cancel out unit
+  let y = length / (1.0<cm>)
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       48ad88da-c91a-4169-b88b-3c40c8b59bd4
+:DRILL_LAST_INTERVAL: 3.8644
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:27]
+:END:
+
+A compile-time error will be reported if a printf formatting function
+is used with an argument that doesn't match the printf format
+specifiers in the format string.
+
+How is this possible?
+
+** Answer
+
+When using printf and other related functions, a special rule in the
+F# compiler checks the string literal passed as the format string,
+ensuring the subsequent arguments applied are of the correct type to
+match the format specifiers used.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       c8b8e04a-84f7-4605-9fe7-309e5a382005
+:END:
+
+To improve the display text shown on a instance of type when
+debugging, one can set the attributes [DebuggerDisplay] and
+[DebuggerTypeProxy].
+
+* Item :drill:
+:PROPERTIES:
+:ID:       3c008713-7454-4371-9fb6-31d65fcda1d1
+:END:
+
+To customize what is print by ~%A~, do either:
+
+- Use the [StructuredFormatDisplay] attribute
+- Override System.Object's [~ToString~]
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       52a0bafc-d1d0-4e8f-bcd2-976bd21cf138
+:DRILL_LAST_INTERVAL: 3.8889
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:26]
+:END:
+
+To customize cultural information used to printing string, configure
+S[ystem].G[lobalization].C[ultureInfo].C[urrentCulture].
+
+* Item :drill:
+:PROPERTIES:
+:ID:       b7c4612c-19fd-41c0-8543-24b26613ef65
+:END:
+
+Format placeholders for printf (and similar functions) is ~%[flags][width][.precision][type]~
+
+Give examples for each part of the syntax:
+
+- flags :: " ", "0", "+", "-"
+- width :: "10"
+- .precision :: ".10"
+- type :: "s", "d", ...
+
+* Item :drill:
+:PROPERTIES:
+:ID:       aae0ebe3-e8a7-4561-a054-8123c6a9911e
+:END:
+
+About XML documentation:
+
+- You can produce documentation from triple-slash ([///]) code comments in
+  F#.
+- You can add a [GenerateDocumentationFile] element to the
+  ~<PropertyGroup>~ section of your .fsproj project file
+- the XML file can be run through tools like [fsdocs] to generate API
+  reference websites.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       22f579f7-a2b0-4fb6-9c4b-1ec73fb52f98
+:END:
+
+If a /// comment does not start with a <, then the entire comment text
+is taken as the [summary].
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide1cloze
+:ID:       3e7f5d52-6148-4b90-b94a-f27bd17db0a4
+:DRILL_LAST_INTERVAL: 4.3479
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:34]
+:END:
+
+
+[Lazy expressions] are [expressions that are not evaluated immediately,
+but are instead evaluated when the result is needed]. This can help to
+improve the performance of your code.
+
+** Example
+
+#+begin_src fsharp
+let identifier = lazy ( expression )
+#+end_src
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       a26df17e-2e6a-4ef3-a399-2bba418fd91b
+:DRILL_LAST_INTERVAL: 3.9665
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:26]
+:END:
+
+To access the result of a lazy expression call ~[Force()]~ on the reference to the lazy expression.
+
+** Example
+
+#+begin_src fsharp
+let x = 10
+let result = lazy (x + 10)
+printfn "%d" (result.Force())
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       d14e9f6a-09cf-41fa-8864-2a6b2c2a2ac2
+:END:
+
+In the following, the type of ~result~ is [Lazy<int>].
+
+#+begin_src fsharp
+let x = 10
+let result = lazy (x + 10)
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       5b48ec04-d80f-4220-8a86-ab236567ff28
+:END:
+
+To define a custom operation on a computation expression, put it in a
+builder class for the computation expression, and then apply the
+[CustomOperationAttribute].
+
+* Item :drill:
+:PROPERTIES:
+:ID:       a404a36b-0080-4ea4-8370-233e561b56f8
+:END:
+
+When you define a custom operation on a computation expression, you
+must define the [Yield] and [For] methods in the computation
+expression
+
+* Item :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide1close
+:ID:       36813100-379e-41d7-80f7-030bba83627d
+:END:
+
+
+The full set of standard operations you can define for a computation expression:
+
+- B[ind]
+- D[elay]
+- R[eturn]
+- R[eturn]F[rom]
+- R[un]
+- C[ombine]
+- F[or]
+- T[ry]F[inally]
+- T[ry]W[ith]
+- U[sing]
+- W[hile]
+- Y[ield]
+- Y[ield]F[rom]
+- Z[ero]
+- Q[uote]
+
+* Item :drill:
+:PROPERTIES:
+:ID:       bac564db-3063-4304-8910-6f327097e65a
+:END:
+
+To start an asynchronous computation on the current thread, you can
+use Async.[StartImmediate]
+
+* Item :drill:
+SCHEDULED: <2021-09-12 dom>
+:PROPERTIES:
+:ID:       342bcac2-a055-4dd4-aee0-ce2cbd95851c
+:DRILL_LAST_INTERVAL: 4.0299
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-09-08 qua 13:30]
+:END:
+
+The effect of let! is to enable [execution to continue on other
+computations or threads as the computation is being performed].
+
+The line of code that uses let! starts the computation, and then the
+thread is [suspended until the result is available, at which point
+execution continues.]
+
+* Item :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide2cloze
+:ID:       a0e920ae-588c-4b18-9d21-f5eddcd278da
+:END:
+
+Several asynchronous primitives are defined in the F# core
+library. Two such methods for Web applications are defined in the
+module FSharp.Control.WebExtensions:
+
+- W[eb]R[equest].A[sync]G[et]R[esponse]
+- W[eb]C[lient].A[sync]D[ownload]S[tring]
+
+* Item :drill:
+:PROPERTIES:
+:ID:       cdba18fc-f0b5-4e35-9404-43f2f7ad6bc6
+:END:
+
+In a sequence expression, the yield keyword identifies data to be
+returned as part of the resulting sequence. In query expressions, the
+[select] keyword performs the same function.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       42a3f18b-f739-49d8-bd79-cdd1e55522ce
+:END:
+
+Query expressions return a type that implements [IQueryable<T>] and
+[IEnumerable<T>].
+
+* Item :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide1close
+:ID:       9fc3f728-b8b2-4792-9a60-d5d59cc47be4
+:END:
+
+[code quotations], a language feature that enables you [to generate
+and work with F# code expressions programmatically]. This feature lets
+you generate an abstract syntax tree that represents F# code.
+
+** More
+
+For example, you can use the tree to generate F# code or generate code
+in some other language.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       381bdcb8-70b8-447f-bae8-3bc5d629a592
+:END:
+
+In code quotation, If you want to include type information, you use
+the symbols [<@ and @>] to delimit the quoted expression. If you do not
+need type information, you use the symbols [<@@ and @@>].
+
+* Item :drill:
+:PROPERTIES:
+:ID:       1e331538-2772-4fc1-ba60-e7452743a893
+:END:
+
+Which one is faster to traverse? A typed or an untyped expression tree?
+
+** Answer
+
+Traversing a  large expression tree  is faster  if you do  not include
+type information.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       3718763d-0119-4ddb-8c83-fea51abaead7
+:END:
+
+You can call the [Raw] property on the typed Expr class to obtain the
+untyped Expr object.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       87149313-c58e-4cda-9c24-a25810db4833
+:END:
+
+To evaluate F# quotations, you must use the [F# Quotation Evaluator]
+
+* Item :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide1close
+:ID:       10b60b3a-9e2e-4d77-9e18-4718bcfc0666
+:END:
+
+[Splicing] enables you to [combine literal code quotations with
+expressions that you have created programmatically or from another
+code quotation].
+
+* Item :drill:
+:PROPERTIES:
+:ID:       bc606835-b32f-4b5e-89f7-1139cef3848d
+:END:
+
+In splicing code quotations, You use the [%] operator to insert a
+typed expression object into a typed quotation; you use the [%%]
+operator to insert an untyped expression object into an untyped
+quotation
+
+* Item :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide1close
+:ID:       ead83ea3-196c-44e7-9524-0b8e5d8dafca
+:END:
+
+When navigation code quotations, you probably want to use some of the
+active patterns defined in the F# core libraries:
+
+- FSharp.Quotations.P[atterns]
+- FSharp.Quotations.D[erived]P[atterns]
+- FSharp.Quotations.E[xpr]S[hape]
+
+* Item :drill:
+:PROPERTIES:
+:ID:       ebd1bf9e-0fb1-49ad-ad6f-e83d3ba96950
+:END:
+
+The [fixed] keyword allows you to "pin" a local onto the stack to
+prevent it from being collected or moved during garbage-collection.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       e3d81680-30b7-41db-a2b1-e843d0a2e1a2
+:END:
+
+Is this correct?
+
+#+begin_src fsharp
+let ptr = fixed expression
+#+end_src
+
+** Answer
+
+No. A pointer from an expression is fixed via the fixed keyword is
+bound to an identifier via the ~use~ keyword.
+
+#+begin_src fsharp
+use ptr = fixed expression
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       60d34058-c784-41d2-a64c-77d6b7b54c8c
+:END:
+
+Declare a function ~f~ that takes an integer byref argument. How to
+call it?
+
+** Answer
+
+#+begin_src fsharp
+  let f (x: byref<'T>) = ()
+
+let mutable x = 3
+f &x
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       e8e402a2-b761-4407-b054-19594de532a1
+:END:
+
+To call a function that takes a pointer type (byref, inref or outref),
+use the [&] operator.
+
+** Example
+
+#+begin_src fsharp
+f &x
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       1370c67f-4586-428c-8e46-12a050f14029
+:END:
+
+Regarding usage of the pointer type ~byref~. Is this correct?
+
+#+begin_src fsharp
+let f (dt: byref<DateTime>) =
+    dt <- DateTime.Now
+let dt = DateTime.Now
+f &dt
+#+end_src
+
+** Answer
+
+No. ~dt~ should be made mutable if it is to be passed to a ~byref~
+function parameter.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       60ccd119-c6c9-4ff9-bdbc-d6e29d799d15
+:END:
+
+Regarding usage of the pointer type ~byref~. Is this correct?
+
+#+begin_src fsharp
+let f (dt: byref<DateTime>) =
+    dt <- DateTime.Now
+let mutable dt = DateTime.Now
+f &dt
+#+end_src
+
+** Answer
+
+Yes.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       0c2b29dd-e048-437a-a5ee-345fea04f27c
+:END:
+
+In practice, what is the difference between ~outref~ and ~byref~?
+
+** Answer
+
+Semantically, outref<'T> is no different than byref<'T>.
+
+The purpose of outref<'T> is to indicate that the pointer should only
+be written to. Unexpectedly, outref<'T> permits reading the underlying
+value despite its name. This is for compatibility purposes.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       e3c64c7a-1377-48fb-952b-af5431ad16e2
+:END:
+
+In addition to the byref/inref/outref trio, you can define your own
+structs that can adhere to byref-like semantics. This is done with the
+[IsByRefLikeAttribute] attribute:
+
+** Example
+
+#+begin_src fsharp
+open System
+open System.Runtime.CompilerServices
+
+[<IsByRefLike; Struct>]
+type S(count1: Span<int>, count2: Span<int>) =
+    member x.Count1 = count1
+    member x.Count2 = count2
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       2f36765b-e430-4eef-85ef-03505f5ac6c6
+:END:
+
+R[eference] c[ells] are storage locations that enable you to create
+mutable values with reference semantics.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       94ab6452-4e44-4e3b-b966-dfce53ea652b
+:END:
+
+What language feature is this?
+
+#+begin_src fsharp
+let refVar = ref 6
+#+end_src
+
+** Answer
+
+Reference cell
+
+* Item :drill:
+:PROPERTIES:
+:ID:       2836fec0-1267-473a-91d6-259808d9cb3d
+:END:
+
+How to assign to a reference cell?
+
+** Answer
+
+You use the operator ~:=~.
+
+
+* Item :drill:
+:PROPERTIES:
+:ID:       a6149817-d2da-4d51-888f-0483489cd30a
+:END:
+
+One can dereference a reference cell by using the [!] operator.
+
+** Example
+
+#+begin_src fsharp
+let refVar = ref 6
+printfn "%d" !refVar
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       14e518d1-b53e-4981-a3de-63f92df94a2e
+:END:
+
+Is the following correct?
+
+#+begin_src fsharp
+let refVar = ref 6
+refVar <- 50
+#+end_src
+
+** Answer
+
+No. To assign to a reference cell use one of the following:
+
+#+begin_src fsharp
+refVar := 50
+refVar.Value <- 11
+refVar.contents <- 12
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       bce378c5-7d97-4be6-a529-7322adc99554
+:END:
+
+When it comes to a reference cell, what is the difference of the
+following?
+
+#+begin_src fsharp
+refVar := 50
+refVar.Value <- 50
+refVar.contents <- 50
+#+end_src
+
+** Answer
+
+None.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       4dbe3039-0287-4949-8041-cf2f994b1228
+:END:
+
+[nameof] works by resolving the symbol passed to it and produces the
+name of that symbol as it is declared in your source code.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       38eb7579-8e4a-47c7-84a4-2cc850923010
+:END:
+
+What will be returned?
+
+#+begin_src fsharp
+let f<'a> () = nameof<'a>
+f()
+#+end_src
+
+** Answer
+
+#+begin_src fsharp
+"a"
+#+end_src
+
+~nameof<'TGeneric>~ will take the name of the symbol as defined in
+source, not the name of the type substituted at a call site.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       1a54f7e3-0dbf-44c8-a377-c84e42339140
+:END:
+
+What is the intention w/ the usage of ~nameof~ on the following code?
+
+#+begin_src fsharp
+let f (str: string) =
+    match str with
+    | nameof str -> "It's 'str'!"
+    | _ -> "It is not 'str'!"
+#+end_src
+
+** Answer
+
+The first pattern will be match in case the content of the string is
+"str" (the name of the variable); and it will match the second pattern
+otherwise.
+
+#+begin_src fsharp
+f "str" // matches
+f "asdf" // does not match
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       0208ac6f-48ab-4c97-9fdb-a745c4ea5d2f
+:END:
+
+Why would someone do this?
+
+#+begin_src fsharp
+nameof Unchecked.defaultof<MyRecord>.MyField
+#+end_src
+
+** Answer
+
+F# requires an instance in order to extract the name of an instance
+member with ~nameof~. If an instance is not easily available, then one
+can be obtained using ~Unchecked.defaultof~.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       eddef131-fb2f-4911-af53-74892a353043
+:END:
+
+F# has preprocessor directives ~if~, ~else~ and ~endif~, but no
+~define~.  How to define names to be used w/these directives?
+
+** Answer
+
+Symbols that you use in the if directive must be defined by the
+command line or in the project settings; there is no define
+preprocessor directive.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       3e6ed9f8-5920-43d1-aa0b-a123c07774e1
+:END:
+
+What is this preprocessor directive indicating?
+
+#+begin_src fsharp
+#line 25 "C:\\Projects\\MyProject\\MyProject\\Script1"
+#+end_src
+
+** Answer
+
+These tokens indicate that the F# code generated at this location is
+derived from some constructs at or near line 25 in Script1.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       9b33de84-0b9d-4931-b8d2-0c5e1509c028
+:END:
+
+What is the preprocessor directive that disables a compiler warning or
+warnings?
+
+** Answer
+
+#+begin_src fsharp
+#nowarn warningcode
+#+end_src
+
+Example:
+
+#+begin_src fsharp
+#nowarn "9" "40"
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       82e29aa6-aebf-46f7-913b-ce38664ef155
+:END:
+
+Is this a compiler directive or a preprocessor directive? What does it do?
+
+#+begin_src fsharp
+#light "off"
+#+end_src
+
+** Answer
+
+A compiler directive. If you specify ~#light "off"~, you must use verbose
+syntax for all language constructs.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       081ae7d3-619c-48cb-9de0-9cfb1fd92806
+:END:
+
+Which XML tag is used for specifying compiler options on a fsproj?
+
+** Answer
+
+#+begin_src fsharp
+  <OtherFlags>...</OtherFlags>
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       f9b5041e-b937-4a13-8db6-35ba269d1625
+:END:
+
+How to run a .fsx file?
+
+** Answer
+
+#+begin_src fsharp
+dotnet fsi [options] [ script-file [arguments] ]
+#+end_src
+
+* Item :drill:
+:PROPERTIES:
+:ID:       f3fc7a3c-6035-4586-9fd9-2aea2f749213
+:END:
+
+What are the built-int string values that provide the following
+functionality?
+
+- __L[INE]__ :: Evaluates to the current line number, considering
+  #line directives.
+- __S[OURCE]_D[IRECTORY]__ :: Evaluates to the current full path of
+  the source directory, considering #line directives.
+- __S[OURCE]_F[ILE]__ :: Evaluates to the current source file name,
+  without its path, considering #line directives.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       d27ea6b8-1a8c-4519-b03e-5dc0b031e862
+:END:
+
+By using Caller Info attributes, you can obtain information about the caller to a method.
+
+Complete:
+
+- C[aller]F[ile]P[ath] :: Full path of the source file that contains
+  the caller. This is the file path at compile time. String
+- C[aller]L[ine]N[umber] ::	Line number in the source file at
+  which the method is called. Integer
+- C[aller]M[ember]N[ame] ::	Method or property name of the
+  caller. See the Member Names section later in this topic.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       8b6d0a38-f8a5-4ee1-90de-57e3c9b2fe2b
+:END:
+
+Is the following correct?
+#+begin_src fsharp
+type Tracer() =
+    member _.DoTrace(message: string,
+                      [<CallerMemberName; Optional; DefaultParameterValue("")>] memberName: string) = // ...
+#+end_src
+
+** Answer
+
+Yes.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       241dea67-075f-4ac7-a145-0144ec1271be
+:END:
+
+Is the following correct?
+#+begin_src fsharp
+type Tracer() =
+    member _.DoTrace(message: string,
+                      [<CallerMemberName; DefaultParameterValue("")>] memberName: string) = // ...
+#+end_src
+
+** Answer
+
+No. Missing the attribute ~Optional~. Caller Info attributes can only
+be applied to optional parameters.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       10ff830f-65c6-4dfd-89d0-cb62e30a60b0
+:END:
+
+Is the following correct?
+#+begin_src fsharp
+type Tracer() =
+    member _.DoTrace(message: string,
+                      [<CallerMemberName; Optional>] memberName: string) = // ...
+#+end_src
+
+** Answer
+
+No. Missing ~DefaultParameterValue("")~.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       c11a9315-6f6f-448b-8604-6e5f38398779
+:END:
+
+The namespace that contains Caller attributes is ~System.Runtime.CompilerServices~.
+
+* Item :drill:
+:PROPERTIES:
+:ID:       2dcc5ce0-44fd-4bb4-9b47-d1df90cc71ff
+:END:
+
+Why would anyone use the verbose syntax of F#?
+
+** Answer
+
+The verbose syntax is not as commonly used, but has the advantage of
+being less sensitive to indentation.
