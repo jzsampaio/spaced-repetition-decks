@@ -1,0 +1,423 @@
+# -*- mode: org; coding: utf-8 -*-
+#+STARTUP: showall
+#+PROPERTY: DRILL_CARD_TYPE_ALL hide1close twosided multisided show1cloze hide2cloze show2cloze hide1_firstmore show1_firstless show1_lastmore
+#+OPTIONS: prop:("drill_card_type")
+#+TODO: TODO WIP | DONE
+
+* Partes de uma Arma
+** Item                                                              :drill:
+SCHEDULED: <2022-06-12 dom>
+:PROPERTIES:
+:ID:       c955fab0-9082-4c9c-8f5d-b5ebff40dfa1
+:DRILL_LAST_INTERVAL: 13.7803
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.333
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-05-29 dom 12:48]
+:END:
+
+Dispositivo que impele um ou vários projéteis através de um cano pela
+pressão de gases em expansão produzidos por uma carga propelente em
+combustão.
+
+A definição acima é de uma [arma de fogo].
+
+** Item                                                              :drill:
+SCHEDULED: <2022-06-11 sáb>
+:PROPERTIES:
+:ID:       26ff2afc-3021-4f50-8d34-06e327d73560
+:DRILL_LAST_INTERVAL: 13.3788
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-05-29 dom 12:49]
+:END:
+
+A a[lma] é a parte oca do interior do cano de uma arma de fogo, que
+vai geralmente desde a culatra até a boca do cano, destinada a
+resistir à pressão dos gases produzidos pela combustão da pólvora e
+outros explosivos e a orientar o projétil.
+
+** Item                                                              :drill:
+SCHEDULED: <2022-06-08 qua>
+:PROPERTIES:
+:ID:       c43d51af-f5a9-4f1f-a2a1-c6cba9e549aa
+:DRILL_LAST_INTERVAL: 10.4384
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-05-29 dom 12:40]
+:END:
+
+A alma pode ser l[isa] ou r[aiada], dependendo do tipo de munição para
+o qual a arma foi projetada.
+
+** Item                                                              :drill:
+SCHEDULED: <2022-06-11 sáb>
+:PROPERTIES:
+:ID:       4656abb6-027e-4dce-b025-55e8357783ca
+:DRILL_LAST_INTERVAL: 12.9614
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-05-29 dom 12:49]
+:END:
+
+A alma é raiada quando o interior do cano tem sulcos he[licoidais]
+dispostos no eixo longitudinal, destinados a forçar o projétil a um
+movimento de ro[tação].
+
+** Item                                                              :drill:
+SCHEDULED: <2022-06-09 qui>
+:PROPERTIES:
+:ID:       46975f8d-a74c-4cb3-9df3-cc7bb687d874
+:DRILL_LAST_INTERVAL: 10.5955
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-05-29 dom 12:39]
+:END:
+
+As armas de alma lisa têm um sistema redutor (ch[oque]), acoplado ao
+extremo do cano, que tem como finalidade controlar a dispersão dos
+bagos de chumbo.
+
+** Item                                                              :drill:
+SCHEDULED: <2022-06-14 ter>
+:PROPERTIES:
+:ID:       e5291a88-f39e-4998-a5ec-c2ec609683be
+:DRILL_LAST_INTERVAL: 16.1437
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-05-29 dom 12:50]
+:END:
+
+Quanto ao sistema de funcionamento:
+
+Au[tomático] – Sistema pelo qual a arma, mediante o acionamento da
+tecla do gatilho e enquanto esta estiver premida, *atira
+continuamente*, extraindo, ejetando e realimentando a arma *até que se
+esgote a munição* de seu carregador ou cesse a pressão sobre o
+gatilho.
+
+** Item                                                              :drill:
+SCHEDULED: <2022-06-12 dom>
+:PROPERTIES:
+:ID:       839d9bc1-7e77-4cb2-bd39-3ebbf78958aa
+:DRILL_LAST_INTERVAL: 14.4673
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-05-29 dom 12:49]
+:END:
+
+A carabina winchester com que atirei é de funcionamento: (repetição, semi-automático, automático)
+
+[repetição]
+
+** Item                                                              :drill:
+SCHEDULED: <2022-06-08 qua>
+:PROPERTIES:
+:ID:       8d244770-c9ec-4fd9-a04e-29b7dbddf9f8
+:DRILL_LAST_INTERVAL: 10.1762
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-05-29 dom 12:48]
+:END:
+
+Quanto ao sistema de acionamento há 4 possibilidades:
+
+- ação s[imples]
+- ação d[upla]
+- d[upla] ação
+- ação h[íbrida]
+
+** Item                                                              :drill:
+SCHEDULED: <2022-06-11 sáb>
+:PROPERTIES:
+:ID:       7d156cf9-4c31-4988-b0a4-4f721e4bb13e
+:DRILL_LAST_INTERVAL: 12.8384
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-05-29 dom 12:50]
+:END:
+
+Qual o sistema de ação onde é possível a execução do tiro tanto em
+ação simples, como em ação dupla?
+
+[dupla ação]
+
+** Item                                                              :drill:
+
+As armas de alma lisa têm um sistema redutor (choque), acoplado ao
+extremo do cano, que tem como finalidade controlar a dispersão dos
+bagos de chumbo.
+
+São 3 tipos de choke:
+
+- Pl[eno]: longo alcance
+- Mo[dificado]: médio alcance
+- Ci[líndrico]: curto alcance
+
+* Estatuto do Desarmamento
+** Item                                                              :drill:
+SCHEDULED: <2022-06-14 ter>
+:PROPERTIES:
+:ID:       7e5903bf-53ae-4cc7-825e-8ea926f574e0
+:DRILL_LAST_INTERVAL: 16.37
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-05-29 dom 12:49]
+:END:
+
+O estatuto tem 6 capítulos:
+
+- I :: Do Sistema Nacional de Ar[mas]
+- II :: Do Re[gistro]
+- III :: Do Po[rte]
+- IV :: Dos Cr[imes] e das Pe[nas]
+- V :: Disposições Ge[rais]
+- VI :: Disposições Fi[nais]
+
+** Item                                                              :drill:
+SCHEDULED: <2022-06-09 qui>
+:PROPERTIES:
+:ID:       6289c1f3-f201-4e21-b0b0-f796cc515d27
+:DRILL_LAST_INTERVAL: 11.4463
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-05-29 dom 12:39]
+:END:
+
+Si[stema] Na[cional] de A[rmas] – Sinarm
+
+** Item                                                              :drill:
+SCHEDULED: <2022-06-10 sex>
+:PROPERTIES:
+:ID:       ddc13a7b-1579-463c-a355-c7eedbf3ccb4
+:DRILL_LAST_INTERVAL: 12.1418
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-05-29 dom 12:40]
+:END:
+
+O Sinarm tem circunscrição (escopo administrativo) em (escolha uma):
+
+- [ ] município
+- [ ] estado
+- [ ] regiões
+- [x] território nacional
+
+** Item                                                              :drill:
+SCHEDULED: <2022-06-10 sex>
+:PROPERTIES:
+:ID:       943f2e04-8f29-4017-b48f-71a5f17f19f4
+:DRILL_LAST_INTERVAL: 11.5433
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-05-29 dom 12:40]
+:END:
+
+O que é um armeiro?
+
+[Quem fabrica ou modifica armas].
+
+** Item                                                              :drill:
+SCHEDULED: <2022-06-12 dom>
+:PROPERTIES:
+:ID:       29382fa8-390a-4ae5-8495-87fb80c699bd
+:DRILL_LAST_INTERVAL: 13.8322
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-05-29 dom 12:49]
+:END:
+
+O Sinarm tem escopo sobre as armas de civis e do exército?
+
+[Não. Não tem registro de armas das forças armadas].
+
+** Item                                                              :drill:
+SCHEDULED: <2022-06-03 sex>
+:PROPERTIES:
+:ID:       27a373f2-a22f-4595-86d0-b6d3efd3cd80
+:DRILL_LAST_INTERVAL: 5.0662
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.667
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-05-29 dom 12:50]
+:END:
+
+O estatuto do desarmamento é organizado em cap[ítulos], ar[tigos],
+par[ágrafos], e in[cisos]. O texto inicial de cada parte é chamado de
+c[aput].
+
+** Item                                                              :drill:
+SCHEDULED: <2022-06-02 qui>
+:PROPERTIES:
+:ID:       b04262a4-6e46-40e4-9146-4574e0746678
+:DRILL_LAST_INTERVAL: 4.4051
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.667
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-05-29 dom 12:50]
+:END:
+
+O processo de comprovação de idenoidade junto ao sinarme deve ser
+revalidado a cada [3 anos].
+
+** Item                                                              :drill:
+SCHEDULED: <2022-06-09 qui>
+:PROPERTIES:
+:ID:       60c7896c-705c-4b53-8181-98f0356d29d8
+:DRILL_LAST_INTERVAL: 11.4185
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-05-29 dom 12:39]
+:END:
+
+No caso do roubo da arma, devo notificar a Polícia F[ederal] em até 24
+horas.
+
+** Item                                                              :drill:
+
+Quanto ao sistema de carregamento, há duas formas:
+
+- an[tecarga] :: carregado pela boca do cano
+- re[trocarga] :: carregado pela parte de trás
+
+** Item                                                              :drill:
+
+A maça da mira fica na parte [da frente]. A alça, na parte [de trás]
+
+
+** Item                                                              :drill:
+
+Qual fica na parte da frente da arma? A maça ou a alça de mira?
+
+A [maça].
+
+** Item                                                              :drill:
+
+Qual fica na parte de tras da arma? A maça ou a alça de mira?
+
+A [alça].
+
+** Item                                                              :drill:
+
+O pedaço de ferro que protege o gatilho é conhecido como [guarda-mato].
+
+** Item                                                              :drill:
+
+O botão que quando apertado faz o carregado sair é o [retém do
+carregador].
+
+** Item                                                              :drill:
+
+A parte móvel de uma pistola (a que faz o movimento de vai e vem) é o
+fe[rrolho] (ou também conhecido como sl[ide]).
+
+** Item                                                              :drill:
+
+A peça que pergute a munição e que o cowboy puxa para trás é o [cão].
+
+** Item                                                              :drill:
+
+O sinarme emite a documentação para se comprar uma arma. A polícia
+federal registra uma arma e permite a posse.
+
+** Item                                                              :drill:
+
+| Crime                                           | Detenção | Reclusão | Multa | Nota                                                    |
+|-------------------------------------------------+----------+----------+-------+---------------------------------------------------------|
+| *Posse* irregular de AF de uso permitido        |      1-3 |          |       |                                                         |
+| Omissão de cautela                              |      1-2 |          |       |                                                         |
+| *Porte* ilegal de arma de fogo de uso permitido |          |      2-4 |       | Inafiançável, a não ser que seja o dono                 |
+| Disparo de arma de foto                         |          |      2-4 |       | Inafiançável                                            |
+| *Posse* ou *Porte* ilegal de AF de uso restrito |          |      3-6 |       |                                                         |
+| *Posse* ou *Porte* ilegal de AF de uso proibido |          |     4-12 |       |                                                         |
+| Comércio ilegal                                 |          |     6-12 |       |                                                         |
+| Tráfico internacional de arma de fogo           |          |     8-16 |       | Aumentada pela metade se a arma for restrita ou probida |
+
+** Item                                                              :drill:
+
+A de[tenção] é aplicada para condenações mais leves e não admite que o
+inicio do cumprimento seja no regime fechado. Em regra a detenção é
+cumprida no regime semi-aberto, em estabelecimentos menos rigorosos
+como colônias agrícolas, industriais ou similares, ou no regime
+aberto, nas casas de albergado ou estabelecimento adequados.
+
+A pena de re[clusão] é aplicada a condenações mais severas, o regime
+de cumprimento pode ser fechado, semi-aberto ou aberto, e normalmente
+é cumprida em estabelecimentos de segurança máxima ou media.
+
+** Item                                                              :drill:
+
+Re[clusão]: admite o regime inicial fechado.
+
+De[tenção]: não admite o regime inicial fechado.
+
+** Item                                                              :drill:
+
+Qual é pior? Detenção ou reclusão?
+
+Reclusão.

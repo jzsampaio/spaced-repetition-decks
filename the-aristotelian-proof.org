@@ -168,7 +168,6 @@ other object ~x~. What is said for ~o~ is valid equally for ~x~. There is then a
 - ~s0~ is said to have non derived (or iherent or built-in) causal
   power. ~s0~ is the first cause.
 
-  
 
 
 
@@ -208,7 +207,6 @@ existence of others without needing something to actualize itself. It
 is pure actuality because it is from this source node that every other
 actuality derives. Being pure actuality, it has no potential
 (otherwise, who would actualize it?).
-
 
 * The scope of what we have discussed
 

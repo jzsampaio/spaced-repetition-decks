@@ -942,3 +942,79 @@ lim[itation].
 *** Item                                                            :drill:
 *** Item                                                            :drill:
 *** Item                                                            :drill:
+* Cruso "Preparação para a Confissão" do Professor Donato
+** Item                                                              :drill:
+
+O sacramentos ao todo são [7]
+
+** Item                                                              :drill:
+
+Os 7 sacramentos:
+
+- bat[ismo]
+- con[firmação]
+- euc[aristia]
+- pen[itência]
+- cas[amento]
+- ord[enamento]
+- unç[ão] dos enfermos
+
+** Item                                                              :drill:
+
+As etapas do sacramento da penitência são [5]
+
+** Item                                                              :drill:
+
+Ao confessar-se, é obrigatório listar:
+
+- todos os pecados graves
+    * Tipo de pecado e número de vezes
+
+É recomendável também incluir:
+- os pecados veniais também sejam confessados, desde que haja o
+  arrependimento e a intenção de não mais cometê-los
+
+
+** Item                                                              :drill:
+
+Para que haja pecado grave são necessários 3 condições:
+
+- Plena advertência
+- Pleno consentimento
+- Matéria grave
+
+** Item                                                              :drill:
+
+- Exame de consciência ::
+- Arrependimento :: dor por ter ofendido Deus pelos pecados cometidos
+- Propósito :: firmamento propósito de não mais cometê-los;
+- Declaração dos pecados ::
+- Absolvição ::
+- Penitência ::
+
+** Item                                                               :drill:
+
+Ao se aproximar de um padre para pedir perdão dos pecados, dizer:
+
+#+begin_quote
+Perdoe-me, padre, pois eu pequei. Faz X anos/dias desde a minha última
+confissão. Estes são meus pecados:
+#+end_quote
+
+** Item                                                               :drill:
+
+
+Oração especial para pedir perdão dos pecados:
+
+#+begin_quote
+
+Meu Deus, eu me ar[rependo], de todo coração
+de todos meus pecados e os det[esto],
+porque pecando não só mereci as penas que jus[tamente] estabelecestes,
+mas principalmente porque Vos ofe[ndi] a Vós,
+sumo bem e digno de ser am[ado] sobre todas as coisas.
+Por isso, proponho firmemente, com a ajuda da vossa gr[aça],
+não mais pecar e fugir das oc[asiões] próximas de pecar.
+
+Amém.
+#+end_quote

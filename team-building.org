@@ -2,6 +2,7 @@
 #+STARTUP: showall
 #+PROPERTY: DRILL_CARD_TYPE_ALL hide1close twosided multisided show1cloze hide2cloze show2cloze hide1_firstmore show1_firstless show1_lastmore
 #+OPTIONS: prop:("drill_card_type")
+#+TODO: TODO WIP | DONE
 
 * WIP Accelerate (The Science of Lean Software and Devos) - Building and Scaling High Performing Technology Organizations (by Nicole Forgren, Jez Humble, and Gene Kim)
 ** Ch 1 - Accelerate
@@ -19,7 +20,6 @@ SCHEDULED: <2022-05-04 qua>
 :DRILL_LAST_QUALITY: 3
 :DRILL_LAST_REVIEWED: [2022-04-25 seg 19:36]
 :END:
-
 
 FOCUS ON CAP[ABILITIES], NOT MAT[URITY]
 
@@ -101,17 +101,17 @@ The 4 metrics for measuring performance of delivery are:
 - change f[ail] r[ate]
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-04-28 qui>
+SCHEDULED: <2022-05-16 seg>
 :PROPERTIES:
 :ID:       ee7f48e2-a737-46c7-a1fc-bb0ff8ac56c1
-:DRILL_LAST_INTERVAL: 3.4029
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 9.0299
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 seg 19:40]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-05-07 sáb 17:23]
 :END:
 
 We measured product delivery l[ead] t[ime] as the time it takes to go
@@ -343,6 +343,9 @@ safely, quickly, and sustainably.
 
 ** Ch 5 - Architecture
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       960caa42-d5b4-4f9e-bdde-11ad14a6f5e5
+:END:
 
 #+begin_quote
 organizations which design systems . . . are constrained to produce
@@ -353,11 +356,17 @@ organizations
 The sentence above is from researcher called ~Conway~
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       bb7d1707-b1e7-46f8-92d9-092758bed3d9
+:END:
 
 The “in[verse] Co[nway] Maneuver: organizations should evolve their
 team and organizational structure to achieve the desired architecture.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       9c36d6b5-bd18-44d7-bcf3-e1aa2dcb6222
+:END:
 
 According to ~Accelerate~, the 2 key architecture characteristics are:
 
@@ -368,6 +377,9 @@ According to ~Accelerate~, the 2 key architecture characteristics are:
 
 ** Ch 6 - Integrating Infosec into the Delivery Lifecycle
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       556dfb5a-8abd-41a4-a561-b021fedc1af7
+:END:
 
 The OWASP (O[pen] W[eb] A[pplication] S[ecurity] P[roject]) is an
 online community that produces freely-available articles,
@@ -375,9 +387,279 @@ methodologies, documentation, tools, and technologies in the field of
 web application security.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       5d21486f-f659-4dba-bc42-a90f8a454513
+:END:
 
 Ru[gged] DevOps is another name for DevSecOps.
 
+* WIP Empowered - Ordinary People, Extraordinary Products (by Marty Cagan)
+
+At a first moment, I decided to read *only parts V and VI* of this
+book. They talk about team topology and product strategy.
+
+** Part I - Lessons from Top Tech Companies
+*** Ch 1 - Behind Every Great Company
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       e0bb6b74-1422-46f7-a95f-a11e60536ba0
+:END:
+
+What does SAFe means?
+
+[Scaled Agile Framework]
+
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       1d348026-bbb4-4e66-a5ac-5f1cfa44e626
+:END:
+
+
+~Empowered~ distinguishes between two kinds of teams: Fe[ature] teams vs
+Em[powered] Pr[oduct] Teams.
+
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       793fee2e-b320-4ab2-8a33-0e433c085b12
+:END:
+
+Fe[ature] teams are cross‐functional (a product manager doing mainly
+project management, a product designer, plus some engineers), and
+assigned features and projects to build rather than problems to solve,
+and as such they are all about output and not business results.
+
+Em[powered] pr[oduct] teams are also cross‐functional (a product
+manager, a product designer, and engineers), they are assigned
+problems to solve, and are then empowered to come up with solutions
+that work—measured by outcome—and held accountable to results.
+
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       4d868b20-ada9-4544-9c3e-2d45df2b395c
+:END:
+
+Which kind of team is assigned problems to solve? Feature teams or
+Empowered product teams?
+
+[Empowered product teams]
+
+** Part V - Team Topology
+*** TODO Ch 41 - Optimizing for Empowerment
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       41b53711-e1cd-4c37-8bfe-9727ad54e4eb
+:END:
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       3ad4360e-d1eb-492f-8b0e-8c5a80cd3257
+:END:
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       6fab43ff-ef37-4907-a265-520f15503985
+:END:
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       9d16c869-e5e7-4d34-9416-ca072c9dfff9
+:END:
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       51ff18a4-87fd-43c3-aad7-72f827502164
+:END:
+*** TODO Ch 42 - Team Types
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       52d0005f-6ddd-40e3-9573-c91ee643861a
+:END:
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       57025646-48e0-4c49-8171-42ce1cf791d6
+:END:
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       7bc2d9db-4a93-4710-bb5a-a146d69624ae
+:END:
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       5cbbabd8-fc20-4f09-9dd5-16cdf7056f5d
+:END:
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       46f5d085-d21e-4e6f-9c56-126665f71aa9
+:END:
+*** TODO Ch 43 - Platform Teams
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       2c5f325b-6ba9-471f-99a3-94a2ac2470ea
+:END:
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       8e243ecd-a7d0-4cca-bcb0-e7623c6f4a70
+:END:
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       2a249e3d-993e-40e0-b288-5797579a27fd
+:END:
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       9739ed57-8322-4af9-9d16-a5f2138c644f
+:END:
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       3acefb30-630b-426d-893b-a70cd2859e30
+:END:
+*** TODO Ch 44 - Experience Teams
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       70e0569b-2ead-4eef-b1f3-93e5896e83ca
+:END:
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       050964fa-59e3-4551-8150-186129b57e28
+:END:
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       d1673e24-6be8-4d68-9e28-619b5964eb36
+:END:
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       473d2266-8a63-4beb-bc53-dd4f399a7beb
+:END:
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       09e96435-9856-45ac-a6fc-d383ddf465c2
+:END:
+*** TODO Ch 45 - Topology and Proximity
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       bb2c8805-4683-4c24-a528-a40302692439
+:END:
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       6b387954-d669-47b5-8c2c-f31409fb7fa1
+:END:
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       42d27e15-681e-4ad7-b1f5-001edfabf2ca
+:END:
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       7f89437a-c539-49e1-b741-13da235e3b6e
+:END:
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       a92fee9c-a223-43ac-a131-6267bdfdddc1
+:END:
+*** TODO Ch 46 - Topology Evolution
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       10405e78-685d-4db7-a612-26dce4359795
+:END:
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       2eb86ca1-b5fd-47b5-b107-544edc9409e3
+:END:
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       67962ba1-b3be-40c5-9f6a-c099be5e738c
+:END:
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       39e27d2a-035b-4bcc-acc2-7caa5a42d60a
+:END:
+***** Item                                                        :drill:
+:PROPERTIES:
+:ID:       2fe54562-4562-4b2e-aa94-8aa644142f2c
+:END:
+** Part VI - Product Strategy
+*** TODO Ch 48 - Focus
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       e74e3df0-1b95-4745-b470-887cbbd72f32
+:END:
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       e9f926b7-e33e-49ff-b112-086acd83896f
+:END:
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       b18ecfe9-cac9-4039-a5c9-4d21cc9c3f87
+:END:
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       47bdd9c3-622b-4ec0-b79f-ba24f28956ff
+:END:
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       a0948991-1dd0-4af7-98ce-260ee4282854
+:END:
+*** TODO Ch 49 - Insights
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       5c576607-7da2-44de-a6d5-1234e1553be4
+:END:
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       279f678b-d2ec-446d-b694-e756b09e972e
+:END:
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       95b87cf1-96bc-4020-9676-68929b6f0ba6
+:END:
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       f8c8abba-682e-49d8-affc-ca4b310a3a9c
+:END:
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       6500f296-3573-495c-a5b6-1d42918b6f48
+:END:
+*** TODO Ch 50 - Actions
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       a06aa7c4-0b07-44ed-aa69-c44391c3684e
+:END:
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       02cb39a0-e498-4924-977f-44d6bc4a1f7e
+:END:
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       14cb6c9b-7e94-41e1-8ac0-1b93679be570
+:END:
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       20784273-14a4-4e76-b587-c06587ffd83e
+:END:
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       273e4e97-a412-45a7-81e2-d19967654193
+:END:
+*** TODO Ch 51 - Management
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       e1e27459-f672-4366-a9cc-946a0b0a3bc4
+:END:
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       383aace9-81a4-4cb5-9efe-e5d3293cf2a8
+:END:
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       c9a11664-a4e1-4905-b6c4-91ef69bf18c6
+:END:
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       b91eeb86-d629-4b35-a85d-f0835dbedf97
+:END:
+**** Item                                                          :drill:
+:PROPERTIES:
+:ID:       2ec9c87a-c725-467f-9e1e-d51e0a38a49c
+:END:
+* TODO Team Topologies: Organizing Business and Technology (by Matthew Skelton and Manuel Pais)
+* TODO No Rules Rules - Netflix and the Culture of Reinvention (by Reed Hastings and Erin Meyer)
+* TODO Inspired - How to Create Tech Products Customers Love (by Marty Cagan)
+* TODO The Principles of Product Development Flow - Second Generation Lean Product Development
+* TODO Team of Teams
 * DONE Scaling Agile @ Spotify - with Tribes, Squads, Chapters & Guilds (by Henrik Kniberg & Anders Ivarsson)
 ** Item                                                              :drill:
 SCHEDULED: <2022-04-30 sáb>
@@ -534,7 +816,7 @@ SCHEDULED: <2022-05-01 dom>
 Poppendieck.
 
 The PO is the [entrepreneur], focusing on delivering a great product,
-while the chapter lead is the [professor], focusing on technical
+while the  lead is the [professor], focusing on technical
 excellence.
 
 ** Item :drill:
@@ -557,9 +839,3 @@ The terms used to describe teams under Spotify model are:
 - T[ribe]
 - C[hapter]
 - G[uild]
-
-* TODO Team Topologies: Organizing Business and Technology (by Matthew Skelton and Manuel Pais)
-* TODO No Rules Rules - Netflix and the Culture of Reinvention (by Reed Hastings and Erin Meyer)
-* TODO Inspired - How to Create Tech Products Customers Love (by Marty Cagan)
-* TODO Empowered - Ordinary People, Extraordinary Products (by Marty Cagan)
-* TODO The Principles of Product Development Flow - Second Generation Lean Product Development
