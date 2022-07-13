@@ -1,0 +1,1085 @@
+# -*- mode: org; coding: utf-8 -*-
+#+STARTUP: showall
+#+PROPERTY: DRILL_CARD_TYPE_ALL hide1close twosided multisided show1cloze hide2cloze show2cloze hide1_firstmore show1_firstless show1_lastmore
+#+OPTIONS: prop:("drill_card_type")
+#+TODO: TODO WIP | DONE
+
+* Designing Data Intensive Applications (Martin Kleppmann)
+** Ch 2 - Query Languages
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-19 ter>
+:PROPERTIES:
+:ID:       f34e796e-29b0-4d49-8d7f-4ae623801c63
+:DRILL_LAST_INTERVAL: 5.6728
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:56]
+:END:
+
+2 models for structuring and querying data in a graph are:
+
+- pr[operty] graph model
+- triple-st[ore] model
+
+three declarative qu[ery] la[nguages] for graphs: Cypher, SPARQL, and
+Datalog
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-18 seg>
+:PROPERTIES:
+:ID:       d8392029-d6b6-4cec-a3ba-08ee0d6a8e68
+:DRILL_LAST_INTERVAL: 4.6185
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:50]
+:END:
+
+Example 2-2. Representing a pr[operty] gr[aph] using a relational
+schema.
+
+#+begin_src sql
+CREATE TABLE vertices (
+    vertex_id   integer PRIMARY KEY,
+    properties  json
+);
+
+CREATE TABLE edges (
+    edge_id     integer PRIMARY KEY,
+    tail_vertex integer REFERENCES vertices (vertex_id),
+    head_vertex integer REFERENCES vertices (vertex_id),
+    label       text,
+    properties  json
+);
+
+CREATE INDEX edges_tails ON edges (tail_vertex);
+CREATE INDEX edges_heads ON edges (head_vertex);
+#+end_src
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-18 seg>
+:PROPERTIES:
+:ID:       0afef898-2b6c-41e3-a87a-73425091fa62
+:DRILL_LAST_INTERVAL: 4.972
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:54]
+:END:
+
+The following is an example of a query in a language called C[ypher]:
+
+#+begin_src
+MATCH
+  (person) -[:BORN_IN]->  () -[:WITHIN*0..]-> (us:Location {name:'United States'}),
+  (person) -[:LIVES_IN]-> () -[:WITHIN*0..]-> (eu:Location {name:'Europe'})
+RETURN person.name
+#+end_src
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-17 dom>
+:PROPERTIES:
+:ID:       1281433b-d9a5-4e7b-8940-428c0bd6442d
+:DRILL_LAST_INTERVAL: 4.111
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:56]
+:END:
+
+if we put graph data in a relational structure, can we also query it
+using SQL?
+
+The answer is yes, but with some difficulty. In a relational database,
+you usually know in advance which j[oins] you need in your query. In a
+graph query, you may need to traverse a variable number of edges
+before you find the vertex you’re looking for—that is, the number of
+j[oins] is not fixed in advance.
+
+This idea of variable-length traversal paths in a query can be
+expressed using something called re[cursive] co[mmon] table
+expressions (the WITH RECURSIVE syntax).
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-17 dom>
+:PROPERTIES:
+:ID:       a73b1f2b-a48d-4ffe-a0d0-432ec5533698
+:DRILL_LAST_INTERVAL: 4.4558
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:54]
+:END:
+
+The following is an example of a query in Tu[rtle],which is a language
+for tr[iple]-st[ore].
+
+#+begin_src
+@prefix : <urn:example:>.
+_:lucy     a :Person;   :name "Lucy";          :bornIn _:idaho.
+_:idaho    a :Location; :name "Idaho";         :type "state";   :within _:usa.
+_:usa      a :Location; :name "United States"; :type "country"; :within _:namerica.
+_:namerica a :Location; :name "North America"; :type "continent".
+#+end_src
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-17 dom>
+:PROPERTIES:
+:ID:       ce4e567e-38a7-46dc-bae4-ded288111373
+:DRILL_LAST_INTERVAL: 4.2171
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:47]
+:END:
+
+In a tr[iple]-st[ore], all information is stored in the form of very
+simple three-part statements: (subject, predicate, object).
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-18 seg>
+:PROPERTIES:
+:ID:       6af64e26-bfa3-4ded-afb3-beff5c6bc7ce
+:DRILL_LAST_INTERVAL: 5.0536
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:51]
+:END:
+
+Da[talog] is a much older language than SPARQL or Cypher, having been
+studied extensively by academics in the 1980s. It is used in a few
+data systems: for example, it is the query language of Datomic. It is
+a subset of Pr[olog]
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-18 seg>
+:PROPERTIES:
+:ID:       05717ea6-12ce-4726-9cd1-d8912588b420
+:DRILL_LAST_INTERVAL: 4.8152
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:54]
+:END:
+
+New nonrelational “NoSQL” datastores have diverged in two main
+directions:
+
+- Do[cument] databases target use cases where data comes in
+  self-contained documents and relationships between one document and
+  another are rare.
+
+- Gr[aph] databases go in the opposite direction, targeting use
+  cases where anything is potentially related to everything.
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-17 dom>
+:PROPERTIES:
+:ID:       0775cfd4-e36e-487b-a119-ac2f6f52de8c
+:DRILL_LAST_INTERVAL: 4.374
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:51]
+:END:
+
+One thing that document and graph databases have in common is that
+they typically don’t enforce a sc[hema] for the data they store
+... However, your application most likely still assumes that data has
+a certain structure; it’s just a question of whether the schema is
+ex[plicit] (enforced on write) or im[plicit] (handled on read).
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-17 dom>
+:PROPERTIES:
+:ID:       c00e90f6-4655-4884-ad2c-78f1f3fb9ebd
+:DRILL_LAST_INTERVAL: 4.1174
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:53]
+:END:
+
+M[ap]Re[duce] is a programming model for processing large amounts of
+data in bulk across many machines, popularized by Google
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       f4b21fd3-6376-443e-979e-44d5b63d7126
+:END:
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       e0869cab-a412-4078-bee8-f645b4176dc2
+:END:
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       d3dac0e2-0860-46a2-b685-30f73353a8a3
+:END:
+* Time and Relational Theory (by Hugh Darwen, C.J. Date, and Nikos Lorentzos)
+** [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::10:1][Ch 1 - Types and Relations]]
+*** Item                                                            :drill:
+
+~Relvar~ stands for re[lation] va[riable].
+
+*** Item                                                            :drill:
+
+A type is a [set of values].
+
+*** Item                                                            :drill:
+
+Every value is of [exactly one|| "exactly one" or "one or more"]
+types.
+
+*** Item                                                            :drill:
+
+Types can be sc[alar] and nonsc[allar], as well as us[er] defined and
+sy[stem] defined.
+
+*** Item                                                            :drill:
+
+*Definition of tuples in relational theory*
+
+Let T1, T2, …, Tn (n ≥ 0) be *type names*, not necessarily all
+distinct. Associate with each Ti a distinct *attribute name*, Ai; each
+of the n ~attribute-name : type-name~ pairs that results is an
+att[ribute]. Associate with each attribute Ai an *attribute value*,
+vi, of type Ti; each of the n ~attribute : value~ pairs that results
+is a comp[onent]. Then the *set* - call it t - of all n components
+thus defined is a *tuple value* (or just a tuple for short) over the
+attributes A1, A2, …, An. The value n is the deg[ree] of t; The set H
+of all n attributes is the hea[ding] of t.
+
+*** Item                                                            :drill:
+
+*Definition of relation*
+
+Let H be a tuple heading, and let t1, t2, …, tm (m ≥ 0) be distinct
+tuples all with heading H. Then the *combination* - call it r - of H
+and the set of tuples {t1, t2, …, tm} is a rel[ation] value (or just a
+rel[ation] for short) over the attributes A1, A2, …, An, where A1, A2,
+…, An are all of the attributes in H. The heading of r is H; r has the
+same attributes (and hence the same attribute names and types) and the
+same deg[ree] as that heading does. The set of tuples {t1, t2, …, tm} is
+the bo[dy] of r. The value m is the card[inality] of r.
+
+*** Item                                                            :drill:
+
+The predicate corresponding to relation r is the relation pred[icate]
+for r. Further, each tuple in the body of r can be regarded as
+denoting a certain prop[osition].
+
+**** More
+
+We can say the predicate corresponding to a given relation is the
+intended interpretation, or meaning, for that relation. And the
+propositions corresponding to tuples appearing in that relation are
+understood by convention to be ones that evaluate to TRUE.
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-18 seg>
+:PROPERTIES:
+:ID:       3d8fce34-5cbb-4b42-908a-6071ee904660
+:DRILL_LAST_INTERVAL: 4.8275
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:52]
+:END:
+
+A type is sc[alar] if it has no user visible components and nonscalar
+otherwise.
+
+**** More
+
+Examples of nonscalar types are: tuples and relations.
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-17 dom>
+:PROPERTIES:
+:ID:       d26ac10e-b219-494a-b876-b883b4f241d7
+:DRILL_LAST_INTERVAL: 4.1223
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:50]
+:END:
+
+#+begin_src
+TYPE POINT /* geometric points in two-dimensional space */
+
+   POSSREP CARTESIAN { X RATIONAL, Y RATIONAL … }
+
+   POSSREP POLAR { RHO RATIONAL, THETA RATIONAL … } ;
+#+end_src
+
+Both ~Polar~ and ~Cartesian~ are pos[sible] rep[resentation] for the
+type ~Point~.
+
+*** Item                                                            :drill:
+
+Every type definition includes, implicitly or explicitly, a
+corresponding type con[straint], which is a specification of the set
+of values that make up that type
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-17 dom>
+:PROPERTIES:
+:ID:       b838a08e-f6b7-48b3-a117-447909fa7710
+:DRILL_LAST_INTERVAL: 3.9388
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:53]
+:END:
+
+Differences between a table and a relation:
+
+- No relation ever contains any du[plicate] tuples
+- There’s no t[op] to bo[ttom] ordering to the tuples of a relation
+- There’s no le[ft] to ri[ght] ordering to the attributes of a tuple or
+  relation
+- relations never contain nu[lls]
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-17 dom>
+:PROPERTIES:
+:ID:       8e1e0bce-b9b0-47c7-8d3a-67c0cfeca757
+:DRILL_LAST_INTERVAL: 4.162
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:46]
+:END:
+
+There are exactly two nullary relations, one that contains just one
+tuple (necessarily with no components, and hence a nullary tuple or
+0-tuple—see the bullet item immediately following), and one that’s
+empty and thus contains no tuples at all.  We refer to these two
+relations colloquially as TABLE_DE[E] and TABLE_DU[M].
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-18 seg>
+:PROPERTIES:
+:ID:       6f495188-8296-4ac7-a993-0835c6fcf540
+:DRILL_LAST_INTERVAL: 5.049
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:46]
+:END:
+
+If relation r has heading H, then that relation r is of type RELATION
+H
+
+RELATION here is a type gen[erator]
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-18 seg>
+:PROPERTIES:
+:ID:       7a41c89b-cd78-4784-b08c-607cb8774095
+:DRILL_LAST_INTERVAL: 4.6736
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:54]
+:END:
+
+The Cl[osed] Wo[rld] Assumption (CWA) states that If relation r has
+predicate P, then the body of r contains all and only those tuples
+that correspond to instantiations of P that evaluate to TRUE.
+
+** [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::11:1][Ch 2 - Relational Algebra]]
+
+*** Item                                                            :drill:
+
+The relational model includes an open ended [set||"set" or "list"] of
+generic read-only operators known collectively as the relational
+al[gebra].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       12f7b2bd-814e-467b-b773-9d5244198e56
+:END:
+
+Relations r1 and r2 are joinable if and only if attributes with the
+same name are of the [same||"same" or "different"] type.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       538fd73a-da1d-4d2f-ae2e-7b1b9826db00
+:END:
+
+Is it the case that group and ungroup operators are always the inverse
+of one another?
+
+[No].
+
+**** More
+
+that given some relation r and some grouping of r, there’s always an
+inverse ungrouping that yields r again; however, the converse isn’t
+necessarily so.
+
+*** Item                                                            :drill:
+
+Relational completeness is a basic measure of the expressive
+capability of a language. If a language is relationally complete, then
+it means—speaking very loosely, please note!—that queries of arbitrary
+complexity can be formulated in that language [without|| "with" or
+"without"] having to resort to branching or iterative loops.
+
+**** More
+
+And in order to be relationally complete, it’s sufficient that the
+language in question support, directly or indirectly, all of the
+following operators: restriction, projection, JOIN, UNION, NOT
+MATCHING, and EXTEND (first version), together with the relational
+inclusion operator “⊆”
+
+| Operator                        | Example in Relational Algebra | Example in Tutorial D                   |
+| Rename                          | r RENAME {A AS B}             | SP RENAME { SNO AS SNUM , PNO AS PNUM } |
+| Restrict                        | r WHERE bx                    |                                         |
+| Project                         | r{A1,A2,…,An}                 |                                         |
+| Union                           | r1 UNION r2                   |                                         |
+| Intersect                       | r1 Intersect r2               |                                         |
+| Minus                           | r1 Minus r2                   |                                         |
+| Disjoint Union                  |                               |                                         |
+| Included Minus                  |                               |                                         |
+| Join                            |                               |                                         |
+| Matching                        |                               |                                         |
+| Not Matching                    |                               |                                         |
+| Extend (adding new attribute)   |                               |                                         |
+| Extend (changing existing one)  |                               |                                         |
+| Image relation                  |                               | EXTEND S : { PNO_REL := !!SP }          |
+| Group and Ungroup               |                               |                                         |
+| Wrap and Unwrap                 |                               |                                         |
+| With (syntactic sugar)          |                               |                                         |
+
+* [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::0:1][The Art of Immutable Architecture]]
+** Ch 1 - Why Immutable Architecture
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-18 seg>
+:PROPERTIES:
+:ID:       eaafd759-959b-411b-b866-53cf53b07e51
+:DRILL_LAST_INTERVAL: 4.5974
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:55]
+:END:
+
+Common fallacies of distributed systems:
+
+– The network is re[liable].
+– Latency is ze[ro].
+– Bandwidth is in[finite].
+– The network is se[cure].
+– To[pology] doesn’t change.
+– There is one ad[ministrator].
+– Transport cost is ze[ro].
+– The network is homo[geneous].
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-18 seg>
+:PROPERTIES:
+:ID:       c7c6836c-88ca-4e26-9836-ae954afeaf47
+:DRILL_LAST_INTERVAL: 5.1662
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:55]
+:END:
+
+As we build new data structures, we can reuse existing pieces of old
+data structures. There is no need to copy those pieces, because we
+have already established that they will not change. We simply create
+new data elements to represent the ones that have “changed” and let
+them point to the ones that haven’t.
+
+This is a technique called str[uctural] sh[aring]. It’s a common
+optimization for immutable data structures that is enabled by
+immutable data structures.
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-17 dom>
+:PROPERTIES:
+:ID:       f8aa8ae1-ad7b-4968-86d4-1860a39bca65
+:DRILL_LAST_INTERVAL: 4.2109
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:54]
+:END:
+
+The Two Generals’ Problem (TGP), as Jim Gray named it in 19783, has
+been proven to have [zero||zero,one,two, ...] solutions.
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-18 seg>
+:PROPERTIES:
+:ID:       99b767cc-b170-493e-9865-2a8a6fc5b5b4
+:DRILL_LAST_INTERVAL: 4.6617
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:46]
+:END:
+
+Given the impossibility of the TGP, how can distributed systems ever
+work?
+
+We can indeed find a protocol that exchanges complete status, as long
+as we allow one party to 1. act in un[certainty] and 2. remove the
+de[adline].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       375e568a-5e13-4304-b686-2d3d67e8a8ab
+:END:
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       f122e300-51fb-47a0-aad8-6f08551b7fdf
+:END:
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       cc6de256-efcc-49df-a841-f502c5b6796f
+:END:
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       e865d3ef-b20f-43b5-bb89-f9f51da3bfd9
+:END:
+*** Item                                                            :drill:
+
+As you learn to model business problems based on immutability, you
+will start to enjoy the advantages of a reliable au[dit] history, just
+like blockchain. And as you learn to implement immutable data
+structures within your mobile apps and microservices, you will benefit
+from the same aut[onomy] found in Git.
+
+*** Item                                                            :drill:
+
+A saying:
+
+Immutability Ch[anges] Everything
+
+** [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::5:1][Ch. 2 - Forms of Immutable Architecture]]
+*** Item                                                            :drill:
+
+The trade-offs requiring shift to immutability have led to the
+emergence of different architectural styles. Three of those styles:
+Ev[ent] Sou[rcing] (ES), Asynchronous Mo[del] Vi[ew] Up[date], and
+His[torical] Mod[eling].
+
+*** Item                                                            :drill:
+
+An *identity* in object-oriented programming describes the property of
+objects that dis[tinguishes] them from other objects.
+
+The reason for an object to have intrinsic identity is so that it can
+provide con[sistent], mea[ningful] behavior as it changes over time.
+
+*** Item                                                            :drill:
+
+Our goal now is to use immutable records to model mutable objects. The
+records clearly are not the objects themselves. The immutable records
+are the mut[ations] of the objects.
+
+We will treat immutable records as obs[erved] state. Objects, on the
+other hand, are der[ived] state.
+
+*** Item                                                            :drill:
+
+Der[ived] state is a deterministic transformation of obs[erved] state. It
+adds no information to the system.
+
+*** Item                                                            :drill:
+
+The fundamental idea of Event Sou[rcing] is that of ensuring every
+change to the state of an application is captured in an event object,
+and that these event objects are themselves stored in the seq[uence]
+they were applied for the same lifetime as the application state
+itself.
+
+*** Item                                                            :drill:
+
+I therefore consider seq[uence] a defining characteristic of event
+sourcing.
+
+*** Item                                                            :drill:
+
+Practitioners will often pair event sourcing with both Command Query
+Responsibility Seg[regation] (CQRS) and Domain-Driven Des[ign]
+(DDD). This pairing is not a requirement for ES, nor are the
+implementations all in agreement how it is achieved
+
+*** Item                                                            :drill:
+
+Command Query Responsibility Segregation extends the object-oriented
+principle of Command Query Separation (CQS).
+
+A com[mand] serves to modify objects, a qu[ery] to return information
+about objects
+
+*** Item                                                            :drill:
+
+In CQRS , commands and queries follow separate pa[ths] and often
+interact with different architectural com[ponents]. Co[mmands] are
+often asynchronous, while qu[eries] are usually synchronous. In many
+implementations, they operate against different data stores.
+
+*** Item                                                            :drill:
+
+When CQRS is paired with ES, commands are further distinguished from
+events. Whereas a command is expressed as an im[perative] statement,
+an event is a pa[st]-tense statement. The command ~SubmitOrder~ results
+in the event ~OrderSubmitted~.
+
+*** Item                                                            :drill:
+
+DDD recognizes two kinds of objects: entities and value types. An
+en[tity] is an object that has identity. As we have already seen,
+object-oriented identity affords the object the ability to change over
+time. In contrast, a va[lue] type has no identity and is therefore
+immutable.
+
+*** Item                                                            :drill:
+
+For efficiency of recomputing the current state, Event sourced
+applications break that history into independent *streams*, each
+stream affecting only a subset of the domain model. *When ES is
+combined with DDD*, that subset is the agg[regate] ro[ot].
+
+*** Item                                                            :drill:
+
+Entities in DDD are organized within hierarchies called agg[regates]. An
+aggregate is a parent–child relationship. At the top of this hierarchy
+is the aggregate ro[ot].
+
+*** Item                                                            :drill:
+
+Since event sourcing is based on a seq[uence] of operations, it is
+sensitive to both order and duplication. It is up to the application
+developer to ensure that order is preserved and duplicates are
+prevented.
+
+*** Item                                                            :drill:
+
+The pattern on which Elm is based is called Model View Up[date] .
+
+*** Item                                                            :drill:
+
+In MVC, a cont[roller] responds to changes in the model by updating
+the views. It also responds to user input in the view by updating the
+model. The controller coordinates data flow in [two||one, two, ...]
+directions.
+
+**** More
+
+The 2 directions are: both in from the user and outward from the
+application.
+
+*** Item                                                            :drill:
+
+The problem with bidirectional data flow (e.g. in MVC where 2
+controllers can depend on one another) is that it is difficult to know
+whether a new feature is going to produce either of 1.  cas[cading]
+updates or 2. cir[cular] dependencies.
+
+*** Item                                                            :drill:
+
+Asynchronous Model View Update is similar to elm's model-view-update,
+but extended to work across machines (e.g.: client and server). It
+adds a qu[eue] to the client. Plus state updates are opt[imistically]
+computed on the client, plus sent to the server. The true state is the
+one in the [server||client or server].
+
+*** Item                                                            :drill:
+
+The Asynchronous Model View Update architecture optimistically
+interprets a series of actions.  User actions are validated on-device
+with the expectation that most of them will succeed on the server. It
+is assumed that [no other||"other" or "no other"] actions will
+intervene and that the result of executing the actions on the server
+will be [the same as|| "different than" or "the same as" ] on the
+client. When this optimistic assumption is found to be false, the
+architecture simply dis[cards] the locally computed state and takes
+the server’s version.
+
+*** Item                                                            :drill:
+
+Properties of both partial and total order:
+
+- tra[nsitive]: a<b and b<c ⇒ a<c
+- non re[flexive]: a≮a
+- unid[irectional]: a<b ⇒ b≮a
+
+In a total order, for a and b distinct:
+
+- a≮b ⇒ [b<a]
+
+*** Item                                                            :drill:
+
+The way in which Historical Modeling puts facts into a partial order
+is to identify pred[ecessors] .
+
+*** Item                                                            :drill:
+
+A fact does not know about its successors . New successors are added
+over time. To fully understand the state of a fact, we must query the
+historical model to discover if new suc[cessors] have been created.
+
+*** Item                                                            :drill:
+
+Since a fact refers to its predecessors , and the fact is immutable,
+it follows that a predecessor [cannot||cannot or can] be added to an
+existing fact.
+
+*** Item                                                            :drill:
+
+The transitive clo[sure] identifies the starting fact. There is no
+other fact for which the transitive clo[sure] would produce this same
+set. In a historical model, this is the only way to identify a fact.
+
+**** More
+
+They do not have globally unique identifiers (GUIDs) or sequence
+numbers outside of this structure. The contents of the facts in the
+transitive closure are all you’ve got to tell one fact apart from
+another.
+
+*** Item                                                            :drill:
+
+In *Historical Modeling*, the immutability of facts constrains them to
+know their predecessors at the time of creation.  But there are two
+more constraints that we have to put on the system. We must disallow
+both sim[ultaneous] creation and self-ref[erence], lest we introduce
+cycles.
+
+*** Item                                                            :drill:
+
+On *Historical Modeling*, for every party in the system to eventually
+reach the same conclusion, that conclusion cannot be based on
+timeliness.
+
+**** More
+
+Only by arbitration of a central authority can these situations be
+resolved.
+
+*** Item                                                            :drill:
+
+In Historical Modeling, At best, we can speak of failure of
+information to arrive at a certain place by a certain time. But we
+[cannot|| "can" or "cannot"] prove that the information did not exist
+somewhere else at that time. And when the fact arrives later, we must
+decide how we are to react to it.
+
+*** Item                                                            :drill:
+
+Should one use historical modeling for a system that must reserve the
+use of scarce resources?
+
+[Probably not].
+
+**** More
+
+When a reservation is approved, the approver needs to know that no
+other reservation for the same room at the same time has been
+approved. That decision must be made by a central authority.
+
+*** Item                                                            :drill:
+
+Is there any room for a historical model on a system that requires
+central authority to define strict usage of scarce resources?
+
+Yes, at the ed[ges] of the central authority.
+
+**** Answer
+
+The historical model can capture the fact that a request has been
+made,as well as capture the fact that a request was approved.
+
+*** Item                                                            :drill:
+
+A domain that requires at most one result [cannot|| can or cannot]
+effectively be modeled historically.
+
+**** More
+
+For example, a login that requires a unique user name should be
+supported by a static model.  A historical model would be unable to
+enforce the uniqueness of a user name.
+
+*** Item                                                            :drill:
+
+Limitations of historical modeling:
+
+- no central authority
+- no real time clock
+- no uniq[ueness] constraint
+- no agg[regation]
+
+*** Item                                                            :drill:
+
+When designing a system that requires aggregates over history, add a
+sta[tic] model—whether singular or sharded—to the historical one.
+
+**** More
+
+Model individual transactions historically. At a central authority,
+collect a list of ongoing historical facts into the static model. At
+regular intervals, close the tally of facts and compute a summary.
+
+** TODO Ch. 3 - How to Read a Historical Model
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+* Articles and Blog Posts
+** [[https://fsharpforfunandprofit.com/posts/concurrency-actor-model/][Messages and Agents]] (F# for fun and profit)
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-18 seg>
+:PROPERTIES:
+:ID:       8d3c2d3b-54fe-47bf-9377-7ca9c37ac0e9
+:DRILL_LAST_INTERVAL: 5.4977
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:53]
+:END:
+
+What is the difference between message-base and actor-based (both in
+the scope of approaches to concurrency)?
+
+[None. They are the same]
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-17 dom>
+:PROPERTIES:
+:ID:       e98cd652-0a7b-42f5-938e-7e4c74239050
+:DRILL_LAST_INTERVAL: 4.1032
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:56]
+:END:
+
+On the actor-based model, each actor has its own mailbox and isolated
+state. Based on its designated behavior, the actor responds to
+incoming messages by se[nd] new messages, sp[awn] new actors and/or
+changing its internal st[ate].
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-18 seg>
+:PROPERTIES:
+:ID:       138c586c-4397-4e88-a89e-bbc70a1c750b
+:DRILL_LAST_INTERVAL: 4.9467
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:52]
+:END:
+
+In the actor-based modeling, messages are sent as[ynchronously] and
+can take arbitrarily long to eventually arrive in the mailbox of the
+receiver. Also, the actor models makes no guarantees on the or[dering]
+of messages
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-17 dom>
+:PROPERTIES:
+:ID:       490dc4e4-1734-4a11-a3b0-99b795eba4ba
+:DRILL_LAST_INTERVAL: 4.2959
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:53]
+:END:
+
+Despite being lock free, can concurrency issues still happen on a
+system developed w/ the actor model?
+
+[Yes. concurrency issues like deadlocks and race conditions are still
+not entirely expelled in this programming model, as they can be
+reintroduced by incorrect applications.]
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-18 seg>
+:PROPERTIES:
+:ID:       f381e7e5-600d-4ae8-bda3-595837b59a7b
+:DRILL_LAST_INTERVAL: 4.6622
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:51]
+:END:
+
+When building a web app with the actor model, Often, the flow of a
+single request represents a more or less complex message flow between
+multiple actors, using messaging pa[tterns] such as scatter/gather,
+router, enricher or aggregator
+
+** [[https://mattferderer.com/what-is-the-actor-model-and-when-should-you-use-it/][What is the Actor Model & When Should You Use it?]]
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-17 dom>
+:PROPERTIES:
+:ID:       5652d00e-9f90-4d36-8aa6-01e9ebb4632d
+:DRILL_LAST_INTERVAL: 4.1768
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:55]
+:END:
+
+2 programming languages built around the concept of message passing:
+sm[alltalk] and ea[rlang].
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-17 dom>
+:PROPERTIES:
+:ID:       dda55805-c5cf-4f9b-8c42-fed64a816853
+:DRILL_LAST_INTERVAL: 4.3261
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:47]
+:END:
+
+Example of when not to use the actor model:
+
+- when you need a seq[uential] order of things to happen.
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-17 dom>
+:PROPERTIES:
+:ID:       7cd7ce70-c4f9-4089-b4b6-49de61d22db3
+:DRILL_LAST_INTERVAL: 4.181
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:52]
+:END:
+
+Orleans is a powerful tool to implement ac[tor] model pattern and it
+is very useful in order developing APIs using Actor model in ASP.NET
+Core.
+
+** [[http://v2matveev.blogspot.com/2010/04/mailboxprocessors-erlang-style.html][MailboxProcessors: Erlang-style concurrency in F#]]
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-17 dom>
+:PROPERTIES:
+:ID:       9019a660-7cd0-478a-939a-22df190bc074
+:DRILL_LAST_INTERVAL: 4.166
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:56]
+:END:
+
+F#'s mailbox processor allows for searching messages of particular
+type. This can be done w/ the functions ~S[can]~ and ~T[ryScan]~.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       9c9f81c1-ca87-44ad-9eb2-3d3d15578d98
+:END:
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       6011fac2-f2fb-46e9-92d8-f60177dbb776
+:END:
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       a305c94c-d415-4a09-a56a-045830d0188b
+:END:
