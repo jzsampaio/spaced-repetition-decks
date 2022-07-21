@@ -943,11 +943,12 @@ lim[itation].
 *** Item                                                            :drill:
 *** Item                                                            :drill:
 * Cruso "Preparação para a Confissão" do Professor Donato
-** Item                                                              :drill:
+** Primeiras Aulas
+*** Item                                                            :drill:
 
 O sacramentos ao todo são [7]
 
-** Item                                                              :drill:
+*** Item                                                            :drill:
 
 Os 7 sacramentos:
 
@@ -959,11 +960,11 @@ Os 7 sacramentos:
 - ord[enamento]
 - unç[ão] dos enfermos
 
-** Item                                                              :drill:
+*** Item                                                            :drill:
 
 As etapas do sacramento da penitência são [5]
 
-** Item                                                              :drill:
+*** Item                                                            :drill:
 
 Ao confessar-se, é obrigatório listar:
 
@@ -974,8 +975,7 @@ Ao confessar-se, é obrigatório listar:
 - os pecados veniais também sejam confessados, desde que haja o
   arrependimento e a intenção de não mais cometê-los
 
-
-** Item                                                              :drill:
+*** Item                                                            :drill:
 
 Para que haja pecado grave são necessários 3 condições:
 
@@ -983,16 +983,15 @@ Para que haja pecado grave são necessários 3 condições:
 - Pleno consentimento
 - Matéria grave
 
-** Item                                                              :drill:
+*** Item                                                            :drill:
 
 - Exame de consciência ::
 - Arrependimento :: dor por ter ofendido Deus pelos pecados cometidos
 - Propósito :: firmamento propósito de não mais cometê-los;
 - Declaração dos pecados ::
-- Absolvição ::
 - Penitência ::
 
-** Item                                                               :drill:
+*** Item                                                            :drill:
 
 Ao se aproximar de um padre para pedir perdão dos pecados, dizer:
 
@@ -1001,7 +1000,7 @@ Perdoe-me, padre, pois eu pequei. Faz X anos/dias desde a minha última
 confissão. Estes são meus pecados:
 #+end_quote
 
-** Item                                                               :drill:
+*** Item                                                            :drill:
 
 
 Oração especial para pedir perdão dos pecados:
@@ -1018,3 +1017,346 @@ não mais pecar e fugir das oc[asiões] próximas de pecar.
 
 Amém.
 #+end_quote
+*** Item                                                            :drill:
+
+As atitudes erradas se dividem em 3:
+
+- imp[erfeições] :: não fazer melhor aquilo que já se faz certo
+- pecado ven[ial] (ou leve) :: uma desordem
+- pecado mor[tal] (ou grave)
+
+*** Item                                                            :drill:
+
+Pecado é um ato que vai [contra|| "contra" ou "a favor"] a ordem
+divinia.
+
+*** Item                                                            :drill:
+
+Um pecado grave requer uma mat[éria] grave.
+
+*** Item                                                            :drill:
+
+Um pecado grave requer matéria grave. Há dois mandamentos que
+constituem matéria grave:
+
+- Amar a Deus acima de todas as coisas
+- Amar o próximo como a si mesmo
+
+Há dois casos notáveis que são decorrência direta dos mandamentos
+acima:
+
+- Pecados contra a castidade (em pensamentos ou ações)
+- Pecados de ira (em pensamento ou em ações)
+
+Além destes, a igreja instituiu algumas regras que devem ser seguidos:
+
+- Ir a missa todo Domingo
+- Comungar e se confessar ao menos uma vez no ano
+
+*** Item                                                            :drill:
+
+Os motivos para se casar:
+
+- auxílio mútuo
+- dar vazão aos desejos sexuais
+-
+
+Motivo adicionado por Jesus:
+
+- infusão de graça pelo sacramento
+
+** Aula V
+*** Item                                                            :drill:
+
+Os 10 mandamentos:
+
+*Sobre amar a Deus*
+
+- Amar a Deus sobre todas as coisas
+- Não tomar o seu santo nome em vão
+- Guardar Domingos e festas (guardar o tempo da vida espiritual)
+
+*Sobre amar ao próximo*
+
+- Honrar pai e mãe
+- Não matarás
+- Não pecar contra castidade (não cometerás adultério)
+- Não roubar
+- Não levantar falso testemunho (ataque contra a fama/reputação do
+  outro)
+- Não desejar a mulher do próximo
+- Não desejar as coisas alheias (o desejo de roubar)
+
+Nota: mandamentos listados em ordem decrescente de importância.
+
+*** Item                                                            :drill:
+
+Segundo o professor Donato, é dever de um filho ensinar aos pais?
+
+[Não.]
+
+*** Item                                                            :drill:
+
+Pode um pai bater no filho?
+
+**** Answer
+
+Se for para educar, sim. Se for por raiva, rancor, ou ódio, é pecado
+grave.
+
+*** Item                                                            :drill:
+
+O professor Donato recomendo que adicionalmente ao exemplo, os pais
+ensinem a dou[trina]. Isto é: os motivos por trás do exemplo.
+
+** Aula VI e VII - 5o Mandamento: Não Matar
+*** Item                                                            :drill:
+
+Dentro da lei de "não matar" está incluído:
+
+- não abortar
+- não utilizar anti-concepcional
+- não fazer fertilização artificial
+    * nota: quanto mais embriões se coloca, apesar de maior chance de
+      mãe engravidar, maior a chance de cada embrião morrer.
+- não fazer pesquisa com célula embrionária
+
+*** Item                                                            :drill:
+
+Pode-se matar um inocente para salvar a própria vida? Pode-se abortar
+para se salvar a própria vida?
+
+[Não]
+
+**** More
+
+Exemplo A:
+
+- Quadrilha quer matar pessoa A, que é amiga de B.
+- A quadrilha aproxima B e pede para B matar A com um veneno
+  indectável
+- Se B o fizer, ninguém vai ficar sabendo
+- Se B não o fizer, a quadrilha mata tanto A como B, já que B agora
+  sabe do plano
+- É justo B matar A nesse caso?
+
+Exemplo B:
+
+- Duas pessoas ficam presas em uma sala. O ar só vai durar para uma
+  delas.
+- Se nenhum dos dois matar o outro, os dois morrerão.
+- É justo A matar B nesse caso (ou vice versa)?
+
+Nota: depois da 2a metade do século vinte, o caso do aborto para
+salvar a vida da mão é muito muito raro.
+
+*** Item                                                            :drill:
+
+O que é o aborto indireto? Ele é lícito?
+
+**** More
+
+O aborto que é causado ao tentar salvar a vida da mãe por um meio que
+não seja matar o bebê diretamente. É lícito. Nota: o ganho deve ser
+proporcional.
+
+O mal indireto é diferente do mal direto. Arriscar uma vida é
+diferente de tirar um vida.
+
+Exemplos:
+
+- Derrubar um avião que foi tomado por um terrorista. O objetivo é
+  matar o terrerista (que não é inocente). É lícito.
+- Disparar uma bomba nuclear em Hiroshima. Não é lícito.
+- Disparar uma bomba nuclear em uma base militar que pode conter
+  inocentes. É lícito.
+
+*** Item                                                            :drill:
+
+Coperação com o mal:
+
+- Formal: nunca pode aceitar participar
+- Material
+    * Indiferente: qualquer motivo razoável e proporcional é justo
+      (julgado pela prudência)
+    * Necessária: depende do dano
+
+**** More
+
+Pode-se pagar imposto para um governo tirano?
+
+É uma coperação material e indiferente.
+
+*** Item                                                            :drill:
+
+Sobre a ordem caridade
+
+- Necessidade extrema :: além de ser grave, o indivíduo não pode se
+  defender sozinho
+- Necessidade grave :: a pessoa vai sofrer um prejuízo gigantesco, mas
+  a pessoa pode se socorrer
+- Necessidade leve :: a pessoa pode administrar o prejuízo com
+  facilidade
+
+A pergunta é: qual o dano que você, que vai socorrer, vai entrar caso
+ajude a pessoa?
+
+Se para tirar alguém de uma necessidade extrema você cair em extrema,
+você não precisa ajudar.
+
+** Aula IX - Natureza da Moral
+*** Item                                                            :drill:
+
+Virtude: qualidade que se adquire ao praticar atividades relacionadas
+a natureza humana.
+
+É um hábito.
+
+Paixões são classificadas em 2 grandes grupos: iracível (raiva, ódio,
+...) e concupsível (sexo, prazer, gula, vício um alchool, em jogos,
+...).
+
+Quem permite desenvolver as paixões, fica difícil para o indivíduo
+pensar.
+
+É preciso ordenar as paixões através das virtues. É necessário ser
+radical quanto a isso.
+
+Prática da castidade e do respeito ao próximo limpa a mente. Prestar
+atenção aos mandamentos que Jesus detalha no sermão da montanha.
+
+Virtues: pureza (castidade) e mansidão (respeito ao próximo, desejar o
+bem para até mesmo os seus inimigos).
+
+Outro motivo: a finalidade da vida humana é alcançar uma comunhão com
+Cristo. Acontece por uma vida contemplativa. É na vida interior que se
+dá o encontro com Deus. A contemplação requear mais do que as duas
+virtudes, requer uma vida ativa, um apostoloado. Uma espécide de
+justiça: dar aos outros o que lhes é devido. O que podemos fazer pelos
+outros, devemos fazê-lo.
+
+Virtue que ordena as outras virtudes: prudência. Ela dosa as outras
+coisas para uma determinada finalidade.
+
+A moral desenvolve no indivíduo a prudência. Como aprender a
+prudência: se livrar dos pecados graves, desenvolver as virtudes,
+desenvolver a prudência. Nota: estudar teologia moral.
+
+Não há prudência nas coisas grandes se não houver nas pequenas. A
+preparação para a confissão é a moral (teologia moral) aplicada a 1a
+confissão.
+
+Aplicar a moral para desenvolver a prudência, para co-ordenar as ações
+para o fim último: encontro com Cristo.
+
+A justiça vem antes da prudência. É aprendida pelo apostolado. Vem
+depois do domínio das paixões.
+
+Dominar paixões -> justiça (aprendida pela vida ativa) -> estudo da
+moral -> prudência (não há prudência se antes não há as outras
+virtudes) -> encontro com cristo (a vitória final).
+
+Nota: teologia de espiritualidades. Conhecimento dos mistérios da fé.
+
+Na tradição cristã, a sabedoria é mais elevada que a prudência.
+** Aula X - O VI mandamento: não cometerás adultério
+
+Proibição do prazer venéreo fora do patrimônio legítimo.
+
+Prazer venéreo != sexualidade. A emoçõe de pedir uma moça em casamento
+tem um componente sexual no meio. Assim também no caso de preferir ser
+atendido por atendentes mulheres bonitinhas.
+
+Prazer venéreo: o ato sexual e as coisas que preparam para a relação
+sexual. Qualquer prazer venéreo fora do matrimônio é pecado grave. O
+sexo não é sujo, ele é sagrado. Não pode ser utilizado a torto e a
+direita.
+
+A sexualidade é a vida humana em potência. Ela é sagrada.
+
+Para a grande maioria das pessoas, elas só aprendem o que é amar por
+meio da construção de uma família.
+
+Dois tipos de matrimônio: de direito natural, e o sacramento.
+
+A cerimônia só se tornou obrigatório em um conscílio (de trento,
+~1500). Antes disso, qualquer cerimônia valia, desde que fosse
+séria. E era um sacramento caso os dois cônjugues fossem batizados.
+
+Finalidades do casamento de direito natural:
+- educações dos filhos
+- ajuda mútua
+- vida sexual
+
+Esse casamento envolve muitas paixões. Dificultam uma vida espiritual.
+
+Deve-se aprender a amar o cônjugue, como se ela fosse o próprios
+cristo, ou a própria virgem maria.
+
+Deve-se procurar alimentar a esposa (iluminar pela palavra e pelo
+exemplo). A natureza da família é uma pessoa sábia que querem
+transmitir a outros.
+
+O tipo de amor que pode ser desenvolvido entre amigos nunca vai
+atingir o nível possível em um casamento. Não se pode casar sem a base
+da sexualidade.
+
+Nota: para Marx e Angels, uma prostituta é mais digna que uma
+esposa. Eles não veem diferença entre pornografia e casamento.
+
+É pecado: filme pornográfico de forma advertidade e concentida,
+masturbação, tocar a si mesmo e a outros, carícias avançadas, beijo na
+boca para se excitar sexualmente, pensamentos eróticos.
+
+Reprender esses pensamentos por virtude, pelo amor a vida espiritual,
+não por obrigação, não faz mal. (nota: isso é diferente da
+contingência obrigada em um quartel general).
+
+É preciso especificar o tipo de pecado contra castidade. "por
+pensamento", "por desejo", "por adultério", "por masturbação", ...
+E.g.: "durante a vida a toda eu sempre cultivei o hábito de ter
+pensamentos eróticos, 30x por dia todos os dias".
+
+Dentro do matrimônio, não é lícito ver pornografia, ter fantasias
+eróticas com outras mulheres. Somente o ato sexual normal é permitido.
+
+Atos proibidos: oral e anal.
+
+Nota: sexo anal causa problema no coração. Acumulam-se bactérias no
+coração que entram no sangue por feridas no ânus. O sexo anal é contra
+a natureza.
+
+O coito interrompido é proibido. Laqueadura e preservativos e diafraga
+também são proibidos.
+
+Uma pessoa estéril (de natureza ou por doença) ainda pode fazer sexo.
+
+Pensamento erótico com a própria esposa quando o homem está em viagem
+pode? É lícito pensar no que é lícito fazer. Não se pode pensar em uma
+3a pessoa. Mas não pode se masturbar!
+
+É lícito usar método da tabelinha? (métodos naturais)? Somente se
+houver caso grave de miséria ou de saúde. Em outros casos, deve se ter
+o máximo de filhos possíveis.
+
+Nota: a população do mundo cabe no menor estado do uruguai, dando 1 m2
+por pessoa. O Sergipe tem 3x mais área do que esse terreno. Se dermos
+200m2 por pessoa para cada família de 4 pessoas, o estado de são paulo
+seria suficiente para o mundo inteiro. Se déssemos terrenos de 1km2
+para cada família, toda a terra caberia no estado do amazonas.
+
+O conceito de super população é um mito.
+
+Fez-se uma revolução sexual como parte de um programa de
+re-estruturação social.
+
+Mito da super população -> gera necessidade de métodos contraceptivos -> permite revolução sexual -> mudanças na fábrica social -> nova ordem política
+
+Vários grupos políticos utilizam dessa técnica. Se der certo, eles vão lutar entre si para saber quem leva o mundo.
+
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:

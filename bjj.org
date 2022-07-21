@@ -1,0 +1,97 @@
+# -*- mode: org; coding: utf-8 -*-
+#+STARTUP: showall
+#+PROPERTY: DRILL_CARD_TYPE_ALL hide1close twosided multisided show1cloze hide2cloze show2cloze hide1_firstmore show1_firstless show1_lastmore
+#+OPTIONS: prop:("drill_card_type")
+
+* [[file:~/Documents/Calibre eBooks/Stephan Kesting/Roadmap for BJJ 1.5 (49)/Roadmap for BJJ 1.5 - Stephan Kesting.pdf::%PDF-1.5][Roadmap for BJJ - by Stephan Kesting]]
+
+** Item                                                              :drill:
+
+The 6 basic positions according to Stephan:
+
+- Gu[ard]
+- Si[de] Mount
+- Kn[ee] Mount
+- Mo[unt]
+- Re[ar] Mount
+- Tur[tle]
+
+Additionally, the guard can be broken down into 3:
+
+- Clo[sed]
+- Op[en]
+- Ha[lf]
+
+** Item                                                              :drill:
+
+Hierarchy of positions:
+
+(from best to worst)
+
+- Rear mount (costas)
+- Mounted
+- Kneee Mounted
+- Side Mounted (100 kg)
+- Your opponent turtled
+- (neutral) In your opponent's guard
+- (neutral) Opponent in your guard
+- Turtled beneath opponent
+- Side mounted by opponent
+- Knee Mounted by opponent
+- Mounted by opponent
+- Rear mounted by opponent
+
+** Item                                                              :drill:
+
+Which position is best? Rear mount (costas) or Side mount (100kg)?
+
+[Rear mount (costas)].
+
+** Item                                                              :drill:
+
+Which position is best? Guard or Side mount (100kg)?
+
+[100 kg].
+
+** Item                                                              :drill:
+
+Kesting's 101 offensive strategy consists in the following
+transitions:
+
+- In your opponent's guard switch to sid[emount]
+- From there to Kne[emount] (or directly to mount)
+- Then to mo[unt] (or directly to rearmount)
+- Finally to re[armount]
+
+His 101 deffensive strategy consists in: from any bad position either
+a) transition to gu[ard], or b) transition to tu[rtle], then to guard
+
+** Item                                                              :drill:
+
+When a leg or foot is used to control an opponent it is referred to as
+a ho[ok].
+
+** Item                                                              :drill:
+
+| Position     | Top Transition                     | Bottom Transition | Top Submission | Bottom Submission                                      |
+|--------------+------------------------------------+-------------------+----------------+--------------------------------------------------------|
+| Closed Guard | "Pass the guard" into a side mount |                   |                | [[https://www.youtube.com/watch?v=mVkKOPNGvjA][Kimura]], [[https://www.youtube.com/watch?v=pQ43Oy5k9yQ][arm bar]], [[https://www.youtube.com/watch?v=9pjdpFCr4UI][triangle choke]], [[https://www.youtube.com/watch?v=Hx8bnQx2slc][omo plata]], [[https://www.youtube.com/watch?v=DLrXGWLtOoU][guilhotine]] |
+| Open Guard   |                                    |                   |                |                                                        |
+|              |                                    |                   |                |                                                        |
+|              |                                    |                   |                |                                                        |
+|              |                                    |                   |                |                                                        |
+|              |                                    |                   |                |                                                        |
+
+** Item                                                              :drill:
+
+From the top of Closed Guard, attempting to submit your opponent prior
+to passing his Guard is usually a [mistake|| "win" or "mistake"].
+
+** Item                                                              :drill:
+** Item                                                              :drill:
+** Item                                                              :drill:
+** Item                                                              :drill:
+** Item                                                              :drill:
+** Item                                                              :drill:
+** Item                                                              :drill:
+** Item                                                              :drill:

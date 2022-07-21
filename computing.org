@@ -4,20 +4,20 @@
 #+OPTIONS: prop:("drill_card_type")
 #+TODO: TODO WIP | DONE
 
-* Designing Data Intensive Applications (Martin Kleppmann)
+* [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::0:1][Designing Data Intensive Applications (Martin Kleppmann)]]
 ** Ch 2 - Query Languages
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-19 ter>
+SCHEDULED: <2022-08-02 ter>
 :PROPERTIES:
 :ID:       f34e796e-29b0-4d49-8d7f-4ae623801c63
-:DRILL_LAST_INTERVAL: 5.6728
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.4379
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:56]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:10]
 :END:
 
 2 models for structuring and querying data in a graph are:
@@ -29,17 +29,17 @@ three declarative qu[ery] la[nguages] for graphs: Cypher, SPARQL, and
 Datalog
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-18 seg>
+SCHEDULED: <2022-07-31 dom>
 :PROPERTIES:
 :ID:       d8392029-d6b6-4cec-a3ba-08ee0d6a8e68
-:DRILL_LAST_INTERVAL: 4.6185
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.141
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:50]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:06]
 :END:
 
 Example 2-2. Representing a pr[operty] gr[aph] using a relational
@@ -64,17 +64,17 @@ CREATE INDEX edges_heads ON edges (head_vertex);
 #+end_src
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-18 seg>
+SCHEDULED: <2022-08-02 ter>
 :PROPERTIES:
 :ID:       0afef898-2b6c-41e3-a87a-73425091fa62
-:DRILL_LAST_INTERVAL: 4.972
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.8528
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:54]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:10]
 :END:
 
 The following is an example of a query in a language called C[ypher]:
@@ -87,17 +87,17 @@ RETURN person.name
 #+end_src
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-17 dom>
+SCHEDULED: <2022-07-28 qui>
 :PROPERTIES:
 :ID:       1281433b-d9a5-4e7b-8940-428c0bd6442d
-:DRILL_LAST_INTERVAL: 4.111
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 9.2094
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.5
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:56]
+:DRILL_AVERAGE_QUALITY: 2.667
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:03]
 :END:
 
 if we put graph data in a relational structure, can we also query it
@@ -114,17 +114,17 @@ expressed using something called re[cursive] co[mmon] table
 expressions (the WITH RECURSIVE syntax).
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-17 dom>
+SCHEDULED: <2022-08-03 qua>
 :PROPERTIES:
 :ID:       a73b1f2b-a48d-4ffe-a0d0-432ec5533698
-:DRILL_LAST_INTERVAL: 4.4558
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.5541
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:54]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:03]
 :END:
 
 The following is an example of a query in Tu[rtle],which is a language
@@ -139,34 +139,34 @@ _:namerica a :Location; :name "North America"; :type "continent".
 #+end_src
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-17 dom>
+SCHEDULED: <2022-07-31 dom>
 :PROPERTIES:
 :ID:       ce4e567e-38a7-46dc-bae4-ded288111373
-:DRILL_LAST_INTERVAL: 4.2171
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.2739
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:47]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:04]
 :END:
 
 In a tr[iple]-st[ore], all information is stored in the form of very
 simple three-part statements: (subject, predicate, object).
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-18 seg>
+SCHEDULED: <2022-08-05 sex>
 :PROPERTIES:
 :ID:       6af64e26-bfa3-4ded-afb3-beff5c6bc7ce
-:DRILL_LAST_INTERVAL: 5.0536
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 16.9467
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:51]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:06]
 :END:
 
 Da[talog] is a much older language than SPARQL or Cypher, having been
@@ -175,17 +175,17 @@ data systems: for example, it is the query language of Datomic. It is
 a subset of Pr[olog]
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-18 seg>
+SCHEDULED: <2022-07-31 dom>
 :PROPERTIES:
 :ID:       05717ea6-12ce-4726-9cd1-d8912588b420
-:DRILL_LAST_INTERVAL: 4.8152
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.8653
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:54]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:11]
 :END:
 
 New nonrelational “NoSQL” datastores have diverged in two main
@@ -199,17 +199,17 @@ directions:
   cases where anything is potentially related to everything.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-17 dom>
+SCHEDULED: <2022-07-31 dom>
 :PROPERTIES:
 :ID:       0775cfd4-e36e-487b-a119-ac2f6f52de8c
-:DRILL_LAST_INTERVAL: 4.374
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.7763
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:51]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:05]
 :END:
 
 One thing that document and graph databases have in common is that
@@ -219,17 +219,17 @@ a certain structure; it’s just a question of whether the schema is
 ex[plicit] (enforced on write) or im[plicit] (handled on read).
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-17 dom>
+SCHEDULED: <2022-07-30 sáb>
 :PROPERTIES:
 :ID:       c00e90f6-4655-4884-ad2c-78f1f3fb9ebd
-:DRILL_LAST_INTERVAL: 4.1174
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.5863
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:53]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:05]
 :END:
 
 M[ap]Re[duce] is a programming model for processing large amounts of
@@ -247,27 +247,116 @@ data in bulk across many machines, popularized by Google
 :PROPERTIES:
 :ID:       d3dac0e2-0860-46a2-b685-30f73353a8a3
 :END:
+** [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:1][Ch 3 - Storage and Retrieval]]
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-26 ter>
+:PROPERTIES:
+:ID:       e42c2510-3aa8-47b4-bfb9-6cd1546cb77a
+:DRILL_LAST_INTERVAL: 4.6467
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:06]
+:END:
+
+For writes, it’s hard to beat the performance of simply appending to a
+file, because that’s the simplest possible write operation. Any kind
+of index usually [slows down||"speeds up" or "slow down"] writes,
+because the index also needs to be updated every time data is written.
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-26 ter>
+:PROPERTIES:
+:ID:       684b9f25-0f23-4fdd-b2cd-9bbed0de66e5
+:DRILL_LAST_INTERVAL: 4.8726
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:08]
+:END:
+
+However, the hash table index also has limitations:
+
+– The hash table must fit in mem[ory], so if you have a very large
+ number of keys, you’re out of luck.
+– Range queries [are not|| "are" or "are not"] efficient.
+
+*** Continue [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:13898][here]]
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       52dbafb6-7f74-4737-bb0d-a7d5ee4df90e
+:END:
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       761568df-a78c-48b8-b2e1-b8843be1ad1e
+:END:
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       49cb17bc-2efc-45b8-a321-d2e2b47139ca
+:END:
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       60b9f18a-8c14-45eb-8da1-fc337ab121cc
+:END:
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       80f2e527-f645-4691-9052-f71ec8371c48
+:END:
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       53466fcc-5894-4a11-bfd3-f6ac994b295e
+:END:
 * Time and Relational Theory (by Hugh Darwen, C.J. Date, and Nikos Lorentzos)
 ** [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::10:1][Ch 1 - Types and Relations]]
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       bb981d1b-cef1-42db-8da1-89f41f20d132
+:END:
 
 ~Relvar~ stands for re[lation] va[riable].
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       4d640c4b-f36f-49fb-b8e9-3491b645ac59
+:END:
 
 A type is a [set of values].
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-25 seg>
+:PROPERTIES:
+:ID:       ef45c0c2-c8ee-4134-9683-a78c2bdb2c81
+:DRILL_LAST_INTERVAL: 4.1752
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:08]
+:END:
 
 Every value is of [exactly one|| "exactly one" or "one or more"]
 types.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       6abd658f-66a3-49ee-8b69-673a4a2c534d
+:END:
 
 Types can be sc[alar] and nonsc[allar], as well as us[er] defined and
 sy[stem] defined.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       c50ddecc-6076-4557-946f-8bee24da878a
+:END:
 
 *Definition of tuples in relational theory*
 
@@ -282,6 +371,18 @@ attributes A1, A2, …, An. The value n is the deg[ree] of t; The set H
 of all n attributes is the hea[ding] of t.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-25 seg>
+:PROPERTIES:
+:ID:       2cca3d07-da5a-48f5-a548-014da155ce80
+:DRILL_LAST_INTERVAL: 4.4879
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:05]
+:END:
 
 *Definition of relation*
 
@@ -295,6 +396,18 @@ same deg[ree] as that heading does. The set of tuples {t1, t2, …, tm} is
 the bo[dy] of r. The value m is the card[inality] of r.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-25 seg>
+:PROPERTIES:
+:ID:       b8a5d624-b9ac-4b6d-a1ad-54900e55cd61
+:DRILL_LAST_INTERVAL: 4.4481
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 09:59]
+:END:
 
 The predicate corresponding to relation r is the relation pred[icate]
 for r. Further, each tuple in the body of r can be regarded as
@@ -308,17 +421,17 @@ propositions corresponding to tuples appearing in that relation are
 understood by convention to be ones that evaluate to TRUE.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-18 seg>
+SCHEDULED: <2022-07-31 dom>
 :PROPERTIES:
 :ID:       3d8fce34-5cbb-4b42-908a-6071ee904660
-:DRILL_LAST_INTERVAL: 4.8275
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.557
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:52]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:09]
 :END:
 
 A type is sc[alar] if it has no user visible components and nonscalar
@@ -329,17 +442,17 @@ otherwise.
 Examples of nonscalar types are: tuples and relations.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-17 dom>
+SCHEDULED: <2022-07-30 sáb>
 :PROPERTIES:
 :ID:       d26ac10e-b219-494a-b876-b883b4f241d7
-:DRILL_LAST_INTERVAL: 4.1223
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.451
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:50]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:04]
 :END:
 
 #+begin_src
@@ -354,23 +467,35 @@ Both ~Polar~ and ~Cartesian~ are pos[sible] rep[resentation] for the
 type ~Point~.
 
 *** Item                                                            :drill:
-
-Every type definition includes, implicitly or explicitly, a
-corresponding type con[straint], which is a specification of the set
-of values that make up that type
-
-*** Item                                                            :drill:
-SCHEDULED: <2022-07-17 dom>
+SCHEDULED: <2022-07-25 seg>
 :PROPERTIES:
-:ID:       b838a08e-f6b7-48b3-a117-447909fa7710
-:DRILL_LAST_INTERVAL: 3.9388
+:ID:       5722e2bf-cf83-46ce-9c17-f1d455966d85
+:DRILL_LAST_INTERVAL: 4.012
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
 :DRILL_EASE: 2.6
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:53]
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 09:56]
+:END:
+
+Every type definition includes, implicitly or explicitly, a
+corresponding type con[straint], which is a specification of the set
+of values that make up that type
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
+:PROPERTIES:
+:ID:       b838a08e-f6b7-48b3-a117-447909fa7710
+:DRILL_LAST_INTERVAL: 11.3627
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:03]
 :END:
 
 Differences between a table and a relation:
@@ -382,17 +507,17 @@ Differences between a table and a relation:
 - relations never contain nu[lls]
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-17 dom>
+SCHEDULED: <2022-08-03 qua>
 :PROPERTIES:
 :ID:       8e1e0bce-b9b0-47c7-8d3a-67c0cfeca757
-:DRILL_LAST_INTERVAL: 4.162
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.6502
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:46]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:04]
 :END:
 
 There are exactly two nullary relations, one that contains just one
@@ -402,17 +527,17 @@ empty and thus contains no tuples at all.  We refer to these two
 relations colloquially as TABLE_DE[E] and TABLE_DU[M].
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-18 seg>
+SCHEDULED: <2022-08-02 ter>
 :PROPERTIES:
 :ID:       6f495188-8296-4ac7-a993-0835c6fcf540
-:DRILL_LAST_INTERVAL: 5.049
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.5328
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:46]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:09]
 :END:
 
 If relation r has heading H, then that relation r is of type RELATION
@@ -421,17 +546,17 @@ H
 RELATION here is a type gen[erator]
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-18 seg>
+SCHEDULED: <2022-08-01 seg>
 :PROPERTIES:
 :ID:       7a41c89b-cd78-4784-b08c-607cb8774095
-:DRILL_LAST_INTERVAL: 4.6736
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.407
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:54]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:11]
 :END:
 
 The Cl[osed] Wo[rld] Assumption (CWA) states that If relation r has
@@ -439,8 +564,10 @@ predicate P, then the body of r contains all and only those tuples
 that correspond to instantiations of P that evaluate to TRUE.
 
 ** [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::11:1][Ch 2 - Relational Algebra]]
-
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       59bb2342-3f56-40b4-91b1-0d749e0c1ed6
+:END:
 
 The relational model includes an open ended [set||"set" or "list"] of
 generic read-only operators known collectively as the relational
@@ -455,8 +582,17 @@ Relations r1 and r2 are joinable if and only if attributes with the
 same name are of the [same||"same" or "different"] type.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-24 dom>
 :PROPERTIES:
 :ID:       538fd73a-da1d-4d2f-ae2e-7b1b9826db00
+:DRILL_LAST_INTERVAL: 4.9376
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:11]
 :END:
 
 Is it the case that group and ungroup operators are always the inverse
@@ -471,6 +607,18 @@ inverse ungrouping that yields r again; however, the converse isn’t
 necessarily so.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-25 seg>
+:PROPERTIES:
+:ID:       3d4895a5-e652-4a73-9248-5b800ca291dd
+:DRILL_LAST_INTERVAL: 3.5256
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:09]
+:END:
 
 Relational completeness is a basic measure of the expressive
 capability of a language. If a language is relationally complete, then
@@ -505,20 +653,177 @@ inclusion operator “⊆”
 | Wrap and Unwrap                 |                               |                                         |
 | With (syntactic sugar)          |                               |                                         |
 
-* [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::0:1][The Art of Immutable Architecture]]
-** Ch 1 - Why Immutable Architecture
+** [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::12:1][Ch 3 - Relation Varibles]]
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-18 seg>
+SCHEDULED: <2022-07-26 ter>
 :PROPERTIES:
-:ID:       eaafd759-959b-411b-b866-53cf53b07e51
-:DRILL_LAST_INTERVAL: 4.5974
+:ID:       7de98f0b-5c1b-496b-9ec6-5ac4c00cf052
+:DRILL_LAST_INTERVAL: 5.0261
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
 :DRILL_EASE: 2.6
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:55]
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:02]
+:END:
+
+Are "relation values" and "relation variables" the same thing?
+
+[No.]
+
+Certain properties commonly thought of as properties of relation
+v[alues]—e.g., the property of having keys, and the property of
+possibly having foreign keys, and most especially the property of
+being updatable—are more correctly seen as properties of relation
+v[ariables] instead.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       ba1299e2-0202-4ea1-8841-dc5f575f6051
+:END:
+
+Are the operators INSERT, DELETE, and UPDATE part of relational
+algebra?
+
+**** More
+
+these operators (as well as relational assignment), since they’re all
+update operators, aren’t operators of the relational algebra as such
+(recall from Chapter 2 that the operators of the relational algebra
+are all, by definition, *read-only* operators specifically)
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       58d73db1-09e8-4769-b7e3-4f39568fbcdd
+:END:
+
+The *Assignment Principle* states that after assignment of value v to
+variable V, the comparison v = V must evaluate to [TRUE|| "True" or
+"False"].
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-26 ter>
+:PROPERTIES:
+:ID:       ac6afb12-5054-4dba-9897-e0488bbe165f
+:DRILL_LAST_INTERVAL: 4.7066
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:08]
+:END:
+
+Definition: Let K be a subset of the heading of relvar R. Then K is a
+key (also known as a candidate key) for R if and only if it possesses
+both of the following properties:
+
+1.  Uni[queness]: No relation that can legally be assigned to R has
+   two distinct tuples with the
+same value for K.
+
+2.  Irr[educibility]: No proper subset of K has the uniqueness property.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       ab603dbd-95b8-4809-a37e-c5b0da9a9b52
+:END:
+
+Let X and Y be subsets of the heading of relvar R. Then the
+fun[ctional] dep[endency] X→Y holds in R if and only if, in every
+relation that’s a possible value of R, whenever two tuples have the
+same value for X, they also have the same value for Y.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       e09fbed9-cede-4871-b752-6d8be6e06ad1
+:END:
+
+Another name for foreign key constraint is ref[erential] constraint.
+
+The rule that no foreign key constraint must ever be violated is the
+ref[erential] int[egrity] rule.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       5cb823f1-e3f4-457a-aedb-fb6d167946db
+:END:
+
+This requirement (i.e., that constraint violations be detected
+immediately) is sometimes called *The Gol[den] Rule*. Observe that
+it’s a consequence of this rule that no user [ever||"sometimes" or "ever"]
+sees the database in an inconsistent state.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       110ed85e-7680-4fc3-8d98-c2b336e47932
+:END:
+
+Database constraints do apply specifically to [relvars||"relvars" or "relation"].
+
+**** More
+
+Why? Because, by definition, the only way they can be violated is by
+means of some update operation—and, again by definition, updates apply
+to variables, not values.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       32800aeb-d5e5-4acb-ba41-30ae42fb1ce7
+:END:
+
+In the double assignment assignment, constraint checking is done [at the end of the statement|| "at the end of the statement" or "in between each statement"].
+
+*** Item                                                            :drill:
+
+Definition: The Principle of Interchangeability (of views and base
+relvars) states that there [must be no||"can be" or "must be no"]
+arbitrary and unnecessary distinctions between base relvars and views;
+
+*** Item                                                            :drill:
+
+Definition: The relational model consists of five components:
+
+1.  An open ended collection of ty[pes], including type BOOLEAN in
+   particular
+
+2.  A relation type gen[erator] and an intended interpretation for
+   relations of types generated
+thereby
+
+3.  Facilities for defining relation var[iables] of such generated
+   relation types
+
+4.  A relational ass[ignment] operator for assigning relation values
+   to such relation variables
+
+5.  A relationally com[plete], but otherwise open ended, collection of generic relational
+ope[rators] for deriving relation values from other relation values
+
+** TODO [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:1][Ch 4 - Time and the Database]]
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+* [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::0:1][The Art of Immutable Architecture]]
+** Ch 1 - Why Immutable Architecture
+*** Item                                                            :drill:
+SCHEDULED: <2022-07-31 dom>
+:PROPERTIES:
+:ID:       eaafd759-959b-411b-b866-53cf53b07e51
+:DRILL_LAST_INTERVAL: 12.2164
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:09]
 :END:
 
 Common fallacies of distributed systems:
@@ -533,17 +838,17 @@ Common fallacies of distributed systems:
 – The network is homo[geneous].
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-18 seg>
+SCHEDULED: <2022-08-02 ter>
 :PROPERTIES:
 :ID:       c7c6836c-88ca-4e26-9836-ae954afeaf47
-:DRILL_LAST_INTERVAL: 5.1662
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.7722
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:55]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:09]
 :END:
 
 As we build new data structures, we can reuse existing pieces of old
@@ -557,34 +862,34 @@ optimization for immutable data structures that is enabled by
 immutable data structures.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-17 dom>
+SCHEDULED: <2022-07-31 dom>
 :PROPERTIES:
 :ID:       f8aa8ae1-ad7b-4968-86d4-1860a39bca65
-:DRILL_LAST_INTERVAL: 4.2109
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.2566
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:54]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:02]
 :END:
 
 The Two Generals’ Problem (TGP), as Jim Gray named it in 19783, has
 been proven to have [zero||zero,one,two, ...] solutions.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-18 seg>
+SCHEDULED: <2022-08-02 ter>
 :PROPERTIES:
 :ID:       99b767cc-b170-493e-9865-2a8a6fc5b5b4
-:DRILL_LAST_INTERVAL: 4.6617
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.3294
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:46]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:10]
 :END:
 
 Given the impossibility of the TGP, how can distributed systems ever
@@ -611,6 +916,9 @@ de[adline].
 :ID:       e865d3ef-b20f-43b5-bb89-f9f51da3bfd9
 :END:
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       387f756a-076a-4971-ace9-106817410f4e
+:END:
 
 As you learn to model business problems based on immutability, you
 will start to enjoy the advantages of a reliable au[dit] history, just
@@ -619,6 +927,9 @@ structures within your mobile apps and microservices, you will benefit
 from the same aut[onomy] found in Git.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       03012db5-2641-42d1-848f-b58475b143ba
+:END:
 
 A saying:
 
@@ -626,6 +937,18 @@ Immutability Ch[anges] Everything
 
 ** [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::5:1][Ch. 2 - Forms of Immutable Architecture]]
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-26 ter>
+:PROPERTIES:
+:ID:       630a07e9-0200-4c06-bfa2-2fc6121a4823
+:DRILL_LAST_INTERVAL: 4.5107
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 09:57]
+:END:
 
 The trade-offs requiring shift to immutability have led to the
 emergence of different architectural styles. Three of those styles:
@@ -633,6 +956,18 @@ Ev[ent] Sou[rcing] (ES), Asynchronous Mo[del] Vi[ew] Up[date], and
 His[torical] Mod[eling].
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-25 seg>
+:PROPERTIES:
+:ID:       73a57cc2-bed6-4ba9-b876-e1e96a76c78a
+:DRILL_LAST_INTERVAL: 4.3213
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 09:57]
+:END:
 
 An *identity* in object-oriented programming describes the property of
 objects that dis[tinguishes] them from other objects.
@@ -641,6 +976,18 @@ The reason for an object to have intrinsic identity is so that it can
 provide con[sistent], mea[ningful] behavior as it changes over time.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-26 ter>
+:PROPERTIES:
+:ID:       6468a5bc-251c-458a-92ac-6abaab089263
+:DRILL_LAST_INTERVAL: 4.9341
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:07]
+:END:
 
 Our goal now is to use immutable records to model mutable objects. The
 records clearly are not the objects themselves. The immutable records
@@ -650,11 +997,26 @@ We will treat immutable records as obs[erved] state. Objects, on the
 other hand, are der[ived] state.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-25 seg>
+:PROPERTIES:
+:ID:       5e6ed3fc-a5da-430b-8f69-813a46e11323
+:DRILL_LAST_INTERVAL: 4.4048
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 09:59]
+:END:
 
 Der[ived] state is a deterministic transformation of obs[erved] state. It
 adds no information to the system.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       ffbb7d40-0a7b-44ce-87e4-60ea4cd3734a
+:END:
 
 The fundamental idea of Event Sou[rcing] is that of ensuring every
 change to the state of an application is captured in an event object,
@@ -663,11 +1025,26 @@ they were applied for the same lifetime as the application state
 itself.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       bca45729-dc10-436f-9f3f-3d4af58ab08d
+:END:
 
 I therefore consider seq[uence] a defining characteristic of event
 sourcing.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-25 seg>
+:PROPERTIES:
+:ID:       98e6eb13-1dd1-4e32-84db-50a9c6c5d34b
+:DRILL_LAST_INTERVAL: 4.2124
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:01]
+:END:
 
 Practitioners will often pair event sourcing with both Command Query
 Responsibility Seg[regation] (CQRS) and Domain-Driven Des[ign]
@@ -675,6 +1052,18 @@ Responsibility Seg[regation] (CQRS) and Domain-Driven Des[ign]
 implementations all in agreement how it is achieved
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-26 ter>
+:PROPERTIES:
+:ID:       897a252d-1f1c-4413-906d-cfa383245916
+:DRILL_LAST_INTERVAL: 4.7235
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 09:58]
+:END:
 
 Command Query Responsibility Segregation extends the object-oriented
 principle of Command Query Separation (CQS).
@@ -683,6 +1072,18 @@ A com[mand] serves to modify objects, a qu[ery] to return information
 about objects
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-25 seg>
+:PROPERTIES:
+:ID:       821138d9-7c6c-401b-976a-d665b2bd5d5f
+:DRILL_LAST_INTERVAL: 3.928
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:06]
+:END:
 
 In CQRS , commands and queries follow separate pa[ths] and often
 interact with different architectural com[ponents]. Co[mmands] are
@@ -690,6 +1091,18 @@ often asynchronous, while qu[eries] are usually synchronous. In many
 implementations, they operate against different data stores.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-25 seg>
+:PROPERTIES:
+:ID:       71c95800-400c-4851-8599-50d92b90fde5
+:DRILL_LAST_INTERVAL: 4.2676
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:04]
+:END:
 
 When CQRS is paired with ES, commands are further distinguished from
 events. Whereas a command is expressed as an im[perative] statement,
@@ -697,6 +1110,18 @@ an event is a pa[st]-tense statement. The command ~SubmitOrder~ results
 in the event ~OrderSubmitted~.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-25 seg>
+:PROPERTIES:
+:ID:       7f338347-cd6a-4d25-a884-e6ec2a9d7f74
+:DRILL_LAST_INTERVAL: 4.4181
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:04]
+:END:
 
 DDD recognizes two kinds of objects: entities and value types. An
 en[tity] is an object that has identity. As we have already seen,
@@ -705,6 +1130,9 @@ time. In contrast, a va[lue] type has no identity and is therefore
 immutable.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       d95f44bc-0f92-486c-8710-3a4ae43403b0
+:END:
 
 For efficiency of recomputing the current state, Event sourced
 applications break that history into independent *streams*, each
@@ -712,12 +1140,36 @@ stream affecting only a subset of the domain model. *When ES is
 combined with DDD*, that subset is the agg[regate] ro[ot].
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-25 seg>
+:PROPERTIES:
+:ID:       9def188d-fe8e-4c07-959c-b922d90eca1a
+:DRILL_LAST_INTERVAL: 4.2042
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 09:59]
+:END:
 
 Entities in DDD are organized within hierarchies called agg[regates]. An
 aggregate is a parent–child relationship. At the top of this hierarchy
 is the aggregate ro[ot].
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-25 seg>
+:PROPERTIES:
+:ID:       e56cd436-e0d5-4526-a404-2a9358ef2ff9
+:DRILL_LAST_INTERVAL: 4.2531
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:07]
+:END:
 
 Since event sourcing is based on a seq[uence] of operations, it is
 sensitive to both order and duplication. It is up to the application
@@ -725,10 +1177,34 @@ developer to ensure that order is preserved and duplicates are
 prevented.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-26 ter>
+:PROPERTIES:
+:ID:       49f2dbd5-bf01-499b-b614-86c7271ffc6d
+:DRILL_LAST_INTERVAL: 4.9918
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:00]
+:END:
 
 The pattern on which Elm is based is called Model View Up[date] .
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-25 seg>
+:PROPERTIES:
+:ID:       63cc05f9-be0f-473b-affb-347e6c88daa8
+:DRILL_LAST_INTERVAL: 4.2231
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:00]
+:END:
 
 In MVC, a cont[roller] responds to changes in the model by updating
 the views. It also responds to user input in the view by updating the
@@ -741,6 +1217,18 @@ The 2 directions are: both in from the user and outward from the
 application.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-26 ter>
+:PROPERTIES:
+:ID:       8971109e-309b-47f0-bbe9-033c8a4084b6
+:DRILL_LAST_INTERVAL: 4.5747
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:00]
+:END:
 
 The problem with bidirectional data flow (e.g. in MVC where 2
 controllers can depend on one another) is that it is difficult to know
@@ -748,6 +1236,18 @@ whether a new feature is going to produce either of 1.  cas[cading]
 updates or 2. cir[cular] dependencies.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-25 seg>
+:PROPERTIES:
+:ID:       30b9c58d-3764-4ec3-991d-ad98ff64789f
+:DRILL_LAST_INTERVAL: 4.2687
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 09:56]
+:END:
 
 Asynchronous Model View Update is similar to elm's model-view-update,
 but extended to work across machines (e.g.: client and server). It
@@ -756,6 +1256,18 @@ computed on the client, plus sent to the server. The true state is the
 one in the [server||client or server].
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-25 seg>
+:PROPERTIES:
+:ID:       fd192966-5857-4cae-83e7-b80b957481e4
+:DRILL_LAST_INTERVAL: 4.052
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:02]
+:END:
 
 The Asynchronous Model View Update architecture optimistically
 interprets a series of actions.  User actions are validated on-device
@@ -768,6 +1280,9 @@ architecture simply dis[cards] the locally computed state and takes
 the server’s version.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       c211bf41-bd88-4827-8185-b69f267b21d3
+:END:
 
 Properties of both partial and total order:
 
@@ -780,23 +1295,62 @@ In a total order, for a and b distinct:
 - a≮b ⇒ [b<a]
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       2c5878b0-1339-43d9-b19a-63c0ae5784cc
+:END:
 
 The way in which Historical Modeling puts facts into a partial order
 is to identify pred[ecessors] .
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-26 ter>
+:PROPERTIES:
+:ID:       2d518cf9-b70d-4da3-9377-0485a75a8c6a
+:DRILL_LAST_INTERVAL: 4.8028
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:03]
+:END:
 
 A fact does not know about its successors . New successors are added
 over time. To fully understand the state of a fact, we must query the
 historical model to discover if new suc[cessors] have been created.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-26 ter>
+:PROPERTIES:
+:ID:       6ad2e891-3a96-47e0-893b-cad9e82f215d
+:DRILL_LAST_INTERVAL: 5.0587
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:06]
+:END:
 
 Since a fact refers to its predecessors , and the fact is immutable,
 it follows that a predecessor [cannot||cannot or can] be added to an
 existing fact.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-25 seg>
+:PROPERTIES:
+:ID:       f2eaf78c-e740-42c4-a1c4-4181bf4897b8
+:DRILL_LAST_INTERVAL: 4.1583
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:09]
+:END:
 
 The transitive clo[sure] identifies the starting fact. There is no
 other fact for which the transitive clo[sure] would produce this same
@@ -810,6 +1364,18 @@ transitive closure are all you’ve got to tell one fact apart from
 another.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-25 seg>
+:PROPERTIES:
+:ID:       4406e716-3800-4915-bf9f-7f2305d296f8
+:DRILL_LAST_INTERVAL: 3.9833
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 09:57]
+:END:
 
 In *Historical Modeling*, the immutability of facts constrains them to
 know their predecessors at the time of creation.  But there are two
@@ -818,10 +1384,22 @@ both sim[ultaneous] creation and self-ref[erence], lest we introduce
 cycles.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-24 dom>
+:PROPERTIES:
+:ID:       d8e751a6-680b-4ca9-80af-386d6f9fef65
+:DRILL_LAST_INTERVAL: 3.2423
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 09:59]
+:END:
 
 On *Historical Modeling*, for every party in the system to eventually
-reach the same conclusion, that conclusion cannot be based on
-timeliness.
+reach the same conclusion, that conclusion [cannot|| "must" or
+"cannot"] be based on timeliness.
 
 **** More
 
@@ -829,6 +1407,9 @@ Only by arbitration of a central authority can these situations be
 resolved.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       add38a56-03fd-48b8-83f3-13c643bd43d7
+:END:
 
 In Historical Modeling, At best, we can speak of failure of
 information to arrive at a certain place by a certain time. But we
@@ -837,6 +1418,18 @@ somewhere else at that time. And when the fact arrives later, we must
 decide how we are to react to it.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-26 ter>
+:PROPERTIES:
+:ID:       d15d0abd-a5f5-4f33-8eeb-bb6f498799f1
+:DRILL_LAST_INTERVAL: 4.5268
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:03]
+:END:
 
 Should one use historical modeling for a system that must reserve the
 use of scarce resources?
@@ -850,6 +1443,9 @@ other reservation for the same room at the same time has been
 approved. That decision must be made by a central authority.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       dccbda35-0cf0-41de-b08d-b2a8e0ab75ae
+:END:
 
 Is there any room for a historical model on a system that requires
 central authority to define strict usage of scarce resources?
@@ -862,6 +1458,9 @@ The historical model can capture the fact that a request has been
 made,as well as capture the fact that a request was approved.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       707a6b28-0b30-408b-89e7-aa370c85dcfb
+:END:
 
 A domain that requires at most one result [cannot|| can or cannot]
 effectively be modeled historically.
@@ -873,6 +1472,18 @@ supported by a static model.  A historical model would be unable to
 enforce the uniqueness of a user name.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-25 seg>
+:PROPERTIES:
+:ID:       6380d48f-ad5b-4c07-8640-6856b68d9daa
+:DRILL_LAST_INTERVAL: 4.1868
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:01]
+:END:
 
 Limitations of historical modeling:
 
@@ -882,6 +1493,9 @@ Limitations of historical modeling:
 - no agg[regation]
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       7220fbc1-173b-44c3-a666-8b62455524c7
+:END:
 
 When designing a system that requires aggregates over history, add a
 sta[tic] model—whether singular or sharded—to the historical one.
@@ -894,24 +1508,39 @@ regular intervals, close the tally of facts and compute a summary.
 
 ** TODO Ch. 3 - How to Read a Historical Model
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       aaf2ab8c-2159-4603-b7a2-5ce708cd3924
+:END:
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       ddbf7607-e4c2-4963-b429-247d3fbd4d96
+:END:
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       b97519c9-66a8-40ae-b981-33b483ffe8e6
+:END:
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       d72d6a30-5878-49b1-9bae-5e541d1e2dc7
+:END:
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       ed5c276f-99c2-40df-b9bd-dd43ed5cf2bf
+:END:
 * Articles and Blog Posts
 ** [[https://fsharpforfunandprofit.com/posts/concurrency-actor-model/][Messages and Agents]] (F# for fun and profit)
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-18 seg>
+SCHEDULED: <2022-08-05 sex>
 :PROPERTIES:
 :ID:       8d3c2d3b-54fe-47bf-9377-7ca9c37ac0e9
-:DRILL_LAST_INTERVAL: 5.4977
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 17.3149
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:53]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:09]
 :END:
 
 What is the difference between message-base and actor-based (both in
@@ -920,17 +1549,17 @@ the scope of approaches to concurrency)?
 [None. They are the same]
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-17 dom>
+SCHEDULED: <2022-07-29 sex>
 :PROPERTIES:
 :ID:       e98cd652-0a7b-42f5-938e-7e4c74239050
-:DRILL_LAST_INTERVAL: 4.1032
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.3672
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:56]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:06]
 :END:
 
 On the actor-based model, each actor has its own mailbox and isolated
@@ -939,17 +1568,17 @@ incoming messages by se[nd] new messages, sp[awn] new actors and/or
 changing its internal st[ate].
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-18 seg>
+SCHEDULED: <2022-08-02 ter>
 :PROPERTIES:
 :ID:       138c586c-4397-4e88-a89e-bbc70a1c750b
-:DRILL_LAST_INTERVAL: 4.9467
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.6423
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:52]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:10]
 :END:
 
 In the actor-based modeling, messages are sent as[ynchronously] and
@@ -958,17 +1587,17 @@ receiver. Also, the actor models makes no guarantees on the or[dering]
 of messages
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-17 dom>
+SCHEDULED: <2022-07-30 sáb>
 :PROPERTIES:
 :ID:       490dc4e4-1734-4a11-a3b0-99b795eba4ba
-:DRILL_LAST_INTERVAL: 4.2959
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.8807
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:53]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:05]
 :END:
 
 Despite being lock free, can concurrency issues still happen on a
@@ -979,17 +1608,17 @@ not entirely expelled in this programming model, as they can be
 reintroduced by incorrect applications.]
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-18 seg>
+SCHEDULED: <2022-07-31 dom>
 :PROPERTIES:
 :ID:       f381e7e5-600d-4ae8-bda3-595837b59a7b
-:DRILL_LAST_INTERVAL: 4.6622
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.2989
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:51]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:10]
 :END:
 
 When building a web app with the actor model, Often, the flow of a
@@ -1000,34 +1629,34 @@ router, enricher or aggregator
 ** [[https://mattferderer.com/what-is-the-actor-model-and-when-should-you-use-it/][What is the Actor Model & When Should You Use it?]]
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-17 dom>
+SCHEDULED: <2022-08-02 ter>
 :PROPERTIES:
 :ID:       5652d00e-9f90-4d36-8aa6-01e9ebb4632d
-:DRILL_LAST_INTERVAL: 4.1768
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.6826
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:55]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:02]
 :END:
 
 2 programming languages built around the concept of message passing:
 sm[alltalk] and ea[rlang].
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-17 dom>
+SCHEDULED: <2022-07-30 sáb>
 :PROPERTIES:
 :ID:       dda55805-c5cf-4f9b-8c42-fed64a816853
-:DRILL_LAST_INTERVAL: 4.3261
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.2535
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:47]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:02]
 :END:
 
 Example of when not to use the actor model:
@@ -1035,17 +1664,17 @@ Example of when not to use the actor model:
 - when you need a seq[uential] order of things to happen.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-17 dom>
+SCHEDULED: <2022-07-31 dom>
 :PROPERTIES:
 :ID:       7cd7ce70-c4f9-4089-b4b6-49de61d22db3
-:DRILL_LAST_INTERVAL: 4.181
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.0725
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:52]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:05]
 :END:
 
 Orleans is a powerful tool to implement ac[tor] model pattern and it
@@ -1055,17 +1684,17 @@ Core.
 ** [[http://v2matveev.blogspot.com/2010/04/mailboxprocessors-erlang-style.html][MailboxProcessors: Erlang-style concurrency in F#]]
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-17 dom>
+SCHEDULED: <2022-07-31 dom>
 :PROPERTIES:
 :ID:       9019a660-7cd0-478a-939a-22df190bc074
-:DRILL_LAST_INTERVAL: 4.166
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.8731
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-13 qua 10:56]
+:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:02]
 :END:
 
 F#'s mailbox processor allows for searching messages of particular
