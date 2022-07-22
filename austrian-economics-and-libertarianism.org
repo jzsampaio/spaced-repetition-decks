@@ -901,3 +901,54 @@ resources used in producing the output are greater or less than the
 value of that output.
 
 ** [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::61][Ch. 2 - The Abolition of the Market]]
+
+*** Summary
+:PROPERTIES:
+:RESUME_HERE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::67][here]]
+:END:
+
+**** COMMODITY PRODUCTION AND PRODUCTION FOR USE
+
+- Marx defines "commodity" as "goods produced for sales" as opposed of
+  "for usage"
+- If we think about it, no production is "for sales". Capitalist only
+  produce because someone wants to use it.
+- On the flip side, industrial production in a communist society is
+  also not for direct use. It also for the usage of an unspecified
+  someone else. In this sense, communist production is just like
+  capitalist production
+- Finally, communist are confused about the necessity of abolishing
+  money. Marx states it is the final goal. Soviets proposed this then
+  backed away, and said that they would better focus on the "immediate
+  struggle", and that shooting for Marx abolishion of money was
+  counter-revolutionary. Still, some reference books still mention
+  abolishion of money as the ultimate goal.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::61]]
+:END:
+
+under communism as Marx envisages it there will [be no||"be no" or "be"] money
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::62]]
+:END:
+
+A commodity, in the Marxian terminology, is something produced with a
+view to market exc[hange].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::64]]
+:END:
+:LOGBOOK:
+- Refiled on [2022-07-22 sex 18:05]
+:END:
+
+Marxists frequently referred to communism as ‘production for use’, as
+opposed to ‘production for sa[le]’.
