@@ -1,0 +1,690 @@
+* [[pdfview:~/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::7][The Economics and Ethics of Private Property]]
+:PROPERTIES:
+:AUTHOR:   Hans-Hermann Hoppe
+:SUBTITLE: Studies in Political Economy and Philosophy
+:END:
+** [[pdfview:~/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::15][Ch 1 - Fallacies of the Public Goods Theory and the Production of Security]]
+*** Item                                                            :drill:
+
+A clear-cut dichotomy between private and public goods [does not||
+"does" or "does not"] exist.
+
+*** Item                                                            :drill:
+
+Nothing is a good unless at least one person subjectively evaluates it
+as such.
+
+**** More
+
+For something to be a good it must be recognized and treated as scarce
+by someone. Something is not a good as such, that is to say: goods are
+goods only in the eyes of the beholder.
+
+*** Item                                                            :drill:
+
+From the statement that because of some special characteristics they
+have, certain goods would not be produced, one [could never|| "could
+never" or "could"] reach the conclusion that these goods should be
+produced.
+
+**** More
+
+An ethical explanation would have to be offered, and social good
+theorists never follow this route.
+
+*** Item                                                            :drill:
+
+The principle of nonagression is thus the necessary
+[precondition for|| "consequence of" or "precondition for"] argumentation
+and possible agreement and hence can be argumentatively defended as a just
+norm by means of a priori reasoning.
+
+*** Item                                                            :drill:
+
+The resources used for the provision of public goods are wasted
+because they provide consumers with goods or services that are only of
+[secondary|| "ultimate" or "secondary"] importance.
+
+*** Item                                                            :drill:
+
+A market is not perfect, as it is characterized by the nonagression
+principle imposed on conditions marked by scarcity, and so certain
+goods or services that could only be produced and provided if
+aggression were allowed [will not|| "will" or "will not"] be produced.
+
+*** Item                                                            :drill:
+
+How can the state - an organization financed partially or wholly by
+taxes - decide how much *security* to produce, how much of each of its
+countless aspects, to whom and where to provide how much of what?
+
+From the point of view of the consumers, its response to their
+security demands must be considered [arbitrary|| "rational" or "arbitrary"].
+
+*** Item                                                            :drill:
+
+A libertarian approach to security would still not be perfect. What
+does it really add?
+
+In terms of consumer evaluation, the situation would
+[improve||"worsen" or "improve"] to the extent that the nat[ure] of
+man would allow.
+
+*** Item                                                            :drill:
+
+Systems of competing courts have existed at various places (e.g.: in
+ancient Ire[land] or at the times of the Han[seatic] League in XIII
+century) before the arrival of the modern nation state. They worked
+well.
+
+Other examples include the wild we[st] in the USA. Check crime per capta
+there.
+
+Yet another is modern day int[ernational] contracts.
+
+*** Item                                                            :drill:
+
+Establishing a competitive system of security producers implies
+erecting an incentive structure to produce law-enforcement that
+embodies the highest possible degree of [consensus||"divergence" or
+"consensus"] regarding the question of conflict resolution.
+
+*** Item                                                            :drill:
+
+Could a capitalist security industry produce an outlaw company? Yes,
+but this does not indicates a deficiency in the libertarian
+approach.
+
+Both in the proposed libertarian order as in today's world, the
+emergence and continued support for outlaw firms is granted by the
+state of pub[lic] opi[nion].
+
+Additionally, on the proposed libertarian order, there would be
+[incentives||"barriers" or "incentives"] for honest firms to quickly
+eradicate outlaw firms.
+
+**** More
+
+Could you imagine the pressure on insurance companies/security
+providers to terminate PCC if the Brazilian population got paid by
+each crime?
+
+** [[pdfview:~/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::45][Ch 2 - The Economics and Sociology of Taxation]]
+*** Item                                                            :drill:
+
+Taxation is an attack on and punishment of the acquisition and
+production of property, which necessarily leads to a [reduction||
+"reduction" or "increase"] in the formation of wealth embodied in such
+property and to a lowering of the general standard of living.
+
+*** Item                                                            :drill:
+
+Taxation is a coe[rcive], non-contractual transfer of definite
+physical assets and the value embodied in them, from a person or group
+of persons who first held these assets and who could have derived an
+in[come] from further holding them, to another, who now possesses them
+and now derives an in[come] from so doing.
+
+*** Item                                                            :drill:
+
+How to acquire assets (which can then be taxed)? By 3 ways only:
+
+- acts of original app[ropriation]
+- acts of pro[duction]
+- contractual exc[hange]
+
+*** Item                                                            :drill:
+
+Taxation causes the marginal utility of appropriating, producing, and
+contracting to [decrease|| "increase" or "decrease"], and the marginal
+utility of consumption and leisure to [increase||"increase" or "decrease"].
+
+*** Item                                                            :drill:
+
+Experience [cannot|| can or cannot] beat logic, and interpretations of
+observational evidence which are not in line with the laws of logical
+reasoning [are no||are or "are not"] refutation of these but the sign
+of muddled mind.
+
+*** Item                                                            :drill:
+
+What to say about claims of places whose wealth increased after
+introduction of taxation?
+
+Corre[lation] is not cau[sation]. Also, people can have become more
+productive in the transition despite of taxation.
+
+**** More
+
+This is like saying that, from the observation that "rich men consume
+more than poor men", that "rich men got rich by consuming more".
+
+*** Item                                                            :drill:
+
+A characteristic of an investment expenditure is that the good in
+question is not being used to fulfill the needs of the investor, but
+of someone else - the con[sumer].
+
+*** Item                                                            :drill:
+
+The error in the thesis that taxation can have a neutral effect on
+production lies in the fact that ti[me] pref[erence] is not taken into
+account.
+
+Every act of taxation necessarily exerts a push [away from|| "away
+from" or "in the direction of"] more highly capitalized, more
+productive production processes in the direction of
+hand-to-mouth-existence.
+
+**** More
+
+The message of taxation is clear: reduce the waiting time; shorten the
+roundabout methods of production.
+
+The signal of taxation is sent to persons whose actions are invariably
+constrained by time preference. For such actors there exists not only
+the alternative between work and no work at all but also one between
+producing a valuable asset in more or less time-consuming ways.
+
+*** Item                                                            :drill:
+
+Taxation [increases||"increases" or "decreases"] the incentive for
+performing barter trade in opposition of lengthier roundabout
+production method of monetary exchanges.
+
+*** Item                                                            :drill:
+
+No amount of any tax can be shifted onto [consumers||"producers" or
+"consumers" or "government"].
+
+**** More
+
+The forward-shifting doctrine arises from not recognizing that in
+one's analysis one must assume that demand is given.
+
+*** Item                                                            :drill:
+
+Producers are the one paying the taxes. Does that mean consumers go
+untouched?
+
+**** Answer
+
+No. Consumers are hurt by harm being done to producers who, despite
+higher prices charged for their supplies, must bear the brunt.
+
+*** Item                                                            :drill:
+
+The price set by any entrepreneur is set with the expectation that a
+price higher than the one actually chosen would yield a
+[lower||"lower" or "higher"] total revenue.
+
+*** Item                                                            :drill:
+
+Whichever way things are put, there is no escaping the conclusion that
+taxation is a means of [obstructing||obstructing or fostering] the
+formation of wealth and thereby creating relative impoverishment.
+
+*** Item                                                            :drill:
+
+Why is there steadily increase in taxation?
+
+The root cause for this is a slow but dramatic change in the idea of
+jus[tice] that has taken place in pub[lic] opi[nion].
+
+*** Item                                                            :drill:
+
+One can acquire property either through homesteading, production, and
+contracting, or else through the expro[priation] and explo[itation] of
+homesteaders, producers, or contractors. There are no other ways.
+
+*** Item                                                            :drill:
+
+Just as productive enterprises can develop into firms and
+corporations, so can the business of expropriating and exploiting
+occur on a larger scale and develop into gov[ernment] and sta[tes].
+
+*** Item                                                            :drill:
+
+For companies to grow in size the [most|| least or most] urgent
+consumer wants must be served in the most [efficient||inefficient or
+efficient] ways. Nothing but voluntary consumer purchases support its
+size.
+
+*** Item                                                            :drill:
+
+Regular people must be coerced into accepting government, and this is
+conclusive proof of the fact that the service [is not|| "is" or "is
+not"] in demand at all.
+
+*** Item                                                            :drill:
+
+The growth of an exploitative firm is constrained by pub[lic] opi[nion].
+
+**** More
+
+This acceptance can range from active enthusiasm to passive
+resignation.
+
+*** Item                                                            :drill:
+
+Could technology advancements on weapons be the reason that states
+keep raising?
+
+**** Answer
+
+No. The technological advancements cannot be kept secret. With the
+state's improved instruments for instilling fear, the victims' ways of
+resisting improve as well.
+
+*** Item                                                            :drill:
+
+Every firm in the large-scale business of property expropriation must
+naturally aim to be a monopolist in a definite ter[ritory].
+
+*** Item                                                            :drill:
+
+Only if the state succeeds in generating the impression in the general
+public that the state's own territory compares favorably, or at least
+tolerably well with others will it be able to secure and [expand||
+"reduce" or "expand"] its position.
+
+*** Item                                                            :drill:
+
+Given that there is nothing else to regulate the state, to maintain
+its own internal order, which regulates the relationships between the
+various branches of government and its employees, there is nothing
+else at its disposal but pub[lic] op[inion].
+
+This is the 3rd way in which public opinion limits the size of the
+state.
+
+*** Item                                                            :drill:
+
+If regulation is needed to regulate people, as promoted by statists,
+who regulates the state?
+
+Intra-governmental relations are a case of political ana[rchy].
+
+*** Item                                                            :drill:
+
+If public opinion ultimately limits the size of an exploitative firm,
+then an explanation of government's growth in purely ide[ological]
+terms is justified.
+
+*** Item                                                            :drill:
+
+The ideology of natural law and natural rights, which emerged withing
+the intellectual elite of the Catholic Church, holds that only
+pri[vate] prop[erty] is compatible with man's nature as a rational
+being.
+
+*** Item                                                            :drill:
+
+Until about the mid-nineteenth century a constant series of upheavals
+gradually stripped away governmental exploitation to an all-time low
+all over Western Europe.
+
+The idea that had conquered public opinion and that had made this
+reduction of governmental power possible was that individual freedom
+and private property are just, self-evident, natural, inviolable and
+ho[ly], and that any invader of such rights should be regarded and
+treated as a contemptuous outcast.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::77]]
+:END:
+
+A true ideology is capable of supporting itself merely by virtue of
+being true. A false one needs reinf[orcement] by outside influences with
+a clear-cut, tangible imp[act] on people in order to be capable of
+generating and supporting a climate of intellectual corru[ption].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::78]]
+:END:
+
+Through a system of tran[sfer] payments, grants of privilege to
+special clients, and governmental production and provision of certain
+“civilian” goods and services (as for instance education), the
+population is made increasingly depe[ndent] on the continuation of
+state rule.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::78]]
+:END:
+
+In the topic of taxation on the modern state, depending on the
+particular conditions of public opinion, such redistributionist
+policies typically simultaneously assume one of two forms:
+
+- welf[are] reforms, generally involving an income redistributions
+- business cart[elizations] and regu[lations]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::79]]
+:END:
+
+Everyone—not just the “nobility”—now receives a legal stake in the
+state, and resistance to its rule tends to [reduce||"reduce" or "increase"] accordingly.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::80]]
+:END:
+
+In paying the price of [democratizing||"democratizing" or
+"tiranizing"] its constitution, the state cor- rupts substantial parts
+of public opinion into gradually losing sight of the fundamental fact
+that an act of exploitation and expropriation is in all appearances
+and consequences the same no matter how and by whom it is decided and
+enforced.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::81]]
+:END:
+
+With their internal exploitative power weak, the desire to compensate
+for these losses by external expansion [rises|| "rises" or
+"decreases"]. However, this desire is frustrated by a lack of internal
+support. The support is created through a policy of redis[tribution],
+industrial regulation, and democratization
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::82]]
+:END:
+
+Each war is also an internal emergency situation, and an emergency
+requires and seems to justify the acceptance of the state’s increasing
+its control over its own population. Such increased control gained
+through the creation of emergencies is reduced during peacetime, but
+it [never||"always" or "never"] sinks back to its pre-war levels
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::85]]
+:END:
+
+regulations require the state’s command over and expenditure of taxes,
+yet regulations [produce no||"produces" or "produce no"] monetary
+income for the state but only income in the form of the satisfaction
+of pure power lust
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::86]]
+:END:
+:LOGBOOK:
+- Refiled on [2022-07-22 sex 11:03]
+:END:
+
+states must willy-nilly move in the direction of a comparatively
+deregulated economy and a comparatively pure tax-state in order to
+avoid [international||"national" or "international"] defeat.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::87]]
+:END:
+
+the idea of pri- vate property has one decisive
+[attraction||"attraction" or "repulsion"]: it, and only it, is a true
+reflection of man’s nature as a rational being.
+** [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::89][Ch 3 - Banking, Nation States, and International Politics]]
+
+* [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::5][Money, Bank Credit, and Economic Cycles]]
+:PROPERTIES:
+:AUTHOR:   Jesús Herta de Soto
+:END:
+
+** [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::59][Ch. 1 - The Legal Nature of the Montery Irregular Deposit Contract]]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::59]]
+:END:
+
+Traditionally there have been two types of loans: loan for use, and
+for consumption.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::62]]
+:END:
+
+In the deposit contract, The obligation of the depositary is to guard
+and protect the good with the extreme diligence typical of a good
+parent, and to return it [immediately||"immediately" or "as soon as
+possible"] to the depositor as soon as he asks for it
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::63]]
+:END:
+
+The deposit of [fungible||"fungible" or "non fungible"] goods, which
+possesses the fundamental ingredients of the deposit contract, is
+called an “irregular deposit,
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::64]]
+:END:
+
+The irregular deposit contract allows for extraordinary
+[efficiency||"inneficient" or "efficiency"] and cost reduction which
+result from treating individual deposits jointly and indistinctly from
+one another
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::65]]
+:END:
+
+the irregular deposit acts as a type of insu[rance] against the possi-
+bility of loss due to inevitable accidents.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::67]]
+:END:
+
+In the specific case of money, the quintessential fungible good, this
+means the safekeeping obligation requires the [continuous||"temporary"
+or "continuous"] availability to the depositor of a 100- percent cash
+reserve.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::70]]
+:END:
+
+the right of banks to use cash from checking accounts is necessarily
+[restricted||"restricted" or "expanded"] by the obligation to maintain
+the uninterrupted availability of these account funds to the
+checking-account holder.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::72]]
+:END:
+
+when comparing irregular deposit and the monetary loan, it would even
+be wisest to hold that in the irregular deposit [there is no||"there
+is no" or "there is"] transfer of ownership
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::73]]
+:END:
+
+the irregular deposit contract does not entail the exchange of present
+goods for future goods, while the loan contract [does||"does" or "does not"]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::75]]
+:END:
+
+the irregular deposit contract [lacks||"has" or "lacks"] a term, the
+essential element identifying a loan contract
+
+*** Item                                                            :drill:
+
+The monetary irr[egular] deposit and the monetary lo[an] have both
+economic and legal differences.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::77]]
+:END:
+
+Are these *economic* characteristics of *monetary irregular deposit*
+or of *monetary loans*?
+
+1. Present goods are not exchanged for future goods.
+
+2. There is complete, continuous availability in favor of the
+   depositor.
+
+3. There is no interest, since present goods are not exchanged for
+   future goods.
+
+[Irregular deposit]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::77]]
+:END:
+
+Are these *economic* characteristics of *monetary irregular deposit*
+or of *monetary loans*?
+
+1. Present goods are exchanged for future goods.
+
+2. Full availability is transferred from lender to borrower.
+
+3. There is interest, since present goods are exchanged for future
+   goods.
+
+[monetary loans]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::77]]
+:END:
+
+Are these *legal* characteristics of *monetary irregular deposit* or
+of *monetary loans*?
+
+1. The essential element (and the depositor’s main motivation) is the
+   custody or safekeeping of the tan- tundem.
+2. There is no term for returning the money, but rather the contract
+   is “on demand.”
+3. The depositary’s obliga- tion is to keep the tantun- dem available
+   to the depositor at all times (100-percent cash reserve).
+
+[irregular deposit]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::77]]
+:END:
+
+Are these *legal* characteristics of *monetary irregular deposit* or
+of *monetary loans*?
+
+1. The essential element is the transfer of avail- ability of the
+   present goods to the borrower.
+2. The contract requires the establishment of a term for the return of
+   the loan and calcula- tion and payment of interest.
+3. The borrower’s obliga- tion is to return the tantundem at the end
+   of the term and to pay the agreed-upon interest.
+
+[monetary loan]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::82]]
+:END:
+
+classical jurists [never||"never" or "sometimes"] entertained
+pretensions of being “original” or “clever,” but rather were “the
+servants of certain fundamental principles. Their fundamental
+objective was to discover the [universal||"contingent" or "universal"]
+principles of law, which are [unchanging||"changing" or "unchanging"]
+and inherent in the logic of human relationships.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::83]]
+:END:
+
+Roman jurists worked independently and [were not||"were" or "were
+not"] civil servants.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::84]]
+:END:
+:LOGBOOK:
+- Refiled on [2022-07-22 sex 11:03]
+:END:
+
+The irregular deposit contract is not an intellectual, abstract
+creation. It manifests itself in a set of principles which
+[cannot||"cannot" or "can"] be violated without grave consequences to
+the network of human relationships
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::88]]
+:END:
+
+interest was considered [incompatible||"incompatible" or "compatible"]
+with the monetary irregular deposit and that when bankers paid
+interest, it was in connection with a totally different contract
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::89]]
+:END:
+
+According to roman law, he who receives a good on deposit and uses it
+for a purpose other than that for which it was received [is||"is" or
+"is not"] guilty of theft.
+** [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::95][Ch. 2 - Historical Violations of the Legal Principles Governing the Monetary Irregular-Deposit Contract]]

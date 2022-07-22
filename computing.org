@@ -287,32 +287,91 @@ However, the hash table index also has limitations:
  number of keys, you’re out of luck.
 – Range queries [are not|| "are" or "are not"] efficient.
 
-*** Continue [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:13898][here]]
 *** Item                                                            :drill:
 :PROPERTIES:
 :ID:       52dbafb6-7f74-4737-bb0d-a7d5ee4df90e
 :END:
+
+SSTable is an abbreviation of So[rted] St[ring] Tables.
+
+They are an improvement over sequential logs, in which the keys of log
+segments are sorted. This allows the usage of a Sp[arse] Index in
+memory.
+
 *** Item                                                            :drill:
 :PROPERTIES:
 :ID:       761568df-a78c-48b8-b2e1-b8843be1ad1e
 :END:
+
+How to keep keys sorted in an SSTable? An in-memory balanced tree is
+used, called mem[table]. After the data surpasses a given threshold of
+size, the data is written to a SSTable file.
+
+How to recover the memtable from server crash? An associated append
+only lo[g] is necessary.
+
 *** Item                                                            :drill:
 :PROPERTIES:
 :ID:       49cb17bc-2efc-45b8-a321-d2e2b47139ca
 :END:
+
+LSM-Tree stands for: Log-Stru[ctured] Mer[ge]-Tree.
+
+The basic idea of LSM-trees is to keep a cascade of SSTables that are
+mer[ged] in the background.
+
 *** Item                                                            :drill:
 :PROPERTIES:
 :ID:       60b9f18a-8c14-45eb-8da1-fc337ab121cc
 :END:
+
+A Bloom filter is a memory-efficient data structure for approximating
+the contents of a set. It can tell you if a key [does not|| "does" or "does not"]
+appear in the database, and thus saves many unnecessary disk reads for [nonexistent|| "existing" or "non existing"]
+keys.
+
 *** Item                                                            :drill:
 :PROPERTIES:
 :ID:       80f2e527-f645-4691-9052-f71ec8371c48
 :END:
+
+Most databases can fit into a B-tree that is th[ree] or fo[ur] levels
+deep, so you don’t need to follow many page references to find the
+page you are looking for. (A four-level tree of 4 KB pages with a
+branching factor of 500 can store up to 256 TB.)
+
 *** Item                                                            :drill:
 :PROPERTIES:
 :ID:       53466fcc-5894-4a11-bfd3-f6ac994b295e
 :END:
-* Time and Relational Theory (by Hugh Darwen, C.J. Date, and Nikos Lorentzos)
+
+In order to make the database resilient to crashes, it is common for
+B-tree implementations to include an additional data structure on
+disk: a wr[ite]-ah[ead] log (WAL, also known as a redo log).
+
+**** More
+
+This is an append-only file to which every B-tree modification must be
+written before it can be applied to the pages of the tree itself. When
+the database comes back up after a crash, this log is used to restore
+the B-tree back to a consistent state.
+
+*** Item                                                             :drill:
+*** Item                                                             :drill:
+*** Item                                                             :drill:
+*** Item                                                             :drill:
+*** Item                                                             :drill:
+*** Item                                                             :drill:
+*** Item                                                             :drill:
+*** Item                                                             :drill:
+*** Item                                                             :drill:
+*** Item                                                             :drill:
+*** Item                                                             :drill:
+*** Item                                                             :drill:
+*** Item                                                             :drill:
+*** Item                                                             :drill:
+*** Item                                                             :drill:
+* [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::0:1][Time and Relational Theory (by Hugh Darwen, C.J. Date, and Nikos Lorentzos)]]
 ** [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::10:1][Ch 1 - Types and Relations]]
 *** Item                                                            :drill:
 :PROPERTIES:
@@ -937,6 +996,18 @@ Immutability Ch[anges] Everything
 
 ** [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::5:1][Ch. 2 - Forms of Immutable Architecture]]
 *** Item                                                            :drill:
+
+*Object vs record*
+
+We will call the things that change X, and the things that do not
+change Y.
+
+**** More
+
+- X = object
+- Y = record
+
+*** Item                                                            :drill:
 SCHEDULED: <2022-07-26 ter>
 :PROPERTIES:
 :ID:       630a07e9-0200-4c06-bfa2-2fc6121a4823
@@ -1191,6 +1262,10 @@ SCHEDULED: <2022-07-26 ter>
 :END:
 
 The pattern on which Elm is based is called Model View Up[date] .
+
+**** More
+
+Contrast it to: MVC
 
 *** Item                                                            :drill:
 SCHEDULED: <2022-07-25 seg>
@@ -1506,27 +1581,111 @@ Model individual transactions historically. At a central authority,
 collect a list of ongoing historical facts into the static model. At
 regular intervals, close the tally of facts and compute a summary.
 
-** TODO Ch. 3 - How to Read a Historical Model
+*** Item                                                            :drill:
+
+The distinctive characteristic of Historical Modeling(HM) when
+compared to Event Sourcing and MVU is that HM does not assume that
+historical events occurred within a fully ordered sequence.
+
+*** Item                                                            :drill:
+
+In Historical Modeling, Instead of referring to historical records as
+events or actions, let us call them fa[cts].
+
+** [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::6:1][Ch. 3 - How to Read a Historical Model]]
 *** Item                                                            :drill:
 :PROPERTIES:
 :ID:       aaf2ab8c-2159-4603-b7a2-5ce708cd3924
 :END:
+
+The *fact type diagram* expresses both the car[dinality] and the
+cau[sality] of the domain. Reading through it reveals a narrative of
+how a system came to be in a particular state and exposes the
+constraints on how that system can and cannot change.
+
 *** Item                                                            :drill:
 :PROPERTIES:
 :ID:       ddbf7607-e4c2-4963-b429-247d3fbd4d96
 :END:
+
+In a fact type diagram, the nodes are ty[pes] and the directed arrows
+indicate pre[decessor] hierarchy.
+
+On the diagram ~[A] -> [B]~, A is the [successor|| "sucessor" or "predecessor"],
+and B is the [predecessor|| "sucessor" or "predecessor"].
+
+Labels on the arrows are [optional|| "mandatory" or "optional"].
+
 *** Item                                                            :drill:
 :PROPERTIES:
 :ID:       b97519c9-66a8-40ae-b981-33b483ffe8e6
 :END:
+
+On domain modeling, we can never limit the number of successors, but
+we can express the number of predecessors in a few ways:
+
+- [?] :: Zero or One
+- [*] :: Zero or many
+- [-] :: Exactly one
+
 *** Item                                                            :drill:
 :PROPERTIES:
 :ID:       d72d6a30-5878-49b1-9bae-5e541d1e2dc7
 :END:
+
+Are loops allowed in a fact *type* diagram?
+
+[Yes.]
+
+**** More
+
+Even though this relationship introduces a cycle into the fact type
+graph, it does not allow cycles of fact instances.
+
+A fact instance diagram does not admit cycles. A fact never refers to
+itself as a predecessor.  Nor can facts refer to predecessors that in
+turn refer to the original, directly or indirectly.
+
 *** Item                                                            :drill:
-:PROPERTIES:
-:ID:       ed5c276f-99c2-40df-b9bd-dd43ed5cf2bf
-:END:
+
+Are loops allowed in a fact *instance* diagram?
+
+[No.]
+
+**** More
+
+A fact instance diagram does not admit cycles. A fact never refers to
+itself as a predecessor.  Nor can facts refer to predecessors that in
+turn refer to the original, directly or indirectly.
+
+*** Item                                                            :drill:
+
+Whereas fact type diagrams are general descriptions of a model, fact
+instance diagrams show specific ex[amples].
+
+**** More
+
+They offer a form of debugging prior to a model having been implemented.
+
+*** Item                                                            :drill:
+
+In Historical Modeling, a fact is uniquely identified by its ty[pe],
+the va[lues] of its fi[elds], and the *set* of its pred[ecessors].
+
+*** [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::6:23077][TODO Continue here]] Item                                         :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
 * Articles and Blog Posts
 ** [[https://fsharpforfunandprofit.com/posts/concurrency-actor-model/][Messages and Agents]] (F# for fun and profit)
 *** Item                                                            :drill:
