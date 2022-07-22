@@ -688,6 +688,100 @@ According to roman law, he who receives a good on deposit and uses it
 for a purpose other than that for which it was received [is||"is" or
 "is not"] guilty of theft.
 ** [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::95][Ch. 2 - Historical Violations of the Legal Principles Governing the Monetary Irregular-Deposit Contract]]
+:PROPERTIES:
+:RESUME_HERE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::117][here]]
+:END:
+*** Summary
+**** Intro
+
+- Led by greed, banks started violating the Irregular-Deposit Contract
+  (deposit of fungible goods)
+- From this practice they extracted enormous profits
+- Legal authorities were slowly made aware of the process
+- Instead of defending private property, legal authorities created
+  privileges for bankers. Eventually, they even created their own
+  banks (XVII century onward)
+- This process has happened in greece an rome, as well as in trading
+  cities during late middle ages, and happens on the modern state.
+
+**** Banking in Classic Greece
+
+- Huerta lists a handful descriptions of bank frauds in Greece
+- These descriptions come from legal accusations surrounding bank
+  deposits which could not be honored
+- Bankers would make use of depositors money. When the depositor
+  wanted to withdraw, the resource was not available. Bankers would
+  then try very hard to hide the occurrence, and even deny the
+  deposit.
+- Huerta points that even in Greece there were already cases of crysis
+  triggered by bank activity.
+- He also lists the first case were government created special
+  privileges to bankers, allowing them to not pay deposits back for a
+  period of 10 years.
+- Because bankers are rich, people consider them highly. The banking
+  business lives of this trust people have in bankers.
+- The first Greek banks were religious temples, which were specially
+  safe exactly because they were religious places.
+
+**** Banking in the Helenistic Period (when Roma was the shit)
+
+- The first state bank happened in Egypt. It did not have monopoly,
+  though they already introduced the practice of private bankers
+  keeping their assets in the state bank.
+- Romans had banks as well, though there are fewer vestiges of
+  descriptions of frauds. Roman law does emphasize a lot the nature of
+  irregular deposit contracts, from which we can infer that these
+  happened.
+- The romans did not have a state bank though. There was a proposal,
+  but it was never approved.
+- Bankers in Rome started the practice of creating a guild to protect
+  their interests. The permission for banking was already granted by
+  the state. Also, private civilians could join their funds to start a
+  bank, and the concept of unlimited liability was created (the
+  owners' assets were game for paying deposits).
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::102]]
+:END:
+
+(greek writing of a guy suing a bank)
+
+When the client, greatly surprised by the banker’s behavior, again
+claimed payment from Passio, he said the banker, after covering his
+head, cried and said he had been forced by economic difficulties to
+deny my deposit but would soon try to return the money to me; he asked
+me to take pity on him and to keep his poor situation a sec[ret] so it
+would not be dis- covered he had committed fraud.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::111]]
+:END:
+
+due to their highly-developed accounting system, paying debts through
+banks became extremely convenient, as there was an official record of
+transactions—an important piece of evidence in case of liti[gation].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::116]]
+:END:
+:LOGBOOK:
+- Refiled on [2022-07-22 sex 17:16]
+:END:
+
+The economic and social disintegration of the Roman Empire resulted
+from infla[tionary] government policies which devalued the currency,
+and from the establishment of maximum prices for essential goods,
+which in turn caused a general shortage of these goods, the financial
+ruin of merchants and the disappearance of trade between different
+areas of the Empire. This was also the end for banking. Most banks
+failed during the successive economic crises of the third and fourth
+centuries A.D.
 * [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::7][From Marx to Mises]]
 :PROPERTIES:
 :AUTHOR:   Devid Ramsay Steele
