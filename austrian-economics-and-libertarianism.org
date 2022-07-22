@@ -688,3 +688,122 @@ According to roman law, he who receives a good on deposit and uses it
 for a purpose other than that for which it was received [is||"is" or
 "is not"] guilty of theft.
 ** [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::95][Ch. 2 - Historical Violations of the Legal Principles Governing the Monetary Irregular-Deposit Contract]]
+* [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::7][From Marx to Mises]]
+:PROPERTIES:
+:AUTHOR:   Devid Ramsay Steele
+:SUBTITLE: Post Capitalist Society and the Challenge of Economic Calculation
+:END:
+** [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::25][Ch. 1 - A QUICK LOOK AT THE MISES ARGUMENT]]
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::25]]
+:END:
+
+Mises contended that, however powerful the socialist movement might
+become, and no matter how many people wanted socialism, howsoever
+ardently, they would always be powerless to bring socialism into
+being, because socialism was [inherently||"inherently" or
+"conditionally"] unfeasible.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::26]]
+:END:
+
+Was mises the first one to deem socialism impossible?
+
+**** More
+No.
+
+What was new to Mises’s readers was *his specific argument* for the
+impossibility of socialism.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::26]]
+:END:
+
+It is part of Mises’s definition of socialism that factors of
+production are not exchanged on the market, so that under socialism
+there [cannot||"can" or "cannot"] be market prices of factors of
+production. This is called Non Factor Market Socialism (NFM).
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::28]]
+:END:
+
+The broad conclusion of the Mises argument can be stated in this form:
+the productive achievements of modern industrial civilization depend
+upon the existence of a functioning market.
+
+By a functioning market I mean a market which need not be ‘perfect’
+nor even ‘free’, but one which does actually function as a market,
+because individuals (or small groups of individuals) are permitted
+sufficient autonomy (and do in fact) to tra[de]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::36]]
+:END:
+
+A method of production is technically eff[icient] if no other method can
+be found which uses no more of any factor and uses less of at least
+one factor.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::37]]
+:END:
+
+No matter how detailed our knowledge of technical facts, our knowledge
+would be [insufficient||"sufficient" or "insufficient"] for us to
+choose the best production methods.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::40]]
+:END:
+
+The total cost of producing anything is the total effect in reducing
+production of other things because of the factors used up. This, then,
+is what we mean by ‘cost of production’.  It is this that we always
+want to [minimize||"maximize" or "minimize"] when we produce anything.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::47]]
+:END:
+
+prices of factors fluctuate much [more||"less" or "more"] than prices
+of consumer goods
+
+**** More
+
+and more frequently as well
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-22 sex]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::52]]
+:END:
+:LOGBOOK:
+- Refiled on [2022-07-22 sex 11:44]
+:END:
+
+In order to assess whether the factory is a net benefit or a horrible
+waste we must put prices (or some substitute measure of cost) on the
+factory’s outputs and inputs. We then have to be able to determine
+whether the factory is making a ‘pro[fit]’ or a ‘loss’—whether all the
+resources used in producing the output are greater or less than the
+value of that output.
+
+** [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::61][Ch. 2 - The Abolition of the Market]]
