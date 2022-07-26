@@ -5,14 +5,29 @@
 :END:
 ** [[pdfview:~/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::15][Ch 1 - Fallacies of the Public Goods Theory and the Production of Security]]
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       69744084-321a-48ae-826b-bf191ee52536
+:END:
 
 A clear-cut dichotomy between private and public goods [does not||
 "does" or "does not"] exist.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
+:PROPERTIES:
+:ID:       1b567c93-a604-409a-93ed-bd320d9251c2
+:DRILL_LAST_INTERVAL: 4.2857
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:19]
+:END:
 
-Nothing is a good unless at least one person subjectively evaluates it
-as such.
+[Nothing||"Everythung" or "Nothing"] is a good unless at least one
+person subjectively evaluates it as such.
 
 **** More
 
@@ -21,6 +36,9 @@ by someone. Something is not a good as such, that is to say: goods are
 goods only in the eyes of the beholder.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       59e1a099-0758-498b-9013-8ccbb08e44ac
+:END:
 
 From the statement that because of some special characteristics they
 have, certain goods would not be produced, one [could never|| "could
@@ -33,6 +51,9 @@ An ethical explanation would have to be offered, and social good
 theorists never follow this route.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       85bd49c7-a81e-4085-9cba-f8ae6de011bf
+:END:
 
 The principle of nonagression is thus the necessary
 [precondition for|| "consequence of" or "precondition for"] argumentation
@@ -40,12 +61,18 @@ and possible agreement and hence can be argumentatively defended as a just
 norm by means of a priori reasoning.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       446a8b64-3939-4df4-bf6b-630cb9b64096
+:END:
 
 The resources used for the provision of public goods are wasted
 because they provide consumers with goods or services that are only of
 [secondary|| "ultimate" or "secondary"] importance.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       7fd5fab0-814e-4827-9d94-b3b4e76614b7
+:END:
 
 A market is not perfect, as it is characterized by the nonagression
 principle imposed on conditions marked by scarcity, and so certain
@@ -53,6 +80,18 @@ goods or services that could only be produced and provided if
 aggression were allowed [will not|| "will" or "will not"] be produced.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
+:PROPERTIES:
+:ID:       09adae95-0d24-4262-9e2e-5c8b19794e02
+:DRILL_LAST_INTERVAL: 4.0856
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:21]
+:END:
 
 How can the state - an organization financed partially or wholly by
 taxes - decide how much *security* to produce, how much of each of its
@@ -62,6 +101,18 @@ From the point of view of the consumers, its response to their
 security demands must be considered [arbitrary|| "rational" or "arbitrary"].
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
+:PROPERTIES:
+:ID:       9068870f-f3da-4be9-89fd-5d2777709cee
+:DRILL_LAST_INTERVAL: 4.2849
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:14]
+:END:
 
 A libertarian approach to security would still not be perfect. What
 does it really add?
@@ -71,6 +122,18 @@ In terms of consumer evaluation, the situation would
 man would allow.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
+:PROPERTIES:
+:ID:       2941807a-6095-4d3c-8197-731d975dddc0
+:DRILL_LAST_INTERVAL: 4.017
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:14]
+:END:
 
 Systems of competing courts have existed at various places (e.g.: in
 ancient Ire[land] or at the times of the Han[seatic] League in XIII
@@ -83,6 +146,9 @@ there.
 Yet another is modern day int[ernational] contracts.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       f963e253-d343-43c9-846c-83e42e50e69a
+:END:
 
 Establishing a competitive system of security producers implies
 erecting an incentive structure to produce law-enforcement that
@@ -90,6 +156,9 @@ embodies the highest possible degree of [consensus||"divergence" or
 "consensus"] regarding the question of conflict resolution.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       75224748-dd3d-417c-a1d4-800e0a7bbeb9
+:END:
 
 Could a capitalist security industry produce an outlaw company? Yes,
 but this does not indicates a deficiency in the libertarian
@@ -111,13 +180,28 @@ each crime?
 
 ** [[pdfview:~/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::45][Ch 2 - The Economics and Sociology of Taxation]]
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
+:PROPERTIES:
+:ID:       cc74e7a7-fe45-4fee-8a39-6f4fdb3671f4
+:DRILL_LAST_INTERVAL: 4.4421
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:21]
+:END:
 
 Taxation is an attack on and punishment of the acquisition and
-production of property, which necessarily leads to a [reduction||
-"reduction" or "increase"] in the formation of wealth embodied in such
+production of property, which necessarily leads to a [reduction|| "reduction" or "increase"]
+in the formation of wealth embodied in such
 property and to a lowering of the general standard of living.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       012ab4dc-26ef-4b67-bb32-4d8478ba8d6f
+:END:
 
 Taxation is a coe[rcive], non-contractual transfer of definite
 physical assets and the value embodied in them, from a person or group
@@ -126,6 +210,9 @@ in[come] from further holding them, to another, who now possesses them
 and now derives an in[come] from so doing.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       a6eb3f3c-636d-4372-8fc7-86554805a0cd
+:END:
 
 How to acquire assets (which can then be taxed)? By 3 ways only:
 
@@ -134,12 +221,18 @@ How to acquire assets (which can then be taxed)? By 3 ways only:
 - contractual exc[hange]
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       4757a3b9-a913-4e07-a91e-69f1ab58a663
+:END:
 
 Taxation causes the marginal utility of appropriating, producing, and
 contracting to [decrease|| "increase" or "decrease"], and the marginal
 utility of consumption and leisure to [increase||"increase" or "decrease"].
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       4ab51452-e5eb-4d51-b77d-80a53f0bc66d
+:END:
 
 Experience [cannot|| can or cannot] beat logic, and interpretations of
 observational evidence which are not in line with the laws of logical
@@ -147,6 +240,9 @@ reasoning [are no||are or "are not"] refutation of these but the sign
 of muddled mind.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       2bbc2692-1f27-4e85-9c79-dd57c39655ec
+:END:
 
 What to say about claims of places whose wealth increased after
 introduction of taxation?
@@ -160,12 +256,27 @@ This is like saying that, from the observation that "rich men consume
 more than poor men", that "rich men got rich by consuming more".
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-31 dom>
+:PROPERTIES:
+:ID:       052d2eca-a998-47f7-b142-2e667473d09b
+:DRILL_LAST_INTERVAL: 4.5706
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:20]
+:END:
 
 A characteristic of an investment expenditure is that the good in
 question is not being used to fulfill the needs of the investor, but
 of someone else - the con[sumer].
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       bd7f1e92-90c7-41c0-80e8-bc710224c2d6
+:END:
 
 The error in the thesis that taxation can have a neutral effect on
 production lies in the fact that ti[me] pref[erence] is not taken into
@@ -187,15 +298,38 @@ the alternative between work and no work at all but also one between
 producing a valuable asset in more or less time-consuming ways.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-31 dom>
+:PROPERTIES:
+:ID:       d0e57b9e-95b3-460e-bf18-e32e94dc4a69
+:DRILL_LAST_INTERVAL: 4.9177
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:12]
+:END:
 
 Taxation [increases||"increases" or "decreases"] the incentive for
 performing barter trade in opposition of lengthier roundabout
 production method of monetary exchanges.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
+:PROPERTIES:
+:ID:       e92aedf3-c53c-4627-bc58-d3d4a0364505
+:DRILL_LAST_INTERVAL: 4.1016
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:12]
+:END:
 
-No amount of any tax can be shifted onto [consumers||"producers" or
-"consumers" or "government"].
+No amount of any tax can be shifted onto [consumers||"producers" or "consumers"].
 
 **** More
 
@@ -203,6 +337,18 @@ The forward-shifting doctrine arises from not recognizing that in
 one's analysis one must assume that demand is given.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
+:PROPERTIES:
+:ID:       31146dcf-9b7d-4699-83be-bc802ac4f202
+:DRILL_LAST_INTERVAL: 4.1839
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:21]
+:END:
 
 Producers are the one paying the taxes. Does that mean consumers go
 untouched?
@@ -213,18 +359,36 @@ No. Consumers are hurt by harm being done to producers who, despite
 higher prices charged for their supplies, must bear the brunt.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       da9e5874-f60c-48b2-9b53-aa0dfa9e3aa4
+:END:
 
 The price set by any entrepreneur is set with the expectation that a
 price higher than the one actually chosen would yield a
 [lower||"lower" or "higher"] total revenue.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-31 dom>
+:PROPERTIES:
+:ID:       0535988c-88c8-4301-bdc3-0c5a52d5a7d4
+:DRILL_LAST_INTERVAL: 4.9525
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:14]
+:END:
 
 Whichever way things are put, there is no escaping the conclusion that
 taxation is a means of [obstructing||obstructing or fostering] the
 formation of wealth and thereby creating relative impoverishment.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       a324580b-50b3-4c3f-add1-7bb3847fe952
+:END:
 
 Why is there steadily increase in taxation?
 
@@ -232,18 +396,36 @@ The root cause for this is a slow but dramatic change in the idea of
 jus[tice] that has taken place in pub[lic] opi[nion].
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
+:PROPERTIES:
+:ID:       ec3184d8-b187-4465-a70f-4d00509b1c76
+:DRILL_LAST_INTERVAL: 4.4903
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:20]
+:END:
 
 One can acquire property either through homesteading, production, and
 contracting, or else through the expro[priation] and explo[itation] of
 homesteaders, producers, or contractors. There are no other ways.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       17cce0bf-b8bb-43ed-8af0-9e1450ed6a7e
+:END:
 
 Just as productive enterprises can develop into firms and
 corporations, so can the business of expropriating and exploiting
 occur on a larger scale and develop into gov[ernment] and sta[tes].
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       265e8280-7a60-42c4-8789-57dc5308797a
+:END:
 
 For companies to grow in size the [most|| least or most] urgent
 consumer wants must be served in the most [efficient||inefficient or
@@ -251,12 +433,27 @@ efficient] ways. Nothing but voluntary consumer purchases support its
 size.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       4865d30d-c829-400d-b0ea-e94cced11cf0
+:END:
 
 Regular people must be coerced into accepting government, and this is
 conclusive proof of the fact that the service [is not|| "is" or "is
 not"] in demand at all.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
+:PROPERTIES:
+:ID:       49223188-eb1a-4ff7-b47c-ff7bf42b03ec
+:DRILL_LAST_INTERVAL: 4.3526
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:18]
+:END:
 
 The growth of an exploitative firm is constrained by pub[lic] opi[nion].
 
@@ -266,6 +463,9 @@ This acceptance can range from active enthusiasm to passive
 resignation.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       26f14635-e14a-46ed-a76d-080007805692
+:END:
 
 Could technology advancements on weapons be the reason that states
 keep raising?
@@ -277,11 +477,17 @@ state's improved instruments for instilling fear, the victims' ways of
 resisting improve as well.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       da7d35cb-7b45-406b-98d8-c424d7629b9e
+:END:
 
 Every firm in the large-scale business of property expropriation must
 naturally aim to be a monopolist in a definite ter[ritory].
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       c48a4de7-9a7d-47d0-a2b6-90368075016b
+:END:
 
 Only if the state succeeds in generating the impression in the general
 public that the state's own territory compares favorably, or at least
@@ -289,6 +495,9 @@ tolerably well with others will it be able to secure and [expand||
 "reduce" or "expand"] its position.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       5d84da3a-6f7f-4726-b252-d2c36ccf821c
+:END:
 
 Given that there is nothing else to regulate the state, to maintain
 its own internal order, which regulates the relationships between the
@@ -299,6 +508,18 @@ This is the 3rd way in which public opinion limits the size of the
 state.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
+:PROPERTIES:
+:ID:       195e9f98-9ca7-4c1e-a307-121dbca592fb
+:DRILL_LAST_INTERVAL: 4.4475
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:11]
+:END:
 
 If regulation is needed to regulate people, as promoted by statists,
 who regulates the state?
@@ -306,12 +527,27 @@ who regulates the state?
 Intra-governmental relations are a case of political ana[rchy].
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-31 dom>
+:PROPERTIES:
+:ID:       9a5bada4-902e-4075-80af-90ab16da5c86
+:DRILL_LAST_INTERVAL: 5.2677
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:21]
+:END:
 
 If public opinion ultimately limits the size of an exploitative firm,
 then an explanation of government's growth in purely ide[ological]
 terms is justified.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       2ed02ef4-f569-46a3-98ab-662f5a84012c
+:END:
 
 The ideology of natural law and natural rights, which emerged withing
 the intellectual elite of the Catholic Church, holds that only
@@ -319,6 +555,9 @@ pri[vate] prop[erty] is compatible with man's nature as a rational
 being.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       98e5d816-27c1-4a82-88a5-43a40accc4a6
+:END:
 
 Until about the mid-nineteenth century a constant series of upheavals
 gradually stripped away governmental exploitation to an all-time low
@@ -334,6 +573,7 @@ treated as a contemptuous outcast.
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::77]]
+:ID:       2bdc59ca-8c02-4197-bca3-f26487c5b0f5
 :END:
 
 A true ideology is capable of supporting itself merely by virtue of
@@ -345,6 +585,7 @@ generating and supporting a climate of intellectual corru[ption].
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::78]]
+:ID:       06816c2e-12b5-4169-ae16-d1f2d1252202
 :END:
 
 Through a system of tran[sfer] payments, grants of privilege to
@@ -354,9 +595,19 @@ population is made increasingly depe[ndent] on the continuation of
 state rule.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::78]]
+:ID:       01172aa4-92d4-45d1-bde5-eb8cb444d1c6
+:DRILL_LAST_INTERVAL: 4.3396
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:17]
 :END:
 
 In the topic of taxation on the modern state, depending on the
@@ -370,33 +621,54 @@ policies typically simultaneously assume one of two forms:
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::79]]
+:ID:       30bd7398-ff0e-494b-96ad-504b2b421199
 :END:
 
 Everyone—not just the “nobility”—now receives a legal stake in the
 state, and resistance to its rule tends to [reduce||"reduce" or "increase"] accordingly.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::80]]
+:ID:       57c6468e-c0ad-40dc-9d93-793ab97dda82
+:DRILL_LAST_INTERVAL: 3.9282
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:13]
 :END:
 
-In paying the price of [democratizing||"democratizing" or
-"tiranizing"] its constitution, the state cor- rupts substantial parts
-of public opinion into gradually losing sight of the fundamental fact
+In paying the price of [democratizing||"democratizing" or "tiranizing"]
+its constitution, the state corrupts [substantial||"a small" or "substantial"] parts
+of public opinion into [gradually||"gradually" or "quickly"] losing sight of the fundamental fact
 that an act of exploitation and expropriation is in all appearances
-and consequences the same no matter how and by whom it is decided and
-enforced.
-
+and consequences [the same||"different" or "the same"].
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-31 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::81]]
+:ID:       f68ffd85-8186-4623-9f18-0834f78ed92e
+:DRILL_LAST_INTERVAL: 5.0911
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:19]
 :END:
 
+(about state, taxes, and expansion)
+
 With their internal exploitative power weak, the desire to compensate
-for these losses by external expansion [rises|| "rises" or
-"decreases"]. However, this desire is frustrated by a lack of internal
+for these losses by external expansion [rises|| "rises" or "decreases"].
+However, this desire is frustrated by a lack of internal
 support. The support is created through a policy of redis[tribution],
 industrial regulation, and democratization
 
@@ -404,6 +676,7 @@ industrial regulation, and democratization
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::82]]
+:ID:       c8b85c3a-0b56-41cb-a5de-6dbfcba71637
 :END:
 
 Each war is also an internal emergency situation, and an emergency
@@ -416,6 +689,7 @@ it [never||"always" or "never"] sinks back to its pre-war levels
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::85]]
+:ID:       a5f061fa-05fa-4ac6-b45e-b43766d5437c
 :END:
 
 regulations require the state’s command over and expenditure of taxes,
@@ -427,6 +701,7 @@ of pure power lust
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::86]]
+:ID:       12e4eecc-904c-42df-a791-592e18113d21
 :END:
 :LOGBOOK:
 - Refiled on [2022-07-22 sex 11:03]
@@ -440,12 +715,40 @@ avoid [international||"national" or "international"] defeat.
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::87]]
+:ID:       0ec8b0d7-23c9-447d-86b5-062bfcf0e4ea
 :END:
 
 the idea of pri- vate property has one decisive
 [attraction||"attraction" or "repulsion"]: it, and only it, is a true
 reflection of man’s nature as a rational being.
 ** [[pdfview:/home/jz/Documents/Papers/Libertarian/Hans Hermann Hoppe/economics_and_ethics_of_private_property_2020.pdf::89][Ch 3 - Banking, Nation States, and International Politics]]
+*** Summary
+**** I
+
+Barter and money arise naturally from the free action of self
+interested individuals. With money, the individual avoids the
+necessity of the rare event of finding someone who has what one wants,
+and who wants what one has.
+
+Gold is naturally chosen by men as the best commodity money. Also, it
+is natural that an universal commodity money appears. Local moneys
+would all be driven out of market by gold.
+
+Money is good. It expands the market for one's production, which in
+turns increases consumption and production. Money also leads to the
+birth of banks, which will take care of people's money.
+
+We should have many banks, but only one money. Competition on the
+banking system would create incentive for efficiency usage of
+resources on banking.
+
+If we do have competing money, this is because of coercion from
+governments.
+
+Bankers are easily tempted to create more bank notes then there are
+actually assets in deposit. This creates an economic cycle of
+boom-bust, since these expanded credit does not correspond to
+increased savings.
 
 * [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::5][Money, Bank Credit, and Economic Cycles]]
 :PROPERTIES:
@@ -458,6 +761,7 @@ reflection of man’s nature as a rational being.
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::59]]
+:ID:       3d5f72b1-c3d2-4176-9559-2013d2a0efc9
 :END:
 
 Traditionally there have been two types of loans: loan for use, and
@@ -467,6 +771,7 @@ for consumption.
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::62]]
+:ID:       458416d7-678b-4ea7-b5f6-e406e2acfda4
 :END:
 
 In the deposit contract, The obligation of the depositary is to guard
@@ -475,9 +780,19 @@ parent, and to return it [immediately||"immediately" or "as soon as
 possible"] to the depositor as soon as he asks for it
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-31 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::63]]
+:ID:       bf3960ed-6320-412a-a5c6-65d55e605fef
+:DRILL_LAST_INTERVAL: 4.9751
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:15]
 :END:
 
 The deposit of [fungible||"fungible" or "non fungible"] goods, which
@@ -485,9 +800,19 @@ possesses the fundamental ingredients of the deposit contract, is
 called an “irregular deposit,
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::64]]
+:ID:       1518642b-f922-4cc7-b15a-4f49723f3329
+:DRILL_LAST_INTERVAL: 4.4456
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:10]
 :END:
 
 The irregular deposit contract allows for extraordinary
@@ -496,9 +821,19 @@ result from treating individual deposits jointly and indistinctly from
 one another
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::65]]
+:ID:       1d252abb-030a-4d26-a5d3-8b357eb4bf77
+:DRILL_LAST_INTERVAL: 4.4944
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:10]
 :END:
 
 the irregular deposit acts as a type of insu[rance] against the possi-
@@ -508,6 +843,7 @@ bility of loss due to inevitable accidents.
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::67]]
+:ID:       e35a5d63-cfad-4529-956d-7e41973c41a6
 :END:
 
 In the specific case of money, the quintessential fungible good, this
@@ -516,9 +852,19 @@ or "continuous"] availability to the depositor of a 100- percent cash
 reserve.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::70]]
+:ID:       56ce34b1-207b-45f5-b007-434f37174a9b
+:DRILL_LAST_INTERVAL: 4.0559
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:20]
 :END:
 
 the right of banks to use cash from checking accounts is necessarily
@@ -527,19 +873,39 @@ the uninterrupted availability of these account funds to the
 checking-account holder.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::72]]
+:ID:       76d9275e-e464-4328-994d-3d5d588d92c6
+:DRILL_LAST_INTERVAL: 3.9613
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:11]
 :END:
 
 when comparing irregular deposit and the monetary loan, it would even
-be wisest to hold that in the irregular deposit [there is no||"there
-is no" or "there is"] transfer of ownership
+be wisest to hold that in the irregular deposit [there is no||"there is no" or "there is"]
+transfer of ownership
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::73]]
+:ID:       ac583bb8-949d-4cee-bda9-2a773f6db163
+:DRILL_LAST_INTERVAL: 4.238
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:19]
 :END:
 
 the irregular deposit contract does not entail the exchange of present
@@ -549,20 +915,34 @@ goods for future goods, while the loan contract [does||"does" or "does not"]
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::75]]
+:ID:       3c25e10f-e5d4-4097-8e78-a0f8231c8771
 :END:
 
 the irregular deposit contract [lacks||"has" or "lacks"] a term, the
 essential element identifying a loan contract
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       3f61856b-fbb0-43ac-93be-2527cbe4a0b7
+:END:
 
 The monetary irr[egular] deposit and the monetary lo[an] have both
 economic and legal differences.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-31 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::77]]
+:ID:       87947589-1572-4f94-bae8-b0ca8eeb23cf
+:DRILL_LAST_INTERVAL: 4.6036
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:10]
 :END:
 
 Are these *economic* characteristics of *monetary irregular deposit*
@@ -582,6 +962,7 @@ or of *monetary loans*?
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::77]]
+:ID:       73637cd6-5dc5-4276-9f70-8ec07edd594f
 :END:
 
 Are these *economic* characteristics of *monetary irregular deposit*
@@ -600,6 +981,7 @@ or of *monetary loans*?
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::77]]
+:ID:       a18c98f6-c612-4bb5-9fac-1695c1a1acf7
 :END:
 
 Are these *legal* characteristics of *monetary irregular deposit* or
@@ -618,6 +1000,7 @@ of *monetary loans*?
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::77]]
+:ID:       460a36e3-3571-41c9-aaa7-76289c19b9aa
 :END:
 
 Are these *legal* characteristics of *monetary irregular deposit* or
@@ -636,6 +1019,7 @@ of *monetary loans*?
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::82]]
+:ID:       f46d97fa-f4e5-4d1d-94e9-f1b464d4d5fb
 :END:
 
 classical jurists [never||"never" or "sometimes"] entertained
@@ -649,6 +1033,7 @@ and inherent in the logic of human relationships.
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::83]]
+:ID:       225789b8-ed9b-48a2-971f-105780f1fedd
 :END:
 
 Roman jurists worked independently and [were not||"were" or "were
@@ -658,6 +1043,7 @@ not"] civil servants.
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::84]]
+:ID:       044ce3a9-402e-4614-900a-e991f48b8074
 :END:
 :LOGBOOK:
 - Refiled on [2022-07-22 sex 11:03]
@@ -672,6 +1058,7 @@ the network of human relationships
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::88]]
+:ID:       4b8fc7d6-a4a8-4624-9c56-d702ee080c3e
 :END:
 
 interest was considered [incompatible||"incompatible" or "compatible"]
@@ -682,6 +1069,7 @@ interest, it was in connection with a totally different contract
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::89]]
+:ID:       34c625b1-dd8b-4af3-9199-767757f6f30f
 :END:
 
 According to roman law, he who receives a good on deposit and uses it
@@ -740,10 +1128,22 @@ for a purpose other than that for which it was received [is||"is" or
   bank, and the concept of unlimited liability was created (the
   owners' assets were game for paying deposits).
 
+**** The late middle ages
+
+- The Templários had their version of bank. They were honest and
+  prospered. A king in French terminated them in order to keep their
+  riches.
+- Banking also happened in the Italian cities. Again, the bussines
+  start right, but eventually becomes fraudulent. Government, instead
+  of protecting the law, creates privileges from bankers, and then try
+  to benefit somehow from the practice (either taxing banks of
+  creating their own banks).
+
 *** Item                                                            :drill:
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::102]]
+:ID:       468dd983-a694-42ea-9e2e-fad3b01daa2e
 :END:
 
 (greek writing of a guy suing a bank)
@@ -759,6 +1159,7 @@ would not be dis- covered he had committed fraud.
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::111]]
+:ID:       166a27f7-f1d1-4104-9ea4-8c2a6e466c1f
 :END:
 
 due to their highly-developed accounting system, paying debts through
@@ -766,9 +1167,19 @@ banks became extremely convenient, as there was an official record of
 transactions—an important piece of evidence in case of liti[gation].
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-31 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::116]]
+:ID:       22c3e023-ecd7-457d-951f-2ac50fea23b7
+:DRILL_LAST_INTERVAL: 4.7879
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:22]
 :END:
 :LOGBOOK:
 - Refiled on [2022-07-22 sex 17:16]
@@ -777,11 +1188,24 @@ transactions—an important piece of evidence in case of liti[gation].
 The economic and social disintegration of the Roman Empire resulted
 from infla[tionary] government policies which devalued the currency,
 and from the establishment of maximum prices for essential goods,
-which in turn caused a general shortage of these goods, the financial
+which in turn caused a general [shortage||"shortage" or "surplus"] of these goods, the financial
 ruin of merchants and the disappearance of trade between different
 areas of the Empire. This was also the end for banking. Most banks
 failed during the successive economic crises of the third and fourth
 centuries A.D.
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-26 ter]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Libertarian/money_bank_credit_and_economic_cycles_4th_edition.pdf::121]]
+:END:
+:LOGBOOK:
+- Refiled on [2022-07-26 ter 15:15]
+:END:
+
+It is as if bankers were granted the privilege of making gainful use
+of their depositors’ money in return for their [unspoken||"unspoken" or "public"] agreement that
+[most||"most" or "a small part"] of such use be in the shape of loans to public officials and
+funding for the government.
 * [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::7][From Marx to Mises]]
 :PROPERTIES:
 :AUTHOR:   Devid Ramsay Steele
@@ -789,21 +1213,31 @@ centuries A.D.
 :END:
 ** [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::25][Ch. 1 - A QUICK LOOK AT THE MISES ARGUMENT]]
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::25]]
+:ID:       1a57b5fe-f432-4252-a7d2-292077eff8e6
+:DRILL_LAST_INTERVAL: 3.9948
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:18]
 :END:
 
 Mises contended that, however powerful the socialist movement might
-become, and no matter how many people wanted socialism, howsoever
-ardently, they would always be powerless to bring socialism into
-being, because socialism was [inherently||"inherently" or
-"conditionally"] unfeasible.
+become, they would always be powerless to bring socialism into being,
+because socialism was [inherently||"inherently" or "conditionally"]
+unfeasible.
 
 *** Item                                                            :drill:
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::26]]
+:ID:       34e121df-217d-4ef9-8378-d5ae6e0351da
 :END:
 
 Was mises the first one to deem socialism impossible?
@@ -815,9 +1249,19 @@ What was new to Mises’s readers was *his specific argument* for the
 impossibility of socialism.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::26]]
+:ID:       60a15385-6122-4d1a-b45b-45793a7973d0
+:DRILL_LAST_INTERVAL: 4.4296
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:17]
 :END:
 
 It is part of Mises’s definition of socialism that factors of
@@ -826,24 +1270,34 @@ there [cannot||"can" or "cannot"] be market prices of factors of
 production. This is called Non Factor Market Socialism (NFM).
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::28]]
+:ID:       a1e2fce0-9d05-4164-828f-8d03b6d37412
+:DRILL_LAST_INTERVAL: 4.2648
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:17]
 :END:
 
 The broad conclusion of the Mises argument can be stated in this form:
-the productive achievements of modern industrial civilization depend
+the productive achievements of modern industrial civilization [depends||"depends" or "independs"]
 upon the existence of a functioning market.
 
 By a functioning market I mean a market which need not be ‘perfect’
-nor even ‘free’, but one which does actually function as a market,
-because individuals (or small groups of individuals) are permitted
-sufficient autonomy (and do in fact) to tra[de]
+nor even ‘free’, but one in which individuals are permitted sufficient
+autonomy to tra[de].
 
 *** Item                                                            :drill:
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::36]]
+:ID:       ca4d28c3-a641-44cf-9bd2-50d41e8f3df5
 :END:
 
 A method of production is technically eff[icient] if no other method can
@@ -854,6 +1308,7 @@ one factor.
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::37]]
+:ID:       e70481d8-fa29-4b42-bcad-76b7b618a8e9
 :END:
 
 No matter how detailed our knowledge of technical facts, our knowledge
@@ -864,6 +1319,7 @@ choose the best production methods.
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::40]]
+:ID:       b7e00782-b3cb-43b7-8fbd-69c095db926c
 :END:
 
 The total cost of producing anything is the total effect in reducing
@@ -872,9 +1328,19 @@ is what we mean by ‘cost of production’.  It is this that we always
 want to [minimize||"maximize" or "minimize"] when we produce anything.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::47]]
+:ID:       49b08a1b-84b2-4ac7-9547-dec3df808ad4
+:DRILL_LAST_INTERVAL: 4.4239
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:09]
 :END:
 
 prices of factors fluctuate much [more||"less" or "more"] than prices
@@ -885,9 +1351,19 @@ of consumer goods
 and more frequently as well
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-30 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::52]]
+:ID:       0cac40a1-47b5-4724-8e60-7d62e7cc5c0b
+:DRILL_LAST_INTERVAL: 4.4228
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-26 ter 14:15]
 :END:
 :LOGBOOK:
 - Refiled on [2022-07-22 sex 11:44]
@@ -928,6 +1404,7 @@ value of that output.
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::61]]
+:ID:       8933cd80-89d4-4ba0-9f73-0c77a020c20e
 :END:
 
 under communism as Marx envisages it there will [be no||"be no" or "be"] money
@@ -936,6 +1413,7 @@ under communism as Marx envisages it there will [be no||"be no" or "be"] money
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::62]]
+:ID:       ebf52363-988e-4637-b9a3-b9f981e827c7
 :END:
 
 A commodity, in the Marxian terminology, is something produced with a
@@ -945,6 +1423,7 @@ view to market exc[hange].
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
 :SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::64]]
+:ID:       55c1b317-d0c5-40ec-8a31-ac9af73c0ae6
 :END:
 :LOGBOOK:
 - Refiled on [2022-07-22 sex 18:05]

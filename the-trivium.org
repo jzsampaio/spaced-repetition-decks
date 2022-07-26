@@ -942,7 +942,7 @@ lim[itation].
 *** Item                                                            :drill:
 *** Item                                                            :drill:
 *** Item                                                            :drill:
-* Cruso "Preparação para a Confissão" do Professor Donato
+* Curso "Preparação para a Confissão" do Donato
 ** Primeiras Aulas
 *** Item                                                            :drill:
 
@@ -1034,49 +1034,53 @@ divinia.
 
 Um pecado grave requer uma mat[éria] grave.
 
+
 *** Item                                                            :drill:
 
-Um pecado grave requer matéria grave. Há dois mandamentos que
-constituem matéria grave:
+Toda a lei e profetas se resume a dois mandamentos:
 
-- Amar a Deus acima de todas as coisas
-- Amar o próximo como a si mesmo
+- Amar a D[eus acima de todas as coisas]
+- Amar o p[róximo como a si mesmo]
 
-Há dois casos notáveis que são decorrência direta dos mandamentos
-acima:
+*** Item                                                            :drill:
 
-- Pecados contra a castidade (em pensamentos ou ações)
-- Pecados de ira (em pensamento ou em ações)
+Há dois casos notáveis que são decorrência direta dos 2 mandamentos
+principais:
+
+- Pecados contra a cas[tidade (em pensamentos ou ações)
+- Pecados de ir[a] (em pensamento ou em ações)
+
+*** Item                                                            :drill:
 
 Além destes, a igreja instituiu algumas regras que devem ser seguidos:
 
-- Ir a missa todo Domingo
-- Comungar e se confessar ao menos uma vez no ano
+- Ir a missa todo [Domingo||"Domingo" or "Sábado"]
+- Comungar e se confessar ao menos [uma vez||"uma vez" or "7 vezes"] no ano
 
 *** Item                                                            :drill:
 
-Os motivos para se casar:
+3 motivos para o casamento civil:
 
-- auxílio mútuo
-- dar vazão aos desejos sexuais
--
+- constituir fam[ília]
+- auxí[lio] mútuo
+- dar vazão aos desejos sexuais de forma permitida
 
-Motivo adicionado por Jesus:
+Motivo adicionado por Jesus ao casamento católico:
 
-- infusão de graça pelo sacramento
+- infusão de graça pelo sacr[amento]
 
-** Aula V
+** Aula 5 - Introdução aos mandamentos e 4o mandamento
 *** Item                                                            :drill:
 
 Os 10 mandamentos:
 
-*Sobre amar a Deus*
+*Sobre amar [a Deus]*
 
 - Amar a Deus sobre todas as coisas
 - Não tomar o seu santo nome em vão
 - Guardar Domingos e festas (guardar o tempo da vida espiritual)
 
-*Sobre amar ao próximo*
+*Sobre amar [ao próximo]*
 
 - Honrar pai e mãe
 - Não matarás
@@ -1087,7 +1091,7 @@ Os 10 mandamentos:
 - Não desejar a mulher do próximo
 - Não desejar as coisas alheias (o desejo de roubar)
 
-Nota: mandamentos listados em ordem decrescente de importância.
+Nota: mandamentos listados em ordem [decrescente||"crescente" or "decrescente"] de importância.
 
 *** Item                                                            :drill:
 
@@ -1109,10 +1113,10 @@ grave.
 O professor Donato recomendo que adicionalmente ao exemplo, os pais
 ensinem a dou[trina]. Isto é: os motivos por trás do exemplo.
 
-** Aula VI e VII - 5o Mandamento: Não Matar
+** Aula 7 e 8 - 5o Mandamento: Não Matar
 *** Item                                                            :drill:
 
-Dentro da lei de "não matar" está incluído:
+Dentro da lei de "não [matar||"matar" or "roubar"]" está incluído:
 
 - não abortar
 - não utilizar anti-concepcional
@@ -1157,8 +1161,9 @@ O que é o aborto indireto? Ele é lícito?
 **** More
 
 O aborto que é causado ao tentar salvar a vida da mãe por um meio que
-não seja matar o bebê diretamente. É lícito. Nota: o ganho deve ser
-proporcional.
+não seja matar o bebê diretamente. É lícito sim.
+
+Nota: o ganho deve ser proporcional.
 
 O mal indireto é diferente do mal direto. Arriscar uma vida é
 diferente de tirar um vida.
@@ -1175,26 +1180,29 @@ Exemplos:
 
 Coperação com o mal:
 
-- Formal: nunca pode aceitar participar
-- Material
-    * Indiferente: qualquer motivo razoável e proporcional é justo
-      (julgado pela prudência)
-    * Necessária: depende do dano
+- For[mal]: O ato em si é mal. *Nunca* pode aceitar participar.
+- Mat[erial]: O ato faz parte de uma cadeia que termina em mal formal,
+  mas se a cadeia for cancelada, nenhum mal ocorreu
+    * Indif[erente] (o mal vai acontecer de uma forma ou de outra):
+      qualquer motivo razoável e proporcional é justo (julgado pela
+      prudência)
+    * Neces[sária] (o mal não irá acontecer caso o ato em consideração
+      na atonceça): depende do dano
 
-**** More
+*** Item                                                            :drill:
 
-Pode-se pagar imposto para um governo tirano?
+Moralmente falando, pode-se pagar imposto para um governo tirano, e por quê?
 
-É uma coperação material e indiferente.
+Sim. É uma coperação mat[erial] e [indiferente||"indiferente" or "necessária"].
 
 *** Item                                                            :drill:
 
 Sobre a ordem caridade
 
-- Necessidade extrema :: além de ser grave, o indivíduo não pode se
-  defender sozinho
+- Necessidade extrema :: além de ser grave, o indivíduo [não
+  pode||"pode" or "não pode"] se defender sozinho
 - Necessidade grave :: a pessoa vai sofrer um prejuízo gigantesco, mas
-  a pessoa pode se socorrer
+  a pessoa [pode||"não pode" or "pode"] se socorrer sozinha
 - Necessidade leve :: a pessoa pode administrar o prejuízo com
   facilidade
 
@@ -1202,9 +1210,9 @@ A pergunta é: qual o dano que você, que vai socorrer, vai entrar caso
 ajude a pessoa?
 
 Se para tirar alguém de uma necessidade extrema você cair em extrema,
-você não precisa ajudar.
+você não [precisa||"precisa" or "deve"] ajudar.
 
-** Aula IX - Natureza da Moral
+** Aula 9 - Natureza da Moral
 *** Item                                                            :drill:
 
 Virtude: qualidade que se adquire ao praticar atividades relacionadas
@@ -1212,54 +1220,52 @@ a natureza humana.
 
 É um hábito.
 
-Paixões são classificadas em 2 grandes grupos: iracível (raiva, ódio,
-...) e concupsível (sexo, prazer, gula, vício um alchool, em jogos,
-...).
+*** Item                                                            :drill:
+
+Paixões são classificadas em 2 grandes grupos:
+
+- [iracível||"ira" or "iracível"] (raiva, ódio, ...)
+- [concupsível||"concupsível" or "sensualidade"] (sexo, prazer, gula, vício um alchool, em jogos, ...)
+
+*** Item                                                            :drill:
 
 Quem permite desenvolver as paixões, fica difícil para o indivíduo
-pensar.
+pensar. É preciso ordenar as paixões através das vir[tues]. É
+necessário ser radical quanto a isso.
 
-É preciso ordenar as paixões através das virtues. É necessário ser
-radical quanto a isso.
+*** Item                                                            :drill:
 
-Prática da castidade e do respeito ao próximo limpa a mente. Prestar
-atenção aos mandamentos que Jesus detalha no sermão da montanha.
+Prática da castidade e do respeito ao próximo [limpa||"limpa" or "distrai"] a mente.
 
-Virtues: pureza (castidade) e mansidão (respeito ao próximo, desejar o
-bem para até mesmo os seus inimigos).
+*** Item                                                            :drill:
 
-Outro motivo: a finalidade da vida humana é alcançar uma comunhão com
-Cristo. Acontece por uma vida contemplativa. É na vida interior que se
-dá o encontro com Deus. A contemplação requear mais do que as duas
-virtudes, requer uma vida ativa, um apostoloado. Uma espécide de
-justiça: dar aos outros o que lhes é devido. O que podemos fazer pelos
-outros, devemos fazê-lo.
+A finalidade da vida humana é [alcançar uma comunhão com Cristo].
 
-Virtue que ordena as outras virtudes: prudência. Ela dosa as outras
-coisas para uma determinada finalidade.
+*** Item                                                            :drill:
 
-A moral desenvolve no indivíduo a prudência. Como aprender a
-prudência: se livrar dos pecados graves, desenvolver as virtudes,
-desenvolver a prudência. Nota: estudar teologia moral.
+As 2 virtudes que deve se desenvolver primeiro:
 
-Não há prudência nas coisas grandes se não houver nas pequenas. A
-preparação para a confissão é a moral (teologia moral) aplicada a 1a
-confissão.
+- pureza (ou castidade)
+- mansidão (respeito ao próximo, desejar o bem para até mesmo os seus
+  inimigos).
 
-Aplicar a moral para desenvolver a prudência, para co-ordenar as ações
-para o fim último: encontro com Cristo.
+Em seguida deve se desenvolver a jus[tiça], por meio do apostolado.
 
-A justiça vem antes da prudência. É aprendida pelo apostolado. Vem
-depois do domínio das paixões.
+Com as 3 iniciais aprendidas, deve-se desenvolver a pru[dência] por
+meio to estudo da teologia moral.
 
-Dominar paixões -> justiça (aprendida pela vida ativa) -> estudo da
-moral -> prudência (não há prudência se antes não há as outras
-virtudes) -> encontro com cristo (a vitória final).
+*** Item                                                            :drill:
 
-Nota: teologia de espiritualidades. Conhecimento dos mistérios da fé.
+[Não há||"Não há" or "Há"] prudência nas coisas grandes se não houver
+nas pequenas.
 
-Na tradição cristã, a sabedoria é mais elevada que a prudência.
-** Aula X - O VI mandamento: não cometerás adultério
+*** Item                                                            :drill:
+
+Na tradição cristã, quem é maior? A sabedoria ou a prudência?
+
+[A sabedoria]
+
+** Aula 10 - 6o mandamento: não cometerás adultério
 
 Proibição do prazer venéreo fora do patrimônio legítimo.
 
@@ -1366,7 +1372,7 @@ objetivo final.
 Após o casamento (morte de um dos cônjugues), a castidade volta a
 valer.
 
-** Aula XI - 6o Mandamento pt 2
+** Aula 11 - 6o Mandamento pt 2
 
 Ferramenta que deve desmontar a família: a clonagem.
 
@@ -1539,3 +1545,49 @@ pessoas aumenta o dano.
 
 - Não só não adulterar, como também não desejar.
 - Não é lícito desejar o que não é licito fazer.
+
+** Aula 16: os 3 primeiros mandamentos
+
+- Os 3 primeiros mandamentos falam sobre Deus
+    - Amar a deus acima de todas a coisas
+    - Não usar seu santo nome em vão
+    - Guardar domingos e festas
+- Esses 3 mandamentos transcendem o escopo da moral
+    * Se referem ao objetivo do cristianismo
+- Quando cremos, é por estarmos iluminados pela graça (força do alto,
+  uma luz)
+    * Quando cremos estamos em contato com o Cristo. Pelo contato
+      recebemos a graça.
+- O contato com a fé deve ser aprofundado por 2 outras virtudes:
+  esperança e caridade (a caridade é o 1o mandamento)
+- Deus deve sustentar o mundo e as almas na existência. Deus está tão
+  perto e não sabemos. O 1o passo é se abrir para essa luz da graça.
+- Pouco a pouco, através da graça, desenvolve-se um organismo
+  espiritual.
+- Quem tem esperança tem pressa. Ela junta a fé com a caridade.
+- Para cumprir o 1o mandamento é preciso aprender a rezar.
+    * É simples se soubermos fazer
+- Nota: Jesus está fisicamente em algum lugar do universo
+- Durante a heucaristia, o pão se transforma no corpo físico de crito
+  resuscitado (está na hóstia o cristo inteiro). Assim também com o
+  vinho.
+- A presença do Cristo na heucaristia de desfaz quando a o pão/vinho
+  se desfazem no estômago. Nos ~10 minutos que o Cristo está conosco,
+  deve-se aprimorar o amor por Cristo.
+    * As virtudes ficam mais fáceis. A castidade mais leve.
+- A heucaristia é similar a uma oração profunda, só que muito mais
+  fácil de acessar. Para aprender a rezar é preciso aprender a
+  comungar bem.
+    * A heucaristia é como uma muleta de 1 trilhão de dólares.
+- o anúncio da palavre é o começo da salvação
+- A medida que se desenvolve na vida espiritual, devemos buscar voar
+  com as próprias asas (pela vida de oração).
+    * recomendação dos santos para produnda comunhão com Deus: 2 horas
+      por dia
+- Anuncia-se para construir a igreja, controi-se a igreja para que as
+  pessoas recebam a heucaristia, e por fim dá-se a heucaristia para
+  que as pessoas atinjam comunhão com Deus
+- afastar do pecado grave -> desenvolver virtues primárias ->
+  desenvolver a prudência -> orquestrar desde ações simples até a
+  completude da vida -> organizar com o objetivo de abrir espaço para
+  uma vida de oração -> comunhão com Deus
