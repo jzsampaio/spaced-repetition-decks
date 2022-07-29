@@ -87,17 +87,17 @@ RETURN person.name
 #+end_src
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-28 qui>
+SCHEDULED: <2022-08-22 seg>
 :PROPERTIES:
 :ID:       1281433b-d9a5-4e7b-8940-428c0bd6442d
-:DRILL_LAST_INTERVAL: 9.2094
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 3
+:DRILL_LAST_INTERVAL: 24.4487
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.667
-:DRILL_EASE: 2.46
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:03]
+:DRILL_AVERAGE_QUALITY: 3.25
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 16:24]
 :END:
 
 if we put graph data in a relational structure, can we also query it
@@ -249,17 +249,17 @@ data in bulk across many machines, popularized by Google
 :END:
 ** [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub][Ch 3 - Storage and Retrieval]]
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-26 ter>
+SCHEDULED: <2022-08-08 seg>
 :PROPERTIES:
 :ID:       e42c2510-3aa8-47b4-bfb9-6cd1546cb77a
-:DRILL_LAST_INTERVAL: 4.6467
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.4723
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:06]
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:56]
 :END:
 
 For writes, it’s hard to beat the performance of simply appending to a
@@ -268,17 +268,17 @@ of index usually [slows down||"speeds up" or "slow down"] writes,
 because the index also needs to be updated every time data is written.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-26 ter>
+SCHEDULED: <2022-08-09 ter>
 :PROPERTIES:
 :ID:       684b9f25-0f23-4fdd-b2cd-9bbed0de66e5
-:DRILL_LAST_INTERVAL: 4.8726
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.0365
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:08]
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:54]
 :END:
 
 However, the hash table index also has limitations:
@@ -288,17 +288,17 @@ However, the hash table index also has limitations:
 – Range queries [are not|| "are" or "are not"] efficient.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-12 sex>
 :PROPERTIES:
 :ID:       52dbafb6-7f74-4737-bb0d-a7d5ee4df90e
-:DRILL_LAST_INTERVAL: 4.3501
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.4848
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:30]
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 16:23]
 :END:
 
 SSTable is an abbreviation of So[rted] St[ring] Tables.
@@ -329,17 +329,17 @@ How to recover the memtable from server crash? An associated append
 only lo[g] is necessary.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-10 qua>
 :PROPERTIES:
 :ID:       49cb17bc-2efc-45b8-a321-d2e2b47139ca
-:DRILL_LAST_INTERVAL: 4.0686
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.7063
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:30]
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 16:23]
 :END:
 
 LSM-Tree stands for: Log-Stru[ctured] Mer[ge]-Tree.
@@ -471,24 +471,41 @@ the B-tree back to a consistent state.
 :ID:       f5abec11-6fc3-4744-b448-2f41ecc66c20
 :END:
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-01 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:30769]]
 :ID:       f0ad2436-d8bd-4316-967d-bbd4abcb961a
+:DRILL_LAST_INTERVAL: 4.8149
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 13:02]
 :END:
-
 
 B-trees and LSM-trees are two ways for storing data.
 
-Which one is generally faster for writing? [B-tree].
+Which one is generally faster for writing? [LSM-tree].
 
-Which one is generally faster for reading? [LSM-tree].
+Which one is generally faster for reading? [B-tree].
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-01 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:38718]]
 :ID:       d840be01-894f-41d5-9506-926399aa6a3d
+:DRILL_LAST_INTERVAL: 4.6561
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 13:00]
 :END:
 
 In some situations, the extra hop from the index to the he[ap] file is
@@ -497,10 +514,19 @@ store the indexed row directly within an index. This is known as a
 clus[tered] index.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-01 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:41738]]
 :ID:       3c821e80-4e3c-4c87-b38d-a761395094af
+:DRILL_LAST_INTERVAL: 4.8886
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:57]
 :END:
 
 
@@ -509,10 +535,19 @@ example, for efficiently returning bi-dimensional range queries (e.g.:
 give me the restaurants in a rectangular area).
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-31 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:45565]]
 :ID:       c20b3b63-6863-47b1-9234-93989a40ed37
+:DRILL_LAST_INTERVAL: 4.1267
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:59]
 :END:
 
  But other in-memory databases aim for durability, which can be
@@ -521,10 +556,19 @@ writing a log of changes to di[sk], by writing periodic snap[shots] to
 disk, or by repl[icating] the in-memory state to other machines.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-01 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:46995]]
 :ID:       88a54acf-8ae8-4435-a0ed-4d66b5e3f039
+:DRILL_LAST_INTERVAL: 4.7657
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 13:00]
 :END:
 :LOGBOOK:
 - Refiled on [2022-07-25 seg 17:47]
@@ -537,6 +581,145 @@ enough memory, because the operating system caches rece[ntly] used disk
 blocks in memory anyway. Rather, they can be faster because they can
 avoid the ove[rheads] of encoding in-memory data str[uctures] in a form
 that can be written to disk.
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-03 qua>
+:PROPERTIES:
+:DATE_ADDED: [2022-07-27 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:50964]]
+:ID:       13cefb5d-ec1d-47cb-a59d-8e9601e9c087
+:DRILL_LAST_INTERVAL: 5.0201
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 16:24]
+:END:
+
+- OLTP :: online tran[saction] processing
+- OLAP :: online anal[ytic] processing
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-03 qua>
+:PROPERTIES:
+:DATE_ADDED: [2022-07-27 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:53516]]
+:ID:       629bc924-f725-426c-ac6f-6f08ce13de14
+:DRILL_LAST_INTERVAL: 4.5549
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 16:25]
+:END:
+
+
+A data war[ehouse] is a separate database that analysts can query to
+their hearts’ content, without affecting OLTP operations. The data
+warehouse contains a read-only copy of the data in all the various
+OLTP systems in the company. Data is extracted from OLTP databases,
+transformed into an analysis-friendly schema, cleaned up, and then
+loaded into the data war[ehouse]. This process of getting data into
+the warehouse is known as Extract–Transform–Load [ETL] and is
+illustrated in Figure 3-8.
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-03 qua>
+:PROPERTIES:
+:DATE_ADDED: [2022-07-27 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:59272]]
+:ID:       e965c624-26cc-4567-b6e5-f307cb15b34e
+:DRILL_LAST_INTERVAL: 4.737
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 16:24]
+:END:
+
+star vs snowflake schema
+
+The name “[star] schema” comes from the fact that when the table
+relationships are visualized, the fact table is in the middle,
+surrounded by its dimension tables; the connections to these tables
+are like the rays of a star.
+
+A variation of this template is known as the [snowflake] schema, where
+dimensions are further broken down into subdimensions.
+
+[Snowflake] schemas are more normalized than [star] schemas, but [star]
+schemas are often preferred because they are simpler for analysts to
+work with.
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-02 ter>
+:PROPERTIES:
+:DATE_ADDED: [2022-07-27 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:72811]]
+:ID:       255e3f77-d0b6-4473-b863-92af3497f168
+:DRILL_LAST_INTERVAL: 4.1355
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 16:24]
+:END:
+:LOGBOOK:
+- Refiled on [2022-07-27 qua 13:16]
+:END:
+
+One way of creating a cache of pre-computed results in an rdbms is a
+mat[erialized] view. In a relational data model, it is often defined
+like a standard (virtual) view: a table-like object whose contents are
+the results of some query. The difference is that a mat[erialized] view
+is an actual copy of the query results, written to disk, whereas a
+virtual view is just a shortcut for writing queries.
+** [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:1][Ch 4 - Encoding and Evolution of Schemas]]
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-29 sex]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:13544]]
+:END:
+
+Apache *Thrift*, Apache *Avro*, and Protocol Buffers (*protobuf*) are
+binary encoding libraries. You can use them to represent your
+data. They can be seen as alternatives to j[son] and x[ml].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-29 sex]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:29075]]
+:END:
+
+When compared to json and xml, Protobuf and Thrift save space by
+replacing field names w/ in[tegers].
+
+When comapred to protobuf and thrift, avro saves space by
+[not writing anything||"not writing anything" or "writing"]
+related to the field name (though this require the schema
+to be shipped separately).
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-29 sex]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:31366]]
+:END:
+:LOGBOOK:
+- Refiled on [2022-07-29 sex 17:07]
+:END:
+
+
+Which encoding protocol advertises better experience with dynamically
+generated schemas (e.g.: db dumps)? protobuf, thrift, or avro?
+
+[avro]
 * [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::0:1][Time and Relational Theory (by Hugh Darwen, C.J. Date, and Nikos Lorentzos)]]
 ** [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::10:1][Ch 1 - Types and Relations]]
 *** Item                                                            :drill:
@@ -934,17 +1117,17 @@ inclusion operator “⊆”
 
 ** [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::12:1][Ch 3 - Relation Varibles]]
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-26 ter>
+SCHEDULED: <2022-08-11 qui>
 :PROPERTIES:
 :ID:       7de98f0b-5c1b-496b-9ec6-5ac4c00cf052
-:DRILL_LAST_INTERVAL: 5.0261
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.6958
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:02]
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:56]
 :END:
 
 Are "relation values" and "relation variables" the same thing?
@@ -1000,17 +1183,17 @@ variable V, the comparison v = V must evaluate to [TRUE|| "True" or
 "False"].
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-26 ter>
+SCHEDULED: <2022-08-10 qua>
 :PROPERTIES:
 :ID:       ac6afb12-5054-4dba-9897-e0488bbe165f
-:DRILL_LAST_INTERVAL: 4.7066
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.0583
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:08]
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:55]
 :END:
 
 Definition: Let K be a subset of the heading of relvar R. Then K is a
@@ -1170,20 +1353,38 @@ ope[rators] for deriving relation values from other relation values
 
 ** [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:1][Ch 4 - Time and the Database]]
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-31 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:1455]]
 :ID:       33b473ce-7898-4292-a7e3-82dcf450237c
+:DRILL_LAST_INTERVAL: 3.7111
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:57]
 :END:
 
 A temporal database can be thought of, loosely, as a database that contains historical data
 instead of or in addition to cur[rent] data.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-31 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:6931]]
 :ID:       472ae5b6-1a1f-4d75-b39a-00d5fc872c1c
+:DRILL_LAST_INTERVAL: 4.0309
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:57]
 :END:
 
 *The Information Principle (of a relational database)*
@@ -1193,20 +1394,38 @@ represented in one and only one way: The database contains only
 rel[vars]
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-31 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:11251]]
 :ID:       e41aed2b-9642-4822-9872-03dde0f47946
+:DRILL_LAST_INTERVAL: 3.9684
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:59]
 :END:
 
 the approach to temporal databases that we advocate
 involves [no changes||"changes" or "no changes"] to the classical relational model
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-31 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:23459]]
 :ID:       78ef5565-2510-4bfc-a53a-6cbafc7e2a22
+:DRILL_LAST_INTERVAL: 4.2307
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 13:00]
 :END:
 :LOGBOOK:
 - Refiled on [2022-07-25 seg 18:40]
@@ -1219,6 +1438,79 @@ Which one can be updated? *valid time* or *transaction time*?
 **** More
 
 valid times can be updated, but transaction times can’t.
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-27 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:23619]]
+:ID:       0ba9802e-0557-48fc-b3d5-8a010e4f05cf
+:END:
+
+Valid vs transactional time
+
+[Valid] times reflect our beliefs about history, and those beliefs can
+change; [transaction] times, by contrast, reflect history as such, and
+history can’t change
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-27 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:25047]]
+:ID:       cdc8a6ca-7b5d-4354-8c86-deb7f51bc8da
+:END:
+
+by adopting the assumption—except briefly in Appendix B—that the
+“timeline” consists of a finite contiguous sequence of discrete
+indivisible time qua[nta] (where a time quantum is the smallest time
+unit the system is capable of representing).
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-27 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:28943]]
+:ID:       5f0c49bd-b445-4649-a971-84a468c1e609
+:END:
+
+
+In an rdbms, the timeline is a [finite||"infinite" or "finite"]
+sequence of discrete points.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-27 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:30157]]
+:ID:       f6349838-faa2-4ec9-860e-9a3ed8d49516
+:END:
+
+In time relational theory, we take *during* to mean “throughout [and not||"and not" or "and"] immediately before or immediately after (the
+interval in question).” In similar fashion, we take *since* to mean
+“ever since [and not||"and" or "and not"] immediately before (the point in question).”
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-27 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:371]]
+:ID:       03f312b4-fbbb-45c9-a985-9b19a4609afb
+:END:
+
+
+In time relational theory, it is important to be clear about the
+intended meaning of a time range column. 3 prepositions are useful to
+describe these columns: on, sin[ce], and dur[ing]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-27 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:8096]]
+:ID:       0dbd1ddc-f19e-45bc-97d9-d9fb41cce35e
+:END:
+:LOGBOOK:
+- Refiled on [2022-07-27 qua 17:34]
+:END:
+
+time[stamped] propositions—by which we mean propositions that involve
+one or more values of some timestamp type
+** Ch 5 - What is the problem?
+
 * [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::0:1][The Art of Immutable Architecture]]
 ** Ch 1 - Why Immutable Architecture
 *** Item                                                            :drill:
@@ -1325,17 +1617,17 @@ de[adline].
 :ID:       e865d3ef-b20f-43b5-bb89-f9f51da3bfd9
 :END:
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-08 seg>
 :PROPERTIES:
 :ID:       387f756a-076a-4971-ace9-106817410f4e
-:DRILL_LAST_INTERVAL: 4.3157
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.3877
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:37]
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:09]
 :END:
 
 As you learn to model business problems based on immutability, you
@@ -1388,17 +1680,17 @@ change Y.
 - Y = record
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-26 ter>
+SCHEDULED: <2022-08-08 seg>
 :PROPERTIES:
 :ID:       630a07e9-0200-4c06-bfa2-2fc6121a4823
-:DRILL_LAST_INTERVAL: 4.5107
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.3821
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-21 qui 09:57]
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:56]
 :END:
 
 The trade-offs requiring shift to immutability have led to the
@@ -1427,17 +1719,17 @@ The reason for an object to have intrinsic identity is so that it can
 provide consi[stent], mea[ningful] behavior as it changes over time.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-26 ter>
+SCHEDULED: <2022-08-12 sex>
 :PROPERTIES:
 :ID:       6468a5bc-251c-458a-92ac-6abaab089263
-:DRILL_LAST_INTERVAL: 4.9341
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 15.5581
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:07]
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:54]
 :END:
 
 Our goal now is to use immutable records to model mutable objects. The
@@ -1485,17 +1777,17 @@ they were applied for the same lifetime as the application state
 itself.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-09 ter>
 :PROPERTIES:
 :ID:       bca45729-dc10-436f-9f3f-3d4af58ab08d
-:DRILL_LAST_INTERVAL: 4.0454
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.6962
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:32]
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:09]
 :END:
 
 I therefore consider seq[uence] a defining characteristic of event
@@ -1521,17 +1813,17 @@ Responsibility Seg[regation] (CQRS) and Domain-Driven Des[ign]
 implementations all in agreement how it is achieved
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-26 ter>
+SCHEDULED: <2022-08-10 qua>
 :PROPERTIES:
 :ID:       897a252d-1f1c-4413-906d-cfa383245916
-:DRILL_LAST_INTERVAL: 4.7235
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.0826
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-21 qui 09:58]
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:56]
 :END:
 
 Command Query Responsibility Segregation extends the object-oriented
@@ -1599,17 +1891,17 @@ time. In contrast, a va[lue] type has no identity and is therefore
 immutable.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-09 ter>
 :PROPERTIES:
 :ID:       d95f44bc-0f92-486c-8710-3a4ae43403b0
-:DRILL_LAST_INTERVAL: 4.2121
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.9582
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:33]
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:12]
 :END:
 
 For efficiency of recomputing the current state, Event sourced
@@ -1655,17 +1947,17 @@ developer to ensure that order is preserved and duplicates are
 prevented.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-26 ter>
+SCHEDULED: <2022-08-09 ter>
 :PROPERTIES:
 :ID:       49f2dbd5-bf01-499b-b614-86c7271ffc6d
-:DRILL_LAST_INTERVAL: 4.9918
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.4039
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:00]
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:56]
 :END:
 
 The pattern on which Elm is based is called Model View Up[date] .
@@ -1699,17 +1991,17 @@ The 2 directions are: both in from the user and outward from the
 application.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-26 ter>
+SCHEDULED: <2022-08-09 ter>
 :PROPERTIES:
 :ID:       8971109e-309b-47f0-bbe9-033c8a4084b6
-:DRILL_LAST_INTERVAL: 4.5747
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.4974
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:00]
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:55]
 :END:
 
 The problem with bidirectional data flow (e.g. in MVC where 2
@@ -1786,34 +2078,34 @@ In a total order, for a and b distinct:
 - a≮b ⇒ [b<a]
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-13 sáb>
 :PROPERTIES:
 :ID:       2c5878b0-1339-43d9-b19a-63c0ae5784cc
-:DRILL_LAST_INTERVAL: 4.2744
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 15.2751
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:34]
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:12]
 :END:
 
 The way in which Historical Modeling puts facts into a partial order
 is to identify pred[ecessors] .
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-26 ter>
+SCHEDULED: <2022-08-09 ter>
 :PROPERTIES:
 :ID:       2d518cf9-b70d-4da3-9377-0485a75a8c6a
-:DRILL_LAST_INTERVAL: 4.8028
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.8784
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:03]
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:55]
 :END:
 
 A fact does not know about its successors . New successors are added
@@ -1821,17 +2113,17 @@ over time. To fully understand the state of a fact, we must query the
 historical model to discover if new suc[cessors] have been created.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-26 ter>
+SCHEDULED: <2022-08-12 sex>
 :PROPERTIES:
 :ID:       6ad2e891-3a96-47e0-893b-cad9e82f215d
-:DRILL_LAST_INTERVAL: 5.0587
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 16.3391
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:06]
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:55]
 :END:
 
 Since a fact refers to its predecessors , and the fact is immutable,
@@ -1907,17 +2199,17 @@ Only by arbitration of a central authority can these situations be
 resolved.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-11 qui>
 :PROPERTIES:
 :ID:       add38a56-03fd-48b8-83f3-13c643bd43d7
-:DRILL_LAST_INTERVAL: 4.4029
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.6188
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:35]
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:10]
 :END:
 
 In Historical Modeling, At best, we can speak of failure of
@@ -1927,17 +2219,17 @@ somewhere else at that time. And when the fact arrives later, we must
 decide how we are to react to it.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-26 ter>
+SCHEDULED: <2022-08-09 ter>
 :PROPERTIES:
 :ID:       d15d0abd-a5f5-4f33-8eeb-bb6f498799f1
-:DRILL_LAST_INTERVAL: 4.5268
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.3672
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-21 qui 10:03]
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:56]
 :END:
 
 Should one use historical modeling for a system that must reserve the
@@ -1952,17 +2244,17 @@ other reservation for the same room at the same time has been
 approved. That decision must be made by a central authority.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-11 qui>
 :PROPERTIES:
 :ID:       dccbda35-0cf0-41de-b08d-b2a8e0ab75ae
-:DRILL_LAST_INTERVAL: 4.2749
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.8336
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:27]
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:11]
 :END:
 
 Is there any room for a historical model on a system that requires
@@ -1976,17 +2268,17 @@ The historical model can capture the fact that a request has been
 made,as well as capture the fact that a request was approved.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-08 seg>
 :PROPERTIES:
 :ID:       707a6b28-0b30-408b-89e7-aa370c85dcfb
-:DRILL_LAST_INTERVAL: 3.9421
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 9.9185
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:32]
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:10]
 :END:
 
 A domain that requires at most one result [cannot|| can or cannot]
@@ -2020,17 +2312,17 @@ Limitations of historical modeling:
 - no agg[regation]
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-10 qua>
 :PROPERTIES:
 :ID:       7220fbc1-173b-44c3-a666-8b62455524c7
-:DRILL_LAST_INTERVAL: 4.2785
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.6592
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:35]
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:11]
 :END:
 
 When designing a system that requires aggregates over history, add a
@@ -2043,17 +2335,17 @@ collect a list of ongoing historical facts into the static model. At
 regular intervals, close the tally of facts and compute a summary.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-08 seg>
 :PROPERTIES:
 :ID:       0e9eb6da-781a-4c59-9ac9-ac7ed7932af0
-:DRILL_LAST_INTERVAL: 3.755
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 9.5803
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:40]
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:10]
 :END:
 
 The distinctive characteristic of Historical Modeling(HM) when
@@ -2061,17 +2353,17 @@ compared to Event Sourcing and MVU is that HM [does not||"does not" or "does"] a
 historical events occurred within a fully ord[ered] sequence.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-08 seg>
 :PROPERTIES:
 :ID:       ea8928d7-ed42-48ad-9054-1e12bc798bd2
-:DRILL_LAST_INTERVAL: 3.9835
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.1602
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 18:43]
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:11]
 :END:
 
 In Historical Modeling, Instead of referring to historical records as
@@ -2098,17 +2390,17 @@ how a system came to be in a particular state and exposes the
 constraints on how that system can and cannot change.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-11 qui>
 :PROPERTIES:
 :ID:       ddbf7607-e4c2-4963-b429-247d3fbd4d96
-:DRILL_LAST_INTERVAL: 4.3724
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.562
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:26]
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:11]
 :END:
 
 In a fact type diagram, the nodes are ty[pes] and the directed arrows
@@ -2120,17 +2412,17 @@ and B is the [predecessor|| "sucessor" or "predecessor"].
 Labels on the arrows are [optional|| "mandatory" or "optional"].
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-12 sex>
 :PROPERTIES:
 :ID:       b97519c9-66a8-40ae-b981-33b483ffe8e6
-:DRILL_LAST_INTERVAL: 4.1433
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.6356
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:28]
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:10]
 :END:
 
 On domain modeling, we can never limit the number of successors, but
@@ -2141,17 +2433,17 @@ we can express the number of predecessors in a few ways:
 - [-] :: Exactly one
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-09 ter>
 :PROPERTIES:
 :ID:       d72d6a30-5878-49b1-9bae-5e541d1e2dc7
-:DRILL_LAST_INTERVAL: 4.0032
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.2946
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:37]
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:11]
 :END:
 
 Are loops allowed in a fact *type* diagram?
@@ -2168,17 +2460,17 @@ itself as a predecessor.  Nor can facts refer to predecessors that in
 turn refer to the original, directly or indirectly.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-02 ter>
 :PROPERTIES:
 :ID:       d9ae11de-2c29-49b6-af8e-5ccba9f14862
-:DRILL_LAST_INTERVAL: 4.0475
+:DRILL_LAST_INTERVAL: 4.2631
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.333
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:35]
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:15]
 :END:
 
 Are loops allowed in a fact *instance* diagram?
@@ -2230,18 +2522,38 @@ In Historical Modeling, a fact is uniquely identified by its ty[pe],
 the va[lues] of its fi[elds], and the *set* of its pred[ecessors].
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-07-31 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::6:23266]]
+:ID:       b460a0c5-0a3f-4ef3-9278-342bbccb0d52
+:DRILL_LAST_INTERVAL: 3.7923
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:59]
 :END:
 
 
 The book Immutable Architecture proposes a textual language for modeling the domains. This languange is called Fact[ual].
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-01 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::6:35995]]
+:ID:       176c96ca-d844-4aca-9537-bfcfb87a5ec3
+:DRILL_LAST_INTERVAL: 5.066
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:59]
 :END:
 
 What are the missing keywords?
@@ -2266,6 +2578,305 @@ aut[horize] ol: OrderLine {
   match u: User where ol.cart.createdBy = u
 }
 ** [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:1][Ch. 4 - Location Independence]]
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-03 qua>
+:PROPERTIES:
+:DATE_ADDED: [2022-07-27 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:1917]]
+:ID:       d5153fbf-68c7-4d30-977b-b53c1e053e33
+:DRILL_LAST_INTERVAL: 4.9623
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:14]
+:END:
+
+So many of the behaviors that we’ve come to expect from our systems
+depend upon location.  We expect items to be sequ[entially] ordered. We
+expect the system to reject dupl[icate] names.  We expect that when the
+user updates a property of an object, it will have the value that they
+just assigned. Indeed, the expectation that properties to even have
+sin[gle] values is a location-dependent assumption.
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-02 ter>
+:PROPERTIES:
+:DATE_ADDED: [2022-07-27 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:4636]]
+:ID:       2e375704-80ac-44dd-8301-1d23e6c39f8e
+:DRILL_LAST_INTERVAL: 4.2036
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:13]
+:END:
+
+Where sync[hronization] describes the agreement of data structures
+stored in different locations, caus[ality] describes the history of
+the data itself, no matter where it is stored. Causality is a weaker
+constraint than synchronization, but one that is much easier to
+achieve.
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-02 ter>
+:PROPERTIES:
+:DATE_ADDED: [2022-07-27 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:7293]]
+:ID:       6677cd18-35cf-443e-93cd-77ba66c2294a
+:DRILL_LAST_INTERVAL: 4.2879
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:14]
+:END:
+
+The core of the issue is that an auto-incremented ID is generated at a
+certain loca[tion]. It only has meaning within a single database
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-03 qua>
+:PROPERTIES:
+:DATE_ADDED: [2022-07-27 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:9249]]
+:ID:       0d97805a-ae66-4f8c-93cf-aa0734dd6e6c
+:DRILL_LAST_INTERVAL: 5.006
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:15]
+:END:
+
+Auto-incrementing IDs cross the threshold from annoyance to impediment
+when we try to implement a warm standby disaster reco[very] solution,
+where the goal is to have a repl[ica] of production data in a
+geographically isolated datacenter to mitigate against a localized
+outage. The longer we wait for the data to arrive, the longer we have
+to postpone generating new IDs.
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-03 qua>
+:PROPERTIES:
+:DATE_ADDED: [2022-07-27 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:11307]]
+:ID:       2c67e3dc-8f64-45fd-8670-460118db45b6
+:DRILL_LAST_INTERVAL: 4.6175
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:13]
+:END:
+
+The awkwardness of using an auto-incremented ID as identity becomes
+apparent when dealing with parent–child relationships. The parent
+record has a primary key. The child records each have a foreign
+key. The database enforces referential integrity of foreign keys, so
+the parent record must be inserted [before||"after" or "before"] the
+children (the parent insertion must have completed and produced the
+auto-incremented ID).
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-02 ter>
+:PROPERTIES:
+:DATE_ADDED: [2022-07-27 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:15151]]
+:ID:       02932289-422a-4607-8a6a-c53e9467eb31
+:DRILL_LAST_INTERVAL: 4.1237
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:13]
+:END:
+
+- Uniform Resource Iden[tifier] (URI)
+- Uniform Resource Loca[tors] (URLs)
+
+A URL has the same hierarchical structure as a URI, but now it has an
+additional constraint: a URL must be addressable. It must carry enough
+information for an application to send a command to the ho[st] that will
+execute it.
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-03 qua>
+:PROPERTIES:
+:DATE_ADDED: [2022-07-27 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:17866]]
+:ID:       fdcc5d73-1519-41c6-ad13-ae9fe5743dc0
+:DRILL_LAST_INTERVAL: 5.1697
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:15]
+:END:
+
+
+A location-independent identity has three useful properties:
+
+– It can be generated from [any||"any" or "a specific"] node.
+– It is [immutable||"mutable" or "immutable"].
+– It [can||"cannot" or "can"] be compared.
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-03 qua>
+:PROPERTIES:
+:DATE_ADDED: [2022-07-27 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:20602]]
+:ID:       4869e9db-39d0-40ef-8c14-88ad796ee9d7
+:DRILL_LAST_INTERVAL: 4.5954
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:15]
+:END:
+
+Some nat[ural] keys are primary keys generated by an exter[nal] system. If
+you are integrating with the US tax system, you will probably identify
+people and companies by their tax ID.  There is usually no good reason
+to generate a new identity when the system on the other end of an
+integration has already provided one .
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-02 ter>
+:PROPERTIES:
+:DATE_ADDED: [2022-07-27 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:18886]]
+:ID:       c3c70384-81c1-4228-a764-fd94130f988e
+:DRILL_LAST_INTERVAL: 4.3056
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:12]
+:END:
+
+Probably the best example of a location-independent identity—and the
+one that should be the default in any application design—is the
+nat[ural] key.
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-02 ter>
+:PROPERTIES:
+:DATE_ADDED: [2022-07-27 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:20926]]
+:ID:       fa74977e-5226-45c3-85f7-5f5d3dfd3b88
+:DRILL_LAST_INTERVAL: 4.0704
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:13]
+:END:
+:LOGBOOK:
+- Refiled on [2022-07-27 qua 17:09]
+:END:
+
+
+Whether you call it a UUID or a GUID, it is a [128]-bit number
+represented in hexadecimal in a hyphenated format that is recognizable
+to most developers.
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-29 sex]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:25746]]
+:END:
+
+A few alternatives to incremental IDs are:
+
+- nat[ural] keys
+- GUIDs
+- Timestamps
+- Tup[les] of the above
+- Hashes of tuples
+- Pub[lic] keys
+- Ra[ndom] numbers
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-29 sex]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:35601]]
+:END:
+
+Lamport called two steps that cannot be put in order conc[urrent].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-29 sex]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:38180]]
+:END:
+
+(partially vs totally order)
+
+If you were to compare any two steps running in the same process , you
+could tell which of the two came first. Those steps are [totally]
+ordered.
+
+If, however, you compare two steps running in different processes,
+sometimes you can tell and sometimes you can’t, the execution of steps
+in a multi-process system is said to be [partially] ordered.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-29 sex]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:39590]]
+:END:
+
+The CAP Theorem relates the ideas of consistency, availability, and
+partition tolerance. It is often quoted as saying you can only have
+[two||"two" or "one"] of the three.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-29 sex]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:41855]]
+:END:
+
+consistent in CAP is about nodes in a [distributed||"database" or "distributed"] system.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-29 sex]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:42954]]
+:END:
+:LOGBOOK:
+- Refiled on [2022-07-29 sex 17:58]
+:END:
+
+CAP[ Theorem]:
+
+No distributed system, no matter what algorithm it uses, can
+simultaneously guarantee consistency, availability, and partition
+tolerance at any given interval. If during that interval the network
+is partitioned, then the system will either be inconsistent or
+unavailable.
+
+
 * Articles and Blog Posts
 :LOGBOOK:
 - Refiled on [2022-07-25 seg 19:34]

@@ -1400,6 +1400,52 @@ value of that output.
   counter-revolutionary. Still, some reference books still mention
   abolishion of money as the ultimate goal.
 
+**** Marx and Labor-Vouchers
+
+*The function of labour voucher in Marxian Communism*
+
+- Marx thought that money would go out of the existence after the
+  revolution
+- Marx is inconsistency in sometimes criticizing labour-vouchers as a
+  replacement for money, and in other proposing using labour vouchers
+  within communism
+- Marx thinks productivity under communism will be so high that people
+  will work as much as they want (and that no payment is to be
+  expected), and they will take as much as they want out of products
+  and services out of the community store.
+- Marx does not predict a first phase called socialism. He talks about
+  labor-voucher as a payment method used right after communism is
+  established.
+
+*Are labour-voucher money?*
+
+- It seems labour-voucher are simply money in disguise
+- Marx says labor vouchers are like movie tickets. The problem is that
+  different goods would be universally priced in terms of these
+  tickets, turning them into the most common medium of exchange - that
+  is, money.
+- Still, there is one more difference to money: these tickets are not
+  supposed to circulate. Once they are traded for food, they should be
+  destroyed. "Society" (the gov) should be taking rational decision
+  about how much of each to produce. People should not accumulate
+  these tickets (they would spire), nor should they be drive to work
+  because of these tickets.
+
+*Labor vouchers turning into money*
+
+- After people have traded their tickets and they know have goods,
+  what prohibits them from starting trading these goods? People would
+  be left into barter trade to get what they really want.
+- If items were sold on a price given in terms of tickets, then who
+  could set them? Cheap items would run out quickly, and over priced
+  items would accumulate. People would camp outside the market to get
+  the cheap and good items, and then trade them outside.
+- Any mistake in setting price right (as in reflecting people's will)
+  will generate a black market
+- Furthermore, another commodity money could arrise
+
+**** TODO Post-Capitalist Society
+
 *** Item                                                            :drill:
 :PROPERTIES:
 :DATE_ADDED: [2022-07-22 sex]
@@ -1431,3 +1477,24 @@ view to market exc[hange].
 
 Marxists frequently referred to communism as ‘production for use’, as
 opposed to ‘production for sa[le]’.
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-26 ter]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::68]]
+:END:
+
+“From each according to his ability, to each according to his needs”
+
+Who says this? [Marx]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-07-26 ter]
+:SOURCE: [[pdfview:/home/jz/Documents/Papers/Marxism/Marx, Karl_Steele, David Ramsay_Von Mises, Ludwig - From Marx to Mises_ Post Capitalist Society and the Challenge of Ecomic Calculation-Open Court (2013).pdf::77]]
+:END:
+:LOGBOOK:
+- Refiled on [2022-07-26 ter 15:57]
+:END:
+
+as long as consumer goods [are not||"are not" or "are"] superabundant there has to be a
+market in consumer goods
