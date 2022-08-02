@@ -1679,7 +1679,7 @@ the problem of temporal data is that it quickly leads to constraints
 and queries that are [unreasonably complex||"unreasonably complex" or "too easy"]
 to express
 
-** Ch 5 - Intervals
+** Ch 6 - Intervals
 
 
 *** Item                                                            :drill:
@@ -1735,17 +1735,17 @@ defined, such that:
 * [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::0:1][The Art of Immutable Architecture]]
 ** Ch 1 - Why Immutable Architecture
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-31 dom>
+SCHEDULED: <2022-09-07 qua>
 :PROPERTIES:
 :ID:       eaafd759-959b-411b-b866-53cf53b07e51
-:DRILL_LAST_INTERVAL: 12.2164
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 36.1205
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:09]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:29]
 :END:
 
 Common fallacies of distributed systems:
@@ -1760,17 +1760,17 @@ Common fallacies of distributed systems:
 – The network is homo[geneous].
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-02 ter>
+SCHEDULED: <2022-09-18 dom>
 :PROPERTIES:
 :ID:       c7c6836c-88ca-4e26-9836-ae954afeaf47
-:DRILL_LAST_INTERVAL: 13.7722
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 47.4683
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:09]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:32]
 :END:
 
 As we build new data structures, we can reuse existing pieces of old
@@ -1784,34 +1784,34 @@ optimization for immutable data structures that is enabled by
 immutable data structures.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-31 dom>
+SCHEDULED: <2022-09-11 dom>
 :PROPERTIES:
 :ID:       f8aa8ae1-ad7b-4968-86d4-1860a39bca65
-:DRILL_LAST_INTERVAL: 12.2566
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 40.4411
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:02]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:29]
 :END:
 
 The Two Generals’ Problem (TGP), as Jim Gray named it in 19783, has
 been proven to have [zero||zero,one,two, ...] solutions.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-02 ter>
+SCHEDULED: <2022-09-12 seg>
 :PROPERTIES:
 :ID:       99b767cc-b170-493e-9865-2a8a6fc5b5b4
-:DRILL_LAST_INTERVAL: 14.3294
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 40.7793
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:10]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:31]
 :END:
 
 Given the impossibility of the TGP, how can distributed systems ever
@@ -1858,17 +1858,17 @@ structures within your mobile apps and microservices, you will benefit
 from the same auton[omy] found in Git.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-30 sáb>
+SCHEDULED: <2022-08-14 dom>
 :PROPERTIES:
 :ID:       03012db5-2641-42d1-848f-b58475b143ba
-:DRILL_LAST_INTERVAL: 4.5472
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.4113
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:26]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:28]
 :END:
 
 A saying:
@@ -1877,17 +1877,17 @@ Immutability Ch[anges] Everything
 
 ** [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::5:1][Ch. 2 - Forms of Immutable Architecture]]
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-30 sáb>
+SCHEDULED: <2022-08-15 seg>
 :PROPERTIES:
 :ID:       b0cd1781-e57f-4f18-bf08-9378ea42c0b7
-:DRILL_LAST_INTERVAL: 4.6488
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.9369
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:38]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:28]
 :END:
 
 *Object vs record*
@@ -1978,17 +1978,17 @@ Der[ived] state is a deterministic transformation of obs[erved] state. It
 adds no information to the system.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-30 sáb>
+SCHEDULED: <2022-08-17 qua>
 :PROPERTIES:
 :ID:       ffbb7d40-0a7b-44ce-87e4-60ea4cd3734a
-:DRILL_LAST_INTERVAL: 4.8583
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 15.3874
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:28]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:28]
 :END:
 
 The fundamental idea of Event Sou[rcing] is that of ensuring every
@@ -2275,17 +2275,17 @@ architecture simply dis[cards] the locally computed state and takes
 the server’s version.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-30 sáb>
+SCHEDULED: <2022-08-18 qui>
 :PROPERTIES:
 :ID:       c211bf41-bd88-4827-8185-b69f267b21d3
-:DRILL_LAST_INTERVAL: 4.5274
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 15.9828
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:27]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:28]
 :END:
 
 Properties of both partial and total order:
@@ -2397,22 +2397,22 @@ both sim[ultaneous] creation and self-ref[erence], lest we introduce
 cycles.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-02 ter>
+SCHEDULED: <2022-08-28 dom>
 :PROPERTIES:
 :ID:       d8e751a6-680b-4ca9-80af-386d6f9fef65
-:DRILL_LAST_INTERVAL: 8.0024
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 26.0769
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 4.0
-:DRILL_EASE: 2.46
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:22]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:30]
 :END:
 
 On *Historical Modeling*, for every party in the system to eventually
-reach the same conclusion, that conclusion [cannot|| "must" or
-"cannot"] be based on timeliness.
+reach the same conclusion, that conclusion [cannot|| "must" or "cannot"]
+be based on timeliness.
 
 **** More
 
@@ -2592,17 +2592,17 @@ events or actions, let us call them fa[cts].
 
 ** [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::6:1][Ch. 3 - How to Read a Historical Model]]
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-30 sáb>
+SCHEDULED: <2022-08-16 ter>
 :PROPERTIES:
 :ID:       aaf2ab8c-2159-4603-b7a2-5ce708cd3924
-:DRILL_LAST_INTERVAL: 4.9252
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.0823
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:29]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:29]
 :END:
 
 The *fact type diagram* expresses both the car[dinality] and the
@@ -2681,17 +2681,17 @@ itself as a predecessor.  Nor can facts refer to predecessors that in
 turn refer to the original, directly or indirectly.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-02 ter>
+SCHEDULED: <2022-08-17 qua>
 :PROPERTIES:
 :ID:       d9ae11de-2c29-49b6-af8e-5ccba9f14862
-:DRILL_LAST_INTERVAL: 4.2631
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 3
+:DRILL_LAST_INTERVAL: 14.7206
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 3.333
-:DRILL_EASE: 2.7
+:DRILL_AVERAGE_QUALITY: 3.75
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:15]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:30]
 :END:
 
 Are loops allowed in a fact *instance* diagram?
@@ -2705,17 +2705,17 @@ itself as a predecessor.  Nor can facts refer to predecessors that in
 turn refer to the original, directly or indirectly.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-30 sáb>
+SCHEDULED: <2022-08-14 dom>
 :PROPERTIES:
 :ID:       027b6e35-4e1f-4d21-9bb1-7ef11d58b455
-:DRILL_LAST_INTERVAL: 4.6412
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.9519
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:30]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:28]
 :END:
 
 Whereas fact type diagrams are general descriptions of a model, fact
@@ -2726,58 +2726,58 @@ instance diagrams show specific ex[amples].
 They offer a form of debugging prior to a model having been implemented.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-30 sáb>
+SCHEDULED: <2022-08-15 seg>
 :PROPERTIES:
 :ID:       a017f78d-84dc-49a5-9a04-cbf1101c73f0
-:DRILL_LAST_INTERVAL: 4.9942
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.0983
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:40]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:28]
 :END:
 
 In Historical Modeling, a fact is uniquely identified by its ty[pe],
 the va[lues] of its fi[elds], and the *set* of its pred[ecessors].
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-31 dom>
+SCHEDULED: <2022-08-12 sex>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::6:23266]]
 :ID:       b460a0c5-0a3f-4ef3-9278-342bbccb0d52
-:DRILL_LAST_INTERVAL: 3.7923
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 9.625
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:59]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:29]
 :END:
 
 
 The book Immutable Architecture proposes a textual language for modeling the domains. This languange is called Fact[ual].
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-01 seg>
+SCHEDULED: <2022-08-16 ter>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::6:35995]]
 :ID:       176c96ca-d844-4aca-9537-bfcfb87a5ec3
-:DRILL_LAST_INTERVAL: 5.066
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.972
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:59]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:31]
 :END:
 
-What are the missing keywords?
+What are the missing keywords of this example of code in Factual?
 
 fa[ct] Win {
   game: Game
@@ -2823,19 +2823,19 @@ just assigned. Indeed, the expectation that properties to even have
 sin[gle] values is a location-dependent assumption.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-02 ter>
+SCHEDULED: <2022-08-13 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:4636]]
 :ID:       2e375704-80ac-44dd-8301-1d23e6c39f8e
-:DRILL_LAST_INTERVAL: 4.2036
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.6577
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:13]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:30]
 :END:
 
 Where sync[hronization] describes the agreement of data structures
@@ -2845,19 +2845,19 @@ constraint than synchronization, but one that is much easier to
 achieve.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-02 ter>
+SCHEDULED: <2022-08-14 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:7293]]
 :ID:       6677cd18-35cf-443e-93cd-77ba66c2294a
-:DRILL_LAST_INTERVAL: 4.2879
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.2384
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:14]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:30]
 :END:
 
 The core of the issue is that an auto-incremented ID is generated at a
@@ -2911,19 +2911,19 @@ children (the parent insertion must have completed and produced the
 auto-incremented ID).
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-02 ter>
+SCHEDULED: <2022-08-15 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:15151]]
 :ID:       02932289-422a-4607-8a6a-c53e9467eb31
-:DRILL_LAST_INTERVAL: 4.1237
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.1404
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:13]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:31]
 :END:
 
 - Uniform Resource Iden[tifier] (URI)
@@ -2980,19 +2980,19 @@ to generate a new identity when the system on the other end of an
 integration has already provided one .
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-02 ter>
+SCHEDULED: <2022-08-13 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:18886]]
 :ID:       c3c70384-81c1-4228-a764-fd94130f988e
-:DRILL_LAST_INTERVAL: 4.3056
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.7083
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:12]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:30]
 :END:
 
 Probably the best example of a location-independent identity—and the
@@ -3000,19 +3000,19 @@ one that should be the default in any application design—is the
 nat[ural] key.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-02 ter>
+SCHEDULED: <2022-08-14 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:20926]]
 :ID:       fa74977e-5226-45c3-85f7-5f5d3dfd3b88
-:DRILL_LAST_INTERVAL: 4.0704
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.1746
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-29 sex 17:13]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:31]
 :END:
 :LOGBOOK:
 - Refiled on [2022-07-27 qua 17:09]
@@ -3023,9 +3023,19 @@ Whether you call it a UUID or a GUID, it is a [128]-bit number
 represented in hexadecimal in a hyphenated format that is recognizable
 to most developers.
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-06 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-29 sex]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:25746]]
+:ID:       f2481ac2-b111-414f-8632-be299edbc976
+:DRILL_LAST_INTERVAL: 4.1588
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:34]
 :END:
 
 A few alternatives to incremental IDs are:
@@ -3039,17 +3049,37 @@ A few alternatives to incremental IDs are:
 - Ra[ndom] numbers
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-06 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-29 sex]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:35601]]
+:ID:       24d2220c-3be1-42d4-9b80-434384c703cd
+:DRILL_LAST_INTERVAL: 4.295
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:33]
 :END:
 
 Lamport called two steps that cannot be put in order conc[urrent].
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-07 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-29 sex]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:38180]]
+:ID:       b90af652-5559-44c3-ba86-295e17b41200
+:DRILL_LAST_INTERVAL: 4.9524
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:34]
 :END:
 
 (partially vs totally order)
@@ -3063,9 +3093,19 @@ sometimes you can tell and sometimes you can’t, the execution of steps
 in a multi-process system is said to be [partially] ordered.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-07 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-29 sex]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:39590]]
+:ID:       51e2b9c9-ef48-4a6d-a4c9-4a05f9d5049d
+:DRILL_LAST_INTERVAL: 4.8087
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:34]
 :END:
 
 The CAP Theorem relates the ideas of consistency, availability, and
@@ -3073,31 +3113,121 @@ partition tolerance. It is often quoted as saying you can only have
 [two||"two" or "one"] of the three.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-07 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-29 sex]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:41855]]
+:ID:       de6981fd-eaf9-4d5e-b0a5-69051a5036cb
+:DRILL_LAST_INTERVAL: 5.0975
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:32]
 :END:
 
 consistent in CAP is about nodes in a [distributed||"database" or "distributed"] system.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-06 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-29 sex]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:42954]]
+:ID:       22983928-5db8-45dc-87c4-10d4f1a0ac4d
+:DRILL_LAST_INTERVAL: 4.0997
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 15:33]
 :END:
 :LOGBOOK:
 - Refiled on [2022-07-29 sex 17:58]
 :END:
 
-CAP[ Theorem]:
+CAP Theorem:
 
 No distributed system, no matter what algorithm it uses, can
-simultaneously guarantee consistency, availability, and partition
+simultaneously guarantee c[onsistency], a[vailability], and p[artition]
 tolerance at any given interval. If during that interval the network
 is partitioned, then the system will either be inconsistent or
 unavailable.
 
 
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-02 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:47860]]
+:END:
+
+The CAP theorem tells us that we [cannot||"cannot" or "can"] expect
+different nodes within a distributed system to have the same state.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-02 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:52392]]
+:END:
+
+The system is strongly eventually consistent (SEC) if, after seeing
+all of the messages, all nodes arrive at [the same||"tolerably different" or "the same"] state.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-02 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:60211]]
+:END:
+
+
+What are the 2 properties of a system that are required to build a
+strongly eventual consistent system?
+
+Id[empotency] and com[mutativeness]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-02 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:67148]]
+:END:
+
+We can optimize our distributed system further if we allow nodes to
+modify messages. Instead of requiring that a node forwards exactly the
+same messages it received, we can allow the node to summarize its
+knowledge and send [fewer||"more" or "fewer"] messages. This is the
+strategy employed by con[flict]-free rep[licated] data types (*CRDTs*).
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-02 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:75537]]
+:END:
+
+A vector cl[ock] is a tool for building state-based CRDTs. It gives us
+a way to define a partial order between states that supports update
+and merge operations.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-02 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:69198]]
+:END:
+:LOGBOOK:
+- Refiled on [2022-08-02 ter 17:08]
+:END:
+
+Each replica of a state-based CRDT has internal state which has to
+satisfy a few conditions:
+
+- It must support a “happened before” relationship that defines a
+partial order.
+- All updates must [increase||"decrease" or "increase"] the state in
+  that partial order
+- It must support a merge operation that takes two states and produces
+  a new one that is greater than both of them.
 * Articles and Blog Posts
 :LOGBOOK:
 - Refiled on [2022-07-25 seg 19:34]
