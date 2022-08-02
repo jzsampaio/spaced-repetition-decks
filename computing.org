@@ -7,17 +7,17 @@
 * [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::0:1][Designing Data Intensive Applications (Martin Kleppmann)]]
 ** Ch 2 - Query Languages
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-02 ter>
+SCHEDULED: <2022-09-09 sex>
 :PROPERTIES:
 :ID:       f34e796e-29b0-4d49-8d7f-4ae623801c63
-:DRILL_LAST_INTERVAL: 14.4379
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 38.0758
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:10]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:20]
 :END:
 
 2 models for structuring and querying data in a graph are:
@@ -29,17 +29,17 @@ three declarative qu[ery] la[nguages] for graphs: Cypher, SPARQL, and
 Datalog
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-31 dom>
+SCHEDULED: <2022-09-05 seg>
 :PROPERTIES:
 :ID:       d8392029-d6b6-4cec-a3ba-08ee0d6a8e68
-:DRILL_LAST_INTERVAL: 12.141
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 34.1004
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:06]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:13]
 :END:
 
 Example 2-2. Representing a pr[operty] gr[aph] using a relational
@@ -64,17 +64,17 @@ CREATE INDEX edges_heads ON edges (head_vertex);
 #+end_src
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-02 ter>
+SCHEDULED: <2022-09-08 qui>
 :PROPERTIES:
 :ID:       0afef898-2b6c-41e3-a87a-73425091fa62
-:DRILL_LAST_INTERVAL: 13.8528
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 37.0076
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:10]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:20]
 :END:
 
 The following is an example of a query in a language called C[ypher]:
@@ -139,17 +139,17 @@ _:namerica a :Location; :name "North America"; :type "continent".
 #+end_src
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-31 dom>
+SCHEDULED: <2022-09-06 ter>
 :PROPERTIES:
 :ID:       ce4e567e-38a7-46dc-bae4-ded288111373
-:DRILL_LAST_INTERVAL: 12.2739
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 34.8662
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:04]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:13]
 :END:
 
 In a tr[iple]-st[ore], all information is stored in the form of very
@@ -175,17 +175,17 @@ data systems: for example, it is the query language of Datomic. It is
 a subset of Pr[olog]
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-31 dom>
+SCHEDULED: <2022-09-05 seg>
 :PROPERTIES:
 :ID:       05717ea6-12ce-4726-9cd1-d8912588b420
-:DRILL_LAST_INTERVAL: 11.8653
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 33.9017
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:11]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:14]
 :END:
 
 New nonrelational “NoSQL” datastores have diverged in two main
@@ -199,17 +199,17 @@ directions:
   cases where anything is potentially related to everything.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-31 dom>
+SCHEDULED: <2022-09-07 qua>
 :PROPERTIES:
 :ID:       0775cfd4-e36e-487b-a119-ac2f6f52de8c
-:DRILL_LAST_INTERVAL: 11.7763
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 36.0228
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:05]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:14]
 :END:
 
 One thing that document and graph databases have in common is that
@@ -219,17 +219,17 @@ a certain structure; it’s just a question of whether the schema is
 ex[plicit] (enforced on write) or im[plicit] (handled on read).
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-30 sáb>
+SCHEDULED: <2022-09-05 seg>
 :PROPERTIES:
 :ID:       c00e90f6-4655-4884-ad2c-78f1f3fb9ebd
-:DRILL_LAST_INTERVAL: 10.5863
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 33.5879
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:05]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:11]
 :END:
 
 M[ap]Re[duce] is a programming model for processing large amounts of
@@ -308,17 +308,17 @@ segments are sorted. This allows the usage of a Sp[arse] Index in
 memory.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-30 sáb>
+SCHEDULED: <2022-08-15 seg>
 :PROPERTIES:
 :ID:       761568df-a78c-48b8-b2e1-b8843be1ad1e
-:DRILL_LAST_INTERVAL: 4.6057
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.4486
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:38]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:12]
 :END:
 
 How to keep keys sorted in an SSTable? An in-memory balanced tree is
@@ -348,17 +348,17 @@ The basic idea of LSM-trees is to keep a cascade of SSTables that are
 mer[ged] in the background.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-30 sáb>
+SCHEDULED: <2022-08-15 seg>
 :PROPERTIES:
 :ID:       60b9f18a-8c14-45eb-8da1-fc337ab121cc
-:DRILL_LAST_INTERVAL: 4.7939
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.5939
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:40]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:12]
 :END:
 
 A Bloom filter is a memory-efficient data structure for approximating
@@ -367,17 +367,17 @@ appear in the database, and thus saves many unnecessary disk reads for [nonexist
 keys.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-30 sáb>
+SCHEDULED: <2022-08-15 seg>
 :PROPERTIES:
 :ID:       80f2e527-f645-4691-9052-f71ec8371c48
-:DRILL_LAST_INTERVAL: 4.7029
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.3987
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:29]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:12]
 :END:
 
 Most databases can fit into a B-tree that is th[ree] or fo[ur] levels
@@ -386,17 +386,17 @@ page you are looking for. (A four-level tree of 4 KB pages with a
 branching factor of 500 can store up to 256 TB.)
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-30 sáb>
+SCHEDULED: <2022-08-16 ter>
 :PROPERTIES:
 :ID:       53466fcc-5894-4a11-bfd3-f6ac994b295e
-:DRILL_LAST_INTERVAL: 4.747
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.6031
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:29]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:12]
 :END:
 
 In order to make the database resilient to crashes, it is common for
@@ -471,19 +471,19 @@ the B-tree back to a consistent state.
 :ID:       f5abec11-6fc3-4744-b448-2f41ecc66c20
 :END:
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-01 seg>
+SCHEDULED: <2022-08-16 ter>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:30769]]
 :ID:       f0ad2436-d8bd-4316-967d-bbd4abcb961a
-:DRILL_LAST_INTERVAL: 4.8149
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 14.0944
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.6
+:DRILL_AVERAGE_QUALITY: 3.667
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-27 qua 13:02]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:19]
 :END:
 
 B-trees and LSM-trees are two ways for storing data.
@@ -493,19 +493,19 @@ Which one is generally faster for writing? [LSM-tree].
 Which one is generally faster for reading? [B-tree].
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-01 seg>
+SCHEDULED: <2022-08-14 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:38718]]
 :ID:       d840be01-894f-41d5-9506-926399aa6a3d
-:DRILL_LAST_INTERVAL: 4.6561
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 12.4846
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 3.5
-:DRILL_EASE: 2.6
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-27 qua 13:00]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:19]
 :END:
 
 In some situations, the extra hop from the index to the he[ap] file is
@@ -514,19 +514,19 @@ store the indexed row directly within an index. This is known as a
 clus[tered] index.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-01 seg>
+SCHEDULED: <2022-08-16 ter>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:41738]]
 :ID:       3c821e80-4e3c-4c87-b38d-a761395094af
-:DRILL_LAST_INTERVAL: 4.8886
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.3063
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:57]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:20]
 :END:
 
 
@@ -535,19 +535,19 @@ example, for efficiently returning bi-dimensional range queries (e.g.:
 give me the restaurants in a rectangular area).
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-31 dom>
+SCHEDULED: <2022-08-14 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:45565]]
 :ID:       c20b3b63-6863-47b1-9234-93989a40ed37
-:DRILL_LAST_INTERVAL: 4.1267
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.5455
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:59]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:13]
 :END:
 
  But other in-memory databases aim for durability, which can be
@@ -556,19 +556,19 @@ writing a log of changes to di[sk], by writing periodic snap[shots] to
 disk, or by repl[icating] the in-memory state to other machines.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-01 seg>
+SCHEDULED: <2022-08-15 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:46995]]
 :ID:       88a54acf-8ae8-4435-a0ed-4d66b5e3f039
-:DRILL_LAST_INTERVAL: 4.7657
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.7444
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-27 qua 13:00]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:19]
 :END:
 :LOGBOOK:
 - Refiled on [2022-07-25 seg 17:47]
@@ -657,19 +657,19 @@ schemas are often preferred because they are simpler for analysts to
 work with.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-02 ter>
+SCHEDULED: <2022-08-12 sex>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:72811]]
 :ID:       255e3f77-d0b6-4473-b863-92af3497f168
-:DRILL_LAST_INTERVAL: 4.1355
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.2285
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-29 sex 16:24]
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:20]
 :END:
 :LOGBOOK:
 - Refiled on [2022-07-27 qua 13:16]
@@ -683,9 +683,19 @@ is an actual copy of the query results, written to disk, whereas a
 virtual view is just a shortcut for writing queries.
 ** [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:1][Ch 4 - Encoding and Evolution of Schemas]]
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-06 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-29 sex]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:13544]]
+:ID:       6ff66c71-1c97-4bf2-adb8-ed7a63a1dce6
+:DRILL_LAST_INTERVAL: 4.091
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:21]
 :END:
 
 Apache *Thrift*, Apache *Avro*, and Protocol Buffers (*protobuf*) are
@@ -693,9 +703,19 @@ binary encoding libraries. You can use them to represent your
 data. They can be seen as alternatives to j[son] and x[ml].
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-06 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-29 sex]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:29075]]
+:ID:       79fec43d-e9f1-4e82-babc-e238747807dd
+:DRILL_LAST_INTERVAL: 4.0813
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:20]
 :END:
 
 When compared to json and xml, Protobuf and Thrift save space by
@@ -707,9 +727,19 @@ related to the field name (though this require the schema
 to be shipped separately).
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-06 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-29 sex]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:31366]]
+:ID:       bf3c9441-59b4-44fc-9a22-9ae72d59b23f
+:DRILL_LAST_INTERVAL: 3.998
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:20]
 :END:
 :LOGBOOK:
 - Refiled on [2022-07-29 sex 17:07]
@@ -720,6 +750,131 @@ Which encoding protocol advertises better experience with dynamically
 generated schemas (e.g.: db dumps)? protobuf, thrift, or avro?
 
 [avro]
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-02 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:36564]]
+:END:
+
+the most common ways how data flows between processes:
+
+– Via dat[abases]
+
+– Via service calls (e.g.: R[EST] and R[PC])
+
+– Via asynchronous me[ssage] passing
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-02 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:43332]]
+:END:
+
+This way of building applications has traditionally been called a
+service-oriented architecture (SOA), more recently refined and
+rebranded as mic[roservices] architecture
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-02 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:45767]]
+:END:
+
+
+Which one is a protocol? REST or SOAP?
+
+[SOAP]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-02 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:45767]]
+:END:
+
+
+Which one uses many HTTP features? REST or SOAP?
+
+[REST]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-02 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:46635]]
+:END:
+
+
+The API of a SOAP web service is described in WSDL. The DL stands for
+~Description Language~. What does WS stand for?
+
+[Web Service].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-02 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:46942]]
+:END:
+
+WSDL enables code g[eneration] so that a client can access a remote
+service using local classes and method calls (which are encoded to XML
+messages and decoded again by the framework)
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-02 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:47703]]
+:END:
+
+Even though SOAP and its various extensions are ostensibly
+standardized, interoperability between different vendors’
+implementations often causes [problems||"profit" or "problems"].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-02 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:48097]]
+:END:
+
+REST and SOAP are the latest incarnations of the idea of [remote]
+[procedure] [call] (RPC).
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-02 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:48609]]
+:END:
+
+
+The RPC model tries to make a request to a remote network service look
+the same as calling a function or method in your programming language,
+within the same process (this abstraction is called location
+tr[ansparency]). Although RPC seems convenient at first, the approach
+is fundamentally flawed. A network request is very
+[different||"different" or "similar"] from a local function call:
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-02 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:52147]]
+:END:
+
+gRPC is an RPC implementation using Protocol B[uffers]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-02 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:57722]]
+:END:
+:LOGBOOK:
+- Refiled on [2022-08-02 ter 14:15]
+:END:
+
+However, a difference compared to RPC is that message-passing
+communication is usually one-way: a sender normally doesn’t expect to
+receive a reply to its messages. It is possible for a process to send
+a response, but this would usually be done on [a separate||"the same" or "a separate"] channel.
+
+** [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:1][Ch. 5 - Replication]]
+
 * [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::0:1][Time and Relational Theory (by Hugh Darwen, C.J. Date, and Nikos Lorentzos)]]
 ** [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::10:1][Ch 1 - Types and Relations]]
 *** Item                                                            :drill:
@@ -1511,6 +1666,72 @@ time[stamped] propositions—by which we mean propositions that involve
 one or more values of some timestamp type
 ** Ch 5 - What is the problem?
 
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-02 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::16:23713]]
+:END:
+:LOGBOOK:
+- Refiled on [2022-08-02 ter 14:33]
+:END:
+
+the problem of temporal data is that it quickly leads to constraints
+and queries that are [unreasonably complex||"unreasonably complex" or "too easy"]
+to express
+
+** Ch 5 - Intervals
+
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-02 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::17:4005]]
+:END:
+
+
+What is the predicated for a reval that has string member ~SNO~ and
+interval member ~during~?
+
+Supplier SNO was under contract throughout the interval from the day
+that’s the begin point of DURING to the day that’s the end point of
+DURING, inclusive, and not throughout any interval that *properly*
+in[cludes] that interval.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-02 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::17:14209]]
+:END:
+
+Definition: Type T is usable as a point type if all of the following are defined for it: 
+
+- a.  A [total||"total" or "partial"] ordering
+- b.  Niladic *first* and *last* operators, which return the smallest
+  (first) and largest (last) value of type T, respectively, according
+  to the aforementioned ordering
+- c.  Monadic *next* and *prior* operators, which return the successor
+  (if it exists) and predecessor (if it exists), respectively, of any
+  given value of type T according to the aforementioned ordering
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-02 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::17:18817]]
+:END:
+:LOGBOOK:
+- Refiled on [2022-08-02 ter 15:25]
+:END:
+
+Definition: Let T be a point type. Then an interval value (or just an
+interval for short) i of type INTERVAL_T is a value for which two
+monadic operators, BEGIN and END, and one dyadic operator, “∈”, are
+defined, such that:
+
+- a.  BEGIN (i) and END (i) both return a value of type [T].
+
+- b.  BEGIN (i) [≤||"<" or "≤"] END (i).
+
+- c.  If p is a value of type T, then ~p ∈ i~ is true if and only if BEGIN (i) ≤ p and p ≤ END (i) are both [true||"false" or "true"].
 * [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::0:1][The Art of Immutable Architecture]]
 ** Ch 1 - Why Immutable Architecture
 *** Item                                                            :drill:
