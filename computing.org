@@ -114,17 +114,17 @@ expressed using something called re[cursive] co[mmon] table
 expressions (the WITH RECURSIVE syntax).
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-03 qua>
+SCHEDULED: <2022-08-07 dom>
 :PROPERTIES:
 :ID:       a73b1f2b-a48d-4ffe-a0d0-432ec5533698
-:DRILL_LAST_INTERVAL: 14.5541
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_LAST_INTERVAL: 4.3667
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.75
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:03]
+:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:30]
 :END:
 
 The following is an example of a query in Tu[rtle],which is a language
@@ -582,64 +582,73 @@ blocks in memory anyway. Rather, they can be faster because they can
 avoid the ove[rheads] of encoding in-memory data str[uctures] in a form
 that can be written to disk.
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-03 qua>
+SCHEDULED: <2022-08-17 qua>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:50964]]
 :ID:       13cefb5d-ec1d-47cb-a59d-8e9601e9c087
-:DRILL_LAST_INTERVAL: 5.0201
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.5992
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-29 sex 16:24]
+:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:25]
 :END:
 
 - OLTP :: online tran[saction] processing
 - OLAP :: online anal[ytic] processing
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-03 qua>
+SCHEDULED: <2022-08-15 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:53516]]
 :ID:       629bc924-f725-426c-ac6f-6f08ce13de14
-:DRILL_LAST_INTERVAL: 4.5549
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.5522
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-29 sex 16:25]
+:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:27]
 :END:
 
 
 A data war[ehouse] is a separate database that analysts can query to
 their hearts’ content, without affecting OLTP operations. The data
 warehouse contains a read-only copy of the data in all the various
-OLTP systems in the company. Data is extracted from OLTP databases,
-transformed into an analysis-friendly schema, cleaned up, and then
-loaded into the data war[ehouse]. This process of getting data into
-the warehouse is known as Extract–Transform–Load [ETL] and is
-illustrated in Figure 3-8.
+OLTP systems in the company.
 
 *** Item                                                            :drill:
 SCHEDULED: <2022-08-03 qua>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:53516]]
+:END:
+
+Data is extracted from OLTP databases, transformed into an
+analysis-friendly schema, cleaned up, and then loaded into the data
+warehouse. This process of getting data into the warehouse is known
+as Extract–Transform–Load [ETL] and is illustrated in Figure 3-8.
+
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-15 seg>
+:PROPERTIES:
+:DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:59272]]
 :ID:       e965c624-26cc-4567-b6e5-f307cb15b34e
-:DRILL_LAST_INTERVAL: 4.737
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.4244
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-29 sex 16:24]
+:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:24]
 :END:
 
 star vs snowflake schema
@@ -751,9 +760,19 @@ generated schemas (e.g.: db dumps)? protobuf, thrift, or avro?
 
 [avro]
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-07 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:36564]]
+:ID:       58157e7a-0740-4d26-8800-2e2859832db0
+:DRILL_LAST_INTERVAL: 3.7697
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:29]
 :END:
 
 the most common ways how data flows between processes:
@@ -765,9 +784,19 @@ the most common ways how data flows between processes:
 – Via asynchronous me[ssage] passing
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-07 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:43332]]
+:ID:       80d25e69-40e6-47b4-89bd-dd317e5a3902
+:DRILL_LAST_INTERVAL: 3.9707
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:28]
 :END:
 
 This way of building applications has traditionally been called a
@@ -775,9 +804,19 @@ service-oriented architecture (SOA), more recently refined and
 rebranded as mic[roservices] architecture
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-07 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:45767]]
+:ID:       a9b7bc2d-36f0-400e-856d-59d5afda0cfb
+:DRILL_LAST_INTERVAL: 4.1581
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:27]
 :END:
 
 
@@ -786,9 +825,19 @@ Which one is a protocol? REST or SOAP?
 [SOAP]
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-07 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:45767]]
+:ID:       d5e3f3f2-80d1-48bd-a462-70f3d729a708
+:DRILL_LAST_INTERVAL: 4.0132
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:28]
 :END:
 
 
@@ -797,9 +846,19 @@ Which one uses many HTTP features? REST or SOAP?
 [REST]
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-08 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:46635]]
+:ID:       8df1f218-2884-41d3-b517-3d47edab900d
+:DRILL_LAST_INTERVAL: 4.5299
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:30]
 :END:
 
 
@@ -809,9 +868,19 @@ The API of a SOAP web service is described in WSDL. The DL stands for
 [Web Service].
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-07 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:46942]]
+:ID:       adc541b3-3f58-44f9-8a8f-ab7577deca51
+:DRILL_LAST_INTERVAL: 4.4648
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:28]
 :END:
 
 WSDL enables code g[eneration] so that a client can access a remote
@@ -819,9 +888,19 @@ service using local classes and method calls (which are encoded to XML
 messages and decoded again by the framework)
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-08 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:47703]]
+:ID:       d2b98201-f7c5-4017-b037-62afc77bff69
+:DRILL_LAST_INTERVAL: 4.7737
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:28]
 :END:
 
 Even though SOAP and its various extensions are ostensibly
@@ -829,18 +908,38 @@ standardized, interoperability between different vendors’
 implementations often causes [problems||"profit" or "problems"].
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-07 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:48097]]
+:ID:       97ae5848-6f03-4c8a-8d3f-d78072df351f
+:DRILL_LAST_INTERVAL: 4.3613
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:28]
 :END:
 
 REST and SOAP are the latest incarnations of the idea of [remote]
 [procedure] [call] (RPC).
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-08 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:48609]]
+:ID:       fe860570-1502-4038-b5e0-ab005d9de10c
+:DRILL_LAST_INTERVAL: 4.8628
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:29]
 :END:
 
 
@@ -852,17 +951,37 @@ is fundamentally flawed. A network request is very
 [different||"different" or "similar"] from a local function call:
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-07 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:52147]]
+:ID:       c16eff99-bc42-4cde-ad96-f940befec198
+:DRILL_LAST_INTERVAL: 4.1897
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:28]
 :END:
 
 gRPC is an RPC implementation using Protocol B[uffers]
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-07 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:57722]]
+:ID:       3121e1fc-c77e-4053-b395-430da1c71742
+:DRILL_LAST_INTERVAL: 3.8903
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:27]
 :END:
 :LOGBOOK:
 - Refiled on [2022-08-02 ter 14:15]
@@ -874,6 +993,132 @@ receive a reply to its messages. It is possible for a process to send
 a response, but this would usually be done on [a separate||"the same" or "a separate"] channel.
 
 ** [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:1][Ch. 5 - Replication]]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-03 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:1597]]
+:END:
+
+three popular algorithms for r[eplicating] changes between nodes:
+single-leader, multi-leader, and leaderless replication.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-03 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:8140]]
+:END:
+
+Sometimes, leader-based replication is configured to be completely
+asynchronous. In this case, if the leader fails and is not
+recoverable, any writes that have not yet been replicated to followers
+are lost. This means that a write [is not||"is not" or "is"]
+guaranteed to be durable, even if it has been confirmed to the client.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-03 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:12812]]
+:END:
+
+Handling a failure of the leader is trickier: one of the followers
+needs to be promoted to be the new leader, clients need to be
+reconfigured to send their writes to the new leader, and the other
+followers need to start consuming data changes from the new
+leader. This process is called f[ailover].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-03 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:21544]]
+:END:
+
+An alternative is to use different log formats for replication and for
+the storage engine, which allows the replication log to be decoupled
+from the storage engine internals. This kind of replication log is
+called a lo[gical] log, to distinguish it from the storage engine’s
+(physical) data representation.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-03 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:22879]]
+:END:
+
+A [logical||"physical" or "logical"] log format is also easier for
+external applications to parse. This aspect is useful if you want to
+send the contents of a database to an external system, such as a data
+warehouse for offline analysis
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-03 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:25748]]
+:END:
+
+a fully synchronous configuration would be very
+[unreliable||"reliable" or "unreliable"].
+
+**** More
+
+if you tried to synchronously replicate to all followers, a single
+node failure or network outage would make the entire system
+unavailable for writing. And the more nodes you have, the likelier it
+is that one will be down
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-03 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:27999]]
+:END:
+
+A user makes a write, followed by a read from a stale
+replica. To prevent this anomaly, we need r[ead]-after-w[rite]
+consistency
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-03 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:32900]]
+:END:
+
+A user first reads from a fresh replica, then from a stale
+replica. Time appears to go backward. To prevent this anomaly, we need
+mon[otonic] reads.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-03 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:34854]]
+:END:
+
+If some partitions are replicated slower than others, an observer may
+see the answer before they see the question.
+
+Preventing this kind of anomaly requires another type of guarantee:
+consistent prefix reads. This is a particular problem in partitioned
+(sh[arded]) databases.
+
+**** More
+
+This guarantee says that if a sequence of writes happens in a certain
+order, then anyone reading those writes will see them appear in the
+same order.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-03 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:31751]]
+:END:
+:LOGBOOK:
+- Refiled on [2022-08-03 qua 16:46]
+:END:
+
+3 problems caused by re[plication] lag are:
+
+- failure to provide read-after-write consistency
+- failure to provide monotonic-read consistency
+- failure to provide consistent-read-prefix consistency
 
 * [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::0:1][Time and Relational Theory (by Hugh Darwen, C.J. Date, and Nikos Lorentzos)]]
 ** [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::10:1][Ch 1 - Types and Relations]]
