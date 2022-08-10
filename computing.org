@@ -114,17 +114,17 @@ expressed using something called re[cursive] co[mmon] table
 expressions (the WITH RECURSIVE syntax).
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-07 dom>
+SCHEDULED: <2022-08-19 sex>
 :PROPERTIES:
 :ID:       a73b1f2b-a48d-4ffe-a0d0-432ec5533698
-:DRILL_LAST_INTERVAL: 4.3667
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 4
+:DRILL_LAST_INTERVAL: 11.4753
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 3.75
-:DRILL_EASE: 2.8
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.9
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:30]
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:35]
 :END:
 
 The following is an example of a query in Tu[rtle],which is a language
@@ -156,17 +156,17 @@ In a tr[iple]-st[ore], all information is stored in the form of very
 simple three-part statements: (subject, predicate, object).
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-05 sex>
+SCHEDULED: <2022-09-19 seg>
 :PROPERTIES:
 :ID:       6af64e26-bfa3-4ded-afb3-beff5c6bc7ce
-:DRILL_LAST_INTERVAL: 16.9467
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 41.5465
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:06]
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:33]
 :END:
 
 Da[talog] is a much older language than SPARQL or Cypher, having been
@@ -249,17 +249,17 @@ data in bulk across many machines, popularized by Google
 :END:
 ** [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub][Ch 3 - Storage and Retrieval]]
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-08 seg>
+SCHEDULED: <2022-09-16 sex>
 :PROPERTIES:
 :ID:       e42c2510-3aa8-47b4-bfb9-6cd1546cb77a
-:DRILL_LAST_INTERVAL: 12.4723
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 38.8496
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:56]
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:42]
 :END:
 
 For writes, it’s hard to beat the performance of simply appending to a
@@ -623,10 +623,19 @@ warehouse contains a read-only copy of the data in all the various
 OLTP systems in the company.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-03 qua>
+SCHEDULED: <2022-08-12 sex>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::10:53516]]
+:ID:       17110b3a-b393-4b0a-b2df-06b69e899593
+:DRILL_LAST_INTERVAL: 4.0782
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:33]
 :END:
 
 Data is extracted from OLTP databases, transformed into an
@@ -692,19 +701,19 @@ is an actual copy of the query results, written to disk, whereas a
 virtual view is just a shortcut for writing queries.
 ** [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:1][Ch 4 - Encoding and Evolution of Schemas]]
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-06 sáb>
+SCHEDULED: <2022-08-20 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-29 sex]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:13544]]
 :ID:       6ff66c71-1c97-4bf2-adb8-ed7a63a1dce6
-:DRILL_LAST_INTERVAL: 4.091
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.508
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:21]
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:33]
 :END:
 
 Apache *Thrift*, Apache *Avro*, and Protocol Buffers (*protobuf*) are
@@ -712,19 +721,19 @@ binary encoding libraries. You can use them to represent your
 data. They can be seen as alternatives to j[son] and x[ml].
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-06 sáb>
+SCHEDULED: <2022-08-21 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-29 sex]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:29075]]
 :ID:       79fec43d-e9f1-4e82-babc-e238747807dd
-:DRILL_LAST_INTERVAL: 4.0813
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.1073
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:20]
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:34]
 :END:
 
 When compared to json and xml, Protobuf and Thrift save space by
@@ -736,19 +745,19 @@ related to the field name (though this require the schema
 to be shipped separately).
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-06 sáb>
+SCHEDULED: <2022-08-19 sex>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-29 sex]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:31366]]
 :ID:       bf3c9441-59b4-44fc-9a22-9ae72d59b23f
-:DRILL_LAST_INTERVAL: 3.998
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.2538
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-02 ter 13:20]
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:35]
 :END:
 :LOGBOOK:
 - Refiled on [2022-07-29 sex 17:07]
@@ -760,19 +769,19 @@ generated schemas (e.g.: db dumps)? protobuf, thrift, or avro?
 
 [avro]
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-07 dom>
+SCHEDULED: <2022-08-17 qua>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:36564]]
 :ID:       58157e7a-0740-4d26-8800-2e2859832db0
-:DRILL_LAST_INTERVAL: 3.7697
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 8.7731
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:29]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:36]
 :END:
 
 the most common ways how data flows between processes:
@@ -781,22 +790,22 @@ the most common ways how data flows between processes:
 
 – Via service calls (e.g.: R[EST] and R[PC])
 
-– Via asynchronous me[ssage] passing
+– Via asynchronous me[ssage] passing (e.g.: F# mailbox)
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-07 dom>
+SCHEDULED: <2022-08-22 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:43332]]
 :ID:       80d25e69-40e6-47b4-89bd-dd317e5a3902
-:DRILL_LAST_INTERVAL: 3.9707
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.6111
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:28]
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:35]
 :END:
 
 This way of building applications has traditionally been called a
@@ -804,19 +813,19 @@ service-oriented architecture (SOA), more recently refined and
 rebranded as mic[roservices] architecture
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-07 dom>
+SCHEDULED: <2022-08-18 qui>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:45767]]
 :ID:       a9b7bc2d-36f0-400e-856d-59d5afda0cfb
-:DRILL_LAST_INTERVAL: 4.1581
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 9.833
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:27]
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:35]
 :END:
 
 
@@ -825,19 +834,19 @@ Which one is a protocol? REST or SOAP?
 [SOAP]
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-07 dom>
+SCHEDULED: <2022-08-21 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:45767]]
 :ID:       d5e3f3f2-80d1-48bd-a462-70f3d729a708
-:DRILL_LAST_INTERVAL: 4.0132
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.2058
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:28]
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:37]
 :END:
 
 
@@ -846,19 +855,19 @@ Which one uses many HTTP features? REST or SOAP?
 [REST]
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-08 seg>
+SCHEDULED: <2022-08-19 sex>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:46635]]
 :ID:       8df1f218-2884-41d3-b517-3d47edab900d
-:DRILL_LAST_INTERVAL: 4.5299
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.0592
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:30]
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:35]
 :END:
 
 
@@ -868,19 +877,19 @@ The API of a SOAP web service is described in WSDL. The DL stands for
 [Web Service].
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-07 dom>
+SCHEDULED: <2022-08-19 sex>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:46942]]
 :ID:       adc541b3-3f58-44f9-8a8f-ab7577deca51
-:DRILL_LAST_INTERVAL: 4.4648
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.4947
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:28]
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:38]
 :END:
 
 WSDL enables code g[eneration] so that a client can access a remote
@@ -888,19 +897,19 @@ service using local classes and method calls (which are encoded to XML
 messages and decoded again by the framework)
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-08 seg>
+SCHEDULED: <2022-08-20 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:47703]]
 :ID:       d2b98201-f7c5-4017-b037-62afc77bff69
-:DRILL_LAST_INTERVAL: 4.7737
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.3817
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:28]
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:37]
 :END:
 
 Even though SOAP and its various extensions are ostensibly
@@ -908,38 +917,38 @@ standardized, interoperability between different vendors’
 implementations often causes [problems||"profit" or "problems"].
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-07 dom>
+SCHEDULED: <2022-08-21 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:48097]]
 :ID:       97ae5848-6f03-4c8a-8d3f-d78072df351f
-:DRILL_LAST_INTERVAL: 4.3613
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.1681
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:28]
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:38]
 :END:
 
 REST and SOAP are the latest incarnations of the idea of [remote]
 [procedure] [call] (RPC).
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-08 seg>
+SCHEDULED: <2022-08-22 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:48609]]
 :ID:       fe860570-1502-4038-b5e0-ab005d9de10c
-:DRILL_LAST_INTERVAL: 4.8628
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.4121
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:29]
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:37]
 :END:
 
 
@@ -951,37 +960,37 @@ is fundamentally flawed. A network request is very
 [different||"different" or "similar"] from a local function call:
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-07 dom>
+SCHEDULED: <2022-08-20 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:52147]]
 :ID:       c16eff99-bc42-4cde-ad96-f940befec198
-:DRILL_LAST_INTERVAL: 4.1897
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.5029
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:28]
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:37]
 :END:
 
 gRPC is an RPC implementation using Protocol B[uffers]
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-07 dom>
+SCHEDULED: <2022-08-19 sex>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::11:57722]]
 :ID:       3121e1fc-c77e-4053-b395-430da1c71742
-:DRILL_LAST_INTERVAL: 3.8903
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.0887
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-03 qua 15:27]
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:37]
 :END:
 :LOGBOOK:
 - Refiled on [2022-08-02 ter 14:15]
@@ -995,18 +1004,38 @@ a response, but this would usually be done on [a separate||"the same" or "a sepa
 ** [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:1][Ch. 5 - Replication]]
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-13 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-03 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:1597]]
+:ID:       cc4b01a6-e385-470c-b0c5-12d3274503a8
+:DRILL_LAST_INTERVAL: 4.7205
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:39]
 :END:
 
-three popular algorithms for r[eplicating] changes between nodes:
-single-leader, multi-leader, and leaderless replication.
+single-leader, multi-leader, and leaderless replication are popular
+algorithms for rep[licating] changes between nodes.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-12 sex>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-03 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:8140]]
+:ID:       64443082-3d47-4f46-83d5-7218e86a55bd
+:DRILL_LAST_INTERVAL: 4.3699
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:41]
 :END:
 
 Sometimes, leader-based replication is configured to be completely
@@ -1016,9 +1045,19 @@ are lost. This means that a write [is not||"is not" or "is"]
 guaranteed to be durable, even if it has been confirmed to the client.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-12 sex>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-03 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:12812]]
+:ID:       38015a18-9e15-470d-b212-92eec3867af4
+:DRILL_LAST_INTERVAL: 4.1175
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:42]
 :END:
 
 Handling a failure of the leader is trickier: one of the followers
@@ -1028,9 +1067,19 @@ followers need to start consuming data changes from the new
 leader. This process is called f[ailover].
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-13 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-03 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:21544]]
+:ID:       e27453e1-db4a-4529-86ff-325256e4a8b0
+:DRILL_LAST_INTERVAL: 4.5843
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:42]
 :END:
 
 An alternative is to use different log formats for replication and for
@@ -1040,9 +1089,19 @@ called a lo[gical] log, to distinguish it from the storage engine’s
 (physical) data representation.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-13 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-03 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:22879]]
+:ID:       beacde15-939f-4912-b236-5df0451ea129
+:DRILL_LAST_INTERVAL: 4.8309
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:41]
 :END:
 
 A [logical||"physical" or "logical"] log format is also easier for
@@ -1051,9 +1110,19 @@ send the contents of a database to an external system, such as a data
 warehouse for offline analysis
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-12 sex>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-03 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:25748]]
+:ID:       000b9377-c810-4b5b-bdaf-d6f3a90877b6
+:DRILL_LAST_INTERVAL: 4.0791
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:40]
 :END:
 
 a fully synchronous configuration would be very
@@ -1067,9 +1136,19 @@ unavailable for writing. And the more nodes you have, the likelier it
 is that one will be down
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-12 sex>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-03 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:27999]]
+:ID:       6d3f6d50-431f-4c85-8afc-4cadf2a5a3f1
+:DRILL_LAST_INTERVAL: 3.8856
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:41]
 :END:
 
 A user makes a write, followed by a read from a stale
@@ -1077,9 +1156,19 @@ replica. To prevent this anomaly, we need r[ead]-after-w[rite]
 consistency
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-13 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-03 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:32900]]
+:ID:       2aaf79fc-53a9-4896-bc5b-eb84c0bece9a
+:DRILL_LAST_INTERVAL: 4.6406
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:40]
 :END:
 
 A user first reads from a fresh replica, then from a stale
@@ -1087,9 +1176,19 @@ replica. Time appears to go backward. To prevent this anomaly, we need
 mon[otonic] reads.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-12 sex>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-03 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:34854]]
+:ID:       7ba6e621-7424-482e-91e3-358cd843ce7d
+:DRILL_LAST_INTERVAL: 3.9454
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:40]
 :END:
 
 If some partitions are replicated slower than others, an observer may
@@ -1106,9 +1205,19 @@ order, then anyone reading those writes will see them appear in the
 same order.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-13 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-03 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:31751]]
+:ID:       6a0110a8-f2d2-4b2f-bdd0-a8a3c1a810db
+:DRILL_LAST_INTERVAL: 4.5066
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-08 seg 15:41]
 :END:
 :LOGBOOK:
 - Refiled on [2022-08-03 qua 16:46]
@@ -1120,86 +1229,151 @@ same order.
 - failure to provide monotonic-read consistency
 - failure to provide consistent-read-prefix consistency
 
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-08 seg]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:47693]]
+:END:
+
+
+The problem of allowing multiple users to locally edit data and sync
+between them is similar [multi leader||"multi leader" or "leaderless"]
+replication.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-08 seg]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:58985]]
+:END:
+
+In some [leaderless||"multi-leader" or "leaderless"] implementations,
+the client directly sends its writes to several replicas, while in
+others, a coordinator node does this on behalf of the client. However,
+unlike a leader database, that coordinator does not enforce a
+particular ordering of writes
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-08 seg]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:61393]]
+:END:
+
+
+On leaderless replication, after an unavailable node comes back
+online, how does it catch up on the writes that it missed?
+
+Two mechanisms are often used in Dynamo-style datastores:
+
+- R[ead] r[epair]
+- Anti-en[tropy] process
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-08 seg]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:63265]]
+:END:
+
+
+In *quorum reads and writes*, if there are ~n~ replicas, every write
+must be confirmed by ~w~ nodes to be considered successful, and we
+must query at least ~r~ nodes for each read.
+
+As long as ~w + r [>||">" or ">="] n~, we expect to get an up-to-date
+value when reading.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-08 seg]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:68728]]
+:END:
+:LOGBOOK:
+- Refiled on [2022-08-09 ter 15:00]
+:END:
+
+although quo[rums] appear to guarantee that a read returns the latest
+written value, in practice it is not so simple. Dynamo-style databases
+are generally optimized for use cases that can tolerate eventual
+consistency (or no consistency at all).
 * [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::0:1][Time and Relational Theory (by Hugh Darwen, C.J. Date, and Nikos Lorentzos)]]
 ** [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::10:1][Ch 1 - Types and Relations]]
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-15 seg>
 :PROPERTIES:
 :ID:       bb981d1b-cef1-42db-8da1-89f41f20d132
-:DRILL_LAST_INTERVAL: 4.3425
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:37]
-:END:
-
-~Relvar~ stands for re[lation] va[riable].
-
-*** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
-:PROPERTIES:
-:ID:       4d640c4b-f36f-49fb-b8e9-3491b645ac59
-:DRILL_LAST_INTERVAL: 4.2313
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.5
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 17:51]
-:END:
-
-A type is a [set of values].
-
-*** Item                                                            :drill:
-SCHEDULED: <2022-08-05 sex>
-:PROPERTIES:
-:ID:       ef45c0c2-c8ee-4134-9683-a78c2bdb2c81
-:DRILL_LAST_INTERVAL: 11.214
+:DRILL_LAST_INTERVAL: 10.6494
 :DRILL_REPEATS_SINCE_FAIL: 3
 :DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
 :DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:18]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:15]
+:END:
+
+~Relvar~ stands for re[lation] va[riable].
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-16 ter>
+:PROPERTIES:
+:ID:       4d640c4b-f36f-49fb-b8e9-3491b645ac59
+:DRILL_LAST_INTERVAL: 11.8773
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.333
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:16]
+:END:
+
+A type is a [set of values].
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-09-12 seg>
+:PROPERTIES:
+:ID:       ef45c0c2-c8ee-4134-9683-a78c2bdb2c81
+:DRILL_LAST_INTERVAL: 34.2483
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:50]
 :END:
 
 Every value is of [exactly one|| "exactly one" or "one or more"]
 types.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-16 ter>
 :PROPERTIES:
 :ID:       6abd658f-66a3-49ee-8b69-673a4a2c534d
-:DRILL_LAST_INTERVAL: 4.3737
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.8213
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:35]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:16]
 :END:
 
 Types can be sc[alar] and nonsc[allar], as well as us[er] defined and
 sy[stem] defined.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-15 seg>
 :PROPERTIES:
 :ID:       c50ddecc-6076-4557-946f-8bee24da878a
-:DRILL_LAST_INTERVAL: 4.3505
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.4929
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 17:51]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:16]
 :END:
 
 *Definition of tuples in relational theory*
@@ -1215,17 +1389,17 @@ attributes A1, A2, …, An. The value n is the deg[ree] of t; The set H
 of all n attributes is the hea[ding] of t.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-05 sex>
+SCHEDULED: <2022-09-06 ter>
 :PROPERTIES:
 :ID:       2cca3d07-da5a-48f5-a548-014da155ce80
-:DRILL_LAST_INTERVAL: 11.3738
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 28.4689
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:21]
+:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:50]
 :END:
 
 *Definition of relation*
@@ -1240,17 +1414,17 @@ same deg[ree] as that heading does. The set of tuples {t1, t2, …, tm} is
 the bo[dy] of r. The value m is the card[inality] of r.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-05 sex>
+SCHEDULED: <2022-09-07 qua>
 :PROPERTIES:
 :ID:       b8a5d624-b9ac-4b6d-a1ad-54900e55cd61
-:DRILL_LAST_INTERVAL: 11.1588
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 29.4441
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:25]
+:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:50]
 :END:
 
 The predicate corresponding to relation r is the relation pred[icate]
@@ -1265,17 +1439,17 @@ propositions corresponding to tuples appearing in that relation are
 understood by convention to be ones that evaluate to TRUE.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-31 dom>
+SCHEDULED: <2022-09-10 sáb>
 :PROPERTIES:
 :ID:       3d8fce34-5cbb-4b42-908a-6071ee904660
-:DRILL_LAST_INTERVAL: 11.557
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 36.8449
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:09]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:20]
 :END:
 
 A type is sc[alar] if it has no user visible components and nonscalar
@@ -1286,17 +1460,17 @@ otherwise.
 Examples of nonscalar types are: tuples and relations.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-30 sáb>
+SCHEDULED: <2022-09-06 ter>
 :PROPERTIES:
 :ID:       d26ac10e-b219-494a-b876-b883b4f241d7
-:DRILL_LAST_INTERVAL: 11.451
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 33.2852
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:04]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:19]
 :END:
 
 #+begin_src
@@ -1311,17 +1485,17 @@ Both ~Polar~ and ~Cartesian~ are pos[sible] rep[resentation] for the
 type ~Point~.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-04 qui>
+SCHEDULED: <2022-09-09 sex>
 :PROPERTIES:
 :ID:       5722e2bf-cf83-46ce-9c17-f1d455966d85
-:DRILL_LAST_INTERVAL: 10.3802
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 35.7399
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:18]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:23]
 :END:
 
 Every type definition includes, implicitly or explicitly, a
@@ -1329,17 +1503,17 @@ corresponding type con[straint], which is a specification of the set
 of values that make up that type
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-30 sáb>
+SCHEDULED: <2022-09-11 dom>
 :PROPERTIES:
 :ID:       b838a08e-f6b7-48b3-a117-447909fa7710
-:DRILL_LAST_INTERVAL: 11.3627
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 37.7918
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:03]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:17]
 :END:
 
 Differences between a table and a relation:
@@ -1351,17 +1525,17 @@ Differences between a table and a relation:
 - relations never contain nu[lls]
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-03 qua>
+SCHEDULED: <2022-09-15 qui>
 :PROPERTIES:
 :ID:       8e1e0bce-b9b0-47c7-8d3a-67c0cfeca757
-:DRILL_LAST_INTERVAL: 14.6502
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 41.7092
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:04]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:23]
 :END:
 
 There are exactly two nullary relations, one that contains just one
@@ -1371,17 +1545,17 @@ empty and thus contains no tuples at all.  We refer to these two
 relations colloquially as TABLE_DE[E] and TABLE_DU[M].
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-02 ter>
+SCHEDULED: <2022-09-17 sáb>
 :PROPERTIES:
 :ID:       6f495188-8296-4ac7-a993-0835c6fcf540
-:DRILL_LAST_INTERVAL: 13.5328
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 44.3299
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:09]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:20]
 :END:
 
 If relation r has heading H, then that relation r is of type RELATION
@@ -1390,17 +1564,17 @@ H
 RELATION here is a type gen[erator]
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-01 seg>
+SCHEDULED: <2022-09-08 qui>
 :PROPERTIES:
 :ID:       7a41c89b-cd78-4784-b08c-607cb8774095
-:DRILL_LAST_INTERVAL: 13.407
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 34.9682
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-19 ter 14:11]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:20]
 :END:
 
 The Cl[osed] Wo[rld] Assumption (CWA) states that If relation r has
@@ -1409,17 +1583,17 @@ that correspond to instantiations of P that evaluate to TRUE.
 
 ** [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::11:1][Ch 2 - Relational Algebra]]
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-30 sáb>
+SCHEDULED: <2022-08-19 sex>
 :PROPERTIES:
 :ID:       59bb2342-3f56-40b4-91b1-0d749e0c1ed6
-:DRILL_LAST_INTERVAL: 5.147
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.9197
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:33]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:17]
 :END:
 
 The relational model includes an open ended [set||"set" or "list"] of
@@ -1427,34 +1601,34 @@ generic read-only operators known collectively as the relational
 al[gebra].
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-30 sáb>
+SCHEDULED: <2022-08-22 seg>
 :PROPERTIES:
 :ID:       12f7b2bd-814e-467b-b773-9d5244198e56
-:DRILL_LAST_INTERVAL: 5.0342
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:27]
-:END:
-
-Relations r1 and r2 are joinable if and only if attributes with the
-same name are of the [same||"same" or "different"] type.
-
-*** Item                                                            :drill:
-SCHEDULED: <2022-08-08 seg>
-:PROPERTIES:
-:ID:       538fd73a-da1d-4d2f-ae2e-7b1b9826db00
-:DRILL_LAST_INTERVAL: 13.7543
+:DRILL_LAST_INTERVAL: 18.2822
 :DRILL_REPEATS_SINCE_FAIL: 3
 :DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
 :DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:24]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:19]
+:END:
+
+Relations r1 and r2 are joinable if and only if attributes with the
+same name are of the [same||"same" or "different"] type.
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-09-16 sex>
+:PROPERTIES:
+:ID:       538fd73a-da1d-4d2f-ae2e-7b1b9826db00
+:DRILL_LAST_INTERVAL: 37.7602
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:56]
 :END:
 
 Is it the case that group and ungroup operators are always the inverse
@@ -1469,24 +1643,24 @@ inverse ungrouping that yields r again; however, the converse isn’t
 necessarily so.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-04 qui>
+SCHEDULED: <2022-09-10 sáb>
 :PROPERTIES:
 :ID:       3d4895a5-e652-4a73-9248-5b800ca291dd
-:DRILL_LAST_INTERVAL: 10.3558
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 3
+:DRILL_LAST_INTERVAL: 31.6956
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 3.667
-:DRILL_EASE: 2.7
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:24]
+:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:49]
 :END:
 
-Relational completeness is a basic measure of the expressive
+*Relational completeness* is a basic measure of the expressive
 capability of a language. If a language is relationally complete, then
 it means—speaking very loosely, please note!—that queries of arbitrary
-complexity can be formulated in that language [without|| "with" or
-"without"] having to resort to branching or iterative loops.
+complexity can be formulated in that language [without|| "with" or "without"]
+having to resort to branching or iterative loops.
 
 **** More
 
@@ -1541,21 +1715,23 @@ being updatable—are more correctly seen as properties of relation
 v[ariables] instead.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-30 sáb>
+SCHEDULED: <2022-08-19 sex>
 :PROPERTIES:
 :ID:       ba1299e2-0202-4ea1-8841-dc5f575f6051
-:DRILL_LAST_INTERVAL: 4.6489
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.6453
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:31]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:18]
 :END:
 
 Are the operators INSERT, DELETE, and UPDATE part of relational
 algebra?
+
+[No]
 
 **** More
 
@@ -1565,39 +1741,38 @@ update operators, aren’t operators of the relational algebra as such
 are all, by definition, *read-only* operators specifically)
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-30 sáb>
+SCHEDULED: <2022-08-20 sáb>
 :PROPERTIES:
 :ID:       58d73db1-09e8-4769-b7e3-4f39568fbcdd
-:DRILL_LAST_INTERVAL: 4.6669
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:27]
-:END:
-
-The *Assignment Principle* states that after assignment of value v to
-variable V, the comparison v = V must evaluate to [TRUE|| "True" or
-"False"].
-
-*** Item                                                            :drill:
-SCHEDULED: <2022-08-10 qua>
-:PROPERTIES:
-:ID:       ac6afb12-5054-4dba-9897-e0488bbe165f
-:DRILL_LAST_INTERVAL: 14.0583
+:DRILL_LAST_INTERVAL: 16.3567
 :DRILL_REPEATS_SINCE_FAIL: 3
 :DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
 :DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:55]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:18]
+:END:
+
+The *Assignment Principle* states that after assignment of value v to
+variable V, the comparison v = V must evaluate to [TRUE|| "True" or "False"].
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-09-23 sex>
+:PROPERTIES:
+:ID:       ac6afb12-5054-4dba-9897-e0488bbe165f
+:DRILL_LAST_INTERVAL: 43.7334
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.8
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-10 qua 12:12]
 :END:
 
 Definition: Let K be a subset of the heading of relvar R. Then K is a
-key (also known as a candidate key) for R if and only if it possesses
+*key* (also known as a candidate key) for R if and only if it possesses
 both of the following properties:
 
 1.  Uni[queness]: No relation that can legally be assigned to R has
@@ -1607,17 +1782,17 @@ same value for K.
 2.  Irr[educibility]: No proper subset of K has the uniqueness property.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-15 seg>
 :PROPERTIES:
 :ID:       ab603dbd-95b8-4809-a37e-c5b0da9a9b52
-:DRILL_LAST_INTERVAL: 4.0391
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.0219
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:33]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:15]
 :END:
 
 Let X and Y be subsets of the heading of relvar R. Then the
@@ -1626,17 +1801,17 @@ relation that’s a possible value of R, whenever two tuples have the
 same value for X, they also have the same value for Y.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-15 seg>
 :PROPERTIES:
 :ID:       e09fbed9-cede-4871-b752-6d8be6e06ad1
-:DRILL_LAST_INTERVAL: 4.1898
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.2766
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:37]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:16]
 :END:
 
 Another name for foreign key constraint is ref[erential] constraint.
@@ -1645,17 +1820,17 @@ The rule that no foreign key constraint must ever be violated is the
 ref[erential] int[egrity] rule.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-30 sáb>
+SCHEDULED: <2022-08-20 sáb>
 :PROPERTIES:
 :ID:       5cb823f1-e3f4-457a-aedb-fb6d167946db
-:DRILL_LAST_INTERVAL: 4.8165
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 16.2935
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:38]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:19]
 :END:
 
 This requirement (i.e., that constraint violations be detected
@@ -1664,17 +1839,17 @@ it’s a consequence of this rule that no user [ever||"sometimes" or "ever"]
 sees the database in an inconsistent state.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-17 qua>
 :PROPERTIES:
 :ID:       110ed85e-7680-4fc3-8d98-c2b336e47932
-:DRILL_LAST_INTERVAL: 4.1313
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.5429
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:26]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:15]
 :END:
 
 Database constraints do apply specifically to [relvars||"relvars" or "relation"].
@@ -1686,33 +1861,33 @@ means of some update operation—and, again by definition, updates apply
 to variables, not values.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-30 sáb>
+SCHEDULED: <2022-08-20 sáb>
 :PROPERTIES:
 :ID:       32800aeb-d5e5-4acb-ba41-30ae42fb1ce7
-:DRILL_LAST_INTERVAL: 5.342
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 16.3103
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:28]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:18]
 :END:
 
 In the double assignment assignment, constraint checking is done [at the end of the statement|| "at the end of the statement" or "in between each statement"].
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-29 sex>
+SCHEDULED: <2022-08-18 qui>
 :PROPERTIES:
 :ID:       539af08d-e7d4-407d-a224-7d66a8f08554
-:DRILL_LAST_INTERVAL: 4.039
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.4471
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:41]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:14]
 :END:
 
 Definition: The Principle of Interchangeability (of views and base
@@ -1720,17 +1895,17 @@ relvars) states that there [must be no||"can be" or "must be no"]
 arbitrary and unnecessary distinctions between base relvars and views;
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-30 sáb>
+SCHEDULED: <2022-08-19 sex>
 :PROPERTIES:
 :ID:       d770d7d1-4f94-4aa1-a367-6dcad7107e81
-:DRILL_LAST_INTERVAL: 4.5868
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 15.1702
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-25 seg 16:32]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:17]
 :END:
 
 Definition: The relational model consists of five components:
@@ -1753,38 +1928,38 @@ ope[rators] for deriving relation values from other relation values
 
 ** [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:1][Ch 4 - Time and the Database]]
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-31 dom>
+SCHEDULED: <2022-08-15 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:1455]]
 :ID:       33b473ce-7898-4292-a7e3-82dcf450237c
-:DRILL_LAST_INTERVAL: 3.7111
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.2858
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:57]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:20]
 :END:
 
 A temporal database can be thought of, loosely, as a database that contains historical data
 instead of or in addition to cur[rent] data.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-31 dom>
+SCHEDULED: <2022-08-15 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:6931]]
 :ID:       472ae5b6-1a1f-4d75-b39a-00d5fc872c1c
-:DRILL_LAST_INTERVAL: 4.0309
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.7561
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:57]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:19]
 :END:
 
 *The Information Principle (of a relational database)*
@@ -1794,38 +1969,38 @@ represented in one and only one way: The database contains only
 rel[vars]
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-31 dom>
+SCHEDULED: <2022-08-14 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:11251]]
 :ID:       e41aed2b-9642-4822-9872-03dde0f47946
-:DRILL_LAST_INTERVAL: 3.9684
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 9.601
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:59]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:20]
 :END:
 
 the approach to temporal databases that we advocate
 involves [no changes||"changes" or "no changes"] to the classical relational model
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-07-31 dom>
+SCHEDULED: <2022-08-16 ter>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:23459]]
 :ID:       78ef5565-2510-4bfc-a53a-6cbafc7e2a22
-:DRILL_LAST_INTERVAL: 4.2307
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 11.5489
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.5
-:DRILL_EASE: 2.6
+:DRILL_AVERAGE_QUALITY: 3.333
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-27 qua 13:00]
+:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:20]
 :END:
 :LOGBOOK:
 - Refiled on [2022-07-25 seg 18:40]
@@ -1839,10 +2014,19 @@ Which one can be updated? *valid time* or *transaction time*?
 
 valid times can be updated, but transaction times can’t.
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-14 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:23619]]
 :ID:       0ba9802e-0557-48fc-b3d5-8a010e4f05cf
+:DRILL_LAST_INTERVAL: 4.6837
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:52]
 :END:
 
 Valid vs transactional time
@@ -1852,22 +2036,40 @@ change; [transaction] times, by contrast, reflect history as such, and
 history can’t change
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-21 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:25047]]
 :ID:       cdc8a6ca-7b5d-4354-8c86-deb7f51bc8da
+:DRILL_LAST_INTERVAL: 11.7166
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:52]
 :END:
 
 by adopting the assumption—except briefly in Appendix B—that the
-“timeline” consists of a finite contiguous sequence of discrete
+“timeline” consists of a finite contiguous sequence of [discrete||"continuous" or "discrete"]
 indivisible time qua[nta] (where a time quantum is the smallest time
 unit the system is capable of representing).
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-14 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:28943]]
 :ID:       5f0c49bd-b445-4649-a971-84a468c1e609
+:DRILL_LAST_INTERVAL: 4.6276
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:58]
 :END:
 
 
@@ -1875,10 +2077,19 @@ In an rdbms, the timeline is a [finite||"infinite" or "finite"]
 sequence of discrete points.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-21 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:30157]]
 :ID:       f6349838-faa2-4ec9-860e-9a3ed8d49516
+:DRILL_LAST_INTERVAL: 11.8044
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:51]
 :END:
 
 In time relational theory, we take *during* to mean “throughout [and not||"and not" or "and"] immediately before or immediately after (the
@@ -1886,10 +2097,19 @@ interval in question).” In similar fashion, we take *since* to mean
 “ever since [and not||"and" or "and not"] immediately before (the point in question).”
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-21 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:371]]
 :ID:       03f312b4-fbbb-45c9-a985-9b19a4609afb
+:DRILL_LAST_INTERVAL: 12.4217
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:52]
 :END:
 
 
@@ -1898,23 +2118,42 @@ intended meaning of a time range column. 3 prepositions are useful to
 describe these columns: on, sin[ce], and dur[ing]
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-13 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:8096]]
 :ID:       0dbd1ddc-f19e-45bc-97d9-d9fb41cce35e
+:DRILL_LAST_INTERVAL: 3.9131
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:58]
 :END:
 :LOGBOOK:
 - Refiled on [2022-07-27 qua 17:34]
 :END:
 
-time[stamped] propositions—by which we mean propositions that involve
-one or more values of some timestamp type
+timestamped propositions—by which we mean propositions that involve
+[one or more values||"exactly one value" or "one or more values"] of some timestamp type
 ** Ch 5 - What is the problem?
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-13 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::16:23713]]
+:ID:       47e70474-33a2-47aa-9fd0-050976579c7d
+:DRILL_LAST_INTERVAL: 3.9888
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:58]
 :END:
 :LOGBOOK:
 - Refiled on [2022-08-02 ter 14:33]
@@ -1925,14 +2164,21 @@ and queries that are [unreasonably complex||"unreasonably complex" or "too easy"
 to express
 
 ** Ch 6 - Intervals
-
-
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-13 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::17:4005]]
+:ID:       ea7292ca-78b8-433f-9727-f2a904df93c2
+:DRILL_LAST_INTERVAL: 4.0784
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:58]
 :END:
-
 
 What is the predicated for a reval that has string member ~SNO~ and
 interval member ~during~?
@@ -1943,12 +2189,22 @@ DURING, inclusive, and not throughout any interval that *properly*
 in[cludes] that interval.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-13 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::17:14209]]
+:ID:       6e4fa06d-5a51-4cfa-96c9-19bc42c0d9d7
+:DRILL_LAST_INTERVAL: 3.6472
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:56]
 :END:
 
-Definition: Type T is usable as a point type if all of the following are defined for it: 
+Definition: Type T is usable as a point type if all of the following are defined for it:
 
 - a.  A [total||"total" or "partial"] ordering
 - b.  Niladic *first* and *last* operators, which return the smallest
@@ -1959,9 +2215,19 @@ Definition: Type T is usable as a point type if all of the following are defined
   given value of type T according to the aforementioned ordering
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-22 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::17:18817]]
+:ID:       9a15c722-7b37-47df-8c6a-2cef083a40ca
+:DRILL_LAST_INTERVAL: 12.8617
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:51]
 :END:
 :LOGBOOK:
 - Refiled on [2022-08-02 ter 15:25]
@@ -1977,6 +2243,304 @@ defined, such that:
 - b.  BEGIN (i) [≤||"<" or "≤"] END (i).
 
 - c.  If p is a value of type T, then ~p ∈ i~ is true if and only if BEGIN (i) ≤ p and p ≤ END (i) are both [true||"false" or "true"].
+
+** Ch 7 - Interval Operators
+
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-14 dom>
+:PROPERTIES:
+:DATE_ADDED: [2022-08-04 qui]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::18:10131]]
+:ID:       39883279-9432-4532-9131-57e3dfefd164
+:DRILL_LAST_INTERVAL: 4.6194
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:58]
+:END:
+
+
+In time relational theory, are empty intervals possible?
+
+[No.]
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-14 dom>
+:PROPERTIES:
+:DATE_ADDED: [2022-08-04 qui]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::18:10131]]
+:ID:       ab58d9dc-a956-4031-b562-1118155e2b6b
+:DRILL_LAST_INTERVAL: 4.6607
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:58]
+:END:
+
+
+In time relational theory, is it possible to have an interval with a
+single point?
+
+[Yes.]
+
+*** Item
+:PROPERTIES:
+:DATE_ADDED: [2022-08-05 sex]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::18:1820]]
+:END:
+:LOGBOOK:
+- Refiled on [2022-08-05 sex 15:59]
+:END:
+
+Table of operations defined for points and intervals.
+
+Convention:
+
+- ~p~ is of point type ~Point_T~
+- ~i~ is of interval type ~Iternval_T~ and is represented as ~\[b:e]~
+- ~i1 = \[b1:e1]~ and ~i2 = \[b2:e2]~
+
+| Function                         | Note                                                                        |
+|----------------------------------+-----------------------------------------------------------------------------|
+| NEXT_T(p)                        | returns p+1                                                                 |
+| FIRST_T()                        |                                                                             |
+| LAST_T ()                        |                                                                             |
+| PRE (\[b:e])                     | returns b−1                                                                 |
+| POST (\[b:e])                    | returns e+1                                                                 |
+| i ∋ p                            | boolean predicate "i contains p"                                            |
+| POINT FROM \[p:p]                | returns p; only work for unit intervals                                     |
+| Equals(i1, i2)                   |                                                                             |
+| IncludedIn(i1, i2)               |                                                                             |
+| Includes(i1, i2)                 |                                                                             |
+| ProperlyIncludes(i1, i2)         | Similar to "Includes" but the intervals cannot be equal                     |
+| ProperlyIncludedIn(i1, i2)       | Similar to "IncludedIn" but the intervals cannot be equal                   |
+| Before(i1, i2) and After(i1, i2) | True if b2 > e1 (note: they don't touch)                                    |
+| Overlaps(i1, i2)                 |                                                                             |
+| Meets(i1, i2)                    | One is right next to another, but they don't have elements in common        |
+| Merges(i1, i2)                   | Equivalent to "overlaps or meets"                                           |
+| Begins(i1, i2)                   | Both have the same beginning, and the first's end is included in the second |
+| Ends(i1, i2)                     | Both have the same end, and the first's beginning is included in the second |
+| Union(i1, i2)                    | Fails to form proper interval is the 2 intervals do not merge               |
+| Intersect(i1, i2)                | Fails to form interval if the two do not overlap                            |
+| Minus(i1, i2)                    | Fails to form intervals on quite a few occasions                            |
+| Count(i)                         | Returns number of points in the interval                                    |
+
+** Ch 8 - The EXPAND and COLLAPSE Operators
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-13 sáb>
+:PROPERTIES:
+:DATE_ADDED: [2022-08-05 sex]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::19:4711]]
+:ID:       2fa7cdd8-a8cc-434b-a716-8efe0314d388
+:DRILL_LAST_INTERVAL: 4.2105
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:54]
+:END:
+
+
+Let the following be the definition of X1 and X2, both sets of
+intervals. These sets of points are equivalent to one another because
+they contain the same points.
+
+{ \[d01:d01] , \[d03:d05] , \[d04:d06] } /* X1 */
+
+{ \[d01:d01] , \[d03:d04] , \[d05:d05] , \[d05:d06] } /* X2 */
+
+Which one is the expanded form of x1?
+
+- a) { d01 , d03 , d04 , d05 , d06 }
+- b) { \[d01:d01] , \[d03:d03] , \[d04:d04] , \[d05:d05] , \[d06:d06] }
+
+[b]
+
+**** More
+
+Definition: Let X be a set of intervals all of the same type. Then the
+expanded form of X is the set of all intervals—more precisely, the set
+of all unit intervals—of the form [p:p] such that p is a point in some
+interval in X.
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-14 dom>
+:PROPERTIES:
+:DATE_ADDED: [2022-08-05 sex]
+:ID:       ce1fb542-90d6-4df2-bcdb-ab0d0bd26b3f
+:DRILL_LAST_INTERVAL: 4.5268
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:58]
+:END:
+:LOGBOOK:
+- Refiled on [2022-08-05 sex 16:28]
+:END:
+
+Consider the sets of intervals:
+
+{ \[d01:d01] , \[d03:d05] , \[d04:d06] } /* X1 */
+{ \[d01:d01] , \[d03:d06] } /* X5 */
+
+X5 is the [collapsed||"expanded" or "collapsed"] form of X1
+** Ch 9 - The Pack and Unpack (case of single-attribute)
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-14 dom>
+:PROPERTIES:
+:DATE_ADDED: [2022-08-09 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::20:989]]
+:ID:       3647ee83-feb7-4b56-8155-eb1ca1602478
+:DRILL_LAST_INTERVAL: 4.3227
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-10 qua 12:13]
+:END:
+
+
+The operators COLLAPSE and EXPAND take as input
+[a set of intervals||"an interval" or "a set of intervals"]
+
+**** More
+
+They can also be defined in terms of an unary relation (w/ only one
+column).
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-15 seg>
+:PROPERTIES:
+:DATE_ADDED: [2022-08-09 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::20:1223]]
+:ID:       2f5b64e0-a18b-4d6d-b69d-a60880120310
+:DRILL_LAST_INTERVAL: 4.7514
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-10 qua 12:13]
+:END:
+
+(collapse or expand?)
+
+PACK builds on [COLLAPSE] and UNPACK builds on [EXPAND].
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-14 dom>
+:PROPERTIES:
+:DATE_ADDED: [2022-08-09 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::20:15358]]
+:ID:       54e10ba2-4955-4865-8af4-28c39c774188
+:DRILL_LAST_INTERVAL: 3.9223
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-10 qua 12:13]
+:END:
+:LOGBOOK:
+- Refiled on [2022-08-10 qua 12:12]
+:END:
+
+Like the operators COLLAPSE and EXPAND on which they’re based, PACK
+and UNPACK [are not||"are" or "are not"] inverses of each other
+** Ch 10 - Pack and Unpack (case of multi attributes)
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-10 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::21:4563]]
+:END:
+
+unpacking some relation r on no attributes and then packing the
+result, also on no attributes, returns [r]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-10 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::21:6412]]
+:END:
+
+(equal or not equal?)
+
+UNPACK ( UNPACK r ON ( A1 ) ) ON ( A2 ) [≡||"≡" or "!="]
+
+UNPACK ( UNPACK r ON ( A2 ) ) ON ( A1 )
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-10 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::21:9097]]
+:END:
+
+PACK r ON ( A1 , A2 )
+
+is defined to be shorthand for the expression
+
+
+PACK ( PACK ( [UNPACK||"PACK" or "UNPACK"] r ON ( A1 , A2 ) ) ON ( A1 ) ) ON ( A2 )
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-10 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::21:13581]]
+:END:
+
+(for the general case)
+
+PACK r ON ( A1 , A2 ) [!=||"!=" or "≡"] PACK r ON ( A2 , A1 )
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-10 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::21:17110]]
+:END:
+
+the expressions
+
+
+PACK r ON ( A1 , A2 , … , An )
+
+and
+
+
+PACK (… ( PACK ( PACK r ON ( A1 ) ) ON ( A2 ) ) … ) ON ( An )
+
+[aren’t||"are" or "aren’t"] logically equivalent, in general.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-10 qua]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::21:21576]]
+:END:
+:LOGBOOK:
+- Refiled on [2022-08-10 qua 12:50]
+:END:
+
+Definition: Let r1 and r2 be relations of the same type, and let
+attributes A1, A2, …, An of those two relations be interval
+valued. Then r1 and r2 are *equivalent* with respect to A1, A2, …  ,
+An if and only if the results of [UNPACK||"PACK" or "UNPACK"] r1 ON
+(A1,A2, …,An) and [UNPACK||"UNPACK" or "PACK"] r2 ON (A1,A2, …,An) are
+equal.
 * [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::0:1][The Art of Immutable Architecture]]
 ** Ch 1 - Why Immutable Architecture
 *** Item                                                            :drill:
@@ -3407,6 +3971,7 @@ unavailable.
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:47860]]
+:ID:       4ed643c0-82e6-4cda-90e9-94e48aa8c348
 :END:
 
 The CAP theorem tells us that we [cannot||"cannot" or "can"] expect
@@ -3416,6 +3981,7 @@ different nodes within a distributed system to have the same state.
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:52392]]
+:ID:       9eea16b7-ae7c-4ae0-999f-80dc9169a7c7
 :END:
 
 The system is strongly eventually consistent (SEC) if, after seeing
@@ -3425,6 +3991,7 @@ all of the messages, all nodes arrive at [the same||"tolerably different" or "th
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:60211]]
+:ID:       60be4f53-6283-41bc-a6e9-8ad51a0d1fe0
 :END:
 
 
@@ -3437,6 +4004,7 @@ Id[empotency] and com[mutativeness]
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:67148]]
+:ID:       fb948601-f2de-4690-bc04-5cd6d7713e02
 :END:
 
 We can optimize our distributed system further if we allow nodes to
@@ -3449,6 +4017,7 @@ strategy employed by con[flict]-free rep[licated] data types (*CRDTs*).
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:75537]]
+:ID:       10471272-4de1-4209-b1f0-b73abf025f06
 :END:
 
 A vector cl[ock] is a tool for building state-based CRDTs. It gives us
@@ -3459,6 +4028,7 @@ and merge operations.
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::8:69198]]
+:ID:       77d4089a-8495-4cd3-93ff-57047dfc2b6a
 :END:
 :LOGBOOK:
 - Refiled on [2022-08-02 ter 17:08]

@@ -982,6 +982,8 @@ Para que haja pecado grave são necessários 3 condições:
 
 *** Item                                                            :drill:
 
+As 5 etapas da confissão:
+
 - Exame de consciência ::
 - Arrependimento :: dor por ter ofendido Deus pelos pecados cometidos
 - Propósito :: firmamento propósito de não mais cometê-los;
@@ -999,11 +1001,9 @@ confissão. Estes são meus pecados:
 
 *** Item                                                            :drill:
 
-
 Oração especial para pedir perdão dos pecados:
 
 #+begin_quote
-
 Meu Deus, eu me ar[rependo], de todo coração
 de todos meus pecados e os det[esto],
 porque pecando não só mereci as penas que jus[tamente] estabelecestes,
@@ -1030,7 +1030,6 @@ divinia.
 *** Item                                                            :drill:
 
 Um pecado grave requer uma mat[éria] grave.
-
 
 *** Item                                                            :drill:
 
@@ -1066,10 +1065,10 @@ Motivo adicionado por Jesus ao casamento católico:
 
 - infusão de graça pelo sacr[amento]
 
-** Aula 5 - Introdução aos mandamentos e 4o mandamento
+** Aula 5 - Introdução aos mandamentos e 4o mandamento (honrar pai e mãe)
 *** Item                                                            :drill:
 
-Os 10 mandamentos:
+Os 10 mandamentos se dividem em dois grandes próximos
 
 *Sobre amar [a Deus]*
 
@@ -1087,8 +1086,10 @@ Os 10 mandamentos:
   outro)
 - Não desejar a mulher do próximo
 - Não desejar as coisas alheias (o desejo de roubar)
+*** Item                                                            :drill:
 
-Nota: mandamentos listados em ordem [decrescente||"crescente" or "decrescente"] de importância.
+Mandamentos são listados em ordem [decrescente||"crescente" or "decrescente"]
+de importância.
 
 *** Item                                                            :drill:
 
@@ -1196,8 +1197,7 @@ Sim. É uma coperação mat[erial] e [indiferente||"indiferente" or "necessária
 
 Sobre a ordem caridade
 
-- Necessidade extrema :: além de ser grave, o indivíduo [não
-  pode||"pode" or "não pode"] se defender sozinho
+- Necessidade extrema :: além de ser grave, o indivíduo [não pode||"pode" or "não pode"] se defender sozinho
 - Necessidade grave :: a pessoa vai sofrer um prejuízo gigantesco, mas
   a pessoa [pode||"não pode" or "pode"] se socorrer sozinha
 - Necessidade leve :: a pessoa pode administrar o prejuízo com
@@ -1212,7 +1212,7 @@ você não [precisa||"precisa" or "deve"] ajudar.
 ** Aula 9 - Natureza da Moral
 *** Item                                                            :drill:
 
-Virtude: qualidade que se adquire ao praticar atividades relacionadas
+Vi[rtude]: qualidade que se adquire ao praticar atividades relacionadas
 a natureza humana.
 
 É um hábito.
@@ -1444,7 +1444,7 @@ pessoas aumenta o dano.
 - Nota: após alguns anos, uma dívida com o estado não pode ser mais
   executada
 - Os trabalhadores tem o direito de receber um salário justo
-    * Uma pessoa, ainda que solteira, possa manter dignmaente uma
+    * Uma pessoa, ainda que solteira, possa manter dignamente uma
       família
     * É difícil estabelecer um salário justo
     * Em alguma situações é possível que não se poss pagar um salário
@@ -1526,7 +1526,7 @@ pessoas aumenta o dano.
         + Atribuir culpa grave como certa sendo que não há provas
         + A prática de amor ao próximo requer perdão infinito
         + Muitas pessoas tem uma tendência natural a julgamentos
-          temerários. Vira um vício. A pessoa que sofre disse vive em
+          temerários. Vira um vício. A pessoa que sofre disso vive em
           um mundo fantástico.
         + Se o outro pudesse ouvir o que você pensa deles, como eles
           reagiriam?
@@ -1565,10 +1565,10 @@ pessoas aumenta o dano.
 - Para cumprir o 1o mandamento é preciso aprender a rezar.
     * É simples se soubermos fazer
 - Nota: Jesus está fisicamente em algum lugar do universo
-- Durante a heucaristia, o pão se transforma no corpo físico de crito
-  resuscitado (está na hóstia o cristo inteiro). Assim também com o
+- Durante a heucaristia, o pão se transforma no corpo físico de Cristo
+  resuscitado (está na óstia o cristo inteiro). Assim também com o
   vinho.
-- A presença do Cristo na heucaristia de desfaz quando a o pão/vinho
+- A presença do Cristo na heucaristia de sesfaz quando a o pão/vinho
   se desfazem no estômago. Nos ~10 minutos que o Cristo está conosco,
   deve-se aprimorar o amor por Cristo.
     * As virtudes ficam mais fáceis. A castidade mais leve.
@@ -1742,3 +1742,234 @@ pessoas aumenta o dano.
       se ama.
     * Amor: desejar profundamente unir-se com a pessoa amada
 ** Aula 20 - 1o Mandamento pt 2
+
+- O material sobre Teologia Moral desse curso foi inspirado em livros
+  que em geral são lidos para formação de padres (especialmente para
+  confissão). Os melhores livros destes estão tentando desenvolver a
+  prudência.
+- 4 aspectos na moral: o pecado grave, desenvovler as virtudes,
+  co-ordenar as virtudes, co-ordenar a vida toda para uma meta
+  suprema.
+- Pecados graves:
+    * são os pecados contra as virtudes teologais: fé, esperança, e
+      caridade
+    * pecado 1: negar os mistérios que Deus revela (e também os dogmas
+      certificados pela igreja). Uma vez que os mistérios foram
+      revelados, é pecado grave negá-lo. Nota: em muitos casos, as
+      pessoas tiveram reveladas algumas verdades mas não outras. Nesse
+      caso, é difícil julgar pecado ou não. A pessoa terá que se
+      resolver com Deus. Ensinar os mistérios errados também é pecado
+      grave (pior ainda).
+    * 2: pecados por excesso (presunção) e por falta
+      (desespero). Exemplo de pecado por excesso: ter certeza absoluta
+      que vão se salvar sem ter os méritos necessários para
+      isso. E.g. de desespero: achar que cometeu-se um pecado tão
+      grave que Deus nunca vai perdoar.
+    * 3 (quanto a caridade): 1o odiar a Deus e as coisas divinas, e 2o
+      as práticas de surperição (praticar certos procedimentos sem
+      relação de cause e efeito, e insistir nisso). Exemplo:
+      horóscopo, adivinhação. Se você faz mesmo essas práticas, a
+      evidência mostra que as vezes as coisas acontecem. Os textos de
+      teologia entendem que existem maus espíritos, e esses atos são
+      orações aos demônios. Exemplo: sessões mediúnicas e
+      espiritismo. Não se sabe quem estamos chamando nessa situação.
+- Para quem está começando na vida espiritual, focar em: castidade,
+  respeito ao próximo, e a fé em Deus e na igreja.
+- É pecado não rezar a 7a parte do tempo?
+    * Em geral não.
+    * No caso de um desprezo por essa recomendação, sim.
+- Enquanto não se sabe rezar por 2 horas, pode-se parar para estudar
+  as escrituras (em um espírito de busca pela verdade). Pode-se
+  meditar na vida dos santos, ou nos textos dos santos padres.
+- Não só por nossa causa, mas pela das demais, precisamos conhecer o
+  amor de Deus, e amar as outros transmitindo o amor de
+  Cristo. Algumas pessoas não teriam a chance de conhecer o amor de
+  Deus se não fosse por nós.
+** Aula 21 - 1o mandamento pt 3
+
+- De volta ao tópico da fé
+- Qual conteúdo devemos crer?
+- Pontos centrais da fé: 1. deus existe e 2. existe um premio para
+  quem busca deus
+- Em seguida: 3. creer em Cristo ( o Verbo, uma pessoa divina, se
+  encarnou para nos salvar, e se ofereceu como sacrifício para nos
+  salvar).
+- 5. a santíssima trindade (há 3 pessoas, 1 se encarnou, as 3 são
+  diferentes entre si, mas um só Deus. Tem em comum a existência, uma
+  só essência. Não se pode separá-los. 1 dessas pessoas se fez homem.)
+    * Deus criou uma natureza humana. Essa natureza humana uniu-se a
+      2a pessoa do verbo.
+- 6. perda irreparável para quem não o busca (o inferno)
+- São 6 ao todo. É preciso crer por necessidade de meio. Não se pode
+  buscar a vida espiritual sem crer nesses 6 mistérios.
+- Devemos crer neles explicitamente para receber os sacramentos.
+- Os outros mistérios não são absolutamente necessários, mas são
+  importantíssimos.
+- Outros mistérios importantes estão no Credo.
+- Há outras coisas que não estão no credo: a eucaristica, os
+  sacramentos, as virtudes, ...
+- Esses mistérios "secundários", quando vamos atrás dos detalhes,
+  podemos ficar na dúvida. Para entendê-los, deve-se estudar a
+  história da igreja (a tradição).
+    * Quando a tradição é unânima desde o início, aquela é a
+      interpretação correta
+- Os filhos dos cristoã devem ser batizados como recém nascidos
+- Nem todo mundo é erudito para poder estudar. Nesses casos, deve-se
+  seguir a autoridade da igreja (é um serviço prestado pela igreja).
+- Nota: a igreja não tem autoridade a questões filosóficas
+  quaisquer. E.g.: fazer você crer na monarquia. Não é um poder
+  indiscriminado, e não pode criar questões novas.
+** Aula 22 - Mandamentos da Igreja parte I
+
+- São 5:
+    * 1. Ir a missa todo Domingo, e nos dias santos estabelecidos
+    * 2. Confessar-se uma vez ao ano
+    * 3. Comungar ao menos uma vez durante um período de 90 dias
+      (tempo pascal, do Domingo da Ressurreição até o Domingo de
+      Pentecostes)
+    * 4. Jejum e abstinência:
+        + Abstinência de carne de animais de sangue quente (aves,
+          gado, porco) toda sexta feira
+            - Essa abstinência pode ser substituída por qualquer obra
+              de caridade
+        + Jejum e abstinência em dois dias do ano: quarta-feira de
+          cinzas e na sexta-feira da paixão
+    * 5. Pagar o dízimo
+        + Em princípio: Dízimo = 10a parte
+        + No entanto, nos tempos modernos, o dízimo deve ser pago de
+          acordo com o costume local. Em muitos lugares, o costume
+          local é de que o dízimo é voluntário, e de valor a ser
+          estipulado pelo fiel.
+* Orações
+** Item                                                              :drill:
+
+*Ó meu Jesus*
+
+Ó meu Jesus, perdoai-nos, livrai-nos do [fogo do inferno||"do inferno" or "fogo do inferno"],
+levai [as almas todas||"as almas todas" or "todas as almas"] para o Céu
+e socorrei principalmente aquelas que mais [precisarem||"precisam" or "precisarem"].
+
+** Item                                                              :drill:
+
+*Oração para antes da meditação*
+
+Meu Senhor e meu Deus,
+creio [firmemente que estás aqui],
+que me vês, que me ouves.
+Adoro-Te com profunda reverência.
+Peço-Te perdão dos meus pecados
+e graça para fazer com f[ruto]
+este tempo de oração.
+Minha Mãe Imaculada, São José,
+Meu Pai e Senhor, Anjo da Guarda,
+[intercedei por mim||"intercedei por mim" or "rogai por nós"].
+
+** Item                                                              :drill:
+
+*Oração para depois da meditação*
+
+Dou-Te graças, meu Deus,
+pelos bons propósitos,
+a[fetos] e inspirações
+que me comunicaste nesta meditação;
+peço-Te ajuda para [os pôr||"pô-los" or "os pôr"] em prática.
+Minha Mãe Imaculada, São José,
+meu Pai e Senhor, meu Anjo da Guarda,
+[intercedei por mim||"rogai por nós" or "intercedei por mim"].
+
+** Item                                                              :drill:
+
+*Oração a São José (São Pio X )*
+
+Glorioso São José,
+modelo de todos os que se dedicam ao trabalho,
+obtende-me a graça de trabalhar com espírito de *penitência*
+para expiação de meus [numerosos||"muitos" or "numerosos"] pecados;
+
+De trabalhar com consciência,
+pondo o *culto do dever acima de minhas inclinações*;
+
+De trabalhar com rec[olhimento] e alegria,
+olhando como uma honra empregar e desenvolver pelo trabalho
+os [dons] recebidos de Deus;
+
+De trabalhar com ordem, paz, moderação e paciência,
+*sem nunca recuar* perante o cansaço e as dificuldades;
+
+De trabalhar, sobretudo
+com pureza de intenção
+e com desapego de mim mesmo,
+tendo sempre diante dos olhos a morte
+e a conta que deverei dar do tempo perdido,
+dos t[alentos] inutilizados,
+do bem omitido
+e da vã complacência nos sucessos,
+tão funesta à obra de Deus!
+
+Tudo por Jesus,
+tudo por Maria,
+tudo à vossa imitação, oh! [Patriarca] São José!
+
+Tal será a minha divisa na vida e na morte. Amém.
+
+
+** Item                                                              :drill:
+
+*Oração para pedir a Castidade*
+
+#+begin_quote
+Senhor Jesus, humildemente eu te suplico o dom da tua castidade.
+Dá-me um coração cheio do teu casto e puro Amor, porque ele é consagrado a Ti;
+Dá-me um olhar purificado, porque os meus olhos são consagrados a Ti;
+Dá-me uma mente que não se dirija para o crime, porque ela é consagrada a Ti;
+Dá-me a santificação do meu corpo; porque ele é consagrado a Ti;
+Guarda meu coração, minha mente, meus olhos e o meu corpo com a tua castidade, Senhor Jesus!
+
+Vem Espírito Santo!
+Dá-me o fogo do Amor Divino.
+
+Dá-me a graça de sentir com os teus sentimentos, pensar com os teus pensamentos, olhar com os teus olhos e agir e reagir conforme as tuas ações, porque eu sou consagrado a Ti.
+
+Vem, Espírito Santo!
+
+Vem, Espírito Santo e concede-me a força da Tua graça para que, com uma determinada determinação, eu não permita nada que provoque, mexa, desperte e alimente a impureza no meu coração, nos meus olhos, na minha mente, na minha memória, na minha imaginação e no meu corpo! E assim eu não ofenda ao Senhor que vive em mim.
+Vem, Espírito Santo e concede-me a sadia vigilância para não me exceder em palavras, olhares e gestos que despertem em mim ou nos outros afetação.
+Vem, Espírito Santo e dá-me a graça de não querer possuir, abusar, escravizar ninguém e assim não me tornar escravo dos vícios e das concupiscências.
+Vem, Espírito Santo!
+Com a força da tua graça seja mortificada a cobiça dos olhos: aquela curiosidade invasiva que deseja possuir e satisfazer seus desejos impuros, nem que seja através do olhar ou da imaginação. Dá-me Senhor um coração, uma mente, uma memória, uma imaginação e um olhar purificado, sereno, pacificado e saciado pelo teu Amor.
+
+Vem Espírito Santo!
+
+Jesus, eu te oferto o meu coração.
+Jesus, eu te oferto os meus olhos.
+Jesus, eu te oferto os meus lábios.
+Jesus eu te oferto a minha mente.
+Jesus, eu te oferto a minha memória e a minha imaginação.
+Jesus eu te oferto os meus desejos e a minha vontade.
+Jesus, eu te oferto a minha alma, o meu corpo e o meu espírito, pois todo o meu ser é sagrado, consagrado a Ti!
+
+Vem Espírito Santo!
+
+Meu corpo sou eu. Ele é o espaço sagrado da minha alma.
+FELIZES OS PUROS DE CORAÇÃO, PORQUE ELES VERÃO A DEUS!
+Eu quero ver a Deus! Amém! Amém! Amém!
+Obrigado Senhor, porque tua misericórdia é eterna!
+#+end_quote
+
+** Item                                                              :drill:
+
+*Antes das refeição*
+
+Abençoai, Senhor,
+os alimentos que vamos tomar;
+que eles renovem as nossas forças
+para melhor Vos [servir e amar|| 2 verbos].
+
+** Item                                                              :drill:
+
+*Depois da refeição*
+
+Nós Vos damos graças, Senhor,
+pelos vossos ben[efícios],
+a Vós que viveis e reinais
+pelos séculos dos séculos. Amém.
