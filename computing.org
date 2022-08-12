@@ -1233,6 +1233,7 @@ SCHEDULED: <2022-08-13 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-08 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:47693]]
+:ID:       7ae4c223-f39d-4b95-9721-a3f39be9a889
 :END:
 
 
@@ -1244,6 +1245,7 @@ replication.
 :PROPERTIES:
 :DATE_ADDED: [2022-08-08 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:58985]]
+:ID:       bffe619a-4c42-46a0-8a61-510627681a9c
 :END:
 
 In some [leaderless||"multi-leader" or "leaderless"] implementations,
@@ -1256,6 +1258,7 @@ particular ordering of writes
 :PROPERTIES:
 :DATE_ADDED: [2022-08-08 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:61393]]
+:ID:       1eb06843-b57f-4bf3-898d-1e170465fcdf
 :END:
 
 
@@ -1271,6 +1274,7 @@ Two mechanisms are often used in Dynamo-style datastores:
 :PROPERTIES:
 :DATE_ADDED: [2022-08-08 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:63265]]
+:ID:       abffe5bd-ba0e-405b-ae2e-cf023dec42a1
 :END:
 
 
@@ -1285,6 +1289,7 @@ value when reading.
 :PROPERTIES:
 :DATE_ADDED: [2022-08-08 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media Inc. (2018_2017).epub::13:68728]]
+:ID:       cf627213-c44a-42a9-8f7d-3fd521edfdc4
 :END:
 :LOGBOOK:
 - Refiled on [2022-08-09 ter 15:00]
@@ -1691,17 +1696,17 @@ inclusion operator “⊆”
 
 ** [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::12:1][Ch 3 - Relation Varibles]]
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-11 qui>
+SCHEDULED: <2022-09-20 ter>
 :PROPERTIES:
 :ID:       7de98f0b-5c1b-496b-9ec6-5ac4c00cf052
-:DRILL_LAST_INTERVAL: 14.6958
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 38.6382
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-07-27 qua 12:56]
+:DRILL_LAST_REVIEWED: [2022-08-12 sex 10:00]
 :END:
 
 Are "relation values" and "relation variables" the same thing?
@@ -2465,18 +2470,38 @@ Like the operators COLLAPSE and EXPAND on which they’re based, PACK
 and UNPACK [are not||"are" or "are not"] inverses of each other
 ** Ch 10 - Pack and Unpack (case of multi attributes)
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-16 ter>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-10 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::21:4563]]
+:ID:       b776738f-c479-4c2c-be7b-811f2a957b4e
+:DRILL_LAST_INTERVAL: 4.2009
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-12 sex 10:00]
 :END:
 
 unpacking some relation r on no attributes and then packing the
 result, also on no attributes, returns [r]
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-16 ter>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-10 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::21:6412]]
+:ID:       9e1c05fb-437f-4dca-9604-7fa50bbe6402
+:DRILL_LAST_INTERVAL: 4.3484
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-12 sex 10:01]
 :END:
 
 (equal or not equal?)
@@ -2486,9 +2511,19 @@ UNPACK ( UNPACK r ON ( A1 ) ) ON ( A2 ) [≡||"≡" or "!="]
 UNPACK ( UNPACK r ON ( A2 ) ) ON ( A1 )
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-16 ter>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-10 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::21:9097]]
+:ID:       fcd9ec0c-af02-4418-803e-f2480a116201
+:DRILL_LAST_INTERVAL: 4.2873
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-12 sex 10:01]
 :END:
 
 PACK r ON ( A1 , A2 )
@@ -2499,9 +2534,19 @@ is defined to be shorthand for the expression
 PACK ( PACK ( [UNPACK||"PACK" or "UNPACK"] r ON ( A1 , A2 ) ) ON ( A1 ) ) ON ( A2 )
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-16 ter>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-10 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::21:13581]]
+:ID:       faa50774-311f-443c-9bcb-e3d655beba6e
+:DRILL_LAST_INTERVAL: 4.0965
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-12 sex 10:01]
 :END:
 
 (for the general case)
@@ -2509,9 +2554,19 @@ PACK ( PACK ( [UNPACK||"PACK" or "UNPACK"] r ON ( A1 , A2 ) ) ON ( A1 ) ) ON ( A
 PACK r ON ( A1 , A2 ) [!=||"!=" or "≡"] PACK r ON ( A2 , A1 )
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-17 qua>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-10 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::21:17110]]
+:ID:       b04dfebc-61c7-46c9-9883-9dbe89de1753
+:DRILL_LAST_INTERVAL: 4.9143
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-12 sex 09:59]
 :END:
 
 the expressions
@@ -2527,9 +2582,19 @@ PACK (… ( PACK ( PACK r ON ( A1 ) ) ON ( A2 ) ) … ) ON ( An )
 [aren’t||"are" or "aren’t"] logically equivalent, in general.
 
 *** Item                                                            :drill:
+SCHEDULED: <2022-08-16 ter>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-10 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::21:21576]]
+:ID:       1a5a7cbf-3c8e-4112-9276-ab10338aefae
+:DRILL_LAST_INTERVAL: 4.0014
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-12 sex 09:59]
 :END:
 :LOGBOOK:
 - Refiled on [2022-08-10 qua 12:50]
@@ -2541,6 +2606,121 @@ valued. Then r1 and r2 are *equivalent* with respect to A1, A2, …  ,
 An if and only if the results of [UNPACK||"PACK" or "UNPACK"] r1 ON
 (A1,A2, …,An) and [UNPACK||"UNPACK" or "PACK"] r2 ON (A1,A2, …,An) are
 equal.
+
+** Ch 11 - Generalizing the Relational Attributes
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-16 ter>
+:PROPERTIES:
+:DATE_ADDED: [2022-08-11 qui]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::22:4842]]
+:ID:       763bbee2-c2d0-4329-a060-be9137e6386a
+:DRILL_LAST_INTERVAL: 4.2383
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-12 sex 09:58]
+:END:
+
+Definition: Let relations r1 and r2 be of the same type T, and let ACL
+be a commalist of attribute names in which every attribute mentioned
+(a) is one of type T’s component attributes and (b) is of some
+interval type. Then the expression *USING (ACL) : r1 MINUS r2* denotes
+the U_difference with respect to ACL between r1 and r2 (in that
+order), and it’s defined to be shorthand for the following:
+
+[PACK||"UNPACK" or "PACK"]
+
+ ( ( UNPACK rl ON ( ACL ) ) [MINUS]
+
+  ( [UNPACK||"UNPACK" or "OACJ"] r2 ON ( ACL ) ) )
+
+ON ( ACL )
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-16 ter>
+:PROPERTIES:
+:DATE_ADDED: [2022-08-11 qui]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::22:28020]]
+:ID:       b18d70e6-b7b3-48ed-b06c-3371a20688e3
+:DRILL_LAST_INTERVAL: 4.3546
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-12 sex 10:00]
+:END:
+
+Consider the expression
+
+~R1 MINUS R2~
+
+Is it possible that the result has cardinality greater than that of R1?
+
+[No].
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-16 ter>
+:PROPERTIES:
+:DATE_ADDED: [2022-08-11 qui]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::22:28020]]
+:ID:       e2a020f9-1a10-4941-880e-ca97a2293ee7
+:DRILL_LAST_INTERVAL: 4.1394
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-12 sex 09:59]
+:END:
+:LOGBOOK:
+- Refiled on [2022-08-11 qui 16:49]
+:END:
+
+
+Consider the expression
+
+~USING (SCL): R1 MINUS R2~
+
+Is it possible that the result has cardinality greater than that of R1?
+
+[Yes].
+
+** Ch 12 - Database Design: Structure
+*** Item                                                            :drill:
+SCHEDULED: <2022-08-16 ter>
+:PROPERTIES:
+:DATE_ADDED: [2022-08-11 qui]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::25:10347]]
+:ID:       2b2785a0-ef1a-4f03-baad-4bd9046a908d
+:DRILL_LAST_INTERVAL: 4.1186
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-12 sex 10:00]
+:END:
+:LOGBOOK:
+- Refiled on [2022-08-12 sex 09:57]
+:END:
+
+The following schema has one time attribute for each non-time attribute.
+Is such schema a semi-temporal or a fully temporal database?
+
+#+begin_src sql
+SSSC_SINCE { SNO , SNO_SINCE , SNAME , SNAME_SINCE , STATUS , STATUS_SINCE , CITY , CITY_SINCE }
+
+   KEY { SNO }
+#+end_src
+
+[semi-temporal database]
 * [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::0:1][The Art of Immutable Architecture]]
 ** Ch 1 - Why Immutable Architecture
 *** Item                                                            :drill:
