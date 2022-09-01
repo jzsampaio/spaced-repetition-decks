@@ -1302,33 +1302,33 @@ consistency (or no consistency at all).
 * [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::0:1][Time and Relational Theory (by Hugh Darwen, C.J. Date, and Nikos Lorentzos)]]
 ** [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::10:1][Ch 1 - Types and Relations]]
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-15 seg>
+SCHEDULED: <2022-09-13 ter>
 :PROPERTIES:
 :ID:       bb981d1b-cef1-42db-8da1-89f41f20d132
-:DRILL_LAST_INTERVAL: 10.6494
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 28.4373
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:15]
+:DRILL_LAST_REVIEWED: [2022-08-16 ter 15:39]
 :END:
 
 ~Relvar~ stands for re[lation] va[riable].
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-16 ter>
+SCHEDULED: <2022-09-24 sáb>
 :PROPERTIES:
 :ID:       4d640c4b-f36f-49fb-b8e9-3491b645ac59
-:DRILL_LAST_INTERVAL: 11.8773
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 3
+:DRILL_LAST_INTERVAL: 38.9295
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 3.333
-:DRILL_EASE: 2.7
+:DRILL_AVERAGE_QUALITY: 3.75
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:16]
+:DRILL_LAST_REVIEWED: [2022-08-16 ter 15:40]
 :END:
 
 A type is a [set of values].
@@ -1351,34 +1351,34 @@ Every value is of [exactly one|| "exactly one" or "one or more"]
 types.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-16 ter>
+SCHEDULED: <2022-09-20 ter>
 :PROPERTIES:
 :ID:       6abd658f-66a3-49ee-8b69-673a4a2c534d
-:DRILL_LAST_INTERVAL: 11.8213
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 35.3071
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:16]
+:DRILL_LAST_REVIEWED: [2022-08-16 ter 15:39]
 :END:
 
 Types can be sc[alar] and nonsc[allar], as well as us[er] defined and
 sy[stem] defined.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-15 seg>
+SCHEDULED: <2022-09-16 sex>
 :PROPERTIES:
 :ID:       c50ddecc-6076-4557-946f-8bee24da878a
-:DRILL_LAST_INTERVAL: 11.4929
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 30.7297
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:16]
+:DRILL_LAST_REVIEWED: [2022-08-16 ter 15:40]
 :END:
 
 *Definition of tuples in relational theory*
@@ -1588,35 +1588,34 @@ that correspond to instantiations of P that evaluate to TRUE.
 
 ** [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::11:1][Ch 2 - Relational Algebra]]
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-19 sex>
+SCHEDULED: <2022-10-22 sáb>
 :PROPERTIES:
 :ID:       59bb2342-3f56-40b4-91b1-0d749e0c1ed6
-:DRILL_LAST_INTERVAL: 14.9197
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 51.0175
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:17]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 15:55]
 :END:
 
-The relational model includes an open ended [set||"set" or "list"] of
-generic read-only operators known collectively as the relational
-al[gebra].
+The relational model includes an open ended set of generic read-only
+operators known collectively as the relational al[gebra].
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-22 seg>
+SCHEDULED: <2022-10-21 sex>
 :PROPERTIES:
 :ID:       12f7b2bd-814e-467b-b773-9d5244198e56
-:DRILL_LAST_INTERVAL: 18.2822
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 50.1819
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:19]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 15:58]
 :END:
 
 Relations r1 and r2 are joinable if and only if attributes with the
@@ -1720,17 +1719,17 @@ being updatable—are more correctly seen as properties of relation
 v[ariables] instead.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-19 sex>
+SCHEDULED: <2022-10-18 ter>
 :PROPERTIES:
 :ID:       ba1299e2-0202-4ea1-8841-dc5f575f6051
-:DRILL_LAST_INTERVAL: 14.6453
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 46.7305
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:18]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 15:55]
 :END:
 
 Are the operators INSERT, DELETE, and UPDATE part of relational
@@ -1746,17 +1745,17 @@ update operators, aren’t operators of the relational algebra as such
 are all, by definition, *read-only* operators specifically)
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-20 sáb>
+SCHEDULED: <2022-10-27 qui>
 :PROPERTIES:
 :ID:       58d73db1-09e8-4769-b7e3-4f39568fbcdd
-:DRILL_LAST_INTERVAL: 16.3567
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 56.0587
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:18]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 15:56]
 :END:
 
 The *Assignment Principle* states that after assignment of value v to
@@ -1787,17 +1786,17 @@ same value for K.
 2.  Irr[educibility]: No proper subset of K has the uniqueness property.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-15 seg>
+SCHEDULED: <2022-09-24 sáb>
 :PROPERTIES:
 :ID:       ab603dbd-95b8-4809-a37e-c5b0da9a9b52
-:DRILL_LAST_INTERVAL: 11.0219
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 38.6592
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:15]
+:DRILL_LAST_REVIEWED: [2022-08-16 ter 15:41]
 :END:
 
 Let X and Y be subsets of the heading of relvar R. Then the
@@ -1806,17 +1805,17 @@ relation that’s a possible value of R, whenever two tuples have the
 same value for X, they also have the same value for Y.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-15 seg>
+SCHEDULED: <2022-09-14 qua>
 :PROPERTIES:
 :ID:       e09fbed9-cede-4871-b752-6d8be6e06ad1
-:DRILL_LAST_INTERVAL: 11.2766
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 29.1372
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:16]
+:DRILL_LAST_REVIEWED: [2022-08-16 ter 15:39]
 :END:
 
 Another name for foreign key constraint is ref[erential] constraint.
@@ -1825,17 +1824,17 @@ The rule that no foreign key constraint must ever be violated is the
 ref[erential] int[egrity] rule.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-20 sáb>
+SCHEDULED: <2022-10-25 ter>
 :PROPERTIES:
 :ID:       5cb823f1-e3f4-457a-aedb-fb6d167946db
-:DRILL_LAST_INTERVAL: 16.2935
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 53.8297
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:19]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 15:56]
 :END:
 
 This requirement (i.e., that constraint violations be detected
@@ -1844,17 +1843,17 @@ it’s a consequence of this rule that no user [ever||"sometimes" or "ever"]
 sees the database in an inconsistent state.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-17 qua>
+SCHEDULED: <2022-10-07 sex>
 :PROPERTIES:
 :ID:       110ed85e-7680-4fc3-8d98-c2b336e47932
-:DRILL_LAST_INTERVAL: 12.5429
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 36.1943
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:15]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 15:53]
 :END:
 
 Database constraints do apply specifically to [relvars||"relvars" or "relation"].
@@ -1866,33 +1865,33 @@ means of some update operation—and, again by definition, updates apply
 to variables, not values.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-20 sáb>
+SCHEDULED: <2022-11-03 qui>
 :PROPERTIES:
 :ID:       32800aeb-d5e5-4acb-ba41-30ae42fb1ce7
-:DRILL_LAST_INTERVAL: 16.3103
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 62.5749
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:18]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 15:57]
 :END:
 
 In the double assignment assignment, constraint checking is done [at the end of the statement|| "at the end of the statement" or "in between each statement"].
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-18 qui>
+SCHEDULED: <2022-10-16 dom>
 :PROPERTIES:
 :ID:       539af08d-e7d4-407d-a224-7d66a8f08554
-:DRILL_LAST_INTERVAL: 14.4471
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 45.2787
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:14]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 15:55]
 :END:
 
 Definition: The Principle of Interchangeability (of views and base
@@ -1900,17 +1899,17 @@ relvars) states that there [must be no||"can be" or "must be no"]
 arbitrary and unnecessary distinctions between base relvars and views;
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-19 sex>
+SCHEDULED: <2022-10-19 qua>
 :PROPERTIES:
 :ID:       d770d7d1-4f94-4aa1-a367-6dcad7107e81
-:DRILL_LAST_INTERVAL: 15.1702
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 48.2272
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:17]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 15:56]
 :END:
 
 Definition: The relational model consists of five components:
@@ -1933,38 +1932,38 @@ ope[rators] for deriving relation values from other relation values
 
 ** [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:1][Ch 4 - Time and the Database]]
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-15 seg>
+SCHEDULED: <2022-09-21 qua>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:1455]]
 :ID:       33b473ce-7898-4292-a7e3-82dcf450237c
-:DRILL_LAST_INTERVAL: 11.2858
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 35.6832
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:20]
+:DRILL_LAST_REVIEWED: [2022-08-16 ter 15:40]
 :END:
 
 A temporal database can be thought of, loosely, as a database that contains historical data
 instead of or in addition to cur[rent] data.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-15 seg>
+SCHEDULED: <2022-09-16 sex>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:6931]]
 :ID:       472ae5b6-1a1f-4d75-b39a-00d5fc872c1c
-:DRILL_LAST_INTERVAL: 10.7561
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 30.7299
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:19]
+:DRILL_LAST_REVIEWED: [2022-08-16 ter 15:41]
 :END:
 
 *The Information Principle (of a relational database)*
@@ -1974,38 +1973,38 @@ represented in one and only one way: The database contains only
 rel[vars]
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-14 dom>
+SCHEDULED: <2022-09-17 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:11251]]
 :ID:       e41aed2b-9642-4822-9872-03dde0f47946
-:DRILL_LAST_INTERVAL: 9.601
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 31.7415
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:20]
+:DRILL_LAST_REVIEWED: [2022-08-16 ter 15:35]
 :END:
 
 the approach to temporal databases that we advocate
 involves [no changes||"changes" or "no changes"] to the classical relational model
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-16 ter>
+SCHEDULED: <2022-09-21 qua>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-25 seg]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:23459]]
 :ID:       78ef5565-2510-4bfc-a53a-6cbafc7e2a22
-:DRILL_LAST_INTERVAL: 11.5489
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 3
+:DRILL_LAST_INTERVAL: 36.171
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 3.333
-:DRILL_EASE: 2.7
+:DRILL_AVERAGE_QUALITY: 3.75
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-04 qui 18:20]
+:DRILL_LAST_REVIEWED: [2022-08-16 ter 15:39]
 :END:
 :LOGBOOK:
 - Refiled on [2022-07-25 seg 18:40]
@@ -2019,19 +2018,19 @@ Which one can be updated? *valid time* or *transaction time*?
 
 valid times can be updated, but transaction times can’t.
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-14 dom>
+SCHEDULED: <2022-10-05 qua>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:23619]]
 :ID:       0ba9802e-0557-48fc-b3d5-8a010e4f05cf
-:DRILL_LAST_INTERVAL: 4.6837
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 34.329
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:52]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 16:02]
 :END:
 
 Valid vs transactional time
@@ -2041,19 +2040,19 @@ change; [transaction] times, by contrast, reflect history as such, and
 history can’t change
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-21 dom>
+SCHEDULED: <2022-10-11 ter>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:25047]]
 :ID:       cdc8a6ca-7b5d-4354-8c86-deb7f51bc8da
-:DRILL_LAST_INTERVAL: 11.7166
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 39.5887
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:52]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 15:57]
 :END:
 
 by adopting the assumption—except briefly in Appendix B—that the
@@ -2062,19 +2061,19 @@ indivisible time qua[nta] (where a time quantum is the smallest time
 unit the system is capable of representing).
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-14 dom>
+SCHEDULED: <2022-09-02 sex>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:28943]]
 :ID:       5f0c49bd-b445-4649-a971-84a468c1e609
-:DRILL_LAST_INTERVAL: 4.6276
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 16.5744
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:58]
+:DRILL_LAST_REVIEWED: [2022-08-16 ter 15:36]
 :END:
 
 
@@ -2082,19 +2081,19 @@ In an rdbms, the timeline is a [finite||"infinite" or "finite"]
 sequence of discrete points.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-21 dom>
+SCHEDULED: <2022-10-07 sex>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:30157]]
 :ID:       f6349838-faa2-4ec9-860e-9a3ed8d49516
-:DRILL_LAST_INTERVAL: 11.8044
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 35.6544
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:51]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 15:57]
 :END:
 
 In time relational theory, we take *during* to mean “throughout [and not||"and not" or "and"] immediately before or immediately after (the
@@ -2102,19 +2101,19 @@ interval in question).” In similar fashion, we take *since* to mean
 “ever since [and not||"and" or "and not"] immediately before (the point in question).”
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-21 dom>
+SCHEDULED: <2022-10-06 qui>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:371]]
 :ID:       03f312b4-fbbb-45c9-a985-9b19a4609afb
-:DRILL_LAST_INTERVAL: 12.4217
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 34.9854
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:52]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 15:57]
 :END:
 
 
@@ -2123,19 +2122,19 @@ intended meaning of a time range column. 3 prepositions are useful to
 describe these columns: on, sin[ce], and dur[ing]
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-13 sáb>
+SCHEDULED: <2022-10-09 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-07-27 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::15:8096]]
 :ID:       0dbd1ddc-f19e-45bc-97d9-d9fb41cce35e
-:DRILL_LAST_INTERVAL: 3.9131
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 37.9878
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:58]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 16:01]
 :END:
 :LOGBOOK:
 - Refiled on [2022-07-27 qua 17:34]
@@ -2146,19 +2145,19 @@ timestamped propositions—by which we mean propositions that involve
 ** Ch 5 - What is the problem?
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-13 sáb>
+SCHEDULED: <2022-10-08 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::16:23713]]
 :ID:       47e70474-33a2-47aa-9fd0-050976579c7d
-:DRILL_LAST_INTERVAL: 3.9888
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 36.7422
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:58]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 16:00]
 :END:
 :LOGBOOK:
 - Refiled on [2022-08-02 ter 14:33]
@@ -2170,19 +2169,19 @@ to express
 
 ** Ch 6 - Intervals
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-13 sáb>
+SCHEDULED: <2022-10-12 qua>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::17:4005]]
 :ID:       ea7292ca-78b8-433f-9727-f2a904df93c2
-:DRILL_LAST_INTERVAL: 4.0784
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 40.718
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:58]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 16:00]
 :END:
 
 What is the predicated for a reval that has string member ~SNO~ and
@@ -2194,19 +2193,19 @@ DURING, inclusive, and not throughout any interval that *properly*
 in[cludes] that interval.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-13 sáb>
+SCHEDULED: <2022-10-01 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::17:14209]]
 :ID:       6e4fa06d-5a51-4cfa-96c9-19bc42c0d9d7
-:DRILL_LAST_INTERVAL: 3.6472
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 30.4872
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:56]
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 15:58]
 :END:
 
 Definition: Type T is usable as a point type if all of the following are defined for it:
@@ -2220,19 +2219,19 @@ Definition: Type T is usable as a point type if all of the following are defined
   given value of type T according to the aforementioned ordering
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-22 seg>
+SCHEDULED: <2022-10-10 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-02 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::17:18817]]
 :ID:       9a15c722-7b37-47df-8c6a-2cef083a40ca
-:DRILL_LAST_INTERVAL: 12.8617
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 39.2441
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:51]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 15:58]
 :END:
 :LOGBOOK:
 - Refiled on [2022-08-02 ter 15:25]
@@ -2253,19 +2252,19 @@ defined, such that:
 
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-14 dom>
+SCHEDULED: <2022-08-29 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-04 qui]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::18:10131]]
 :ID:       39883279-9432-4532-9131-57e3dfefd164
-:DRILL_LAST_INTERVAL: 4.6194
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.4096
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:58]
+:DRILL_LAST_REVIEWED: [2022-08-16 ter 15:35]
 :END:
 
 
@@ -2274,19 +2273,19 @@ In time relational theory, are empty intervals possible?
 [No.]
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-14 dom>
+SCHEDULED: <2022-08-29 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-04 qui]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::18:10131]]
 :ID:       ab58d9dc-a956-4031-b562-1118155e2b6b
-:DRILL_LAST_INTERVAL: 4.6607
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.8501
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:58]
+:DRILL_LAST_REVIEWED: [2022-08-16 ter 15:35]
 :END:
 
 
@@ -2339,29 +2338,25 @@ Convention:
 
 ** Ch 8 - The EXPAND and COLLAPSE Operators
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-13 sáb>
+SCHEDULED: <2022-10-08 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-05 sex]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::19:4711]]
 :ID:       2fa7cdd8-a8cc-434b-a716-8efe0314d388
-:DRILL_LAST_INTERVAL: 4.2105
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 36.58
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:54]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 15:59]
 :END:
 
 
-Let the following be the definition of X1 and X2, both sets of
-intervals. These sets of points are equivalent to one another because
-they contain the same points.
+Let the following be the definition of X1, a set of intervals.
 
 { \[d01:d01] , \[d03:d05] , \[d04:d06] } /* X1 */
-
-{ \[d01:d01] , \[d03:d04] , \[d05:d05] , \[d05:d06] } /* X2 */
 
 Which one is the expanded form of x1?
 
@@ -2378,18 +2373,18 @@ of all unit intervals—of the form [p:p] such that p is a point in some
 interval in X.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-14 dom>
+SCHEDULED: <2022-10-03 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-05 sex]
 :ID:       ce1fb542-90d6-4df2-bcdb-ab0d0bd26b3f
-:DRILL_LAST_INTERVAL: 4.5268
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 32.0108
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-09 ter 14:58]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 16:02]
 :END:
 :LOGBOOK:
 - Refiled on [2022-08-05 sex 16:28]
@@ -2403,19 +2398,19 @@ Consider the sets of intervals:
 X5 is the [collapsed||"expanded" or "collapsed"] form of X1
 ** Ch 9 - The Pack and Unpack (case of single-attribute)
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-14 dom>
+SCHEDULED: <2022-08-28 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-09 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::20:989]]
 :ID:       3647ee83-feb7-4b56-8155-eb1ca1602478
-:DRILL_LAST_INTERVAL: 4.3227
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.6753
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-10 qua 12:13]
+:DRILL_LAST_REVIEWED: [2022-08-16 ter 15:35]
 :END:
 
 
@@ -2428,19 +2423,19 @@ They can also be defined in terms of an unary relation (w/ only one
 column).
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-15 seg>
+SCHEDULED: <2022-08-28 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-09 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::20:1223]]
 :ID:       2f5b64e0-a18b-4d6d-b69d-a60880120310
-:DRILL_LAST_INTERVAL: 4.7514
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.2208
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-10 qua 12:13]
+:DRILL_LAST_REVIEWED: [2022-08-16 ter 15:39]
 :END:
 
 (collapse or expand?)
@@ -2448,19 +2443,19 @@ SCHEDULED: <2022-08-15 seg>
 PACK builds on [COLLAPSE] and UNPACK builds on [EXPAND].
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-14 dom>
+SCHEDULED: <2022-10-01 sáb>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-09 ter]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::20:15358]]
 :ID:       54e10ba2-4955-4865-8af4-28c39c774188
-:DRILL_LAST_INTERVAL: 3.9223
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 29.8905
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-10 qua 12:13]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 16:01]
 :END:
 :LOGBOOK:
 - Refiled on [2022-08-10 qua 12:12]
@@ -2470,38 +2465,38 @@ Like the operators COLLAPSE and EXPAND on which they’re based, PACK
 and UNPACK [are not||"are" or "are not"] inverses of each other
 ** Ch 10 - Pack and Unpack (case of multi attributes)
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-16 ter>
+SCHEDULED: <2022-08-28 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-10 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::21:4563]]
 :ID:       b776738f-c479-4c2c-be7b-811f2a957b4e
-:DRILL_LAST_INTERVAL: 4.2009
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.8248
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-12 sex 10:00]
+:DRILL_LAST_REVIEWED: [2022-08-16 ter 15:39]
 :END:
 
 unpacking some relation r on no attributes and then packing the
 result, also on no attributes, returns [r]
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-16 ter>
+SCHEDULED: <2022-08-29 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-10 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::21:6412]]
 :ID:       9e1c05fb-437f-4dca-9604-7fa50bbe6402
-:DRILL_LAST_INTERVAL: 4.3484
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.5506
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-12 sex 10:01]
+:DRILL_LAST_REVIEWED: [2022-08-16 ter 15:36]
 :END:
 
 (equal or not equal?)
@@ -2511,19 +2506,19 @@ UNPACK ( UNPACK r ON ( A1 ) ) ON ( A2 ) [≡||"≡" or "!="]
 UNPACK ( UNPACK r ON ( A2 ) ) ON ( A1 )
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-16 ter>
+SCHEDULED: <2022-10-12 qua>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-10 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::21:9097]]
 :ID:       fcd9ec0c-af02-4418-803e-f2480a116201
-:DRILL_LAST_INTERVAL: 4.2873
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 40.6974
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-12 sex 10:01]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 16:02]
 :END:
 
 PACK r ON ( A1 , A2 )
@@ -2534,19 +2529,19 @@ is defined to be shorthand for the expression
 PACK ( PACK ( [UNPACK||"PACK" or "UNPACK"] r ON ( A1 , A2 ) ) ON ( A1 ) ) ON ( A2 )
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-16 ter>
+SCHEDULED: <2022-08-29 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-10 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::21:13581]]
 :ID:       faa50774-311f-443c-9bcb-e3d655beba6e
-:DRILL_LAST_INTERVAL: 4.0965
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.8294
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-12 sex 10:01]
+:DRILL_LAST_REVIEWED: [2022-08-16 ter 15:37]
 :END:
 
 (for the general case)
@@ -2554,19 +2549,19 @@ SCHEDULED: <2022-08-16 ter>
 PACK r ON ( A1 , A2 ) [!=||"!=" or "≡"] PACK r ON ( A2 , A1 )
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-17 qua>
+SCHEDULED: <2022-09-14 qua>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-10 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::21:17110]]
 :ID:       b04dfebc-61c7-46c9-9883-9dbe89de1753
-:DRILL_LAST_INTERVAL: 4.9143
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.3519
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-12 sex 09:59]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 15:53]
 :END:
 
 the expressions
@@ -2582,19 +2577,19 @@ PACK (… ( PACK ( PACK r ON ( A1 ) ) ON ( A2 ) ) … ) ON ( An )
 [aren’t||"are" or "aren’t"] logically equivalent, in general.
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-16 ter>
+SCHEDULED: <2022-10-03 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-10 qua]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::21:21576]]
 :ID:       1a5a7cbf-3c8e-4112-9276-ab10338aefae
-:DRILL_LAST_INTERVAL: 4.0014
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 31.8154
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-12 sex 09:59]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 16:00]
 :END:
 :LOGBOOK:
 - Refiled on [2022-08-10 qua 12:50]
@@ -2609,19 +2604,19 @@ equal.
 
 ** Ch 11 - Generalizing the Relational Attributes
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-16 ter>
+SCHEDULED: <2022-10-02 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-11 qui]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::22:4842]]
 :ID:       763bbee2-c2d0-4329-a060-be9137e6386a
-:DRILL_LAST_INTERVAL: 4.2383
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 30.9508
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-12 sex 09:58]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 16:01]
 :END:
 
 Definition: Let relations r1 and r2 be of the same type T, and let ACL
@@ -2635,24 +2630,24 @@ order), and it’s defined to be shorthand for the following:
 
  ( ( UNPACK rl ON ( ACL ) ) [MINUS]
 
-  ( [UNPACK||"UNPACK" or "OACJ"] r2 ON ( ACL ) ) )
+  ( [UNPACK||"UNPACK" or "PACK"] r2 ON ( ACL ) ) )
 
 ON ( ACL )
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-16 ter>
+SCHEDULED: <2022-08-29 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-11 qui]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::22:28020]]
 :ID:       b18d70e6-b7b3-48ed-b06c-3371a20688e3
-:DRILL_LAST_INTERVAL: 4.3546
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.0708
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-12 sex 10:00]
+:DRILL_LAST_REVIEWED: [2022-08-16 ter 15:36]
 :END:
 
 Consider the expression
@@ -2664,19 +2659,19 @@ Is it possible that the result has cardinality greater than that of R1?
 [No].
 
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-16 ter>
+SCHEDULED: <2022-08-28 dom>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-11 qui]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::22:28020]]
 :ID:       e2a020f9-1a10-4941-880e-ca97a2293ee7
-:DRILL_LAST_INTERVAL: 4.1394
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.518
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-12 sex 09:59]
+:DRILL_LAST_REVIEWED: [2022-08-16 ter 15:36]
 :END:
 :LOGBOOK:
 - Refiled on [2022-08-11 qui 16:49]
@@ -2693,19 +2688,19 @@ Is it possible that the result has cardinality greater than that of R1?
 
 ** Ch 12 - Database Design: Structure
 *** Item                                                            :drill:
-SCHEDULED: <2022-08-16 ter>
+SCHEDULED: <2022-10-03 seg>
 :PROPERTIES:
 :DATE_ADDED: [2022-08-11 qui]
 :SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::25:10347]]
 :ID:       2b2785a0-ef1a-4f03-baad-4bd9046a908d
-:DRILL_LAST_INTERVAL: 4.1186
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 32.3658
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2022-08-12 sex 10:00]
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 16:01]
 :END:
 :LOGBOOK:
 - Refiled on [2022-08-12 sex 09:57]
@@ -2721,6 +2716,174 @@ SSSC_SINCE { SNO , SNO_SINCE , SNAME , SNAME_SINCE , STATUS , STATUS_SINCE , CIT
 #+end_src
 
 [semi-temporal database]
+*** Item                                                            :drill:
+SCHEDULED: <2022-09-12 seg>
+:PROPERTIES:
+:DATE_ADDED: [2022-08-12 sex]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::25:20449]]
+:ID:       46daa63c-d512-4e8d-9015-5f9e4b5cb39c
+:DRILL_LAST_INTERVAL: 11.349
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.667
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 15:54]
+:END:
+
+Consider the original schema below:
+
+#+begin_src sql
+SSSC_DURING { SNO , SNAME , STATUS , CITY, DURING } KEY { SNO , DURING }
+#+end_src
+
+And consider the following decoposition:
+
+#+begin_src sql
+S_DURING { SNO , DURING } KEY { SNO , DURING }
+
+S_NAME DURING { SNO , SNAME , DURING } KEY { SNO , DURING }
+
+S_STATUS_DURING { SNO , STATUS , DURING } KEY { SNO , DURING }
+
+S_CITY_DURING { SNO , CITY , DURING } KEY { SNO , DURING }
+#+end_src
+
+Is the above an horizontal or vertical decomposition?
+
+**** More
+
+Vertical
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-09-14 qua>
+:PROPERTIES:
+:DATE_ADDED: [2022-08-12 sex]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::25:46516]]
+:ID:       630c2acc-4379-42aa-95dc-74236682a7b8
+:DRILL_LAST_INTERVAL: 13.4831
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 15:52]
+:END:
+
+an explicit statement to the effect that some contract won’t terminate
+until “the end of time” is certainly [incorrect||"correct" or "incorrect"].
+
+
+**** More
+
+In fact, recording information in the database that’s known to be
+incorrect could be regarded as a violation of another fundamental
+principle: namely, the principle that tuples in the database are
+supposed to represent propositions we believe to be true. *Don’t tell
+lies*!
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-09-12 seg>
+:PROPERTIES:
+:DATE_ADDED: [2022-08-12 sex]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::25:47640]]
+:ID:       584c4bc6-8e79-453c-92d6-79c8610e4393
+:DRILL_LAST_INTERVAL: 10.617
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 15:53]
+:END:
+
+We begin with the observation that there’s an obvious logical
+difference between historical and current information. To be specific,
+for historical information, the begin and end times are both [known||"unknown" or "known"];
+for current information, by contrast, the begin time is [known||"known" or "not known"] but the
+end time [isn’t||"isn’t" or "is"].
+
+*** Item                                                            :drill:
+SCHEDULED: <2022-09-14 qua>
+:PROPERTIES:
+:DATE_ADDED: [2022-08-12 sex]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::25:48524]]
+:ID:       9286a5b0-1b40-47ba-ac2e-6b175dc27214
+:DRILL_LAST_INTERVAL: 12.7692
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-09-01 qui 15:54]
+:END:
+:LOGBOOK:
+- Refiled on [2022-08-12 sex 15:29]
+:END:
+
+Consider the original schema below
+
+#+begin_src sql
+SSSC_DURING { SNO , SNAME , STATUS , DURING } KEY { SNO , DURING }
+#+end_src
+
+Then the following improvement over the schema:
+
+#+begin_src sql
+S_SINCE { SNO , SNO_SINCE , SNAME , SNAME_SINCE , STATUS , STATUS_SINCE , CITY , CITY_SINCE }
+    KEY { SNO }
+
+S_DURING { SNO , DURING }
+    KEY { SNO , DURING }
+
+S_NAME_DURING { SNO , SNAME, DURING }
+    KEY { SNO , DURING }
+
+S_STATUS_DURING { SNO , STATUS , DURING }
+    KEY { SNO , DURING }
+#+end_src
+
+Is the second schema a:
+
+- a) horizontal partition
+- b) vertical partition
+- c) both
+
+The answer is [c].
+
+** Ch 13 - Database Design: Keys and Relation Constraints
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-08-16 ter]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::26:15233]]
+:END:
+:LOGBOOK:
+- Refiled on [2022-09-01 qui 16:07]
+:END:
+
+Consider:
+
+#+begin_src sql
+
+VAR S_STATUS_DURING BASE RELATION
+
+ { SNO SNO , STATUS INTEGER , DURING INTERVAL_DATE }
+
+  PACKED ON ( DURING ) -- 1
+
+  WHEN UNPACKED ON ( DURING ) THEN KEY { SNO , DURING } -- 2
+
+  KEY { SNO , DURING } ;
+#+end_src
+
+Constraint 1 solves the problems of red[undancy] and circ[umlocution].
+
+Constraint 2 solves the problem of con[tradiction].
 * [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::0:1][The Art of Immutable Architecture]]
 ** Ch 1 - Why Immutable Architecture
 *** Item                                                            :drill:
