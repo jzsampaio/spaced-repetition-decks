@@ -1,0 +1,208 @@
+#+TITLE: Elementos de Filosofia - por Dom Thiago Sinibaldi
+* Livro I - Lógica
+** Introdução à Filosofia
+*** Item                                                            :drill:
+
+Filosofia, no sentido etimológico, significa amor [à sabedoria||"ao conhecimento" or "à sabedoria"].
+
+*** Item                                                            :drill:
+
+Filosofia é a ciência que trata das causas [supremas||"primeiras" or "supremas"] dos entes,
+descobertas pela luz natural da razão.
+
+*** Item                                                            :drill:
+
+Pode-se dizer que a filosofia é uma ciência?
+
+[Sim]
+
+*** A Ciência                                                       :drill:
+
+A [ciência||"Filosofia" or "ciência"] é uma série de conhecimentos
+certos, coordenados e relativos a um determinado objeto.
+
+É o conhecimento das coisas pelas suas ca[usas].
+
+*** Item                                                            :drill:
+
+Qual o objeto da Filosofia?
+
+[A causa suprema dos entes]
+
+*** Item                                                            :drill:
+
+Qual o meio pelo qual a Filosofia estuda a causa suprema dos entes?
+
+[A luz natural da razão].
+
+*** Item                                                            :drill:
+
+A Filosofia se divide em 3 partes: L[ógica], Met[afísica], e Mo[ral].
+
+*** Item                                                            :drill:
+
+Dentre as partes da Filosofia (Lógica, Metafísica, e Moral):
+
+- Os entes que derivam da nossa inteligência são objeto de estudo para [Lógica]
+- Os que derivam da nossa vontade objeto da [Moral]
+- Os que não dependem de nós no deu ser, da [Metafísica]
+
+*** Item                                                            :drill:
+
+A Metafísica se divide em 4 partes:
+
+- A que estuda o ser no geral é a [Ontologia]
+- Estuda o mundo: [Cosmologia]
+- Estuda o homem: [Antropologia]
+- Estuda Deus: [Teodicéia]
+
+*** Item                                                            :drill:
+
+As partes da Filosofia devem ser estudadas na seguinte ordem:
+
+1. [Lógica]
+2. [Metafísica]
+     1. [Ontologia]
+     2. [Cosmologia]
+     3. [Antropologia]
+     4. [Teodicéia]
+3. [Moral]
+   
+*** Item                                                            :drill:
+
+3 requisitos para o aluno de Filosofia:
+
+- or[ação] humilde e fervorosa
+- grande pu[reza] de coração
+- ardente amor da ve[rdade]
+  
+** Introdução à Lógica
+*** Item                                                            :drill:
+
+Lógica vem do grego ~logos~ que quer dizer disc[urso] ou ra[zão].
+
+*** Item                                                            :drill:
+
+Lógica é a ciência que dirige, por meio de leis, as operações da nossa
+ra[zão], para que ordenada e facilmente alcancemos a ver[dade].
+
+*** Item                                                            :drill:
+
+O *objetivo* da lógica é preparar a mente para alcançar a ve[rdade].
+
+*** Item                                                            :drill:
+
+O *objeto* da lógica é o conjunto de ope[rações] inte[lectuais] que
+devem ser realizados para alcançar a verdade.
+
+*** Item                                                            :drill:
+
+Arte é o conjunto de regras ou preceitos, que ensinam a exe[cutar],
+com perfeição, alguma coisa.
+
+A lógica é uma arte? [Sim].
+
+*** Item                                                            :drill:
+
+É próprio da ciência deduzir dos princípios intrínsecos de um objeto
+as propriedades do mesmo objeto.
+
+A lógica é uma ciência? [Sim].
+
+*** Item                                                            :drill:
+
+O estudo da lógica é dividido em 2 partes:
+
+- Lógica Fo[rmal] :: A que estuda a ordem que as operações intelectuais
+  devem seguir para se alcançar a verdade
+- Lógica Ma[terial] :: a que estuda a realidade objetiva da verdade
+
+** Objetos da Lógica Formal
+
+*** Item                                                            :drill:
+
+As operações da inteligência (que são objeto da lógica) são 3:
+
+- [idéia||"termo" or "idéia"]
+- [juízo||"juízo" or "proposição"]
+- [raciocínio||"argumentação" or "raciocínio"]
+
+*** Item                                                            :drill:
+
+Complete a tabela:
+
+| Operação da Inteligência | Expressão Verbal |
+|--------------------------+------------------|
+| Ideia                    | [Termo]            |
+| Juízo                    | [Proposição]       |
+| Raciocínio               | [Argumentação]     |
+
+*** Item                                                            :drill:
+
+Complete a tabela:
+
+| Operação da Inteligência | Expressão Verbal |
+|--------------------------+------------------|
+| [Ideia]                  | Termo            |
+| [Juízo]                  | Proposição       |
+| [Raciocínio              | Argumentação     |
+
+*** Item                                                            :drill:
+
+Complete a tabela:
+
+| Operação da Inteligência | Expressão Verbal |
+|--------------------------+------------------|
+| [Ideia]                  | Termo            |
+| Juízo                    | [Proposição]     |
+| [Raciocínio]             | Argumentação     |
+
+** Idéia, sua definição e análise
+*** Item                                                            :drill:
+
+Idéia é a simples representação intelectual de uma coisa.
+
+*** Item                                                            :drill:
+
+A idéia é dita ser uma *simples* representação, porque à coisa,
+reproduzida pela ideia, [não se||"não se" or "se"] adicionam
+[nem||"nem" or "e"] se negam propridades.
+
+*** Item                                                            :drill:
+
+O objeto da ideia é a ess[ência] (ou natureza) do ser percebido.
+
+O que é representado na inteligência por uma ideia é o que o ser tem
+de mais íntimo e que o constitui numa determinada esp[écie] e não
+outra.
+
+*** Item                                                            :drill:
+
+Idéia é a simples representação intelectual [da essência de um ser||"de um ser" or "da essência de um ser"].
+
+*** Item                                                            :drill:
+
+Idéia é a simples representação intelectual de uma coisa.
+
+A coisa representada é [a essência de um ente||"a essência de um ente" or "um ente"].
+
+*** Item                                                            :drill:
+
+Um sinal é uma coisa, que nos leva ao conhecimento de outra.
+
+A idéia um sinal [natural||"natural" or "convencional"].
+
+*** Item                                                            :drill:
+
+TODO card sobre compreesão e extensão
+
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
