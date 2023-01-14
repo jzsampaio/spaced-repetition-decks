@@ -1,0 +1,14 @@
+
+
+* Item        :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-09-01 qui]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::30:475]]
+:END:
+
+[Valid||"Valid" or "Transaction"] time has to do with when we believe
+(explicitly or implicitly) that some proposition is, was, or will be
+true. [Transaction||"Transaction" or "Valid"] time has to do with when
+the database said (explicitly or implicitly) that we believe (again,
+explicitly or implicitly) that some proposition is, was, or will be
+true.

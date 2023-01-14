@@ -2884,6 +2884,52 @@ VAR S_STATUS_DURING BASE RELATION
 Constraint 1 solves the problems of red[undancy] and circ[umlocution].
 
 Constraint 2 solves the problem of con[tradiction].
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-09-01 qui]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::26:6339]]
+:END:
+
+Three general problems that might arise in connection with temporal
+databases. They are: *redundancy, circumlocution, and contradiction.*
+
+In the following examples, we list two tuples that exemplify each of
+the problems above. The examples are given considering the schema:
+~(sno, status, during)~. Which problem is illustrated by which tuple?
+
+| Example                         | Problem exemplified |
+|---------------------------------+---------------------|
+| (s4, 10, 4:6) and (s4, 25, 5:7) | [contradiction]     |
+| (s4, 25, 5:6) and (s4, 25, 6:7) | [redundancy]        |
+| (s4, 25, 5:5) and (s4, 25, 6:7) | [circumlocution]    |
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-09-01 qui]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::26:10603]]
+:END:
+
+The PACKED ON (DURING) specification implies that any attempt to
+update the relvar in such a way that the result [is not||"is" or "is not"]
+packed on DURING must be rejected
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:DATE_ADDED: [2022-09-01 qui]
+:SOURCE: [[nov:/home/jz/Documents/Papers/Software/Databases/Darwen, Hugh_Date, C.J._Lorentzos, Nikos - Time and Relational Theory-Elsevier Science_Morgan Kaufmann (2014).epub::26:15473]]
+:END:
+:LOGBOOK:
+- Refiled on [2022-09-01 qui 16:25]
+:END:
+
+The specification
+[WHEN UNPACKED ON (DURING) THEN KEY {SNO,DURING}||"WHEN UNPACKED ON (DURING) THEN KEY {SNO,DURING}" or "PACKED ON (DURING)"]
+implies that any attempt to update the relvar in such a way that the
+unpacked form of the result violates the functional dependency
+{SNO,DURING} → {STATUS} must be rejected.
+
+** Ch 17 - Stated and Transactional Time
+
 * [[nov:/home/jz/Documents/Papers/Software/Design&Architecture/Michael L. Perry - The Art of Immutable Architecture_ Theory and Practice of Data Management in Distributed Systems-Apress (2020).epub::0:1][The Art of Immutable Architecture]]
 ** Ch 1 - Why Immutable Architecture
 *** Item                                                            :drill:
