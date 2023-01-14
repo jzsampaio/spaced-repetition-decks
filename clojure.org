@@ -1,0 +1,315 @@
+# -*- mode: org; coding: utf-8 -*-
+#+STARTUP: showall
+#+OPTIONS: prop:("drill_card_type")
+
+#+TITLE: Cards for Learning Clojure
+
+* Template
+** Item                                                              :drill:
+SCHEDULED: <2023-01-12 qui>
+:PROPERTIES:
+:ID:       ffc5c61f-82d4-4758-8ed5-f4c4fd376139
+:DRILL_LAST_INTERVAL: 4.1421
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-08 dom 14:48]
+:END:
+
+What is the result?
+
+#+begin_src clojure
+
+#+end_src
+*** Answer
+
+#+begin_src clojure
+
+#+end_src
+
+* STD Lib
+** Item                                                              :drill:
+SCHEDULED: <2023-01-12 qui>
+:PROPERTIES:
+:ID:       9123f62b-6148-4f8e-8515-45deb68e705e
+:DRILL_LAST_INTERVAL: 3.8967
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-08 dom 14:45]
+:END:
+
+What is the result?
+
+#+begin_src clojure
+(update {:foo [1]} :foo (fn foobar [xs] (conj xs 2)))
+#+end_src
+*** Answer
+
+#+begin_src clojure
+{:foo [1 2]}
+#+end_src
+
+** Item                                                              :drill:
+SCHEDULED: <2023-01-12 qui>
+:PROPERTIES:
+:ID:       f22d7253-8979-4327-a997-5d5c79fc9cb0
+:DRILL_LAST_INTERVAL: 4.1635
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-08 dom 14:48]
+:END:
+
+What is the result?
+
+#+begin_src clojure
+(update-in {:foo [1]} [:foo 0] (fn foobar [xs] (+ xs 1)))
+#+end_src
+*** Answer
+
+#+begin_src clojure
+{:foo [2]}
+#+end_src
+
+** Item                                                              :drill:
+SCHEDULED: <2023-01-13 sex>
+:PROPERTIES:
+:ID:       71778337-dded-4a99-8ccb-2b6c4ce5d86a
+:DRILL_LAST_INTERVAL: 4.8895
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-08 dom 14:49]
+:END:
+
+What is the result?
+
+#+begin_src clojure
+(conj [] [])
+#+end_src
+*** Answer
+
+#+begin_src clojure
+[[]]
+#+end_src
+
+** Item                                                              :drill:
+SCHEDULED: <2023-01-12 qui>
+:PROPERTIES:
+:ID:       206ffda6-0202-492b-aced-5a16a4c8bdd5
+:DRILL_LAST_INTERVAL: 4.1924
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-08 dom 14:49]
+:END:
+
+What is the result?
+
+#+begin_src clojure
+(assoc [] 0 1)
+#+end_src
+*** Answer
+
+#+begin_src clojure
+[1]
+#+end_src
+** Item                                                              :drill:
+SCHEDULED: <2023-01-12 qui>
+:PROPERTIES:
+:ID:       31ec5579-5f88-492a-a1e9-1f96bae32fff
+:DRILL_LAST_INTERVAL: 4.1554
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-08 dom 14:46]
+:END:
+
+What is the result?
+
+#+begin_src clojure
+(conj [] 0 1)
+#+end_src
+*** Answer
+
+#+begin_src clojure
+[0 1]
+#+end_src
+
+** Item                                                              :drill:
+SCHEDULED: <2023-01-12 qui>
+:PROPERTIES:
+:ID:       c41e19b2-a6b4-4e20-a440-bb3345346aa5
+:DRILL_LAST_INTERVAL: 4.1893
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-08 dom 14:45]
+:END:
+
+What is the result?
+
+#+begin_src clojure
+(-> 3 (Math/pow 2))
+#+end_src
+*** Answer
+
+#+begin_src clojure
+9.0
+#+end_src
+
+** Item                                                              :drill:
+SCHEDULED: <2023-01-12 qui>
+:PROPERTIES:
+:ID:       0338dea3-2020-4ec5-a33a-a8885f5de965
+:DRILL_LAST_INTERVAL: 3.959
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-08 dom 14:46]
+:END:
+
+What is the result?
+
+#+begin_src clojure
+(->> 3 (Math/pow 2))
+#+end_src
+*** Answer
+
+#+begin_src clojure
+8.0
+#+end_src
+
+** Item                                                              :drill:
+SCHEDULED: <2023-01-12 qui>
+:PROPERTIES:
+:ID:       94dacd87-1ce0-4109-bcce-dda11dfb113b
+:DRILL_LAST_INTERVAL: 4.339
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-08 dom 14:45]
+:END:
+
+What is the result?
+
+#+begin_src clojure
+(cond-> 1
+  true (+ 1)
+  false (- 2)
+  true (* 2))
+#+end_src
+
+*** Answer
+
+#+begin_src clojure
+4
+#+end_src
+
+** Item                                                              :drill:
+SCHEDULED: <2023-01-12 qui>
+:PROPERTIES:
+:ID:       3dc9e94c-27c9-4a62-a78f-e0cbc80538d7
+:DRILL_LAST_INTERVAL: 3.9712
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-08 dom 14:48]
+:END:
+
+What is the result?
+
+#+begin_src clojure
+(dissoc {:foo "bar"} :foo)
+#+end_src
+*** Answer
+
+#+begin_src clojure
+{}
+#+end_src
+* ClojureScript
+
+** Item                                                              :drill:
+SCHEDULED: <2023-01-12 qui>
+:PROPERTIES:
+:ID:       5d10b362-cd74-4057-8077-3dbfec8ae56a
+:DRILL_LAST_INTERVAL: 4.2154
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-08 dom 14:48]
+:END:
+
+To launch a web browser as well as a repl for module
+~hello-world.core~, run:
+
+clj [-M --main cljs.main||2 flags + 1 parm] --com[pile] hello-world.core --r[epl]
+
+** Item                                                              :drill:
+SCHEDULED: <2023-01-12 qui>
+:PROPERTIES:
+:ID:       05d1d71e-b2b3-45b6-9390-8598cf180854
+:DRILL_LAST_INTERVAL: 3.9117
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-08 dom 14:49]
+:END:
+
+To compile cljs project under namespace ~hello-world.core~ run:
+
+clj -M -m cljs.main --op[timizations] adv[anced] -[c] hello-world.core
+
+** Item                                                              :drill:
+SCHEDULED: <2023-01-12 qui>
+:PROPERTIES:
+:ID:       9584f688-6b44-45c0-8747-8f11122fbcc8
+:DRILL_LAST_INTERVAL: 4.4717
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-08 dom 14:49]
+:END:
+
+- Re[agent] provides a minimalistic interface between ClojureScript and React.
+- Re[-frame] is a ClojureScript framework for building user interfaces.

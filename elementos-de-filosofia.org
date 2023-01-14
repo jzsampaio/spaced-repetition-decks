@@ -1,0 +1,597 @@
+#+TITLE: Elementos de Filosofia - por Dom Thiago Sinibaldi
+* Livro I - Lógica
+** Introdução à Filosofia
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-08 dom>
+:PROPERTIES:
+:ID:       f8703fa1-b125-4bfc-8922-c966f1a360f6
+:DRILL_LAST_INTERVAL: 4.3023
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 19:57]
+:END:
+
+Filosofia, no sentido etimológico, significa amor [à sabedoria||"ao conhecimento" or "à sabedoria"].
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-09 seg>
+:PROPERTIES:
+:ID:       e39216fc-5729-41ff-8117-aa6aac85ed79
+:DRILL_LAST_INTERVAL: 4.9898
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 19:59]
+:END:
+
+Filosofia é a ciência que trata das causas [supremas||"primeiras" or "supremas"] dos entes,
+descobertas pela luz natural da razão.
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-08 dom>
+:PROPERTIES:
+:ID:       d258199f-77dc-4f21-90ad-8c7122fd985b
+:DRILL_LAST_INTERVAL: 3.8845
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 20:00]
+:END:
+
+Pode-se dizer que a filosofia é uma ciência?
+
+[Sim]
+
+*** A Ciência                                                       :drill:
+SCHEDULED: <2023-01-08 dom>
+:PROPERTIES:
+:ID:       a9852dff-2c3d-4cf1-9562-0b82135c9837
+:DRILL_LAST_INTERVAL: 4.225
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 20:00]
+:END:
+
+A [ciência||"Filosofia" or "ciência"] é uma série de conhecimentos
+certos, coordenados e relativos a um determinado objeto.
+
+É o conhecimento das coisas pelas suas ca[usas].
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-09 seg>
+:PROPERTIES:
+:ID:       2595911c-517e-416b-9b89-81041ed9f92d
+:DRILL_LAST_INTERVAL: 4.562
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 20:02]
+:END:
+
+Qual o objeto da Filosofia?
+
+[A causa suprema dos entes]
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-08 dom>
+:PROPERTIES:
+:ID:       7cb1d61c-2778-44a2-bdbe-8c5ec21cf5a5
+:DRILL_LAST_INTERVAL: 3.9649
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 19:56]
+:END:
+
+Qual o meio pelo qual a Filosofia estuda a causa suprema dos entes?
+
+[A luz natural da razão].
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-10 ter>
+:PROPERTIES:
+:ID:       3dd32176-3373-48dc-9177-7b2bb9aeff37
+:DRILL_LAST_INTERVAL: 5.5263
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 19:56]
+:END:
+
+A Filosofia se divide em 3 partes: L[ógica], Met[afísica], e Mo[ral].
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-08 dom>
+:PROPERTIES:
+:ID:       d246a562-7e5e-442e-942d-0249c67b0950
+:DRILL_LAST_INTERVAL: 4.094
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 19:57]
+:END:
+
+Dentre as partes da Filosofia (Lógica, Metafísica, e Moral):
+
+- Os entes que derivam da nossa inteligência são objeto de estudo para [Lógica]
+- Os que derivam da nossa vontade objeto da [Moral]
+- Os que não dependem de nós no deu ser, da [Metafísica]
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-08 dom>
+:PROPERTIES:
+:ID:       5956791b-cbfd-4f8e-905f-e6d9c2e38f03
+:DRILL_LAST_INTERVAL: 3.9292
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 20:02]
+:END:
+
+A Metafísica se divide em 4 partes:
+
+- A que estuda o ser no geral é a [Ontologia]
+- Estuda o mundo: [Cosmologia]
+- Estuda o homem: [Antropologia]
+- Estuda Deus: [Teodicéia]
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-08 dom>
+:PROPERTIES:
+:ID:       a6910c07-370b-4c4c-a17e-3d191e96862b
+:DRILL_LAST_INTERVAL: 4.2491
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 20:01]
+:END:
+
+As partes da Filosofia devem ser estudadas na seguinte ordem:
+
+1. [Lógica]
+2. [Metafísica]
+     1. [Ontologia]
+     2. [Cosmologia]
+     3. [Antropologia]
+     4. [Teodicéia]
+3. [Moral]
+   
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-09 seg>
+:PROPERTIES:
+:ID:       4890d1e8-e334-4989-966a-489d88364574
+:DRILL_LAST_INTERVAL: 4.6659
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 20:01]
+:END:
+
+3 requisitos para o aluno de Filosofia:
+
+- or[ação] humilde e fervorosa
+- grande pu[reza] de coração
+- ardente amor da ve[rdade]
+  
+** Introdução à Lógica
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-09 seg>
+:PROPERTIES:
+:ID:       d76af937-e3f0-4187-9bbb-0989de2b26ec
+:DRILL_LAST_INTERVAL: 4.7297
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 20:00]
+:END:
+
+Lógica vem do grego ~logos~ que quer dizer disc[urso] ou ra[zão].
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-08 dom>
+:PROPERTIES:
+:ID:       c0c5202d-c9d7-44f3-a58f-50235631fdda
+:DRILL_LAST_INTERVAL: 4.314
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 20:03]
+:END:
+
+Lógica é a ciência que dirige, por meio de leis, as operações da nossa
+ra[zão], para que ordenada e facilmente alcancemos a ver[dade].
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-08 dom>
+:PROPERTIES:
+:ID:       91764d44-ede9-492d-ae0a-fed9a54e8726
+:DRILL_LAST_INTERVAL: 4.3497
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 20:02]
+:END:
+
+O *objetivo* da lógica é preparar a mente para alcançar a ve[rdade].
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-08 dom>
+:PROPERTIES:
+:ID:       86d74740-90da-43f5-b1a5-d93af7eeddcd
+:DRILL_LAST_INTERVAL: 4.4344
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 20:00]
+:END:
+
+O *objeto* da lógica é o conjunto de ope[rações] inte[lectuais] que
+devem ser realizados para alcançar a verdade.
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-09 seg>
+:PROPERTIES:
+:ID:       7387e9f3-4647-47e3-b292-352963aef5f9
+:DRILL_LAST_INTERVAL: 4.5941
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 19:59]
+:END:
+
+Arte é o conjunto de regras ou preceitos, que ensinam a exe[cutar],
+com perfeição, alguma coisa.
+
+A lógica é uma arte? [Sim].
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-09 seg>
+:PROPERTIES:
+:ID:       46d99af2-d030-4de5-b135-fe6187560afc
+:DRILL_LAST_INTERVAL: 4.5738
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 19:58]
+:END:
+
+É próprio da ciência deduzir dos princípios intrínsecos de um objeto
+as propriedades do mesmo objeto.
+
+A lógica é uma ciência? [Sim].
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-08 dom>
+:PROPERTIES:
+:ID:       b8ba99a3-c740-4a70-9619-d5c428702b63
+:DRILL_LAST_INTERVAL: 4.4967
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 19:57]
+:END:
+
+O estudo da lógica é dividido em 2 partes:
+
+- Lógica Fo[rmal] :: A que estuda a ordem que as operações intelectuais
+  devem seguir para se alcançar a verdade
+- Lógica Ma[terial] :: a que estuda a realidade objetiva da verdade
+
+** Objetos da Lógica Formal
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-08 dom>
+:PROPERTIES:
+:ID:       51c7e8d0-f736-4363-8bf7-5c31f7fbe799
+:DRILL_LAST_INTERVAL: 3.9292
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 20:01]
+:END:
+
+As operações da inteligência (que são objeto da lógica) são 3:
+
+- [idéia||"termo" or "idéia"]
+- [juízo||"juízo" or "proposição"]
+- [raciocínio||"argumentação" or "raciocínio"]
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-09 seg>
+:PROPERTIES:
+:ID:       27c8f1b8-f794-4264-a038-c883a31811db
+:DRILL_LAST_INTERVAL: 4.5228
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 19:57]
+:END:
+
+Complete a tabela:
+
+| Operação da Inteligência | Expressão Verbal |
+|--------------------------+------------------|
+| Ideia                    | [Termo]            |
+| Juízo                    | [Proposição]       |
+| Raciocínio               | [Argumentação]     |
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-08 dom>
+:PROPERTIES:
+:ID:       db41d375-9f00-47e5-ae9b-fdbc77cbbd59
+:DRILL_LAST_INTERVAL: 4.3149
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 20:07]
+:END:
+
+Complete a tabela:
+
+| Operação da Inteligência | Expressão Verbal |
+|--------------------------+------------------|
+| [Ideia]                  | Termo            |
+| [Juízo]                  | Proposição       |
+| [Raciocínio]             | Argumentação     |
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-08 dom>
+:PROPERTIES:
+:ID:       7600b28e-f06a-4a73-81ab-baceb69fc1ac
+:DRILL_LAST_INTERVAL: 4.2551
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 19:59]
+:END:
+
+Complete a tabela:
+
+| Operação da Inteligência | Expressão Verbal |
+|--------------------------+------------------|
+| [Ideia]                  | Termo            |
+| Juízo                    | [Proposição]     |
+| [Raciocínio]             | Argumentação     |
+
+** Idéia, sua definição e análise
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-08 dom>
+:PROPERTIES:
+:ID:       7749b9a6-ab2f-4434-8438-cb20338dff7d
+:DRILL_LAST_INTERVAL: 3.9962
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 20:03]
+:END:
+
+[Idéia||"Idéia" or "Termo"] é a simples representação intelectual de uma coisa.
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-08 dom>
+:PROPERTIES:
+:ID:       fdb7286f-da4b-4228-80b7-6798ca028c0d
+:DRILL_LAST_INTERVAL: 4.1212
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 19:59]
+:END:
+
+A idéia é dita ser uma *simples* representação, porque à coisa
+reproduzida pela ideia, [não se||"não se" or "se"] adicionam
+[nem||"nem" or "e"] se negam propridades.
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-08 dom>
+:PROPERTIES:
+:ID:       dc269c5c-b0c9-45c6-87ac-b2ed6a6873e6
+:DRILL_LAST_INTERVAL: 4.2703
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 20:02]
+:END:
+
+O objeto da ideia é a ess[ência] (ou natureza) do ser percebido.
+
+O que é representado na inteligência por uma ideia é o que o ser tem
+de mais íntimo e que o constitui numa determinada esp[écie] e não
+outra.
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-09 seg>
+:PROPERTIES:
+:ID:       1479bb47-f91b-4d6f-813a-b19be00e55f8
+:DRILL_LAST_INTERVAL: 5.3628
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 20:00]
+:END:
+
+Idéia é a simples representação intelectual [da essência de um ser||"de um ser" or "da essência de um ser"].
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-08 dom>
+:PROPERTIES:
+:ID:       de0c7886-6653-4be7-86a1-d48431eaf290
+:DRILL_LAST_INTERVAL: 4.4568
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 19:57]
+:END:
+
+Idéia é a simples representação intelectual de uma coisa.
+
+A coisa representada é [a essência de um ente||"a essência de um ente" or "um ente"].
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-09 seg>
+:PROPERTIES:
+:ID:       f5d1ed83-6597-440e-a13e-e7720769fa2a
+:DRILL_LAST_INTERVAL: 4.7275
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 20:00]
+:END:
+
+Um sinal é uma coisa, que nos leva ao conhecimento de outra.
+
+A idéia é um sinal [natural||"natural" or "convencional"].
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-08 dom>
+:PROPERTIES:
+:ID:       2c2a7f09-a34c-4aa7-904e-30f3dc09062e
+:DRILL_LAST_INTERVAL: 4.414
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-04 qua 20:06]
+:END:
+
+A [compreesão||"compreesão" or "extensão"] da idéia é a soma ou o
+conjunto das notas, ou dos elementos, que a constituem.
+
+*** Item                                                            :drill:
+
+A [extensão||"extensão" or "compreensão"] é a soma ou o número dos
+indivíduos, que a idéia abrange.
+
+*** Item                                                            :drill:
+
+Quanto maior é a compreensão de uma ideia [menor||"menor" or "maior"]
+é a sua extensão.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       9f285dfe-8bd4-4ca0-833d-b2391559f175
+:END:
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       70e907d7-8929-480f-bb34-6648712dc241
+:END:
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       b9aa1586-2570-49cd-b4fa-7ae54c1d6d81
+:END:
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       7589febe-5254-424f-8826-0dd06a300ed5
+:END:
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       827ea872-ac3e-4513-8235-623c1cc74022
+:END:
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       03c56853-bc61-4522-80c3-d5d9ed774905
+:END:
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       5c68ab30-063c-4304-8b22-1aaeebf09ca7
+:END:
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       702c7ba8-8389-49ce-83f5-564c74e4455d
+:END:
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       5259c93c-bac6-4de3-9744-31a6497f57f3
+:END:
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       9d8d8aac-ca23-4265-badc-ffe1d630f59c
+:END:
