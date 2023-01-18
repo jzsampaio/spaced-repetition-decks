@@ -1,0 +1,630 @@
+#+TITLE: Elementos de Filosofia - por Dom Thiago Sinibaldi
+* Livro I - Lógica
+** Introdução à Filosofia
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       f8703fa1-b125-4bfc-8922-c966f1a360f6
+:END:
+
+Filosofia, no sentido etimológico, significa amor [à sabedoria||"ao conhecimento" or "à sabedoria"].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       e39216fc-5729-41ff-8117-aa6aac85ed79
+:END:
+
+Filosofia é a ciência que trata das causas [supremas||"primeiras" or "supremas"] dos entes,
+descobertas pela luz natural da razão.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       d258199f-77dc-4f21-90ad-8c7122fd985b
+:END:
+
+Pode-se dizer que a filosofia é uma ciência?
+
+[Sim]
+
+*** A Ciência                                                       :drill:
+:PROPERTIES:
+:ID:       a9852dff-2c3d-4cf1-9562-0b82135c9837
+:END:
+
+A [ciência||"Filosofia" or "ciência"] é uma série de conhecimentos
+certos, coordenados e relativos a um determinado objeto.
+
+É o conhecimento das coisas pelas suas ca[usas].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       2595911c-517e-416b-9b89-81041ed9f92d
+:END:
+
+Qual o objeto da Filosofia?
+
+[A causa suprema dos entes]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       7cb1d61c-2778-44a2-bdbe-8c5ec21cf5a5
+:END:
+
+Qual o meio pelo qual a Filosofia estuda a causa suprema dos entes?
+
+[A luz natural da razão].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       3dd32176-3373-48dc-9177-7b2bb9aeff37
+:END:
+
+A Filosofia se divide em 3 partes: L[ógica], Met[afísica], e Mo[ral].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       d246a562-7e5e-442e-942d-0249c67b0950
+:END:
+
+Dentre as partes da Filosofia (Lógica, Metafísica, e Moral):
+
+- Os entes que derivam da nossa inteligência são objeto de estudo para [Lógica]
+- Os que derivam da nossa vontade objeto da [Moral]
+- Os que não dependem de nós no deu ser, da [Metafísica]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       5956791b-cbfd-4f8e-905f-e6d9c2e38f03
+:END:
+
+A Metafísica se divide em 4 partes:
+
+- A que estuda o ser no geral é a [Ontologia]
+- Estuda o mundo: [Cosmologia]
+- Estuda o homem: [Antropologia]
+- Estuda Deus: [Teodicéia]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       a6910c07-370b-4c4c-a17e-3d191e96862b
+:END:
+
+As partes da Filosofia devem ser estudadas na seguinte ordem:
+
+1. [Lógica]
+2. [Metafísica]
+     1. [Ontologia]
+     2. [Cosmologia]
+     3. [Antropologia]
+     4. [Teodicéia]
+3. [Moral]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       4890d1e8-e334-4989-966a-489d88364574
+:END:
+
+3 requisitos para o aluno de Filosofia:
+
+- or[ação] humilde e fervorosa
+- grande pu[reza] de coração
+- ardente amor da ve[rdade]
+
+** Introdução à Lógica
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       d76af937-e3f0-4187-9bbb-0989de2b26ec
+:END:
+
+Lógica vem do grego ~logos~ que quer dizer disc[urso] ou ra[zão].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       c0c5202d-c9d7-44f3-a58f-50235631fdda
+:END:
+
+Lógica é a ciência que dirige, por meio de leis, as operações da nossa
+ra[zão], para que ordenada e facilmente alcancemos a ver[dade].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       91764d44-ede9-492d-ae0a-fed9a54e8726
+:END:
+
+O *objetivo* da lógica é preparar a mente para alcançar a ve[rdade].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       86d74740-90da-43f5-b1a5-d93af7eeddcd
+:END:
+
+O *objeto* da lógica é o conjunto de ope[rações] inte[lectuais] que
+devem ser realizados para alcançar a verdade.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       7387e9f3-4647-47e3-b292-352963aef5f9
+:END:
+
+Arte é o conjunto de regras ou preceitos, que ensinam a exe[cutar],
+com perfeição, alguma coisa.
+
+A lógica é uma arte? [Sim].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       46d99af2-d030-4de5-b135-fe6187560afc
+:END:
+
+É próprio da ciência deduzir dos princípios intrínsecos de um objeto
+as propriedades do mesmo objeto.
+
+A lógica é uma ciência? [Sim].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       b8ba99a3-c740-4a70-9619-d5c428702b63
+:END:
+
+O estudo da lógica é dividido em 2 partes:
+
+- Lógica Fo[rmal] :: A que estuda a ordem que as operações intelectuais
+  devem seguir para se alcançar a verdade
+- Lógica Ma[terial] :: a que estuda a realidade objetiva da verdade
+
+** Objetos da Lógica Formal
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       51c7e8d0-f736-4363-8bf7-5c31f7fbe799
+:END:
+
+As operações da inteligência (que são objeto da lógica) são 3:
+
+- [idéia||"termo" or "idéia"]
+- [juízo||"juízo" or "proposição"]
+- [raciocínio||"argumentação" or "raciocínio"]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       27c8f1b8-f794-4264-a038-c883a31811db
+:END:
+
+Complete a tabela:
+
+| Operação da Inteligência | Expressão Verbal |
+|--------------------------+------------------|
+| Ideia                    | [Termo]            |
+| Juízo                    | [Proposição]       |
+| Raciocínio               | [Argumentação]     |
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       db41d375-9f00-47e5-ae9b-fdbc77cbbd59
+:END:
+
+Complete a tabela:
+
+| Operação da Inteligência | Expressão Verbal |
+|--------------------------+------------------|
+| [Ideia]                  | Termo            |
+| [Juízo]                  | Proposição       |
+| [Raciocínio]             | Argumentação     |
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       7600b28e-f06a-4a73-81ab-baceb69fc1ac
+:END:
+
+Complete a tabela:
+
+| Operação da Inteligência | Expressão Verbal |
+|--------------------------+------------------|
+| [Ideia]                  | Termo            |
+| Juízo                    | [Proposição]     |
+| [Raciocínio]             | Argumentação     |
+
+** Idéia, sua definição e análise
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       7749b9a6-ab2f-4434-8438-cb20338dff7d
+:END:
+
+[Idéia||"Idéia" or "Termo"] é a simples representação intelectual de uma coisa.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       fdb7286f-da4b-4228-80b7-6798ca028c0d
+:END:
+
+A idéia é dita ser uma *simples* representação, porque à coisa
+reproduzida pela ideia, [não se||"não se" or "se"] adicionam
+[nem||"nem" or "e"] se negam propridades.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       dc269c5c-b0c9-45c6-87ac-b2ed6a6873e6
+:END:
+
+O objeto da ideia é a ess[ência] (ou natureza) do ser percebido.
+
+O que é representado na inteligência por uma ideia é o que o ser tem
+de mais íntimo e que o constitui numa determinada esp[écie] e não
+outra.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       1479bb47-f91b-4d6f-813a-b19be00e55f8
+:END:
+
+Idéia é a simples representação intelectual [da essência de um ser||"de um ser" or "da essência de um ser"].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       de0c7886-6653-4be7-86a1-d48431eaf290
+:END:
+
+Idéia é a simples representação intelectual de uma coisa.
+
+A coisa representada é [a essência de um ente||"a essência de um ente" or "um ente"].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       f5d1ed83-6597-440e-a13e-e7720769fa2a
+:END:
+
+Um sinal é uma coisa, que nos leva ao conhecimento de outra.
+
+A idéia é um sinal [natural||"natural" or "convencional"].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       2c2a7f09-a34c-4aa7-904e-30f3dc09062e
+:END:
+
+A [compreesão||"compreesão" or "extensão"] da idéia é a soma ou o
+conjunto das notas, ou dos elementos, que a constituem.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       dba38315-af86-4e2b-8b7f-14d0a08e39a9
+:END:
+
+A [extensão||"extensão" or "compreensão"] é a soma ou o número dos
+indivíduos, que a idéia abrange.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       1a618ec0-6e61-4932-868b-a13c13c505aa
+:END:
+
+Quanto maior é a compreensão de uma ideia [menor||"menor" or "maior"]
+é a sua extensão.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       9f285dfe-8bd4-4ca0-833d-b2391559f175
+:END:
+
+Si[nal] é uma coisa que nos leva ao conhecimento de outra.
+
+** Divisões de ideia quanto ao objeto
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       70e907d7-8929-480f-bb34-6648712dc241
+:END:
+
+Uma forma de categorizar uma idéia quanto ao objeto representado é a
+divisão real vs lógica.
+
+O homem, considerado como espécie, é uma ideia [lógica].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       b9aa1586-2570-49cd-b4fa-7ae54c1d6d81
+:END:
+
+Uma forma de categorizar uma idéia quanto ao objeto representado é a
+divisão positiva vs negativa.
+
+A ideia de morte é uma ideia [negativa].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       7589febe-5254-424f-8826-0dd06a300ed5
+:END:
+
+Uma forma de categorizar uma idéia quanto ao objeto representado é a
+divisão absoluta vs relativa.
+
+A ideia de filho é uma ideia [relativa].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       827ea872-ac3e-4513-8235-623c1cc74022
+:END:
+
+Uma forma de categorizar uma idéia quanto ao objeto representado é a
+divisão intuitiva vs abstrativa.
+
+A idéia [abstrativa||"intuitiva" or "abstrativa"] é a que representa
+uma coisa, não como é em si mesma, mas como se encontra na imagem de
+outra coisa, que de algum modo a manifesta.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       03c56853-bc61-4522-80c3-d5d9ed774905
+:END:
+
+Uma forma de categorizar uma idéia quanto ao objeto representado é a
+divisão unívoca vs análoga.
+
+A idéai [análoga||"unívoca" or "análoga"] representa um objeto, que se
+atribui aos inferiores numa significação nem totalmente idêntica, nem
+totalmente diversa; tal é a ideia de sanidade, que se atribui ao
+nimal, ao almento, e à cor.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       5c68ab30-063c-4304-8b22-1aaeebf09ca7
+:END:
+
+Uma forma de categorizar uma idéia quanto ao objeto representado é a
+divisão singular vs universal vs particular.
+
+É [universal||"particular" or "universal"], quando representa uma
+essência, comum a muitos entes, de modo que a todos e a cada um deles
+pode ser atribuída.
+
+A [particular||"singular" or "particular"] é a própria idéia
+universal, mas tomada numa parte da sua extenção.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       702c7ba8-8389-49ce-83f5-564c74e4455d
+:END:
+
+Uma forma de categorizar uma idéia quanto ao objeto representado é a
+divisão universal-reflexa vs universal-direta.
+
+A ideia universal-[reflexa] é a mesma própria universal-[direta], à
+qual se acrescenta a relação os inferiores.
+
+** Divisões de ideia quanto ao modo
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       5259c93c-bac6-4de3-9744-31a6497f57f3
+:END:
+
+Uma forma de categorizar uma idéia quanto ao modo de representar é a
+divisão:
+
+- clara vs ob[scura]
+- distinta vs co[nfusa]
+- completa vs incompleta
+- adequada vs inadequada
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       9d8d8aac-ca23-4265-badc-ffe1d630f59c
+:END:
+
+Quanto ao modo com o qual uma ideia representar uma essência, temos a
+seguinte "ordem de compreensão":
+
+- cl[ara] :: o objeto representado se extrema de qualquer outro
+- dis[tinta] :: além de extrema, exprime os elementos essenciais do mesmo objeto
+- comp[leta] :: além de extremar e exprimir elementos essenciais, exaure
+  recursivamente os sub-elementos dos quais os elementos essencias da
+  ideia de compõe adequada
+- ade[quada] :: representa o objeto em si mesmo
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       3e52fa49-c4f0-48ad-8c29-61cbc5615dc2
+:END:
+
+A idéia [adequada||"adequada" or "clara"] é prória a inteligência de
+Deus.
+
+** Divisiões das ideias universais-reflexas
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       5b7583c5-775c-4d40-906c-db90be507861
+:END:
+
+Os diversos modos por que uma coisa pode existir em muitos sujeitos e
+ser-lhes atribuída (idéia universal reflexa) são 5:
+
+- Pertence à essência?
+    * Completa? Temos a Es[pécie].
+    * Incompleta?
+        + Indeterminada e determinável? Temos o Gê[nero]
+        + Determinada e determinante? Dif[erença]
+- Adere à essência?
+    * Necessariamente? Prop[riedade]
+    * Contingentemente? Aci[dente]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       bbb1e107-c770-4602-b57f-c8007c38e5b3
+:END:
+
+Gênero, espécie, diferença, acidente, e propriedade são as 5 divisões
+das ideias universais [reflexas||"reflexas" or "diretas"].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       8a8dd402-e749-475c-adf2-fb8dd3fc2fe1
+:END:
+
+Na equação a seguir, indique qual número corresponde a cada um dos
+conceitos de gênero, espécie, e diferença. Indique o porque.
+
+10 + (-7) = 3
+
+- 10 :: [gênero]
+- -7 :: [diferença], pois adicionada ao gênero determina a espécie
+- 3 :: [espécie]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       a3a085e1-4bc4-4793-8370-3c80e03813e6
+:END:
+
+Cada uma das idéias universais de gênero, espécie e diferença
+divide-se em:
+
+- supremo
+- intermédio
+- ínfimo
+
+Gênero [supremo||"supremo" or "ínfimo"] é o que acima de si não tem
+outro género e que por isso, não pode ser espécie.
+
+Espécie [suprema||"suprema" or "intermédia"] é a que está
+imediatamente abaixo do gênero supremo.
+
+Diferença suprema é a que, unida ao gênero [supremo||"supremo" or "intermédio"], constitui as
+espécies supremas.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       ea144a85-be42-4929-9cd7-b2c0a733bff5
+:END:
+
+A ~bondade~ no homem é [acidente||"propriedade" or "acidente"].
+
+A ~faculdade de falar~ no homem é [propriedade||"propriedade" or "acidente"].
+
+** As 10 Categorias
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       217ef4db-b957-4ba5-a9d7-c98bbf49013b
+:END:
+
+
+
+Dentre as 10 categorias:
+
+[Substância] é a coisa que para existir não carece de sujeito, a que
+adira; tal é o homem.
+
+[Quantidade] é a propriedade, pela qual a substância é divisível em
+partes; tal é a grandeza na pedra.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       f989578e-2e8e-4cac-a5b5-ae97c79cc6ff
+:END:
+
+Dentre as 10 categorias:
+
+[Qualidade] é a perfeição, que modifica a substância, sem alterar-lhe a
+essência; tal é a virtude e a ciência no homem.
+
+[Relação] é o nexo, que liga uma substância à outra; assim, filho indica
+uma relação.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       99701715-f722-4ec2-986e-4a6310121ab4
+:END:
+
+Dentre as 10 categorias:
+
+[Ação] e o exercício da força, de que a substância é dotada; tal é
+escrever.
+
+[Paixão] é a alteração, que a substância sofre pela ação do agente; tal
+é sentir frio.
+
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       c0afada0-f222-4a1c-9acb-1baf0da5a354
+:END:
+
+Dentre as 10 categorias:
+
+[Localização] é a determinação da substância quanto a o lugar; por
+exemplo, Pedro está em Roma.
+
+[Quandocação] é a determinação da substância quanto ao tempo; por
+exemplo, Pedro ontem escreveu.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       ae0b00a7-c1d1-4268-8bb2-6498746b46e1
+:END:
+
+Dentre as 10 categorias:
+
+[Estado] é a disposição das partes quantitativas da substância no lugar;
+por exemplo, André está sentado.
+
+[Hábito] é a denominaçào que se dá à substância por causa do cestido ou
+decoração; por exemplo, o magistrado togado.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       5f961b37-eefc-42f8-a105-985ee4ce248d
+:END:
+
+
+O número total de categorias é [10||"10" or "7"].
+
+*** Item                                                            :drill:
+
+As 10 categorias podem ser classificadas entre substância e outro
+grupo com 9 membros. Esse grupo chama-se [acidentes].
+
+*** Item                                                            :drill:
+
+Dentre as 10 categorias, 9 delas chamam-se [acidentes], a outra que
+sobra chama-se acidentes.
+
+*** Item                                                            :drill:
+
+Qual o nome da class de categorias que engloba quantidade, qualidade,
+relação, ação, paixão, localização, quandocação, estado, e hábito?
+
+[Acidentes].
+
+** O Termo
+
+*** Item                                                            :drill:
+
+*Termo*, ou palavra, ou vocábulo, é a expressão verbal da [idéia].
+
+*** Item                                                            :drill:
+
+Pode uma ideia ser equívoca? [Não].
+
+Pode um termo ser equívoco? [Sim.]
+
+*** Item                                                            :drill:
+
+*equívoco vs unívoco vs análogo*
+
+O termo ~são~ aplicado a um animal e a um alimento e [análogo].
+
+O termo ~leão~ aplicado a uma constelação e um animal é [equívoco].
+
+O termo ~homem~ aplicado a Mateus e a Marcos é [unívoco].
+
+*** Item                                                            :drill:
+
+Sobre *termos*:
+
+[Equívoco||"Análogo" or "Equívoco"] é o que se atribui a vários entes,
+mas em diversa significação.
+
+[Análogo||"Análogo" or "Equívoco"] é o que se atribui a vários entes
+numa signifição, que não é inteiramente idêntica, nem inteiramente
+diversa.
+
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
