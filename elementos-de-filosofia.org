@@ -923,8 +923,17 @@ A ~faculdade de falar~ no homem é [propriedade||"propriedade" or "acidente"].
 
 ** As 10 Categorias
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-23 seg>
 :PROPERTIES:
 :ID:       217ef4db-b957-4ba5-a9d7-c98bbf49013b
+:DRILL_LAST_INTERVAL: 4.1345
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:45]
 :END:
 
 
@@ -938,8 +947,17 @@ adira; tal é o homem.
 partes; tal é a grandeza na pedra.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-23 seg>
 :PROPERTIES:
 :ID:       f989578e-2e8e-4cac-a5b5-ae97c79cc6ff
+:DRILL_LAST_INTERVAL: 3.9035
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:44]
 :END:
 
 Dentre as 10 categorias:
@@ -947,12 +965,21 @@ Dentre as 10 categorias:
 [Qualidade] é a perfeição, que modifica a substância, sem alterar-lhe a
 essência; tal é a virtude e a ciência no homem.
 
-[Relação] é o nexo, que liga uma substância à outra; assim, filho indica
-uma relação.
+[Relação] é o nexo, que liga uma substância à outra; tal é a ideia de
+filho.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-23 seg>
 :PROPERTIES:
 :ID:       99701715-f722-4ec2-986e-4a6310121ab4
+:DRILL_LAST_INTERVAL: 4.4833
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:44]
 :END:
 
 Dentre as 10 categorias:
@@ -965,8 +992,17 @@ escrever.
 
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-24 ter>
 :PROPERTIES:
 :ID:       c0afada0-f222-4a1c-9acb-1baf0da5a354
+:DRILL_LAST_INTERVAL: 4.7228
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:47]
 :END:
 
 Dentre as 10 categorias:
@@ -978,8 +1014,17 @@ exemplo, Pedro está em Roma.
 exemplo, Pedro ontem escreveu.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-24 ter>
 :PROPERTIES:
 :ID:       ae0b00a7-c1d1-4268-8bb2-6498746b46e1
+:DRILL_LAST_INTERVAL: 4.8962
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:46]
 :END:
 
 Dentre as 10 categorias:
@@ -987,28 +1032,73 @@ Dentre as 10 categorias:
 [Estado] é a disposição das partes quantitativas da substância no lugar;
 por exemplo, André está sentado.
 
-[Hábito] é a denominaçào que se dá à substância por causa do cestido ou
+[Hábito] é a denominaçào que se dá à substância por causa do vestido ou
 decoração; por exemplo, o magistrado togado.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-23 seg>
 :PROPERTIES:
 :ID:       5f961b37-eefc-42f8-a105-985ee4ce248d
+:DRILL_LAST_INTERVAL: 3.7636
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:47]
 :END:
 
 
 O número total de categorias é [10||"10" or "7"].
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-23 seg>
+:PROPERTIES:
+:ID:       959d7597-1735-4622-93ac-b5ec32c343da
+:DRILL_LAST_INTERVAL: 4.019
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:45]
+:END:
 
 As 10 categorias podem ser classificadas entre substância e outro
 grupo com 9 membros. Esse grupo chama-se [acidentes].
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-24 ter>
+:PROPERTIES:
+:ID:       b5b6c2de-32ea-45b6-8997-670fe597a33f
+:DRILL_LAST_INTERVAL: 4.5299
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:47]
+:END:
 
 Dentre as 10 categorias, 9 delas chamam-se [acidentes], a outra que
-sobra chama-se acidentes.
+sobra chama-se substância.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-23 seg>
+:PROPERTIES:
+:ID:       2c8bcc9e-d28a-4447-bc16-83a1065e8469
+:DRILL_LAST_INTERVAL: 4.1964
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:46]
+:END:
 
 Qual o nome da class de categorias que engloba quantidade, qualidade,
 relação, ação, paixão, localização, quandocação, estado, e hábito?
@@ -1016,28 +1106,75 @@ relação, ação, paixão, localização, quandocação, estado, e hábito?
 [Acidentes].
 
 ** O Termo
-
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-23 seg>
+:PROPERTIES:
+:ID:       52129e7d-0a0c-4978-85f5-d1665de42608
+:DRILL_LAST_INTERVAL: 3.9385
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:45]
+:END:
 
 *Termo*, ou palavra, ou vocábulo, é a expressão verbal da [idéia].
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-23 seg>
+:PROPERTIES:
+:ID:       751d40c1-60f4-401b-b0a6-42e13bcc854f
+:DRILL_LAST_INTERVAL: 4.4417
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:47]
+:END:
 
 Pode uma ideia ser equívoca? [Não].
 
 Pode um termo ser equívoco? [Sim.]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-24 ter>
+:PROPERTIES:
+:ID:       54ab8fc0-ede7-4257-a4f7-eda896040dd5
+:DRILL_LAST_INTERVAL: 5.0237
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:47]
+:END:
 
 *equívoco vs unívoco vs análogo*
 
-O termo ~são~ aplicado a um animal e a um alimento e [análogo].
+O termo ~são~ aplicado a um animal e a um alimento é [análogo].
 
 O termo ~leão~ aplicado a uma constelação e um animal é [equívoco].
 
 O termo ~homem~ aplicado a Mateus e a Marcos é [unívoco].
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-23 seg>
+:PROPERTIES:
+:ID:       5e1a457c-591f-4d48-b4fa-e9841001e5c0
+:DRILL_LAST_INTERVAL: 3.9159
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:45]
+:END:
 
 Sobre *termos*:
 
@@ -1049,5 +1186,182 @@ numa signifição, que não é inteiramente idêntica, nem inteiramente
 diversa.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       7df06e68-44f8-4d0c-b342-025491a249ed
+:END:
+
+Dentre as 6 principais propriedades do termo:
+
+- Supo[sição] :: é a posição dotermo em lugar da coisa que ele exprime.
+- Ape[lação] :: é a aplicação de um termo a outro
+
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       9a50ba5b-f3e5-434d-b85c-504573a1a09c
+:END:
+
+Dentre as 6 principais propriedades do termo:
+
+- Est[ado] :: é a acepção do termo no tempo, que o verbo exprime. E.g.:
+  o surdo não ouve.
+- Dist[ração] :: é a acepção do termo num tempo diverso daquele que o
+  verbo exprime. E.g.: os cegos vêem.
+
+
+*** Item                                                            :drill:
+
+Na frase a seguir, o termo *cego* é tomado no presente ou no passado?
+
+> Os cegos vêem
+
+[No passado. Eles eram cegos no passado.]
+
+O nome desse efeito é dist[ração].
+
+*** Item                                                            :drill:
+:PROPERTIES:
+
+:ID:       034b0d81-dc7a-4fe4-b603-5edaed9db2eb
+:END:
+
+Dentre as 6 principais propriedades do termo:
+
+- Amplicação :: é a extensão do termo de uma significação menor a uma
+  outra maior. E.g.: bem-aventurados os mansos, porque possuirão a
+  terra.
+- Restrição :: é a restrição do termo de uma significação maior a uma
+  outra menor. E.g.: O pregai o Evangelho a toda a criatura.
+
+*** Item                                                            :drill:
+
+Na frase a seguir, o termo *mansos* sofre o efeito de
+ampliação ou de restrição?
+
+> Bem-aventurados os mansos, porque possuirão a terra.
+
+[ampliação]
+
+*** Item                                                            :drill:
+
+Na frase a seguir, o termo *toda criatura* sofre do efeito de
+ampliação ou de restrição?
+
+> Pregai o Evangelho a toda a criatura.
+
+[restrição].
+
+*** Item                                                            :drill:
+
+Def[inição] é a explicação de uma coisa ou de um termo. Serve para
+conhecermos a [compreensão||"extensão" or "compreensão"] das idéias e dos termos.
+
+Div[isão] é a decomposição de um todo nas suas partes. Leva-nos ao
+conhecimento da [extensão||"compreensão" or "extensão"] das idéias e
+dos termos.
+
+*** Item                                                            :drill:
+
+[Definição] é a explicação de uma coisa ou de um termo. Subdivide-se em:
+
+- Nominal
+    + etimológica
+    + comum
+    + particular
+- Real
+    + essencial
+        - lógica
+        - física
+    + descritiva
+        - própria
+        - acidental
+        - causal
+        - genética
+
+*** Item                                                            :drill:
+
+É possível dar uma definição essencial de todas as coisas?
+
+[Não].
+
+**** More
+
+2 motivos impedem isso de ser feito:
+
+- 1. Todas as definições devem resolver-se em certas *noções
+  elementares*, que, por serem evidentes, não precisam de
+  definição. Essas noções são: ente, unidade, verdade, etc.
+
+- 2. Além disso, as mais elementares noções, por serem simplíssimas e
+  constarem de uma única nota, não podem estar sujeitas a uma
+  verdadeira definição, pois essa resolve a coisa nos seus vários
+  elementos.
+
+*** Item                                                            :drill:
+
+Como definições elementares (como ente, unidade, ...) podem ser
+explicadas?
+
+**** Answer
+
+Dessas noções podemos fazer uma descrição ou declaração por meio de
+noções, que sejam, relativamente a nós, mais conhecidas.
+
+*** Item                                                            :drill:
+
+Regras para uma definição:
+
+- Ser composta do [gênero] próximo e da [diferença] específica
+- Ser [recíproca] (a definição e acoisa definida possam converter-se uma
+  na outra)
+- Ser [clara] (extremar de qualquer outro termo)
+- Ser [breve], para poder conservar-se na memória
+
+*** Item                                                            :drill:
+
+Aristóteles ensina 2 métodos para procurar e encontrar os elementos
+essenciais, de que se compõem a [definição||"definição" or "divisão"].
+
+Chamam-se: descendente, e ascendente.
+
+*** Item                                                            :drill:
+
+[Divisão] é a decomposição de um todo nas suas partes. Leva-nos ao
+conhecimento da extensão das idéias e dos termos.
+
+Subdivide-se em:
+
+- lógica
+- real
+    * física
+        + essencial
+        + integral (em partes integrantes)
+        + potencial (listando as potencialidades)
+        + acidental
+    * metafísica (logicamente)
+
+*** Item                                                            :drill:
+
+Uma [divisão||"divisão" or "definição"] deve:
+
+- ser breve
+- ser adequada (a soma das partes deve ser igual ao todo)
+- ser ordenada (segundo a importância das partes)
+- ser oposta (as partes devem se excluir mutualmente)
+
+Se a divisão for feita por meio de uma classificação segundo um
+caráter, em que muitos indivíduos são semelhantes, deve ser:
+
+- único
+- permanente
+- importante
+
+*** Item                                                            :drill:
+
+[Divisão||"Divisão" or "Classificação"] é a decomposição de um todo
+nas suas partes. Leva-nos ao conhecimento da extensão das idéias e dos
+termos.
+
+[Classificação||"Classificação" or "Divisão"] é a disposição ordenada
+de muitos *indivíduos* em classes. É feita baseada em um *caráter*.
+
 *** Item                                                            :drill:
