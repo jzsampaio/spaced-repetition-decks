@@ -15,7 +15,7 @@ SCHEDULED: <2023-01-27 sex>
 :DRILL_LAST_REVIEWED: [2023-01-16 seg 19:49]
 :END:
 
-Filosofia, no sentido etimológico, significa amor [à sabedoria||"ao conhecimento" or "à sabedoria"].
+Filosofia, no sentido etimológico, significa amor [à sabedoria||"ao conhecimento" ou "à sabedoria"].
 
 *** Item                                                            :drill:
 SCHEDULED: <2023-02-01 qua>
@@ -31,7 +31,7 @@ SCHEDULED: <2023-02-01 qua>
 :DRILL_LAST_REVIEWED: [2023-01-16 seg 19:51]
 :END:
 
-Filosofia é a ciência que trata das causas [supremas||"primeiras" or "supremas"] dos entes,
+Filosofia é a ciência que trata das causas [supremas||"primeiras" ou "supremas"] dos entes,
 descobertas pela luz natural da razão.
 
 *** Item                                                            :drill:
@@ -66,7 +66,7 @@ SCHEDULED: <2023-01-27 sex>
 :DRILL_LAST_REVIEWED: [2023-01-16 seg 19:49]
 :END:
 
-A [ciência||"Filosofia" or "ciência"] é uma série de conhecimentos
+A [ciência||"Filosofia" ou "ciência"] é uma série de conhecimentos
 certos, coordenados e relativos a um determinado objeto.
 
 É o conhecimento das coisas pelas suas ca[usas].
@@ -351,9 +351,9 @@ SCHEDULED: <2023-01-27 sex>
 
 As operações da inteligência (que são objeto da lógica) são 3:
 
-- [idéia||"termo" or "idéia"]
-- [juízo||"juízo" or "proposição"]
-- [raciocínio||"argumentação" or "raciocínio"]
+- [ideia||"termo" ou "ideia"]
+- [juízo||"juízo" ou "proposição"]
+- [raciocínio||"argumentação" ou "raciocínio"]
 
 *** Item                                                            :drill:
 SCHEDULED: <2023-01-29 dom>
@@ -421,7 +421,7 @@ Complete a tabela:
 | Juízo                    | [Proposição]     |
 | [Raciocínio]             | Argumentação     |
 
-** Idéia, sua definição e análise
+** Ideia, sua definição e análise
 *** Item                                                            :drill:
 SCHEDULED: <2023-01-26 qui>
 :PROPERTIES:
@@ -436,7 +436,7 @@ SCHEDULED: <2023-01-26 qui>
 :DRILL_LAST_REVIEWED: [2023-01-16 seg 19:50]
 :END:
 
-[Idéia||"Idéia" or "Termo"] é a simples representação intelectual de uma coisa.
+[Ideia||"Ideia" ou "Termo"] é a simples representação intelectual de uma coisa.
 
 *** Item                                                            :drill:
 SCHEDULED: <2023-01-29 dom>
@@ -452,9 +452,9 @@ SCHEDULED: <2023-01-29 dom>
 :DRILL_LAST_REVIEWED: [2023-01-16 seg 19:49]
 :END:
 
-A idéia é dita ser uma *simples* representação, porque à coisa
-reproduzida pela ideia, [não se||"não se" or "se"] adicionam
-[nem||"nem" or "e"] se negam propridades.
+A ideia é dita ser uma *simples* representação, porque à coisa
+reproduzida pela ideia, [não se||"não se" ou "se"] adicionam
+[nem||"nem" ou "e"] se negam propriedades.
 
 *** Item                                                            :drill:
 SCHEDULED: <2023-01-28 sáb>
@@ -490,7 +490,7 @@ SCHEDULED: <2023-01-31 ter>
 :DRILL_LAST_REVIEWED: [2023-01-16 seg 19:51]
 :END:
 
-Idéia é a simples representação intelectual [da essência de um ser||"de um ser" or "da essência de um ser"].
+Ideia é a simples representação intelectual [da essência de um ser||"de um ser" ou "da essência de um ser"].
 
 *** Item                                                            :drill:
 SCHEDULED: <2023-01-27 sex>
@@ -506,9 +506,9 @@ SCHEDULED: <2023-01-27 sex>
 :DRILL_LAST_REVIEWED: [2023-01-16 seg 19:48]
 :END:
 
-Idéia é a simples representação intelectual de uma coisa.
+Ideia é a simples representação intelectual de uma coisa.
 
-A coisa representada é [a essência de um ente||"a essência de um ente" or "um ente"].
+A coisa representada é [a essência de um ente||"a essência de um ente" ou "um ente"].
 
 *** Item                                                            :drill:
 SCHEDULED: <2023-01-29 dom>
@@ -526,7 +526,7 @@ SCHEDULED: <2023-01-29 dom>
 
 Um sinal é uma coisa, que nos leva ao conhecimento de outra.
 
-A idéia é um sinal [natural||"natural" or "convencional"].
+A ideia é um sinal [natural||"natural" ou "convencional"].
 
 *** Item                                                            :drill:
 SCHEDULED: <2023-01-29 dom>
@@ -542,7 +542,7 @@ SCHEDULED: <2023-01-29 dom>
 :DRILL_LAST_REVIEWED: [2023-01-16 seg 19:50]
 :END:
 
-A [compreesão||"compreesão" or "extensão"] da idéia é a soma ou o
+A [compreensão||"compreensão" ou "extensão"] da ideia é a soma ou o
 conjunto das notas, ou dos elementos, que a constituem.
 
 *** Item                                                            :drill:
@@ -559,8 +559,8 @@ SCHEDULED: <2023-02-04 sáb>
 :DRILL_LAST_REVIEWED: [2023-01-20 sex 07:24]
 :END:
 
-A [extensão||"extensão" or "compreensão"] é a soma ou o número dos
-indivíduos, que a idéia abrange.
+A [extensão||"extensão" ou "compreensão"] é a soma ou o número dos
+indivíduos, que a ideia abrange.
 
 *** Item                                                            :drill:
 SCHEDULED: <2023-02-01 qua>
@@ -576,7 +576,7 @@ SCHEDULED: <2023-02-01 qua>
 :DRILL_LAST_REVIEWED: [2023-01-20 sex 07:24]
 :END:
 
-Quanto maior é a compreensão de uma ideia [menor||"menor" or "maior"]
+Quanto maior é a compreensão de uma ideia [menor||"menor" ou "maior"]
 é a sua extensão.
 
 *** Item                                                            :drill:
@@ -611,7 +611,7 @@ SCHEDULED: <2023-01-22 dom>
 :DRILL_LAST_REVIEWED: [2023-01-18 qua 09:21]
 :END:
 
-Uma forma de categorizar uma idéia quanto ao objeto representado é a
+Uma forma de categorizar uma ideia quanto ao objeto representado é a
 divisão real vs lógica.
 
 O homem, considerado como espécie, é uma ideia [lógica].
@@ -630,7 +630,7 @@ SCHEDULED: <2023-01-23 seg>
 :DRILL_LAST_REVIEWED: [2023-01-18 qua 09:23]
 :END:
 
-Uma forma de categorizar uma idéia quanto ao objeto representado é a
+Uma forma de categorizar uma ideia quanto ao objeto representado é a
 divisão positiva vs negativa.
 
 A ideia de morte é uma ideia [negativa].
@@ -649,7 +649,7 @@ SCHEDULED: <2023-01-22 dom>
 :DRILL_LAST_REVIEWED: [2023-01-18 qua 09:21]
 :END:
 
-Uma forma de categorizar uma idéia quanto ao objeto representado é a
+Uma forma de categorizar uma ideia quanto ao objeto representado é a
 divisão absoluta vs relativa.
 
 A ideia de filho é uma ideia [relativa].
@@ -668,10 +668,10 @@ SCHEDULED: <2023-01-22 dom>
 :DRILL_LAST_REVIEWED: [2023-01-18 qua 09:22]
 :END:
 
-Uma forma de categorizar uma idéia quanto ao objeto representado é a
+Uma forma de categorizar uma ideia quanto ao objeto representado é a
 divisão intuitiva vs abstrativa.
 
-A idéia [abstrativa||"intuitiva" or "abstrativa"] é a que representa
+A ideia [abstrativa||"intuitiva" ou "abstrativa"] é a que representa
 uma coisa, não como é em si mesma, mas como se encontra na imagem de
 outra coisa, que de algum modo a manifesta.
 
@@ -689,13 +689,13 @@ SCHEDULED: <2023-01-22 dom>
 :DRILL_LAST_REVIEWED: [2023-01-18 qua 09:17]
 :END:
 
-Uma forma de categorizar uma idéia quanto ao objeto representado é a
+Uma forma de categorizar uma ideia quanto ao objeto representado é a
 divisão unívoca vs análoga.
 
-A idéai [análoga||"unívoca" or "análoga"] representa um objeto, que se
+A ideia [análoga||"unívoca" ou "análoga"] representa um objeto, que se
 atribui aos inferiores numa significação nem totalmente idêntica, nem
 totalmente diversa; tal é a ideia de sanidade, que se atribui ao
-nimal, ao almento, e à cor.
+animal, ao alimento, e à cor.
 
 *** Item                                                            :drill:
 SCHEDULED: <2023-01-22 dom>
@@ -711,15 +711,15 @@ SCHEDULED: <2023-01-22 dom>
 :DRILL_LAST_REVIEWED: [2023-01-18 qua 09:21]
 :END:
 
-Uma forma de categorizar uma idéia quanto ao objeto representado é a
+Uma forma de categorizar uma ideia quanto ao objeto representado é a
 divisão singular vs universal vs particular.
 
-É [universal||"particular" or "universal"], quando representa uma
+É [universal||"particular" ou "universal"], quando representa uma
 essência, comum a muitos entes, de modo que a todos e a cada um deles
 pode ser atribuída.
 
-A [particular||"singular" or "particular"] é a própria idéia
-universal, mas tomada numa parte da sua extenção.
+A [particular||"singular" ou "particular"] é a própria ideia
+universal, mas tomada numa parte da sua extensão.
 
 *** Item                                                            :drill:
 SCHEDULED: <2023-01-23 seg>
@@ -735,8 +735,8 @@ SCHEDULED: <2023-01-23 seg>
 :DRILL_LAST_REVIEWED: [2023-01-18 qua 09:19]
 :END:
 
-Uma forma de categorizar uma idéia quanto ao objeto representado é a
-divisão universal-reflexa vs universal-direta.
+Uma forma de categorizar uma ideia quanto ao objeto representado é a
+divisão universal reflexa vs universal direta.
 
 A ideia universal-[reflexa] é a mesma própria universal-[direta], à
 qual se acrescenta a relação os inferiores.
@@ -757,7 +757,7 @@ SCHEDULED: <2023-01-23 seg>
 :DRILL_LAST_REVIEWED: [2023-01-18 qua 09:22]
 :END:
 
-Uma forma de categorizar uma idéia quanto ao modo de representar é a
+Uma forma de categorizar uma ideia quanto ao modo de representar é a
 divisão:
 
 - clara vs ob[scura]
@@ -785,7 +785,7 @@ seguinte "ordem de compreensão":
 - cl[ara] :: o objeto representado se extrema de qualquer outro
 - dis[tinta] :: além de extrema, exprime os elementos essenciais do mesmo objeto
 - comp[leta] :: além de extremar e exprimir elementos essenciais, exaure
-  recursivamente os sub-elementos dos quais os elementos essencias da
+  recursivamente os subelementos dos quais os elementos essencias da
   ideia de compõe adequada
 - ade[quada] :: representa o objeto em si mesmo
 
@@ -803,10 +803,10 @@ SCHEDULED: <2023-01-23 seg>
 :DRILL_LAST_REVIEWED: [2023-01-18 qua 09:21]
 :END:
 
-A idéia [adequada||"adequada" or "clara"] é prória a inteligência de
+A ideia [adequada||"adequada" ou "clara"] é própria a inteligência de
 Deus.
 
-** Divisiões das ideias universais-reflexas
+** Divisões das ideias universais reflexas
 *** Item                                                            :drill:
 SCHEDULED: <2023-01-24 ter>
 :PROPERTIES:
@@ -822,7 +822,7 @@ SCHEDULED: <2023-01-24 ter>
 :END:
 
 Os diversos modos por que uma coisa pode existir em muitos sujeitos e
-ser-lhes atribuída (idéia universal reflexa) são 5:
+ser-lhes atribuída (ideia universal reflexa) são 5:
 
 - Pertence à essência?
     * Completa? Temos a Es[pécie].
@@ -848,7 +848,7 @@ SCHEDULED: <2023-01-22 dom>
 :END:
 
 Gênero, espécie, diferença, acidente, e propriedade são as 5 divisões
-das ideias universais [reflexas||"reflexas" or "diretas"].
+das ideias universais [reflexas||"reflexas" ou "diretas"].
 
 *** Item                                                            :drill:
 SCHEDULED: <2023-01-23 seg>
@@ -887,20 +887,20 @@ SCHEDULED: <2023-01-23 seg>
 :DRILL_LAST_REVIEWED: [2023-01-18 qua 09:19]
 :END:
 
-Cada uma das idéias universais de gênero, espécie e diferença
+Cada uma das ideias universais de gênero, espécie e diferença
 divide-se em:
 
 - supremo
 - intermédio
 - ínfimo
 
-Gênero [supremo||"supremo" or "ínfimo"] é o que acima de si não tem
-outro género e que por isso, não pode ser espécie.
+Gênero [supremo||"supremo" ou "ínfimo"] é o que acima de si não tem
+outro gênero e que por isso, não pode ser espécie.
 
-Espécie [suprema||"suprema" or "intermédia"] é a que está
+Espécie [suprema||"suprema" ou "intermédia"] é a que está
 imediatamente abaixo do gênero supremo.
 
-Diferença suprema é a que, unida ao gênero [supremo||"supremo" or "intermédio"], constitui as
+Diferença suprema é a que, unida ao gênero [supremo||"supremo" ou "intermédio"], constitui as
 espécies supremas.
 
 *** Item                                                            :drill:
@@ -917,9 +917,9 @@ SCHEDULED: <2023-01-22 dom>
 :DRILL_LAST_REVIEWED: [2023-01-18 qua 09:23]
 :END:
 
-A ~bondade~ no homem é [acidente||"propriedade" or "acidente"].
+A ~bondade~ no homem é [acidente||"propriedade" ou "acidente"].
 
-A ~faculdade de falar~ no homem é [propriedade||"propriedade" or "acidente"].
+A ~faculdade de falar~ no homem é [propriedade||"propriedade" ou "acidente"].
 
 ** As 10 Categorias
 *** Item                                                            :drill:
@@ -935,8 +935,6 @@ SCHEDULED: <2023-01-23 seg>
 :DRILL_LAST_QUALITY: 5
 :DRILL_LAST_REVIEWED: [2023-01-19 qui 08:45]
 :END:
-
-
 
 Dentre as 10 categorias:
 
@@ -989,7 +987,6 @@ escrever.
 
 [Paixão] é a alteração, que a substância sofre pela ação do agente; tal
 é sentir frio.
-
 
 *** Item                                                            :drill:
 SCHEDULED: <2023-01-24 ter>
@@ -1050,7 +1047,7 @@ SCHEDULED: <2023-01-23 seg>
 :END:
 
 
-O número total de categorias é [10||"10" or "7"].
+O número total de categorias é [10||"10" ou "7"].
 
 *** Item                                                            :drill:
 SCHEDULED: <2023-01-23 seg>
@@ -1100,7 +1097,7 @@ SCHEDULED: <2023-01-23 seg>
 :DRILL_LAST_REVIEWED: [2023-01-19 qui 08:46]
 :END:
 
-Qual o nome da class de categorias que engloba quantidade, qualidade,
+Qual o nome da classe de categorias que engloba quantidade, qualidade,
 relação, ação, paixão, localização, quandocação, estado, e hábito?
 
 [Acidentes].
@@ -1120,7 +1117,7 @@ SCHEDULED: <2023-01-23 seg>
 :DRILL_LAST_REVIEWED: [2023-01-19 qui 08:45]
 :END:
 
-*Termo*, ou palavra, ou vocábulo, é a expressão verbal da [idéia].
+*Termo*, ou palavra, ou vocábulo, é a expressão verbal da [ideia].
 
 *** Item                                                            :drill:
 SCHEDULED: <2023-01-23 seg>
@@ -1178,11 +1175,11 @@ SCHEDULED: <2023-01-23 seg>
 
 Sobre *termos*:
 
-[Equívoco||"Análogo" or "Equívoco"] é o que se atribui a vários entes,
+[Equívoco||"Análogo" ou "Equívoco"] é o que se atribui a vários entes,
 mas em diversa significação.
 
-[Análogo||"Análogo" or "Equívoco"] é o que se atribui a vários entes
-numa signifição, que não é inteiramente idêntica, nem inteiramente
+[Análogo||"Análogo" ou "Equívoco"] é o que se atribui a vários entes
+numa significação, que não é inteiramente idêntica, nem inteiramente
 diversa.
 
 *** Item                                                            :drill:
@@ -1201,7 +1198,7 @@ SCHEDULED: <2023-01-23 seg>
 
 Dentre as 6 principais propriedades do termo:
 
-- Supo[sição] :: é a posição dotermo em lugar da coisa que ele exprime.
+- Supo[sição] :: é a posição do termo em lugar da coisa que ele exprime.
 - Ape[lação] :: é a aplicação de um termo a outro
 
 *** Item                                                            :drill:
@@ -1223,7 +1220,7 @@ Dentre as 6 principais propriedades do termo:
 - Est[ado] :: é a acepção do termo no tempo, que o verbo exprime. E.g.:
   o surdo não ouve.
 - Dist[ração] :: é a acepção do termo num tempo diverso daquele que o
-  verbo exprime. E.g.: os cegos vêem.
+  verbo exprime. E.g.: os cegos veem.
 
 *** Item                                                            :drill:
 SCHEDULED: <2023-01-25 qua>
@@ -1241,7 +1238,7 @@ SCHEDULED: <2023-01-25 qua>
 
 Na frase a seguir, o termo *cego* é tomado no presente ou no passado?
 
-> Os cegos vêem
+> Os cegos veem
 
 [No passado. Eles eram cegos no passado.]
 
@@ -1325,10 +1322,10 @@ SCHEDULED: <2023-01-25 qua>
 :END:
 
 Def[inição] é a explicação de uma coisa ou de um termo. Serve para
-conhecermos a [compreensão||"extensão" or "compreensão"] das idéias e dos termos.
+conhecermos a [compreensão||"extensão" ou "compreensão"] das ideias e dos termos.
 
 Div[isão] é a decomposição de um todo nas suas partes. Leva-nos ao
-conhecimento da [extensão||"compreensão" or "extensão"] das idéias e
+conhecimento da [extensão||"compreensão" ou "extensão"] das ideias e
 dos termos.
 
 *** Item                                                            :drill:
@@ -1409,7 +1406,7 @@ SCHEDULED: <2023-01-24 ter>
 Como definições elementares (como ente, unidade, ...) podem ser
 explicadas?
 
-**** Answer
+**** Resposta
 
 Dessas noções podemos fazer uma descrição ou declaração por meio de
 noções, que sejam, relativamente a nós, mais conhecidas.
@@ -1431,7 +1428,7 @@ SCHEDULED: <2023-01-25 qua>
 Regras para uma definição:
 
 - Ser composta do [gênero] próximo e da [diferença] específica
-- Ser [recíproca] (a definição e acoisa definida possam converter-se uma
+- Ser [recíproca] (a definição e a coisa definida possam converter-se uma
   na outra)
 - Ser [clara] (extremar de qualquer outro termo)
 - Ser [breve], para poder conservar-se na memória
@@ -1451,7 +1448,7 @@ SCHEDULED: <2023-01-24 ter>
 :END:
 
 Aristóteles ensina 2 métodos para procurar e encontrar os elementos
-essenciais, de que se compõem a [definição||"definição" or "divisão"].
+essenciais, de que se compõem a [definição||"definição" ou "divisão"].
 
 Chamam-se: descendente, e ascendente.
 
@@ -1470,7 +1467,7 @@ SCHEDULED: <2023-01-24 ter>
 :END:
 
 [Divisão] é a decomposição de um todo nas suas partes. Leva-nos ao
-conhecimento da extensão das idéias e dos termos.
+conhecimento da extensão das ideias e dos termos.
 
 Subdivide-se em:
 
@@ -1497,7 +1494,7 @@ SCHEDULED: <2023-01-24 ter>
 :DRILL_LAST_REVIEWED: [2023-01-20 sex 07:26]
 :END:
 
-Uma [divisão||"divisão" or "definição"] deve:
+Uma [divisão||"divisão" ou "definição"] deve:
 
 - ser breve
 - ser adequada (a soma das partes deve ser igual ao todo)
@@ -1525,11 +1522,11 @@ SCHEDULED: <2023-01-23 seg>
 :DRILL_LAST_REVIEWED: [2023-01-20 sex 07:31]
 :END:
 
-[Divisão||"Divisão" or "Classificação"] é a decomposição de um todo
-nas suas partes. Leva-nos ao conhecimento da extensão das idéias e dos
+[Divisão||"Divisão" ou "Classificação"] é a decomposição de um todo
+nas suas partes. Leva-nos ao conhecimento da extensão das ideias e dos
 termos.
 
-[Classificação||"Classificação" or "Divisão"] é a disposição ordenada
+[Classificação||"Classificação" ou "Divisão"] é a disposição ordenada
 de muitos *indivíduos* em classes. É feita baseada em um *caráter*.
 
 ** Juízo e Proposição
@@ -1547,8 +1544,8 @@ SCHEDULED: <2023-01-24 ter>
 :DRILL_LAST_REVIEWED: [2023-01-20 sex 07:29]
 :END:
 
-[Juízo||"Juízo" or "Proposição"] é a união ou a separação de duas
-*idéias*, e por isso, de dois objetos, por meio da afirmação ou da
+[Juízo||"Juízo" ou "Proposição"] é a união ou a separação de duas
+*ideias*, e por isso, de dois objetos, por meio da afirmação ou da
 negação.
 
 *** Item                                                            :drill:
@@ -1565,14 +1562,14 @@ SCHEDULED: <2023-01-25 qua>
 :DRILL_LAST_REVIEWED: [2023-01-20 sex 07:32]
 :END:
 
-O juízo é necessariamente um ato da [inteligência||"vontade" or
+O juízo é necessariamente um ato da [inteligência||"vontade" ou
 "inteligência"]; porque só essa faculdade pode conhecer a relação (que
 é uma coisa abstrata) entre dois objetos e por isso, entre duas
-idéias.
+ideias.
 
-O juízo, relativo à conveniência ou desconveniência entre duas idéias,
+O juízo, relativo à conveniência ou desconveniência entre duas ideias,
 funda-se necessariamente na conveniência ou desconveniência
-[objetiva||"subjetiva" or "objetiva"] das coisas, que as idéias
+[objetiva||"subjetiva" ou "objetiva"] das coisas, que as ideias
 representam.
 
 *** Item                                                            :drill:
@@ -1591,9 +1588,9 @@ SCHEDULED: <2023-01-25 qua>
 
 Em relação ás 3 partes do *juízo*:
 
-- A idéia de que alguma coisa se afirma ou nega, diz-se [sujeito||"substantivo" or "sujeito"]
-- a idéia que se afirma ou nega do sujeito, chama-se [predicado||"objeto" or "predicado"]
-- [a relação||"a relação" or "o verbo"] que une os dois anteriores
+- A ideia de que alguma coisa se afirma ou nega, diz-se [sujeito||"substantivo" ou "sujeito"]
+- a ideia que se afirma ou nega do sujeito, chama-se [predicado||"objeto" ou "predicado"]
+- [a relação||"a relação" ou "o verbo"] que une os dois anteriores
   chama-se cópula.
 
 *** Item                                                            :drill:
@@ -1613,9 +1610,9 @@ SCHEDULED: <2023-01-22 dom>
 Sob as divisões do juízo entre afirmativo e negativo, e também quanto
 a verdadeiro e falso.
 
-- é [afirmativo||"afirmativo" or "verdadeiro"] se afirma a relação de
+- é [afirmativo||"afirmativo" ou "verdadeiro"] se afirma a relação de
   conveniência entre o sujeito e o predicado.
-- é [falso||"falso" or "negativo"] quadno ao sujeito não convém o
+- é [falso||"falso" ou "negativo"] quando ao sujeito não convém o
   predicado que lhe atribuímos, ou convém o que lhe negamos.
 
 *** Item                                                            :drill:
@@ -1635,7 +1632,7 @@ SCHEDULED: <2023-01-25 qua>
 Quando a divisão do juízo entre direto e reflexo:
 
 #+begin_quote
-é [reflexo||"reflexo" or "direto"], quando, dobrando-se sobre si
+é [reflexo||"reflexo" ou "direto"], quando, dobrando-se sobre si
 mesma, a inteligência considera o seu próprio juízo, e reconhece a sua
 conformidade com a realidade objetiva.
 #+end_quote
@@ -1700,13 +1697,13 @@ SCHEDULED: <2023-01-23 seg>
 :DRILL_LAST_REVIEWED: [2023-01-20 sex 07:25]
 :END:
 
-Qual espécie de juízo também é chamado de a-priori e necessário?
+Qual espécie de juízo também é chamado de a priori e necessário?
 
-[Analítico||"Sintético" or "Analítico"]
+[Analítico||"Sintético" ou "Analítico"]
 
-Qual espécie de juízo também é chamado de a-posteriori e contingente?
+Qual espécie de juízo também é chamado de a posteriori e contingente?
 
-[Sintético||"Analítico" or "Sintético"].
+[Sintético||"Analítico" ou "Sintético"].
 
 *** Item                                                            :drill:
 SCHEDULED: <2023-01-24 ter>
@@ -1722,7 +1719,7 @@ SCHEDULED: <2023-01-24 ter>
 :DRILL_LAST_REVIEWED: [2023-01-20 sex 07:33]
 :END:
 
-Qual juízo é analítico (a-priori)?
+Qual juízo é analítico (a priori)?
 
 - a) O homem é racional.
 - b) Pedro é sábio.
@@ -1745,7 +1742,7 @@ SCHEDULED: <2023-01-24 ter>
 
 mediato ou imediato?
 
-Um juízo é dito [imediato] se a relação etre predicado e sujeito se
+Um juízo é dito [imediato] se a relação entre predicado e sujeito se
 conhece intuitivamente. É [mediato] se a relação só se conhece pelo
 discurso.
 
@@ -1763,7 +1760,7 @@ SCHEDULED: <2023-01-24 ter>
 :DRILL_LAST_REVIEWED: [2023-01-20 sex 07:32]
 :END:
 
-Uma proposição simples contém [apenas um||"apenas um" or "ao menos um"]
+Uma proposição simples contém [apenas um||"apenas um" ou "ao menos um"]
 sujeito e um só predicado. Uma composta contém implicitamente
 mais que uma proposição simples.
 
@@ -1844,9 +1841,9 @@ Na proposição afirmativa
 
 Tem-se que:
 
-- B é entendido em [toda||"uma parte de" or "toda"] sua *compreensão*
-- B é entenndido em [parte da||"parte da" or "toda"] sua *extensão*
-- Se avaliarmos o conjunto dos indivíduos de A e B, podemos dizer que: A [⊆||"⊇" or "⊆"] B
+- B é entendido em [toda||"uma parte de" ou "toda"] sua *compreensão*
+- B é entendido em [parte da||"parte da" ou "toda"] sua *extensão*
+- Se avaliarmos o conjunto dos indivíduos de A e B, podemos dizer que: A [⊆||"⊇" ou "⊆"] B
 
 *** Item                                                            :drill:
 
@@ -1854,10 +1851,10 @@ Na proposição
 
 > A não é B
 
-- B é tomado em parte da sua [compreensão||"compreensão" or "extensão"], pois
+- B é tomado em parte da sua [compreensão||"compreensão" ou "extensão"], pois
   basta uma nota de B seja ausente em A para que o predicado seja
   verdadeiro
-- B é tomado em toda a sua [extensão||"compreensão" or "extensão"],
+- B é tomado em toda a sua [extensão||"compreensão" ou "extensão"],
   pois nenhum B é A.
 - Pode-se dizer reciprocamente que: nenhum [B] é [A]
 
@@ -1869,15 +1866,15 @@ Na modal, além de indicar conveniência ou não entre sujeito e
 predicado, se indica também o modo porque o predicado convém ou
 repugna ao sujeito. A proposição modal poder ser:
 
-- modal-nec[essária]
-- modal-imp[ossível]
-- modal-pos[sível]
+- modal nec[essária]
+- modal imp[ossível]
+- modal pos[sível]
 
 *** Item                                                            :drill:
 
 As proposições modais se reduzem às absolutas.
 
-A proposição modal-necessária "é necessário que todo o homem seja
+A proposição modal necessária "é necessário que todo o homem seja
 racional" se reduz à [todo o homem é racional]
 
 *** Item                                                            :drill:
@@ -1908,7 +1905,7 @@ disjuntiva, adversativa, relativa, ou exponível?
 A proposição composta a seguir é copulativa, causal, condicional,
 disjuntiva, adversativa, relativa, ou exponível?
 
-> o mundo e ininito ou finito
+> o mundo e infinito ou finito
 
 [disjuntiva]
 
@@ -1935,7 +1932,7 @@ disjuntiva, adversativa, relativa, ou exponível?
 A proposição composta a seguir é copulativa, causal, condicional,
 disjuntiva, adversativa, relativa, ou exponível?
 
-> Luis é sábio, mas não é bom
+> Luís é sábio, mas não é bom
 
 [adversativa]
 
@@ -1956,3 +1953,9 @@ disjuntiva, adversativa, relativa, ou exponível?
 > a alma humana e imortal, por ser espírito
 
 [causal]
+
+* COMMENT Local variables
+# local variables:
+# display-line-numbers-width: 3
+# ispell-local-dictionary: "brasileiro"
+# end:
