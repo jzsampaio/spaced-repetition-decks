@@ -3,34 +3,34 @@
 * Geral
 
 ** Item                                                              :drill:
-SCHEDULED: <2023-01-15 dom>
+SCHEDULED: <2023-01-31 ter>
 :PROPERTIES:
 :ID:       6f46a024-d837-4c88-8c60-784f5be8fede
-:DRILL_LAST_INTERVAL: 4.0474
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.4959
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-11 qua 09:09]
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 06:35]
 :END:
 
 O rei que era vivo durante o nascimento de Jesus, e que mandou matar
 meninos menores de 2 anos, se chamava [Erodes||"Erodes" or "Poncio Pilatos"].
 
 ** Item                                                              :drill:
-SCHEDULED: <2023-01-15 dom>
+SCHEDULED: <2023-02-01 qua>
 :PROPERTIES:
 :ID:       9c45f19c-45a6-4972-a25d-2cee6a0bae26
-:DRILL_LAST_INTERVAL: 4.467
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.9075
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-11 qua 09:09]
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 06:35]
 :END:
 
 Jesus nasceu em [Belém||"Jerusalém" or "Belém"], que fica ao sul de
@@ -38,17 +38,17 @@ Jesus nasceu em [Belém||"Jerusalém" or "Belém"], que fica ao sul de
 [Judéia||"Galiléia" or "Judéia"]).
 
 ** Item                                                              :drill:
-SCHEDULED: <2023-01-16 seg>
+SCHEDULED: <2023-02-02 qui>
 :PROPERTIES:
 :ID:       138d00d9-a08e-40f5-9b5e-2c55d209a20e
-:DRILL_LAST_INTERVAL: 4.8555
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.831
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-11 qua 09:10]
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 06:36]
 :END:
 
 Jerusalém ou Judéia?
@@ -57,17 +57,17 @@ Qual é a capital? [Jerusalém]
 Qual é o estado? [Judéia]
 
 ** Item                                                              :drill:
-SCHEDULED: <2023-01-15 dom>
+SCHEDULED: <2023-02-02 qui>
 :PROPERTIES:
 :ID:       03fc09d1-903f-4064-aa95-252521e87a21
-:DRILL_LAST_INTERVAL: 4.1464
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.1422
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_AVERAGE_QUALITY: 4.5
 :DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-11 qua 09:10]
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 06:35]
 :END:
 
 Após voltar do Egito, José se estabelece em [Nazaré||"Nazaré" or "Jerusalém"],
@@ -96,17 +96,17 @@ no estado da [Galiléia||"Galiléia" or "Judéia"].
 * Mateus
 ** II
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-16 seg>
+SCHEDULED: <2023-02-01 qua>
 :PROPERTIES:
 :ID:       32e5ec48-4189-4109-9967-b7a56bb47a08
-:DRILL_LAST_INTERVAL: 4.6463
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.7651
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-11 qua 09:09]
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 06:36]
 :END:
 
 Os presentes levados pelos 3 reis magos são: ouro, incenso, e m[irra].
@@ -119,33 +119,33 @@ Os presentes levados pelos 3 reis magos são: ouro, incenso, e m[irra].
 Jesus foi batizado no rio [Jordão].
 
 *** Item :drill:
-SCHEDULED: <2023-01-16 seg>
+SCHEDULED: <2023-01-31 ter>
 :PROPERTIES:
 :ID:       be290616-136c-453b-b3bd-11bc1e1a9347
-:DRILL_LAST_INTERVAL: 3.8783
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.838
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-12 qui 07:53]
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 06:36]
 :END:
 
 Após ser batizado, Jesus passa [40||"12" or "40"] dias no deserto.
 
 *** Item :drill:
-SCHEDULED: <2023-01-16 seg>
+SCHEDULED: <2023-01-28 sáb>
 :PROPERTIES:
 :ID:       2851a824-1769-4ed2-be69-fd88374a9b08
-:DRILL_LAST_INTERVAL: 3.5395
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 7.6776
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-12 qui 07:53]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 06:35]
 :END:
 
 As 3 tentações de Jesus no deserto foram:
@@ -153,20 +153,20 @@ As 3 tentações de Jesus no deserto foram:
 - Sobre [transformar pedras em pães e saciar a fome].
 - Sobre [se jogar do topo do templo e ser resgatado por anjos].
 - Sobre [adorar a Satanás e ele lhe dar todos os reinos da Terra].
-  
+
 ** IV
 *** Item :drill:
-SCHEDULED: <2023-01-16 seg>
+SCHEDULED: <2023-02-01 qua>
 :PROPERTIES:
 :ID:       af98b812-5d56-410a-abc7-f036fa1f66dd
-:DRILL_LAST_INTERVAL: 4.3842
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.066
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-12 qui 07:53]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 06:36]
 :END:
 
 Após ser tentado no deserto, Jesus ouve que João Batista foi preso, e
@@ -174,17 +174,17 @@ volta a Galiléia. Em seguida, ele deixa Nazaré e vai pregar em
 [Cafarnaum||"Betsaida" or "Cafarnaum"].
 
 *** Item :drill:
-SCHEDULED: <2023-01-17 ter>
+SCHEDULED: <2023-02-05 dom>
 :PROPERTIES:
 :ID:       d53c824e-af27-4ca3-b79b-b7eb42da194f
-:DRILL_LAST_INTERVAL: 5.2499
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 15.6836
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-12 qui 07:53]
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 06:36]
 :END:
 
 O mistério do terço luminoso em que Jesus começa a pregar se passa em
@@ -194,17 +194,17 @@ ser preso.
 Ele anuncia: "Arrependei-vos, porque está próximo o Reino dos Céus".
 
 *** Item :drill:
-SCHEDULED: <2023-01-17 ter>
+SCHEDULED: <2023-01-31 ter>
 :PROPERTIES:
 :ID:       ef887cb5-d562-4ffa-a910-df791b4a3bdd
-:DRILL_LAST_INTERVAL: 4.1009
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.264
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-13 sex 09:09]
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 06:37]
 :END:
 
 Os 4 primeiros apóstolos chamados são:
@@ -217,17 +217,17 @@ Os 4 primeiros apóstolos chamados são:
 Os 4 eram pescadores.
 
 *** Item :drill:
-SCHEDULED: <2023-01-17 ter>
+SCHEDULED: <2023-02-01 qua>
 :PROPERTIES:
 :ID:       9333d4bc-2b9c-476e-9c2a-08b28e3239fe
-:DRILL_LAST_INTERVAL: 4.0322
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.6767
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-13 sex 09:09]
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 06:37]
 :END:
 
 A quem disse Jesus "segui-me, e eu farei de vós percadores de homens"?
@@ -236,17 +236,17 @@ A [Pedro] e seu irmão [André].
 
 ** V
 *** Item :drill:
-SCHEDULED: <2023-01-17 ter>
+SCHEDULED: <2023-01-31 ter>
 :PROPERTIES:
 :ID:       7ea66713-c7f3-4a08-832d-7d1eaa26a277
-:DRILL_LAST_INTERVAL: 3.7502
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.0116
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-13 sex 09:09]
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 06:37]
 :END:
 
 O sermão da montanha se passa nas proximidades da cidade de
@@ -254,49 +254,49 @@ O sermão da montanha se passa nas proximidades da cidade de
 deserto.
 
 *** Item :drill:
-SCHEDULED: <2023-01-18 qua>
+SCHEDULED: <2023-02-01 qua>
 :PROPERTIES:
 :ID:       c4c4ad56-b46a-45e8-b0d0-c9f8d3746d32
-:DRILL_LAST_INTERVAL: 4.6119
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.5794
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-13 sex 09:09]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 06:37]
 :END:
 
 O sermão da montanha começa com as [8||"8" or "7"] bem aventuranças.
 
 *** Item :drill:
-SCHEDULED: <2023-01-18 qua>
+SCHEDULED: <2023-02-01 qua>
 :PROPERTIES:
 :ID:       bfc21b1a-0e2d-4581-b79d-aa6357365e5f
-:DRILL_LAST_INTERVAL: 4.5841
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.9661
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-13 sex 09:10]
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 06:37]
 :END:
 
-O sermão da montanha foi dito para [4 apóstolos||"uma multidão" or "4 apóstolos"].
+O sermão da montanha foi dito para [uma multidão e os 4 primeiros apóstolos||"uma multidão" or "4 apóstolos"].
 
 *** Item :drill:
-SCHEDULED: <2023-01-18 qua>
+SCHEDULED: <2023-02-02 qui>
 :PROPERTIES:
 :ID:       5839d74e-1149-42d9-aa2f-b8de4d4485d7
-:DRILL_LAST_INTERVAL: 4.5269
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.6956
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-13 sex 09:09]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 06:38]
 :END:
 
 Durante o sermão da montanha, Jesus inicia com o discurso das 8
@@ -317,47 +317,42 @@ As leis que são aumentadas nesse discurso são:
 :PROPERTIES:
 :ID:       5f14cc0c-72dd-45b7-bf1b-1ea0ee6dddeb
 :END:
-* COMMENT Items 
 
-:ID:       4538d39e-7c5f-43c1-a6d2-0f1584e4060f
-:END:
-*** Item :drill:
-:PROPERTIES:
-:ID:       4e43300e-4a18-4c83-902c-906dcfb2753d
-:END:
-*** Item :drill:
-:PROPERTIES:
-:ID:       046e0a80-8e64-4cc5-80d8-05ffd969df55
-:END:
-*** Item :drill:
-:PROPERTIES:
-:ID:       5092299c-7f12-4428-837f-4c77b3122bc3
-:END:
-*** Item :drill:
-:PROPERTIES:
-:ID:       f8db3cd5-3c30-4d7f-81df-c96c14c1da7e
-:END:
-*** Item :drill:
-:PROPERTIES:
-:ID:       1b032383-7858-437e-943f-af2955ddabce
-:END:
-*** Item :drill:
-:PROPERTIES:
-:ID:       2f5ec7ca-e66d-4233-b3ae-ade0f4238223
-:END:
-*** Item :drill:
-:PROPERTIES:
-:ID:       eec7d33c-7302-45e7-83fe-11beff4d7ee9
-:END:
-*** Item :drill:
-:PROPERTIES:
-:ID:       a2d820ee-f373-4b14-b11f-5a9cfae9cf05
-:END:
-*** Item :drill:
-:PROPERTIES:
-:ID:       b189657e-6c4a-4e1b-9a5d-77f2ba9e0eb5
-:END:
-*** Item :drill:
-:PROPERTIES:
-:ID:       cf90c8bb-ca2b-4184-bd1b-46019916fbea
-:END:
+** VI
+*** Item                                                            :drill:
+
+Ainda dentro do sermão da montanha, após as 8 bem-aventuranças, e a
+expansão dos mandamentos, Jesus ensina a não buscar reconhecimento
+entre os homens. Deve-se:
+
+- dar es[mola] em segredo
+- or[ar] em segredo
+- je[juar] em segredo
+
+Pois se o olho (intenção) estiver são o corpo inteiro (as obras)
+estará, mas se for a intenção tenebrosa, igualmente serão as obras.
+
+*** Item                                                            :drill:
+
+Onde está teu tesouro aí estará também teu [coração].
+
+** VII
+*** Item                                                            :drill:
+
+Tudo aquilo, portanto, que quereisque os homens vos façam, fazei-o vós
+a eles, pois esta é [a Lei e os Profetas||"2 nomes"].
+
+*** Item                                                            :drill:
+
+Não deis aos [cães] (os que lutam para dilacerar a verdade) o que é
+sagrado, nem atireis as vossas pérolas aos [porcos] (os que me
+menosprezam a verdade).
+
+*** Item                                                            :drill:
+
+Estreita é a porta e apertado o caminho que conduz à [Vida]. E poucos
+são os que o encontram.
+
+*** Item                                                            :drill:
+
+Guardai-vos dos falsos profetas. É pelos [frutos] que os reconhecei.

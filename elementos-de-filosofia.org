@@ -378,17 +378,17 @@ Complete a tabela:
 | Raciocínio               | [Argumentação]     |
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-20 sex>
+SCHEDULED: <2023-02-03 sex>
 :PROPERTIES:
 :ID:       db41d375-9f00-47e5-ae9b-fdbc77cbbd59
-:DRILL_LAST_INTERVAL: 4.472
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 4
+:DRILL_LAST_INTERVAL: 14.0268
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
 :DRILL_FAILURE_COUNT: 2
-:DRILL_AVERAGE_QUALITY: 2.75
-:DRILL_EASE: 2.7
+:DRILL_AVERAGE_QUALITY: 3.2
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-16 seg 19:52]
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:24]
 :END:
 
 Complete a tabela:
@@ -546,34 +546,34 @@ A [compreesão||"compreesão" or "extensão"] da idéia é a soma ou o
 conjunto das notas, ou dos elementos, que a constituem.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-20 sex>
+SCHEDULED: <2023-02-04 sáb>
 :PROPERTIES:
 :ID:       dba38315-af86-4e2b-8b7f-14d0a08e39a9
-:DRILL_LAST_INTERVAL: 4.4621
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.7255
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-16 seg 19:52]
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:24]
 :END:
 
 A [extensão||"extensão" or "compreensão"] é a soma ou o número dos
 indivíduos, que a idéia abrange.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-20 sex>
+SCHEDULED: <2023-02-01 qua>
 :PROPERTIES:
 :ID:       1a618ec0-6e61-4932-868b-a13c13c505aa
-:DRILL_LAST_INTERVAL: 4.0168
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.0006
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-16 seg 19:52]
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:24]
 :END:
 
 Quanto maior é a compreensão de uma ideia [menor||"menor" or "maior"]
@@ -1186,8 +1186,17 @@ numa signifição, que não é inteiramente idêntica, nem inteiramente
 diversa.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-23 seg>
 :PROPERTIES:
 :ID:       7df06e68-44f8-4d0c-b342-025491a249ed
+:DRILL_LAST_INTERVAL: 3.0939
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:29]
 :END:
 
 Dentre as 6 principais propriedades do termo:
@@ -1196,8 +1205,17 @@ Dentre as 6 principais propriedades do termo:
 - Ape[lação] :: é a aplicação de um termo a outro
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-24 ter>
 :PROPERTIES:
 :ID:       9a50ba5b-f3e5-434d-b85c-504573a1a09c
+:DRILL_LAST_INTERVAL: 4.4542
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:30]
 :END:
 
 Dentre as 6 principais propriedades do termo:
@@ -1207,8 +1225,19 @@ Dentre as 6 principais propriedades do termo:
 - Dist[ração] :: é a acepção do termo num tempo diverso daquele que o
   verbo exprime. E.g.: os cegos vêem.
 
-
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-25 qua>
+:PROPERTIES:
+:ID:       b40bbc88-a985-43f1-bd1f-70dc77e9957e
+:DRILL_LAST_INTERVAL: 4.5553
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:34]
+:END:
 
 Na frase a seguir, o termo *cego* é tomado no presente ou no passado?
 
@@ -1219,20 +1248,39 @@ Na frase a seguir, o termo *cego* é tomado no presente ou no passado?
 O nome desse efeito é dist[ração].
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-24 ter>
 :PROPERTIES:
-
-:ID:       034b0d81-dc7a-4fe4-b603-5edaed9db2eb
+:DRILL_LAST_INTERVAL: 4.1614
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:34]
 :END:
 
 Dentre as 6 principais propriedades do termo:
 
-- Amplicação :: é a extensão do termo de uma significação menor a uma
+- Ampl[iação] :: é a extensão do termo de uma significação menor a uma
   outra maior. E.g.: bem-aventurados os mansos, porque possuirão a
   terra.
-- Restrição :: é a restrição do termo de uma significação maior a uma
+- Rest[rição] :: é a restrição do termo de uma significação maior a uma
   outra menor. E.g.: O pregai o Evangelho a toda a criatura.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-25 qua>
+:PROPERTIES:
+:ID:       cfc71dd7-c923-4029-820a-1af2a7d03740
+:DRILL_LAST_INTERVAL: 4.8655
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:35]
+:END:
 
 Na frase a seguir, o termo *mansos* sofre o efeito de
 ampliação ou de restrição?
@@ -1242,6 +1290,18 @@ ampliação ou de restrição?
 [ampliação]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-25 qua>
+:PROPERTIES:
+:ID:       ad92b5ab-ad9c-4779-86d3-e4bc498cbab4
+:DRILL_LAST_INTERVAL: 4.5872
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:27]
+:END:
 
 Na frase a seguir, o termo *toda criatura* sofre do efeito de
 ampliação ou de restrição?
@@ -1251,6 +1311,18 @@ ampliação ou de restrição?
 [restrição].
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-25 qua>
+:PROPERTIES:
+:ID:       ea1c4fbc-5b2d-4353-b6a9-a68a749856af
+:DRILL_LAST_INTERVAL: 4.6541
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:31]
+:END:
 
 Def[inição] é a explicação de uma coisa ou de um termo. Serve para
 conhecermos a [compreensão||"extensão" or "compreensão"] das idéias e dos termos.
@@ -1260,6 +1332,18 @@ conhecimento da [extensão||"compreensão" or "extensão"] das idéias e
 dos termos.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-24 ter>
+:PROPERTIES:
+:ID:       1d454560-3552-41cb-8053-82f242abcae2
+:DRILL_LAST_INTERVAL: 4.009
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:29]
+:END:
 
 [Definição] é a explicação de uma coisa ou de um termo. Subdivide-se em:
 
@@ -1278,6 +1362,18 @@ dos termos.
         - genética
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-25 qua>
+:PROPERTIES:
+:ID:       e6b900a0-2192-4287-aab9-ab654f7934bf
+:DRILL_LAST_INTERVAL: 4.7145
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:24]
+:END:
 
 É possível dar uma definição essencial de todas as coisas?
 
@@ -1297,6 +1393,18 @@ dos termos.
   elementos.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-24 ter>
+:PROPERTIES:
+:ID:       5c0a39f7-bce4-4662-bbc7-34ee7ecd21bb
+:DRILL_LAST_INTERVAL: 4.0115
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:30]
+:END:
 
 Como definições elementares (como ente, unidade, ...) podem ser
 explicadas?
@@ -1307,6 +1415,18 @@ Dessas noções podemos fazer uma descrição ou declaração por meio de
 noções, que sejam, relativamente a nós, mais conhecidas.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-25 qua>
+:PROPERTIES:
+:ID:       5d26bf57-edba-471e-adcb-ec88022961d7
+:DRILL_LAST_INTERVAL: 4.6276
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:35]
+:END:
 
 Regras para uma definição:
 
@@ -1317,6 +1437,18 @@ Regras para uma definição:
 - Ser [breve], para poder conservar-se na memória
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-24 ter>
+:PROPERTIES:
+:ID:       94b8b6f5-2a99-4d13-bf3b-3cce82635571
+:DRILL_LAST_INTERVAL: 4.3223
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:30]
+:END:
 
 Aristóteles ensina 2 métodos para procurar e encontrar os elementos
 essenciais, de que se compõem a [definição||"definição" or "divisão"].
@@ -1324,6 +1456,18 @@ essenciais, de que se compõem a [definição||"definição" or "divisão"].
 Chamam-se: descendente, e ascendente.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-24 ter>
+:PROPERTIES:
+:ID:       2bf8e678-8bc0-4646-9207-62433d422c99
+:DRILL_LAST_INTERVAL: 3.7946
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:26]
+:END:
 
 [Divisão] é a decomposição de um todo nas suas partes. Leva-nos ao
 conhecimento da extensão das idéias e dos termos.
@@ -1340,6 +1484,18 @@ Subdivide-se em:
     * metafísica (logicamente)
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-24 ter>
+:PROPERTIES:
+:ID:       a41ebc0c-d616-4c84-a34f-bcc0f7120bd6
+:DRILL_LAST_INTERVAL: 3.7901
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:26]
+:END:
 
 Uma [divisão||"divisão" or "definição"] deve:
 
@@ -1348,7 +1504,7 @@ Uma [divisão||"divisão" or "definição"] deve:
 - ser ordenada (segundo a importância das partes)
 - ser oposta (as partes devem se excluir mutualmente)
 
-Se a divisão for feita por meio de uma classificação segundo um
+Se a [divisão] for feita por meio de uma classificação segundo um
 caráter, em que muitos indivíduos são semelhantes, deve ser:
 
 - único
@@ -1356,6 +1512,18 @@ caráter, em que muitos indivíduos são semelhantes, deve ser:
 - importante
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-23 seg>
+:PROPERTIES:
+:ID:       373eef4c-b114-4960-81ae-aefdfeabd08b
+:DRILL_LAST_INTERVAL: 2.9118
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:31]
+:END:
 
 [Divisão||"Divisão" or "Classificação"] é a decomposição de um todo
 nas suas partes. Leva-nos ao conhecimento da extensão das idéias e dos
@@ -1364,4 +1532,427 @@ termos.
 [Classificação||"Classificação" or "Divisão"] é a disposição ordenada
 de muitos *indivíduos* em classes. É feita baseada em um *caráter*.
 
+** Juízo e Proposição
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-24 ter>
+:PROPERTIES:
+:ID:       766f9c32-24ee-4de7-bb7f-43be5f6568f6
+:DRILL_LAST_INTERVAL: 4.3303
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:29]
+:END:
+
+[Juízo||"Juízo" or "Proposição"] é a união ou a separação de duas
+*idéias*, e por isso, de dois objetos, por meio da afirmação ou da
+negação.
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-25 qua>
+:PROPERTIES:
+:ID:       3f1a5b56-a35e-49fa-b416-bfe23948b2dc
+:DRILL_LAST_INTERVAL: 4.5025
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:32]
+:END:
+
+O juízo é necessariamente um ato da [inteligência||"vontade" or
+"inteligência"]; porque só essa faculdade pode conhecer a relação (que
+é uma coisa abstrata) entre dois objetos e por isso, entre duas
+idéias.
+
+O juízo, relativo à conveniência ou desconveniência entre duas idéias,
+funda-se necessariamente na conveniência ou desconveniência
+[objetiva||"subjetiva" or "objetiva"] das coisas, que as idéias
+representam.
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-25 qua>
+:PROPERTIES:
+:ID:       65a873bb-f601-4833-a260-adb4e13c04e2
+:DRILL_LAST_INTERVAL: 4.8556
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:29]
+:END:
+
+Em relação ás 3 partes do *juízo*:
+
+- A idéia de que alguma coisa se afirma ou nega, diz-se [sujeito||"substantivo" or "sujeito"]
+- a idéia que se afirma ou nega do sujeito, chama-se [predicado||"objeto" or "predicado"]
+- [a relação||"a relação" or "o verbo"] que une os dois anteriores
+  chama-se cópula.
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-22 dom>
+:PROPERTIES:
+:ID:       7e2be76a-f51c-4fef-9792-937255084875
+:DRILL_LAST_INTERVAL: 2.4073
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:27]
+:END:
+
+Sob as divisões do juízo entre afirmativo e negativo, e também quanto
+a verdadeiro e falso.
+
+- é [afirmativo||"afirmativo" or "verdadeiro"] se afirma a relação de
+  conveniência entre o sujeito e o predicado.
+- é [falso||"falso" or "negativo"] quadno ao sujeito não convém o
+  predicado que lhe atribuímos, ou convém o que lhe negamos.
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-25 qua>
+:PROPERTIES:
+:ID:       f1f87830-5ab7-4b9d-a41d-3d4ad786e383
+:DRILL_LAST_INTERVAL: 5.0757
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:27]
+:END:
+
+Quando a divisão do juízo entre direto e reflexo:
+
+#+begin_quote
+é [reflexo||"reflexo" or "direto"], quando, dobrando-se sobre si
+mesma, a inteligência considera o seu próprio juízo, e reconhece a sua
+conformidade com a realidade objetiva.
+#+end_quote
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-24 ter>
+:PROPERTIES:
+:ID:       995ed224-4686-429e-bdfe-34a8e53781c1
+:DRILL_LAST_INTERVAL: 3.6141
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:28]
+:END:
+
+O juízo expresso pelas proposições a seguir é direto ou reflexo?
+
+> Estou certo de que Pedro é homem.
+
+[reflexo]
+
+> Pedro é homem
+
+[direto]
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-24 ter>
+:PROPERTIES:
+:ID:       3004d18e-79cd-44db-8ab2-b213fb65ad18
+:DRILL_LAST_INTERVAL: 3.8757
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:33]
+:END:
+
+Analítico ou sintético?
+
+- É [analítico] quando o predicado está contido na própria essência do
+  sujeito
+- É [sintético] quando o predicado convém ao sujeito, não porque está
+  contido na essência dele, ou deriva da essência, mas porque assim, o
+  atesta a experiência.
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-23 seg>
+:PROPERTIES:
+:ID:       52e9e188-5d80-41fb-88b9-b0a4c2a618a3
+:DRILL_LAST_INTERVAL: 3.4018
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:25]
+:END:
+
+Qual espécie de juízo também é chamado de a-priori e necessário?
+
+[Analítico||"Sintético" or "Analítico"]
+
+Qual espécie de juízo também é chamado de a-posteriori e contingente?
+
+[Sintético||"Analítico" or "Sintético"].
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-24 ter>
+:PROPERTIES:
+:ID:       6c372ecd-8790-494b-816a-b4d621edb289
+:DRILL_LAST_INTERVAL: 4.4236
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:33]
+:END:
+
+Qual juízo é analítico (a-priori)?
+
+- a) O homem é racional.
+- b) Pedro é sábio.
+
+[a]
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-24 ter>
+:PROPERTIES:
+:ID:       b0baae1d-f5f2-4331-891b-dfaf71ae9e3e
+:DRILL_LAST_INTERVAL: 3.9476
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:25]
+:END:
+
+mediato ou imediato?
+
+Um juízo é dito [imediato] se a relação etre predicado e sujeito se
+conhece intuitivamente. É [mediato] se a relação só se conhece pelo
+discurso.
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-24 ter>
+:PROPERTIES:
+:ID:       3a536c13-17ae-432a-b1be-e224e3fa16e6
+:DRILL_LAST_INTERVAL: 4.0262
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:32]
+:END:
+
+Uma proposição simples contém [apenas um||"apenas um" or "ao menos um"]
+sujeito e um só predicado. Uma composta contém implicitamente
+mais que uma proposição simples.
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-24 ter>
+:PROPERTIES:
+:ID:       b68ce794-ecf7-42fb-bfd2-8c0f2913fa49
+:DRILL_LAST_INTERVAL: 4.4597
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:33]
+:END:
+
+Nas frases a seguir o verbo é substantivo ou adjetivo?
+
+> Deus é.
+
+[Substantivo]
+
+> Pedro ama.
+
+[Adjetivo]
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-25 qua>
+:PROPERTIES:
+:ID:       d0c04ae2-e2d1-4b44-a688-835efc2ccfd6
+:DRILL_LAST_INTERVAL: 4.8934
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:26]
+:END:
+
+A frase "Pedro ama", com verbo adjetivo "ama", resolve-se em "Pedro
+[é] amante", com o verbo substantivo.
+
+*** Item                                                            :drill:
+
+A proposição a seguir não é negativa nem positiva. Como se chama?
+
+> o homem e não planta
+
+proposição inf[inita].
+
+*** Item                                                            :drill:
+
+Proposições universais tratam de um sujeito universal. Exemplo:
+
+> os pais amam seus filhos
+
+e
+
+> nenhum morto ressuscita
+
+Como podem haver exceções a essas duas proposições?
+
+**** Resposta
+
+A primeira proposição é fundada em uma lei moral, e a segunda em uma
+lei física. Para ambas pode haver exceção.
+
+Somente para proposições fundadas metafísicas (fundada na própria
+essência das coias) é que não há exceções.
+
+*** Item                                                            :drill:
+
+Na proposição afirmativa
+
+> A é B
+
+Tem-se que:
+
+- B é entendido em [toda||"uma parte de" or "toda"] sua *compreensão*
+- B é entenndido em [parte da||"parte da" or "toda"] sua *extensão*
+- Se avaliarmos o conjunto dos indivíduos de A e B, podemos dizer que: A [⊆||"⊇" or "⊆"] B
+
+*** Item                                                            :drill:
+
+Na proposição
+
+> A não é B
+
+- B é tomado em parte da sua [compreensão||"compreensão" or "extensão"], pois
+  basta uma nota de B seja ausente em A para que o predicado seja
+  verdadeiro
+- B é tomado em toda a sua [extensão||"compreensão" or "extensão"],
+  pois nenhum B é A.
+- Pode-se dizer reciprocamente que: nenhum [B] é [A]
+
+*** Item                                                            :drill:
+
+Proposições simples podem ser divididas em absoluta e modal.
+
+Na modal, além de indicar conveniência ou não entre sujeito e
+predicado, se indica também o modo porque o predicado convém ou
+repugna ao sujeito. A proposição modal poder ser:
+
+- modal-nec[essária]
+- modal-imp[ossível]
+- modal-pos[sível]
+
+*** Item                                                            :drill:
+
+As proposições modais se reduzem às absolutas.
+
+A proposição modal-necessária "é necessário que todo o homem seja
+racional" se reduz à [todo o homem é racional]
+
+*** Item                                                            :drill:
+
+As proposições modais se reduzem às absolutas.
+
+"é impossível que o homem seja bruto" corresponde a esta ["nenhum
+homem e bruto"].
+
+** Divisão das proposições compostas
+*** Item                                                            :drill:
+
+As proposições modais se reduzem às absolutas.
+
+"é possível que o homem seja douto" vira ["algum homem e douto"].
+
+*** Item                                                            :drill:
+
+A proposição composta a seguir é copulativa, causal, condicional,
+disjuntiva, adversativa, relativa, ou exponível?
+
+> se Pedro e homem, é racional
+
+[condicional]
+
+*** Item                                                            :drill:
+
+A proposição composta a seguir é copulativa, causal, condicional,
+disjuntiva, adversativa, relativa, ou exponível?
+
+> o mundo e ininito ou finito
+
+[disjuntiva]
+
+*** Item                                                            :drill:
+
+A proposição composta a seguir é copulativa, causal, condicional,
+disjuntiva, adversativa, relativa, ou exponível?
+
+> a virtude e a ciência fazem o homem grande
+
+[copulativa]
+
+*** Item                                                            :drill:
+
+A proposição composta a seguir é copulativa, causal, condicional,
+disjuntiva, adversativa, relativa, ou exponível?
+
+> só Deus é santo
+
+[exponível]
+
+*** Item                                                            :drill:
+
+A proposição composta a seguir é copulativa, causal, condicional,
+disjuntiva, adversativa, relativa, ou exponível?
+
+> Luis é sábio, mas não é bom
+
+[adversativa]
+
+*** Item                                                            :drill:
+
+A proposição composta a seguir é copulativa, causal, condicional,
+disjuntiva, adversativa, relativa, ou exponível?
+
+> tal e o povo, qual é o sacerdote
+
+[relativa]
+
+*** Item                                                            :drill:
+
+A proposição composta a seguir é copulativa, causal, condicional,
+disjuntiva, adversativa, relativa, ou exponível?
+
+> a alma humana e imortal, por ser espírito
+
+[causal]
