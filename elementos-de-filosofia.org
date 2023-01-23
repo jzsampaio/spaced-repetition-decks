@@ -165,17 +165,17 @@ A Metafísica se divide em 4 partes:
 - Estuda Deus: [Teodicéia]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-21 sáb>
+SCHEDULED: <2023-02-09 qui>
 :PROPERTIES:
 :ID:       a6910c07-370b-4c4c-a17e-3d191e96862b
-:DRILL_LAST_INTERVAL: 4.7688
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 3
+:DRILL_LAST_INTERVAL: 17.4147
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 3.667
-:DRILL_EASE: 2.7
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-16 seg 19:53]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:06]
 :END:
 
 As partes da Filosofia devem ser estudadas na seguinte ordem:
@@ -580,17 +580,17 @@ Quanto maior é a compreensão de uma ideia [menor||"menor" ou "maior"]
 é a sua extensão.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-22 dom>
+SCHEDULED: <2023-02-04 sáb>
 :PROPERTIES:
 :ID:       9f285dfe-8bd4-4ca0-833d-b2391559f175
-:DRILL_LAST_INTERVAL: 4.0583
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.273
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-18 qua 09:19]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:08]
 :END:
 
 Si[nal] é uma coisa que nos leva ao conhecimento de outra.
@@ -598,17 +598,17 @@ Si[nal] é uma coisa que nos leva ao conhecimento de outra.
 ** Divisões de ideia quanto ao objeto
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-22 dom>
+SCHEDULED: <2023-02-06 seg>
 :PROPERTIES:
 :ID:       70e907d7-8929-480f-bb34-6648712dc241
-:DRILL_LAST_INTERVAL: 4.2704
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.5496
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-18 qua 09:21]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:12]
 :END:
 
 Uma forma de categorizar uma ideia quanto ao objeto representado é a
@@ -617,17 +617,17 @@ divisão real vs lógica.
 O homem, considerado como espécie, é uma ideia [lógica].
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-23 seg>
+SCHEDULED: <2023-02-06 seg>
 :PROPERTIES:
 :ID:       b9aa1586-2570-49cd-b4fa-7ae54c1d6d81
-:DRILL_LAST_INTERVAL: 5.3635
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.7526
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-18 qua 09:23]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:12]
 :END:
 
 Uma forma de categorizar uma ideia quanto ao objeto representado é a
@@ -636,17 +636,17 @@ divisão positiva vs negativa.
 A ideia de morte é uma ideia [negativa].
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-22 dom>
+SCHEDULED: <2023-02-06 seg>
 :PROPERTIES:
 :ID:       7589febe-5254-424f-8826-0dd06a300ed5
-:DRILL_LAST_INTERVAL: 3.9021
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.8991
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-18 qua 09:21]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:09]
 :END:
 
 Uma forma de categorizar uma ideia quanto ao objeto representado é a
@@ -655,17 +655,17 @@ divisão absoluta vs relativa.
 A ideia de filho é uma ideia [relativa].
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-22 dom>
+SCHEDULED: <2023-02-03 sex>
 :PROPERTIES:
 :ID:       827ea872-ac3e-4513-8235-623c1cc74022
-:DRILL_LAST_INTERVAL: 4.4244
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.3641
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-18 qua 09:22]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:11]
 :END:
 
 Uma forma de categorizar uma ideia quanto ao objeto representado é a
@@ -676,17 +676,17 @@ uma coisa, não como é em si mesma, mas como se encontra na imagem de
 outra coisa, que de algum modo a manifesta.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-22 dom>
+SCHEDULED: <2023-02-04 sáb>
 :PROPERTIES:
 :ID:       03c56853-bc61-4522-80c3-d5d9ed774905
-:DRILL_LAST_INTERVAL: 4.1667
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.0133
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-18 qua 09:17]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:11]
 :END:
 
 Uma forma de categorizar uma ideia quanto ao objeto representado é a
@@ -698,17 +698,17 @@ totalmente diversa; tal é a ideia de sanidade, que se atribui ao
 animal, ao alimento, e à cor.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-22 dom>
+SCHEDULED: <2023-02-03 sex>
 :PROPERTIES:
 :ID:       5c68ab30-063c-4304-8b22-1aaeebf09ca7
-:DRILL_LAST_INTERVAL: 4.1066
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.9022
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-18 qua 09:21]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:07]
 :END:
 
 Uma forma de categorizar uma ideia quanto ao objeto representado é a
@@ -722,17 +722,17 @@ A [particular||"singular" ou "particular"] é a própria ideia
 universal, mas tomada numa parte da sua extensão.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-23 seg>
+SCHEDULED: <2023-02-09 qui>
 :PROPERTIES:
 :ID:       702c7ba8-8389-49ce-83f5-564c74e4455d
-:DRILL_LAST_INTERVAL: 4.8674
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 16.9708
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-18 qua 09:19]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:10]
 :END:
 
 Uma forma de categorizar uma ideia quanto ao objeto representado é a
@@ -744,17 +744,17 @@ qual se acrescenta a relação os inferiores.
 ** Divisões de ideia quanto ao modo
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-23 seg>
+SCHEDULED: <2023-02-04 sáb>
 :PROPERTIES:
 :ID:       5259c93c-bac6-4de3-9744-31a6497f57f3
-:DRILL_LAST_INTERVAL: 4.5306
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.1748
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-18 qua 09:22]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:09]
 :END:
 
 Uma forma de categorizar uma ideia quanto ao modo de representar é a
@@ -766,17 +766,17 @@ divisão:
 - adequada vs inadequada
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-22 dom>
+SCHEDULED: <2023-02-05 dom>
 :PROPERTIES:
 :ID:       9d8d8aac-ca23-4265-badc-ffe1d630f59c
-:DRILL_LAST_INTERVAL: 4.3364
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.6656
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-18 qua 09:18]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:12]
 :END:
 
 Quanto ao modo com o qual uma ideia representar uma essência, temos a
@@ -790,17 +790,17 @@ seguinte "ordem de compreensão":
 - ade[quada] :: representa o objeto em si mesmo
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-23 seg>
+SCHEDULED: <2023-02-06 seg>
 :PROPERTIES:
 :ID:       3e52fa49-c4f0-48ad-8c29-61cbc5615dc2
-:DRILL_LAST_INTERVAL: 4.8377
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.6725
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-18 qua 09:21]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:09]
 :END:
 
 A ideia [adequada||"adequada" ou "clara"] é própria a inteligência de
@@ -834,34 +834,34 @@ ser-lhes atribuída (ideia universal reflexa) são 5:
     * Contingentemente? Aci[dente]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-22 dom>
+SCHEDULED: <2023-02-06 seg>
 :PROPERTIES:
 :ID:       bbb1e107-c770-4602-b57f-c8007c38e5b3
-:DRILL_LAST_INTERVAL: 4.1494
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.5566
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-18 qua 09:23]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:08]
 :END:
 
 Gênero, espécie, diferença, acidente, e propriedade são as 5 divisões
 das ideias universais [reflexas||"reflexas" ou "diretas"].
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-23 seg>
+SCHEDULED: <2023-02-04 sáb>
 :PROPERTIES:
 :ID:       8a8dd402-e749-475c-adf2-fb8dd3fc2fe1
-:DRILL_LAST_INTERVAL: 4.68
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.6078
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-18 qua 09:23]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:10]
 :END:
 
 Na equação a seguir, indique qual número corresponde a cada um dos
@@ -874,17 +874,17 @@ conceitos de gênero, espécie, e diferença. Indique o porque.
 - 3 :: [espécie]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-23 seg>
+SCHEDULED: <2023-02-05 dom>
 :PROPERTIES:
 :ID:       a3a085e1-4bc4-4793-8370-3c80e03813e6
-:DRILL_LAST_INTERVAL: 4.9264
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.8032
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-18 qua 09:19]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:07]
 :END:
 
 Cada uma das ideias universais de gênero, espécie e diferença
@@ -904,17 +904,17 @@ Diferença suprema é a que, unida ao gênero [supremo||"supremo" ou "intermédi
 espécies supremas.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-22 dom>
+SCHEDULED: <2023-02-05 dom>
 :PROPERTIES:
 :ID:       ea144a85-be42-4929-9cd7-b2c0a733bff5
-:DRILL_LAST_INTERVAL: 3.9478
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.9618
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-18 qua 09:23]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:11]
 :END:
 
 A ~bondade~ no homem é [acidente||"propriedade" ou "acidente"].
@@ -923,17 +923,17 @@ A ~faculdade de falar~ no homem é [propriedade||"propriedade" ou "acidente"].
 
 ** As 10 Categorias
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-23 seg>
+SCHEDULED: <2023-02-06 seg>
 :PROPERTIES:
 :ID:       217ef4db-b957-4ba5-a9d7-c98bbf49013b
-:DRILL_LAST_INTERVAL: 4.1345
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.4922
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:45]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:12]
 :END:
 
 Dentre as 10 categorias:
@@ -945,17 +945,17 @@ adira; tal é o homem.
 partes; tal é a grandeza na pedra.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-23 seg>
+SCHEDULED: <2023-02-01 qua>
 :PROPERTIES:
 :ID:       f989578e-2e8e-4cac-a5b5-ae97c79cc6ff
-:DRILL_LAST_INTERVAL: 3.9035
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 8.6138
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:44]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:09]
 :END:
 
 Dentre as 10 categorias:
@@ -967,17 +967,17 @@ essência; tal é a virtude e a ciência no homem.
 filho.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-23 seg>
+SCHEDULED: <2023-02-03 sex>
 :PROPERTIES:
 :ID:       99701715-f722-4ec2-986e-4a6310121ab4
-:DRILL_LAST_INTERVAL: 4.4833
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.37
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:44]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:08]
 :END:
 
 Dentre as 10 categorias:
@@ -1033,34 +1033,34 @@ por exemplo, André está sentado.
 decoração; por exemplo, o magistrado togado.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-23 seg>
+SCHEDULED: <2023-02-03 sex>
 :PROPERTIES:
 :ID:       5f961b37-eefc-42f8-a105-985ee4ce248d
-:DRILL_LAST_INTERVAL: 3.7636
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.2149
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:47]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:13]
 :END:
 
 
 O número total de categorias é [10||"10" ou "7"].
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-23 seg>
+SCHEDULED: <2023-02-02 qui>
 :PROPERTIES:
 :ID:       959d7597-1735-4622-93ac-b5ec32c343da
-:DRILL_LAST_INTERVAL: 4.019
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.4593
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:45]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:12]
 :END:
 
 As 10 categorias podem ser classificadas entre substância e outro
@@ -1084,17 +1084,17 @@ Dentre as 10 categorias, 9 delas chamam-se [acidentes], a outra que
 sobra chama-se substância.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-23 seg>
+SCHEDULED: <2023-02-03 sex>
 :PROPERTIES:
 :ID:       2c8bcc9e-d28a-4447-bc16-83a1065e8469
-:DRILL_LAST_INTERVAL: 4.1964
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.2654
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:46]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:11]
 :END:
 
 Qual o nome da classe de categorias que engloba quantidade, qualidade,
@@ -1104,33 +1104,33 @@ relação, ação, paixão, localização, quandocação, estado, e hábito?
 
 ** O Termo
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-23 seg>
+SCHEDULED: <2023-02-04 sáb>
 :PROPERTIES:
 :ID:       52129e7d-0a0c-4978-85f5-d1665de42608
-:DRILL_LAST_INTERVAL: 3.9385
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.9093
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:45]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:10]
 :END:
 
 *Termo*, ou palavra, ou vocábulo, é a expressão verbal da [ideia].
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-23 seg>
+SCHEDULED: <2023-02-03 sex>
 :PROPERTIES:
 :ID:       751d40c1-60f4-401b-b0a6-42e13bcc854f
-:DRILL_LAST_INTERVAL: 4.4417
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.4916
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:47]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:07]
 :END:
 
 Pode uma ideia ser equívoca? [Não].
@@ -1160,17 +1160,17 @@ O termo ~leão~ aplicado a uma constelação e um animal é [equívoco].
 O termo ~homem~ aplicado a Mateus e a Marcos é [unívoco].
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-23 seg>
+SCHEDULED: <2023-02-05 dom>
 :PROPERTIES:
 :ID:       5e1a457c-591f-4d48-b4fa-e9841001e5c0
-:DRILL_LAST_INTERVAL: 3.9159
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.3697
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:45]
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:08]
 :END:
 
 Sobre *termos*:
@@ -1183,17 +1183,17 @@ numa significação, que não é inteiramente idêntica, nem inteiramente
 diversa.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-23 seg>
+SCHEDULED: <2023-01-31 ter>
 :PROPERTIES:
 :ID:       7df06e68-44f8-4d0c-b342-025491a249ed
-:DRILL_LAST_INTERVAL: 3.0939
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 7.7041
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:29]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:13]
 :END:
 
 Dentre as 6 principais propriedades do termo:
@@ -1255,6 +1255,7 @@ SCHEDULED: <2023-01-24 ter>
 :DRILL_EASE: 2.6
 :DRILL_LAST_QUALITY: 5
 :DRILL_LAST_REVIEWED: [2023-01-20 sex 07:34]
+:ID:       0b805f1f-1169-4c9d-a0d4-b9b3dec77bc0
 :END:
 
 Dentre as 6 principais propriedades do termo:
@@ -1509,17 +1510,17 @@ caráter, em que muitos indivíduos são semelhantes, deve ser:
 - importante
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-23 seg>
+SCHEDULED: <2023-01-30 seg>
 :PROPERTIES:
 :ID:       373eef4c-b114-4960-81ae-aefdfeabd08b
-:DRILL_LAST_INTERVAL: 2.9118
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 6.9662
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:31]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:10]
 :END:
 
 [Divisão||"Divisão" ou "Classificação"] é a decomposição de um todo
@@ -1594,17 +1595,17 @@ Em relação ás 3 partes do *juízo*:
   chama-se cópula.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-22 dom>
+SCHEDULED: <2023-01-29 dom>
 :PROPERTIES:
 :ID:       7e2be76a-f51c-4fef-9792-937255084875
-:DRILL_LAST_INTERVAL: 2.4073
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 5.8788
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:27]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:08]
 :END:
 
 Sob as divisões do juízo entre afirmativo e negativo, e também quanto
@@ -1684,17 +1685,17 @@ Analítico ou sintético?
   atesta a experiência.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-23 seg>
+SCHEDULED: <2023-02-01 qua>
 :PROPERTIES:
 :ID:       52e9e188-5d80-41fb-88b9-b0a4c2a618a3
-:DRILL_LAST_INTERVAL: 3.4018
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 9.1706
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:25]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:09]
 :END:
 
 Qual espécie de juízo também é chamado de a priori e necessário?
@@ -1806,14 +1807,38 @@ A frase "Pedro ama", com verbo adjetivo "ama", resolve-se em "Pedro
 [é] amante", com o verbo substantivo.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-27 sex>
+:PROPERTIES:
+:ID:       93f7d98f-1623-4c8c-8aec-1fcdcac5fc5e
+:DRILL_LAST_INTERVAL: 3.9557
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:19]
+:END:
 
 A proposição a seguir não é negativa nem positiva. Como se chama?
 
-> o homem e não planta
+> o homem é não planta
 
 proposição inf[inita].
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-27 sex>
+:PROPERTIES:
+:ID:       1e729011-724c-4fc9-a1f8-e88a8e1f02c1
+:DRILL_LAST_INTERVAL: 3.6455
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:17]
+:END:
 
 Proposições universais tratam de um sujeito universal. Exemplo:
 
@@ -1834,6 +1859,18 @@ Somente para proposições fundadas metafísicas (fundada na própria
 essência das coias) é que não há exceções.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-27 sex>
+:PROPERTIES:
+:ID:       b7affa5a-4406-492f-b0eb-743ed3f3281e
+:DRILL_LAST_INTERVAL: 4.1971
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:18]
+:END:
 
 Na proposição afirmativa
 
@@ -1846,6 +1883,18 @@ Tem-se que:
 - Se avaliarmos o conjunto dos indivíduos de A e B, podemos dizer que: A [⊆||"⊇" ou "⊆"] B
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-27 sex>
+:PROPERTIES:
+:ID:       08cae528-00c5-4c5f-93b5-36fc2f5e83fd
+:DRILL_LAST_INTERVAL: 3.7491
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:16]
+:END:
 
 Na proposição
 
@@ -1859,6 +1908,18 @@ Na proposição
 - Pode-se dizer reciprocamente que: nenhum [B] é [A]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-28 sáb>
+:PROPERTIES:
+:ID:       0b7fa057-93bb-45ba-8f66-9e09dde85145
+:DRILL_LAST_INTERVAL: 4.9501
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:15]
+:END:
 
 Proposições simples podem ser divididas em absoluta e modal.
 
@@ -1871,6 +1932,18 @@ repugna ao sujeito. A proposição modal poder ser:
 - modal pos[sível]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-27 sex>
+:PROPERTIES:
+:ID:       9471e34c-15a1-44d3-9b91-34dad0677dbe
+:DRILL_LAST_INTERVAL: 4.1954
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:14]
+:END:
 
 As proposições modais se reduzem às absolutas.
 
@@ -1878,38 +1951,98 @@ A proposição modal necessária "é necessário que todo o homem seja
 racional" se reduz à [todo o homem é racional]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-27 sex>
+:PROPERTIES:
+:ID:       07eb80ac-5123-4f82-9b3c-4aba5c3a46d6
+:DRILL_LAST_INTERVAL: 3.9846
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:17]
+:END:
 
 As proposições modais se reduzem às absolutas.
 
 "é impossível que o homem seja bruto" corresponde a esta ["nenhum
-homem e bruto"].
+homem é bruto"].
 
 ** Divisão das proposições compostas
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-27 sex>
+:PROPERTIES:
+:ID:       14542acc-f7cf-45db-a29f-492d3b3ea999
+:DRILL_LAST_INTERVAL: 3.9367
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:13]
+:END:
 
 As proposições modais se reduzem às absolutas.
 
-"é possível que o homem seja douto" vira ["algum homem e douto"].
+"é possível que o homem seja douto" vira ["algum homem é douto"].
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-27 sex>
+:PROPERTIES:
+:ID:       ba210fa9-6fd4-4dda-9364-8cec383e6bf7
+:DRILL_LAST_INTERVAL: 4.3664
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:18]
+:END:
 
 A proposição composta a seguir é copulativa, causal, condicional,
 disjuntiva, adversativa, relativa, ou exponível?
 
-> se Pedro e homem, é racional
+> se Pedro é homem, é racional
 
 [condicional]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-27 sex>
+:PROPERTIES:
+:ID:       02b55d0c-d18d-4c83-95c8-19153ce6cf64
+:DRILL_LAST_INTERVAL: 4.1163
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:18]
+:END:
 
 A proposição composta a seguir é copulativa, causal, condicional,
 disjuntiva, adversativa, relativa, ou exponível?
 
-> o mundo e infinito ou finito
+> o mundo é infinito ou finito
 
 [disjuntiva]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-27 sex>
+:PROPERTIES:
+:ID:       133a45d9-26b4-4b2f-a0ff-36a73ac6b11b
+:DRILL_LAST_INTERVAL: 4.018
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:18]
+:END:
 
 A proposição composta a seguir é copulativa, causal, condicional,
 disjuntiva, adversativa, relativa, ou exponível?
@@ -1919,6 +2052,18 @@ disjuntiva, adversativa, relativa, ou exponível?
 [copulativa]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-27 sex>
+:PROPERTIES:
+:ID:       ef31c9b4-fe8e-4f5c-a1c9-d427d7bc2a3e
+:DRILL_LAST_INTERVAL: 3.941
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:16]
+:END:
 
 A proposição composta a seguir é copulativa, causal, condicional,
 disjuntiva, adversativa, relativa, ou exponível?
@@ -1928,6 +2073,18 @@ disjuntiva, adversativa, relativa, ou exponível?
 [exponível]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-27 sex>
+:PROPERTIES:
+:ID:       a119b055-d3a3-4636-b1f2-576d8fc8c726
+:DRILL_LAST_INTERVAL: 4.4241
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:15]
+:END:
 
 A proposição composta a seguir é copulativa, causal, condicional,
 disjuntiva, adversativa, relativa, ou exponível?
@@ -1937,23 +2094,429 @@ disjuntiva, adversativa, relativa, ou exponível?
 [adversativa]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-27 sex>
+:PROPERTIES:
+:ID:       18ed2417-dd8a-4fc3-bc46-da1257e87eab
+:DRILL_LAST_INTERVAL: 3.5763
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:15]
+:END:
 
 A proposição composta a seguir é copulativa, causal, condicional,
 disjuntiva, adversativa, relativa, ou exponível?
 
-> tal e o povo, qual é o sacerdote
+> tal é o povo, qual é o sacerdote
 
 [relativa]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-26 qui>
+:PROPERTIES:
+:ID:       f3c2140a-561b-4692-9af1-52277a793502
+:DRILL_LAST_INTERVAL: 3.2434
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:17]
+:END:
 
 A proposição composta a seguir é copulativa, causal, condicional,
 disjuntiva, adversativa, relativa, ou exponível?
 
-> a alma humana e imortal, por ser espírito
+> a alma humana é imortal, por ser espírito
 
 [causal]
 
+** Qualidades das proposições
+*** Item                                                            :drill:
+
+As qualidades das proposições (ou melhor: dos pares de proposições)
+são três: oposição, conversão e equivalência.
+
+Oposição é a repugnância de duas proposições, que têm o mesmo [sujeito]
+e o mesmo [predicado]. A repugnância está em ser uma afirmativa, e a
+outra negativa.
+
+*** Item                                                            :drill:
+
+As proposições a seguir são contraditórias, contrárias, ou
+sub-contrárias?
+
+> Todos os homens são racionais
+
+> Todos os homens não são racionais
+
+[Contrárias]
+
+*** Item                                                            :drill:
+
+As proposições a seguir são contraditórias, contrárias, ou
+sub-contrárias?
+
+> Todos os homens são racionais
+
+> Alguns homens não são racionais
+
+[Contraditórias]
+
+*** Item                                                            :drill:
+
+As proposições a seguir são contraditórias, contrárias, ou
+sub-contrárias?
+
+> Todos os homens não são racionais
+
+> Alguns homens são racionais
+
+[Contraditórias]
+
+*** Item                                                            :drill:
+
+As proposições a seguir são contraditórias, contrárias, ou
+sub-contrárias?
+
+> Alguns homens são racionais
+
+> Alguns homens não são racionais
+
+[Sub-contrárias]
+
+*** Item                                                            :drill:
+
+Na classificação AEIO, qual letra se dá para o tipo de proposição a
+seguir?
+
+> Todo homem é racional
+
+[A]
+
+*** Item                                                            :drill:
+
+Na classificação AEIO, qual letra se dá para o tipo de proposição a
+seguir?
+
+> Alguns homens são sábios
+
+[I]
+
+*** Item                                                            :drill:
+
+Na classificação AEIO, qual letra se dá para o tipo de proposição a
+seguir?
+
+> Todo homem não é planta
+
+[E]
+
+*** Item                                                            :drill:
+
+Na classificação AEIO, qual letra se dá para o tipo de proposição a
+seguir?
+
+> Alguns homens não são calvos
+
+[O]
+
+*** Item                                                            :drill:
+
+Na classificação AEIO, quais letras se dão às proposições cujos
+sujeitos são universais?
+
+[A e E||duas letras]
+
+E quando os sujeitos são particulares?
+
+[I e O||duas letras]
+
+E quando as proposições são afirmativas?
+
+[A e I||duas letras]
+
+E quando são negativas?
+
+[E e O||duas letras]
+
+*** Item                                                            :drill:
+
+Complete o quadro com A, E, I, e O
+
+|                    | Proposição Negativa | Proposição Afirmativo |
+| Sujeito Particular | [O]                 | [I]                   |
+| Sujeito Universal  | [E]                 | [A]                   |
+
+*** Item                                                            :drill:
+
+Nas proposições do tipo O o sujeito é universal ou particular? Ela é
+afirmativa ou negativa?
+
+[Particular e negativa]
+
+*** Item                                                            :drill:
+
+Nas proposições do tipo E o sujeito é universal ou particular? Ela é
+afirmativa ou negativa?
+
+[Universal e negativa]
+
+*** Item                                                            :drill:
+
+Nas proposições do tipo A o sujeito é universal ou particular? Ela é
+afirmativa ou negativa?
+
+[Universal e afirmativa]
+
+*** Item                                                            :drill:
+
+Nas proposições do tipo I o sujeito é universal ou particular? Ela é
+afirmativa ou negativa?
+
+[Particular e afirmativa]
+
+*** Item                                                            :drill:
+
+Proposições A e E são ditas [contrárias||"contrárias" or "sub-contrárias"].
+
+Proposições I e O são ditas [sub-contrárias||"contrárias" or "sub-contrárias"].
+
+Proposições A e O são ditas [contraditórias||"contraditórias" or "contrárias"].
+
+Proposições I e E são ditas [contraditórias||"contraditórias" or "sub-contrárias"].
+
+*** Item                                                            :drill:
+
+As proposições a seguir são opostas? Por que?
+
+> Todo homem é racional
+
+> Alguns gatos são pretos
+
+[Não, pois não tratam to mesmo sujeito]
+
+*** Item                                                            :drill:
+
+As proposições a seguir são opostas? Por que?
+
+> Todo homem é racional
+
+> Alguns homens são altos
+
+[Não, pois não tratam to mesmo predicado]
+
+*** Item                                                            :drill:
+
+Quanto a proposições contraditórias, se uma é falsa, podemos dizer que
+a outra é verdadeira?
+
+[Sim]
+
+Se uma é verdadeira, podemos dizer que a outra é falsa?
+
+[Sim]
+
+*** Item                                                            :drill:
+
+Quanto a proposições contrárias, se uma é verdadeira, podemos dizer
+que a outra é falsa?
+
+[Sim]
+
+De modo geral, se uma é falsa, podemos dizer que a outra é verdadeira?
+
+[Não]
+
+
+Se uma é falsa, e trata-se de uma matéria [essencial], podemos dizer que
+a outra é verdadeira?
+
+[Sim].
+
+Se uma é falsa, e trata-se de uma matéria [contingente], podemos dizer
+que a outra é verdadeira?
+
+[Não].
+
+*** Item                                                            :drill:
+
+Quanto a proposições sub-contrárias, se uma é falsa podemos dizer que
+a outra é verdadeira?
+
+[Sim].
+
+De modo geral, se uma é verdadeira, podemos deduzir a falsidade da outra?
+
+[Não].
+
+Se trata-se de matéria essencial, e uma é verdadeira, podemos deduzir
+a falsidade da outra?
+
+[Sim].
+
+Se trata-se de matéria contingente, e uma é verdadeira, podemos
+deduzir a falsidade da outra?
+
+[Não].
+
+*** Item                                                            :drill:
+
+Os comentários a seguir refere-se a pares de proposições contrárias,
+sub-contrárisas, ou contraditórias?
+
+> Se trata-se de matéria contingente, e uma é *verdadeira*, podemos
+  deduzir a falsidade da outra?
+
+[sub-contrárias].
+
+> Se uma é *falsa*, e trata-se de uma matéria essencial, podemos dizer
+  que a outra é verdadeira?
+
+[contrárias].
+
+*** Item                                                            :drill:
+
+Sobre proposições contrárias e sub-contrárias:
+
+- as [subcontrárias] não podem ser ambas *falsas*, seja qual for a matérias
+- as [contrarias] não podem ser ambas *verdadeiras*, seja qual for a matéria
+
+*** Item                                                            :drill:
+
+Quais pares de proposições não podem ser ambas verdadeiras,
+independentemente da matérias?
+
+- A) A e E
+- B) I e O
+
+[A]
+
+*** Item                                                            :drill:
+
+Quais pares de proposições não podem ser ambas falsas,
+independentemente da matérias?
+
+- A) A e E
+- B) I e O
+
+[B]
+
+*** Item                                                            :drill:
+
+Das proposições a seguir, julgue verdadeiro ou falso, de acordo com as
+regras das proposições opostas.
+
+> Todo homem é racional
+> Nenhum homem é racional
+
+a) [V|| V ou F] se uma é verdadeira a outra deve ser falsa
+b) [V|| V ou F] se uma é falsa a outra deve ser verdadeira
+
+**** Resposta
+
+Trata-se de proposições contrárias, sobre matéria essencial.
+
+A é verdadeiro por serem contrárias.
+B é verdadeiro por ser contrário e se tratar de matéria essencial.
+
+
+*** Item                                                            :drill:
+
+Das proposições a seguir, julgue verdadeiro ou falso, de acordo com as
+regras das proposições opostas.
+
+> Alguns homens são racionais
+> Alguns homens não são racionais
+
+a) [V|| V ou F] se uma é verdadeira a outra deve ser falsa
+b) [V|| V ou F] se uma é falsa a outra deve ser verdadeira
+
+**** Resposta
+
+São sub-contrárias => não podem ser ambas falsas => B é verdadeiro
+Trata-se de matéria essencial e são sub-contrárias => A é verdadeiro
+
+*** Item                                                            :drill:
+
+Das proposições a seguir, julgue verdadeiro ou falso, de acordo com as
+regras das proposições opostas.
+
+> Todo homem é sábio
+> Nenhum homem é sábio
+
+a) [V|| V ou F] se uma é verdadeira a outra deve ser falsa
+b) [F|| V ou F] se uma é falsa a outra deve ser verdadeira
+
+**** Resposta
+
+São contrárias => não podem ser ambas verdadeiras => A é verdadeiro
+Trata-se de matéria contingente => não se pode concluir veracidade de
+outra a partir da falsidade de uma => B é falso
+
+*** Item                                                            :drill:
+
+Das proposições a seguir, julgue verdadeiro ou falso, de acordo com as
+regras das proposições opostas.
+
+
+> Alguns homens são sábios
+> Alguns homens não são sábios
+
+a) [F|| V ou F] se uma é verdadeira a outra deve ser falsa
+b) [V|| V ou F] se uma é falsa a outra deve ser verdadeira
+
+**** Resposta
+
+São sub-contrárias => não podem ser ambas falsas => B é verdadeiro.
+Trata-se de matéria contingente => não se pode concluir a falsidade da
+outra a partir da veracidade de uma => A é falso.
+
+*** Item                                                            :drill:
+
+Das proposições a seguir, julgue verdadeiro ou falso, de acordo com as
+regras das proposições opostas.
+
+
+> Todos os homens são sábios
+> Alguns homens não são sábios
+
+a) [V|| V ou F] se uma é verdadeira a outra deve ser falsa
+b) [V|| V ou F] se uma é falsa a outra deve ser verdadeira
+
+**** Resposta
+
+Trata-se de um par de contraditórias => não podem nem ser ambos falsos
+nem ambos verdadeiros, independentemente da matérias ser contingente
+ou essencial.
+
+*** Item                                                            :drill:
+
+Das proposições a seguir, julgue verdadeiro ou falso, de acordo com as
+regras das proposições opostas.
+
+
+> Alguns homens são sábios
+> Nenhum homem é sábio
+
+a) [V|| V ou F] se uma é verdadeira a outra deve ser falsa
+b) [V|| V ou F] se uma é falsa a outra deve ser verdadeira
+
+**** Resposta
+
+Trata-se de um par de contraditórias => não podem nem ser ambos falsos
+nem ambos verdadeiros, independentemente da matérias ser contingente
+ou essencial.
+
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
 * COMMENT Local variables
 # local variables:
 # display-line-numbers-width: 3
