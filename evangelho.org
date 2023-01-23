@@ -320,6 +320,18 @@ As leis que são aumentadas nesse discurso são:
 
 ** VI
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-27 sex>
+:PROPERTIES:
+:ID:       1f570db9-a003-4ccd-9f3e-30d0759f5a1f
+:DRILL_LAST_INTERVAL: 4.164
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 13:14]
+:END:
 
 Ainda dentro do sermão da montanha, após as 8 bem-aventuranças, e a
 expansão dos mandamentos, Jesus ensina a não buscar reconhecimento
@@ -333,26 +345,119 @@ Pois se o olho (intenção) estiver são o corpo inteiro (as obras)
 estará, mas se for a intenção tenebrosa, igualmente serão as obras.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-27 sex>
+:PROPERTIES:
+:ID:       7e9e91e2-9fdc-4cef-9117-fceaf793b2c8
+:DRILL_LAST_INTERVAL: 4.3264
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 13:13]
+:END:
 
 Onde está teu tesouro aí estará também teu [coração].
 
 ** VII
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-27 sex>
+:PROPERTIES:
+:ID:       b6887d13-02fd-424c-bdf0-c28de7043de1
+:DRILL_LAST_INTERVAL: 4.2845
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 13:14]
+:END:
 
 Tudo aquilo, portanto, que quereisque os homens vos façam, fazei-o vós
 a eles, pois esta é [a Lei e os Profetas||"2 nomes"].
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-27 sex>
+:PROPERTIES:
+:ID:       dfb6d645-aa42-45cb-90b0-2225d3a4afda
+:DRILL_LAST_INTERVAL: 4.299
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 13:14]
+:END:
 
 Não deis aos [cães] (os que lutam para dilacerar a verdade) o que é
 sagrado, nem atireis as vossas pérolas aos [porcos] (os que me
 menosprezam a verdade).
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-28 sáb>
+:PROPERTIES:
+:ID:       075d129d-b823-411e-b677-c0776bed3581
+:DRILL_LAST_INTERVAL: 4.5142
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 13:14]
+:END:
 
 Estreita é a porta e apertado o caminho que conduz à [Vida]. E poucos
 são os que o encontram.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-27 sex>
+:PROPERTIES:
+:ID:       1de608a7-40cd-4d98-8fac-0d747fba89cb
+:DRILL_LAST_INTERVAL: 3.7094
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-23 seg 13:13]
+:END:
 
 Guardai-vos dos falsos profetas. É pelos [frutos] que os reconhecei.
+
+** VIII
+
+*** Item                                                            :drill:
+
+Ao curar um leproso e lhe pedir que ofereças sacrifícios ao templo,
+Jesus nos ensina também o sacramento da [penitência]: os pecados
+(similar a cura da lepra) estão perdoados antes memos que se cumpra a
+penitência (as oferendas ao templo).
+
+*** Item                                                            :drill:
+
+Ao permitir que os demônios entrem nos porcos, Jesus [aumentou a
+notoriedade do milagre].
+
+*** Item                                                            :drill:
+
+Durante a tempestade em que Jesus dormia, ele testava a fé dos seus
+apóstolos. Ele também nos ensinava a manter a fé durante os tempos de
+tri[bulação].
+
+
+*** Item                                                            :drill:
+
+Quando Jesus responde a alguém que queria ser seu discípulo com "as
+aves do céus tem ninho, as raposas tem toca, mas o Filho do Homem não
+tem onde repousar a cabeça", ele se referia ao [engodo] e [orgulho]
+que havia no coração do homem, e que lhe faltava a fé.
+
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
