@@ -808,17 +808,17 @@ Deus.
 
 ** Divisões das ideias universais reflexas
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-24 ter>
+SCHEDULED: <2023-02-07 ter>
 :PROPERTIES:
 :ID:       5b7583c5-775c-4d40-906c-db90be507861
-:DRILL_LAST_INTERVAL: 5.8606
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.1075
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-18 qua 09:20]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:04]
 :END:
 
 Os diversos modos por que uma coisa pode existir em muitos sujeitos e
@@ -989,39 +989,39 @@ escrever.
 é sentir frio.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-24 ter>
+SCHEDULED: <2023-02-06 seg>
 :PROPERTIES:
 :ID:       c0afada0-f222-4a1c-9acb-1baf0da5a354
-:DRILL_LAST_INTERVAL: 4.7228
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.6471
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:47]
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:02]
 :END:
 
 Dentre as 10 categorias:
 
-[Localização] é a determinação da substância quanto a o lugar; por
+[Localização] é a determinação da substância quanto ao lugar; por
 exemplo, Pedro está em Roma.
 
 [Quandocação] é a determinação da substância quanto ao tempo; por
 exemplo, Pedro ontem escreveu.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-24 ter>
+SCHEDULED: <2023-02-03 sex>
 :PROPERTIES:
 :ID:       ae0b00a7-c1d1-4268-8bb2-6498746b46e1
-:DRILL_LAST_INTERVAL: 4.8962
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 9.9376
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_AVERAGE_QUALITY: 3.5
 :DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:46]
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:01]
 :END:
 
 Dentre as 10 categorias:
@@ -1067,17 +1067,17 @@ As 10 categorias podem ser classificadas entre substância e outro
 grupo com 9 membros. Esse grupo chama-se [acidentes].
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-24 ter>
+SCHEDULED: <2023-02-06 seg>
 :PROPERTIES:
 :ID:       b5b6c2de-32ea-45b6-8997-670fe597a33f
-:DRILL_LAST_INTERVAL: 4.5299
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.6909
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:47]
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:03]
 :END:
 
 Dentre as 10 categorias, 9 delas chamam-se [acidentes], a outra que
@@ -1138,17 +1138,17 @@ Pode uma ideia ser equívoca? [Não].
 Pode um termo ser equívoco? [Sim.]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-24 ter>
+SCHEDULED: <2023-02-07 ter>
 :PROPERTIES:
 :ID:       54ab8fc0-ede7-4257-a4f7-eda896040dd5
-:DRILL_LAST_INTERVAL: 5.0237
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.1832
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-19 qui 08:47]
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:06]
 :END:
 
 *equívoco vs unívoco vs análogo*
@@ -1202,17 +1202,17 @@ Dentre as 6 principais propriedades do termo:
 - Ape[lação] :: é a aplicação de um termo a outro
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-24 ter>
+SCHEDULED: <2023-02-04 sáb>
 :PROPERTIES:
 :ID:       9a50ba5b-f3e5-434d-b85c-504573a1a09c
-:DRILL_LAST_INTERVAL: 4.4542
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.3172
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:30]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:05]
 :END:
 
 Dentre as 6 principais propriedades do termo:
@@ -1245,16 +1245,16 @@ Na frase a seguir, o termo *cego* é tomado no presente ou no passado?
 O nome desse efeito é dist[ração].
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-24 ter>
+SCHEDULED: <2023-02-08 qua>
 :PROPERTIES:
-:DRILL_LAST_INTERVAL: 4.1614
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 15.3691
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:34]
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:06]
 :ID:       0b805f1f-1169-4c9d-a0d4-b9b3dec77bc0
 :END:
 
@@ -1330,17 +1330,17 @@ conhecimento da [extensão||"compreensão" ou "extensão"] das ideias e
 dos termos.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-24 ter>
+SCHEDULED: <2023-02-01 qua>
 :PROPERTIES:
 :ID:       1d454560-3552-41cb-8053-82f242abcae2
-:DRILL_LAST_INTERVAL: 4.009
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 8.3963
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:29]
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:02]
 :END:
 
 [Definição] é a explicação de uma coisa ou de um termo. Subdivide-se em:
@@ -1391,17 +1391,17 @@ SCHEDULED: <2023-01-25 qua>
   elementos.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-24 ter>
+SCHEDULED: <2023-02-05 dom>
 :PROPERTIES:
 :ID:       5c0a39f7-bce4-4662-bbc7-34ee7ecd21bb
-:DRILL_LAST_INTERVAL: 4.0115
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.9268
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 4.0
-:DRILL_EASE: 2.5
-:DRILL_LAST_QUALITY: 4
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:30]
+:DRILL_AVERAGE_QUALITY: 4.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:04]
 :END:
 
 Como definições elementares (como ente, unidade, ...) podem ser
@@ -1435,17 +1435,17 @@ Regras para uma definição:
 - Ser [breve], para poder conservar-se na memória
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-24 ter>
+SCHEDULED: <2023-02-05 dom>
 :PROPERTIES:
 :ID:       94b8b6f5-2a99-4d13-bf3b-3cce82635571
-:DRILL_LAST_INTERVAL: 4.3223
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.3279
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:30]
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:05]
 :END:
 
 Aristóteles ensina 2 métodos para procurar e encontrar os elementos
@@ -1454,17 +1454,17 @@ essenciais, de que se compõem a [definição||"definição" ou "divisão"].
 Chamam-se: descendente, e ascendente.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-24 ter>
+SCHEDULED: <2023-02-02 qui>
 :PROPERTIES:
 :ID:       2bf8e678-8bc0-4646-9207-62433d422c99
-:DRILL_LAST_INTERVAL: 3.7946
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 9.4965
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:26]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:04]
 :END:
 
 [Divisão] é a decomposição de um todo nas suas partes. Leva-nos ao
@@ -1482,17 +1482,17 @@ Subdivide-se em:
     * metafísica (logicamente)
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-24 ter>
+SCHEDULED: <2023-02-03 sex>
 :PROPERTIES:
 :ID:       a41ebc0c-d616-4c84-a34f-bcc0f7120bd6
-:DRILL_LAST_INTERVAL: 3.7901
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.3305
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:26]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:03]
 :END:
 
 Uma [divisão||"divisão" ou "definição"] deve:
@@ -1532,17 +1532,17 @@ de muitos *indivíduos* em classes. É feita baseada em um *caráter*.
 
 ** Juízo e Proposição
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-24 ter>
+SCHEDULED: <2023-02-05 dom>
 :PROPERTIES:
 :ID:       766f9c32-24ee-4de7-bb7f-43be5f6568f6
-:DRILL_LAST_INTERVAL: 4.3303
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.133
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:29]
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:05]
 :END:
 
 [Juízo||"Juízo" ou "Proposição"] é a união ou a separação de duas
@@ -1639,17 +1639,17 @@ conformidade com a realidade objetiva.
 #+end_quote
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-24 ter>
+SCHEDULED: <2023-02-04 sáb>
 :PROPERTIES:
 :ID:       995ed224-4686-429e-bdfe-34a8e53781c1
-:DRILL_LAST_INTERVAL: 3.6141
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.7013
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:28]
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:04]
 :END:
 
 O juízo expresso pelas proposições a seguir é direto ou reflexo?
@@ -1663,17 +1663,17 @@ O juízo expresso pelas proposições a seguir é direto ou reflexo?
 [direto]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-24 ter>
+SCHEDULED: <2023-02-05 dom>
 :PROPERTIES:
 :ID:       3004d18e-79cd-44db-8ab2-b213fb65ad18
-:DRILL_LAST_INTERVAL: 3.8757
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.5623
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:33]
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:02]
 :END:
 
 Analítico ou sintético?
@@ -1707,17 +1707,17 @@ Qual espécie de juízo também é chamado de a posteriori e contingente?
 [Sintético||"Analítico" ou "Sintético"].
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-24 ter>
+SCHEDULED: <2023-02-04 sáb>
 :PROPERTIES:
 :ID:       6c372ecd-8790-494b-816a-b4d621edb289
-:DRILL_LAST_INTERVAL: 4.4236
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.9695
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:33]
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:03]
 :END:
 
 Qual juízo é analítico (a priori)?
@@ -1728,17 +1728,17 @@ Qual juízo é analítico (a priori)?
 [a]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-24 ter>
+SCHEDULED: <2023-02-05 dom>
 :PROPERTIES:
 :ID:       b0baae1d-f5f2-4331-891b-dfaf71ae9e3e
-:DRILL_LAST_INTERVAL: 3.9476
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.6503
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:25]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:01]
 :END:
 
 mediato ou imediato?
@@ -1748,17 +1748,17 @@ conhece intuitivamente. É [mediato] se a relação só se conhece pelo
 discurso.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-24 ter>
+SCHEDULED: <2023-02-05 dom>
 :PROPERTIES:
 :ID:       3a536c13-17ae-432a-b1be-e224e3fa16e6
-:DRILL_LAST_INTERVAL: 4.0262
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.9652
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:32]
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:05]
 :END:
 
 Uma proposição simples contém [apenas um||"apenas um" ou "ao menos um"]
@@ -1766,17 +1766,17 @@ sujeito e um só predicado. Uma composta contém implicitamente
 mais que uma proposição simples.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-24 ter>
+SCHEDULED: <2023-02-05 dom>
 :PROPERTIES:
 :ID:       b68ce794-ecf7-42fb-bfd2-8c0f2913fa49
-:DRILL_LAST_INTERVAL: 4.4597
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.812
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:33]
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:02]
 :END:
 
 Nas frases a seguir o verbo é substantivo ou adjetivo?
@@ -2191,8 +2191,17 @@ sub-contrárias?
 [Contraditórias]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-29 dom>
 :PROPERTIES:
 :ID:       acb6cd50-2232-484e-a4ef-2d0ce6f4649e
+:DRILL_LAST_INTERVAL: 4.5688
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:11]
 :END:
 
 As proposições a seguir são contraditórias, contrárias, ou
@@ -2253,8 +2262,17 @@ seguir?
 [O]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-29 dom>
 :PROPERTIES:
 :ID:       72a8b8d9-84a0-490b-93bb-7f7ea3e65322
+:DRILL_LAST_INTERVAL: 4.8445
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:11]
 :END:
 
 Na classificação AEIO, quais letras se dão às proposições cujos
@@ -2286,8 +2304,17 @@ Complete o quadro com A, E, I, e O
 | Sujeito Universal  | [E]                 | [A]                   |
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-28 sáb>
 :PROPERTIES:
 :ID:       72ce0253-d326-452a-81d3-812595195c7c
+:DRILL_LAST_INTERVAL: 4.0435
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:13]
 :END:
 
 Nas proposições do tipo O o sujeito é universal ou particular? Ela é
@@ -2365,8 +2392,17 @@ As proposições a seguir são opostas? Por que?
 [Não, pois não tratam to mesmo predicado]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-30 seg>
 :PROPERTIES:
 :ID:       dba05d6e-07ce-42ca-82b4-d6f564713d47
+:DRILL_LAST_INTERVAL: 5.7846
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:11]
 :END:
 
 Quanto a proposições contraditórias, se uma é falsa, podemos dizer que
@@ -2379,8 +2415,17 @@ Se uma é verdadeira, podemos dizer que a outra é falsa?
 [Sim]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-28 sáb>
 :PROPERTIES:
 :ID:       57aa714a-f9e4-4f0c-9601-68b025cf6991
+:DRILL_LAST_INTERVAL: 4.0085
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:13]
 :END:
 
 Quanto a proposições contrárias, se uma é verdadeira, podemos dizer
@@ -2404,8 +2449,17 @@ que a outra é verdadeira?
 [Não].
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-28 sáb>
 :PROPERTIES:
 :ID:       d58879c5-4ebd-4179-8042-421f5b194b34
+:DRILL_LAST_INTERVAL: 3.6717
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:10]
 :END:
 
 Quanto a proposições sub-contrárias, se uma é falsa podemos dizer que
@@ -2657,11 +2711,11 @@ Quais são as conversões possíveis para a proposição a seguir?
 
 Conversão acidental:
 
-> Algum racional é homem
+> [Algum racional é homem]
 
 Conversão contraposta:
 
-> Todo não racional é não homem
+> [Todo não racional é não homem]
 
 *** Item                                                            :drill:
 :PROPERTIES:
@@ -2674,11 +2728,11 @@ Quais são as conversões possíveis para a proposição a seguir?
 
 Simples:
 
-> Nenhuma planta é homem (toda planta não é homem)
+> [Nenhuma planta é homem (toda planta não é homem)]
 
 Acidental:
 
-> Alguma planta não é homem
+> [Alguma planta não é homem]
 
 *** Item                                                            :drill:
 :PROPERTIES:
@@ -2690,11 +2744,20 @@ Quais são as conversões possíveis para a proposição a seguir?
 
 Simples:
 
-> Alguns sábios são homens
+> [Alguns sábios são homens]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-29 dom>
 :PROPERTIES:
 :ID:       e21c647a-ef61-4a8c-9853-43d85fe74ba1
+:DRILL_LAST_INTERVAL: 4.6354
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:09]
 :END:
 
 Quais são as conversões possíveis para a proposição a seguir?
@@ -2703,7 +2766,7 @@ Quais são as conversões possíveis para a proposição a seguir?
 
 Contraposta:
 
-> Algumas não-plantas não são coisas não-verdes
+> [Algumas não plantas não são coisas não verdes]
 
 *** Item                                                            :drill:
 :PROPERTIES:
@@ -2730,8 +2793,17 @@ tipo E (universal negativa)?
 - [ ] Contraposta
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-29 dom>
 :PROPERTIES:
 :ID:       f4b10cff-11e4-4801-ada3-d62cbbcad0d3
+:DRILL_LAST_INTERVAL: 4.6526
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:07]
 :END:
 
 Dentro os tipos de conversões, quais são aceitas por uma proposição do
@@ -2742,8 +2814,17 @@ tipo I (particular afirmativa)?
 - [ ] Contraposta
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-28 sáb>
 :PROPERTIES:
 :ID:       696615d5-4609-4a84-83cf-a1a3f05e96c6
+:DRILL_LAST_INTERVAL: 4.2175
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:09]
 :END:
 
 Dentro os tipos de conversões, quais são aceitas por uma proposição do
@@ -2754,12 +2835,15 @@ tipo O (particular negativa)?
 - [X] Contraposta
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       f1e214c3-607c-4afe-8da8-d6712fa946a4
+:END:
 
 A conversão [contraposta] deriva de
 
 - 1) a conversão simples
-- 2.1) do fato de "Não ser não-A" é o mesmo que "ser A"
-- 2.2) "ser A" é o mesmo que "não ser não-A" (mesmo que 2.1, mas lido
+- 2.1) do fato de "Não ser não A" é o mesmo que "ser A"
+- 2.2) "ser A" é o mesmo que "não ser não A" (mesmo que 2.1, mas lido
   na direção oposta)
 
 
@@ -2768,28 +2852,31 @@ A conversão [contraposta] deriva de
 Comecemos com duas proposições que queremos avaliar se podem ser
 convertidas uma na outra:
 
-> I) Alguns As não são Bs (original)
+> I) Alguns A não são B (original)
 
-> II) Alguns não-Bs não são não-As (proposição que queremos avaliar se
+> II) Alguns não B não são não A (proposição que queremos avaliar se
 é convertível na original)
 
 Aplicando 2.1 a II temos:
 
-> III) Alguns não-Bs são As (equivalente a II)
+> III) Alguns não B são As (equivalente a II)
 
 Aplicando 2.2 a I temos:
 
-> IV)  Alguns As são não-Bs (equivalente a I)
+> IV)  Alguns As são não B (equivalente a I)
 
 Aplicando-se 1 a IV) temos:
 
-> V) Alguns não-Bs são As
+> V) Alguns não B são A
 
 O resultado V é equivalente a IV que por sua vez é equivalente a I, e
 é igual a III que é equivalente a II. Ou seja, I e II são
 equivalentes.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       abc1d3a0-73e0-4020-a8a0-35fb8cdb8f2a
+:END:
 
 Podem ser convertidos por conversão [simples]:
 
@@ -2808,12 +2895,18 @@ Por conversão contraposta:
 
 ** Equivalência de proposições
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       f0ed0f05-a163-4090-a8e0-bcaf89eaf104
+:END:
 
 [Equivalência||"Equivalência" or "Conversão"] é a redução de duas
 proposições opostas à mesma significação. Esta redução faz-se por meio
 da partícula negativa "não".
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       73343f05-b43d-4328-8e95-082ca3de6cc9
+:END:
 
 Conversão ou equivalência?
 
@@ -2825,7 +2918,7 @@ Por meio de [conversão] acidental vira:
 
 e por [conversão] contraposta vira:
 
-> Todo não-racional é não-homem
+> Todo não racional é não homem
 
 E por meio de [equivalência] contrária vira:
 
@@ -2836,6 +2929,18 @@ E por [equivalência] contraditória:
 > Nem todo homem é racional
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-28 sáb>
+:PROPERTIES:
+:ID:       eec9ddb2-a8dc-4bf5-9722-dff81294f880
+:DRILL_LAST_INTERVAL: 4.223
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:12]
+:END:
 
 Conversão ou equivalência?
 
@@ -2846,18 +2951,36 @@ Se o sujeito e o predicado se mantêm no lugar, mas adicionou-se a
 partícula negativa ao sujeito, trata-se de [equivalência].
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       f7edc9cc-fed0-4d4e-8567-92964a8dedff
+:END:
 
 Duas [contraditórias||"contrárias" or "contraditórias"] tornam-se
 equivalentes antepondo a partícula negativa ao sujeito de uma
 delas. Assim, a negação altera a quantidade e a qualidade.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-28 sáb>
+:PROPERTIES:
+:ID:       7e65cfb9-d87e-4ef7-ab49-a08e9e3d3414
+:DRILL_LAST_INTERVAL: 3.9938
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:08]
+:END:
 
 Duas [contrárias||"contraditórias" or "contrárias"] tornam-se
-equivalentes, propondo a negação ao sujeito de uma delas. Assim a
+equivalentes, *propondo* a negação ao sujeito de uma delas. Assim a
 partícula negativa altera só a qualidade.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       6e2b86e2-5cea-495d-a76b-8af299b63921
+:END:
 
 Na transformação por [conversão||"equivalência" or "conversão"] não se
 altera a veracidade da proposição.
@@ -2867,6 +2990,9 @@ opostas (e portanto de diferente significado), e chega-se a um par de
 proposições que tem o mesmo significado.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       4cdee66a-6b9c-4749-96a6-36d21749cec8
+:END:
 
 A transformação de equivalência pode ajudar a entender uma frase.
 
@@ -2876,7 +3002,7 @@ Considere:
 
 O que isso quer dizer?
 
-Remove-se o nem, e troca-se a quantidade e a qualidade. Obtem-se:
+Remove-se o nem, e troca-se a quantidade e a qualidade. Obtém-se:
 
 > [Alguns homem que foram ao baile não dançaram com Rosinha.]
 
@@ -2890,7 +3016,7 @@ De modo geral, se encontramos proposição na forma
 
 Podemos usar a regra de equivalência para produzir:
 
-> Alguns As não são Bs.
+> Alguns A não são B.
 
 Ou então:
 
@@ -2900,10 +3026,137 @@ Vira
 
 > Alguns As são B.
 
+** Raciocínio, seus elementos e divisão
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       a6bfdd94-aa68-4e30-966f-efd6986e1b73
+:END:
+
+Raciocínio é a união ou separação de duas [ideias||"ideias" or
+"proposições"] pelo fato de ambas convirem, ou uma convier e outra
+não, com uma terceira, com a qual foram comparadas.
+
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       39675e98-e5cd-4436-b382-601f2315d7eb
+:END:
+
+Ao compararmos ideias A e B com uma terceira C, há três casos:
+
+- a) Ambas A e B convém a C, portando A e B [convém||"convém" or "não
+  convém"] entre si. É o caso de um raciocínio
+  [afirmativo||"analítico" or "afirmativo"].
+- b) Nem A nem B convém a C, nesse caso [nada pode ser afirmado sobre
+  conveniência ou não conveniência de A e B].
+- c) Uma convém a C, mas outra não, portando A e B [não convém||"não
+  convém" or "convém"] entre si. É o caso de um raciocínio
+  [negativo||"negativo" or "restritivo"].
+
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       108ea5d8-3b65-470f-83bc-39155cf050b8
+:END:
+
+A perfeição das substâncias intelectuais consiste no conhecimento da [verdade].
+
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       ac4c13e0-b6e7-469f-bb53-69586353074d
+:END:
+
+Pelo [raciocínio||"juízo" or "raciocínio"], a inteligência não vê uma
+verdade na outra, mas passa de uma verdade para a outra. Essa passagem
+realiza-se quando a inteligência não vê imediatamente a relação entre
+duas diversas ideias.
+
+*** Item                                                            :drill:
+
+A matéria remota de um raciocínio são 3 ideias:
+
+- uma é dita extremo maior e é o [predicado||"predicado" or "sujeito"] da conclusão
+- outra é extremo menor e é o [sujeito||"sujeito" or "predicado"] da conclusão
+- e outra é média e é o termo de comparação
+
+*** Item                                                            :drill:
+
+Em um raciocínio, o extremo [maior] é o predicado da conclusão.
+
+O extremo [menor] é o sujeito da mesma conclusão.
+
+*** Item                                                            :drill:
+
+As premissas de um raciocínio formam o antecedente; a conclusão é o
+consequente.
+
+O nexo que em virtude da forma existe entre o antecedente e o
+consequente, chama-se consequência.
+
+*** Item                                                            :drill:
+
+As regras que determinam a validade de um raciocínio afirmativo ou
+negativo, se fundam no princípio da [contradição]:
+
+> uma coisa não pode simultaneamente ser e deixar de ser
+
+*** Item                                                            :drill:
+
+Há duas espécies de argumentação:
+
+- Sil[ogismo] (dito argumentação dedutiva) :: de duas proposições
+  descemos para uma terceira
+- Ind[ução] (dita argumentação indutiva) :: de duas proposições
+  particulares subimos para uma terceira
+
+*** Item                                                            :drill:
+
+[Silogismo||"Silogismo" or "Indução"] é a argumentação, pela qual se
+conclui que o predicado de um sujeito *universal* convém a um sujeito
+*particular*, pelo fato desse se achar contido naquele sujeito
+universal.
+
+*** Item                                                            :drill:
+
+Em um silogismo:
+
+- a proposição maior indica que ao sujeito [universal||"particular" or
+  "universal"] compete necessariamente um certo predicado
+- a menor que o sujeito particular está contido na extensão do sujeito
+  universal
+- a conclusão que ao sujeito [particular||"particular" or "universal"]
+  deve atribuir-se o predicado da premissa maior.
+
+*** Item                                                            :drill:
+
+A um silogismo que, por brevidade, foram omitidas uma das premissas,
+chama-se ent[imema].
+
+*** Item                                                            :drill:
+
+Entinema é um silogismo em que [foram omitidas uma das premissas].
+
+*** Item                                                            :drill:
+
+Um crítica ao raciocínio por silogismo, e comum entre "filósofos"
+modernos, é a de que não se aprende nada por meio do silogismo, ou
+ainda que trata-se de um pensamento circular, pois a conclusão contém
+as premissas.
+
+Como pode-se responder?
+
+**** Resposta
+
+O silogismo serve para descobrir e conhecer distintamente novas
+verdades, só implicitamente contidas nos princípios gerais.
+
+Quanto às conclusões conterem as premissas, isso parece ocorrer ao
+crítico moderno pois ele desconsidera que os termos apontam apenas
+para coleções de indivíduos, desconsiderando que as proposições tratam
+de universais.
+
+Conferir notas de rodapé na página 109~111 para mais detalhes sobre as
+críticas de Locke, Stuart Mill, Spencer, e Bacon, bem como respostas
+escolásticas.
+
 * COMMENT Local variables
 # local variables:
 # display-line-numbers-width: 3
