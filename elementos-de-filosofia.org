@@ -2137,6 +2137,9 @@ disjuntiva, adversativa, relativa, ou exponível?
 
 ** Qualidades das proposições
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       225c4601-490d-4b9d-aa91-51e063d8d873
+:END:
 
 As qualidades das proposições (ou melhor: dos pares de proposições)
 são três: oposição, conversão e equivalência.
@@ -2146,6 +2149,9 @@ e o mesmo [predicado]. A repugnância está em ser uma afirmativa, e a
 outra negativa.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       921086fa-e207-467c-bf3a-910960640683
+:END:
 
 As proposições a seguir são contraditórias, contrárias, ou
 sub-contrárias?
@@ -2157,6 +2163,9 @@ sub-contrárias?
 [Contrárias]
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       9f251315-3544-4bed-acdd-1f0f6107dc30
+:END:
 
 As proposições a seguir são contraditórias, contrárias, ou
 sub-contrárias?
@@ -2168,6 +2177,9 @@ sub-contrárias?
 [Contraditórias]
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       f164ae7e-9c6f-4777-a994-0e1da50a93f1
+:END:
 
 As proposições a seguir são contraditórias, contrárias, ou
 sub-contrárias?
@@ -2179,6 +2191,9 @@ sub-contrárias?
 [Contraditórias]
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       acb6cd50-2232-484e-a4ef-2d0ce6f4649e
+:END:
 
 As proposições a seguir são contraditórias, contrárias, ou
 sub-contrárias?
@@ -2190,6 +2205,9 @@ sub-contrárias?
 [Sub-contrárias]
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       8a047354-2d3c-46c3-ac7a-46e86d577b7f
+:END:
 
 Na classificação AEIO, qual letra se dá para o tipo de proposição a
 seguir?
@@ -2199,6 +2217,9 @@ seguir?
 [A]
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       56eebaf5-1ecd-4eec-a5fd-4bebefee776e
+:END:
 
 Na classificação AEIO, qual letra se dá para o tipo de proposição a
 seguir?
@@ -2208,6 +2229,9 @@ seguir?
 [I]
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       e8e3c400-8031-4e36-b11f-73a1d3cf0570
+:END:
 
 Na classificação AEIO, qual letra se dá para o tipo de proposição a
 seguir?
@@ -2217,6 +2241,9 @@ seguir?
 [E]
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       066eb445-97cc-4530-84a6-c65054dddb0d
+:END:
 
 Na classificação AEIO, qual letra se dá para o tipo de proposição a
 seguir?
@@ -2226,6 +2253,9 @@ seguir?
 [O]
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       72a8b8d9-84a0-490b-93bb-7f7ea3e65322
+:END:
 
 Na classificação AEIO, quais letras se dão às proposições cujos
 sujeitos são universais?
@@ -2245,6 +2275,9 @@ E quando são negativas?
 [E e O||duas letras]
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       ee97d3a8-ea4a-486b-ae85-765207ef897e
+:END:
 
 Complete o quadro com A, E, I, e O
 
@@ -2253,6 +2286,9 @@ Complete o quadro com A, E, I, e O
 | Sujeito Universal  | [E]                 | [A]                   |
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       72ce0253-d326-452a-81d3-812595195c7c
+:END:
 
 Nas proposições do tipo O o sujeito é universal ou particular? Ela é
 afirmativa ou negativa?
@@ -2260,6 +2296,9 @@ afirmativa ou negativa?
 [Particular e negativa]
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       35430238-3b49-43fe-b4d0-c141843f4673
+:END:
 
 Nas proposições do tipo E o sujeito é universal ou particular? Ela é
 afirmativa ou negativa?
@@ -2267,6 +2306,9 @@ afirmativa ou negativa?
 [Universal e negativa]
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       65abc8be-1a57-4ac7-88a7-cbbdae4fb973
+:END:
 
 Nas proposições do tipo A o sujeito é universal ou particular? Ela é
 afirmativa ou negativa?
@@ -2274,6 +2316,9 @@ afirmativa ou negativa?
 [Universal e afirmativa]
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       ebe2a120-652a-4131-8cec-11e02cdaebb8
+:END:
 
 Nas proposições do tipo I o sujeito é universal ou particular? Ela é
 afirmativa ou negativa?
@@ -2281,6 +2326,9 @@ afirmativa ou negativa?
 [Particular e afirmativa]
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       20ee6dca-eed8-42b6-9257-28df28c9add2
+:END:
 
 Proposições A e E são ditas [contrárias||"contrárias" or "sub-contrárias"].
 
@@ -2291,6 +2339,9 @@ Proposições A e O são ditas [contraditórias||"contraditórias" or "contrári
 Proposições I e E são ditas [contraditórias||"contraditórias" or "sub-contrárias"].
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       da038500-3863-4f1b-9d3b-83ce30925843
+:END:
 
 As proposições a seguir são opostas? Por que?
 
@@ -2301,6 +2352,9 @@ As proposições a seguir são opostas? Por que?
 [Não, pois não tratam to mesmo sujeito]
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       78c5b76d-4d5e-4179-ae20-fcebb192994f
+:END:
 
 As proposições a seguir são opostas? Por que?
 
@@ -2311,6 +2365,9 @@ As proposições a seguir são opostas? Por que?
 [Não, pois não tratam to mesmo predicado]
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       dba05d6e-07ce-42ca-82b4-d6f564713d47
+:END:
 
 Quanto a proposições contraditórias, se uma é falsa, podemos dizer que
 a outra é verdadeira?
@@ -2322,6 +2379,9 @@ Se uma é verdadeira, podemos dizer que a outra é falsa?
 [Sim]
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       57aa714a-f9e4-4f0c-9601-68b025cf6991
+:END:
 
 Quanto a proposições contrárias, se uma é verdadeira, podemos dizer
 que a outra é falsa?
@@ -2344,6 +2404,9 @@ que a outra é verdadeira?
 [Não].
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       d58879c5-4ebd-4179-8042-421f5b194b34
+:END:
 
 Quanto a proposições sub-contrárias, se uma é falsa podemos dizer que
 a outra é verdadeira?
@@ -2365,6 +2428,9 @@ deduzir a falsidade da outra?
 [Não].
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       51cc52ef-6371-4f4f-8401-09158e3ab7d5
+:END:
 
 Os comentários a seguir refere-se a pares de proposições contrárias,
 sub-contrárisas, ou contraditórias?
@@ -2380,6 +2446,9 @@ sub-contrárisas, ou contraditórias?
 [contrárias].
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       4e5368f4-0adb-48b6-b27d-3dcaaefe648e
+:END:
 
 Sobre proposições contrárias e sub-contrárias:
 
@@ -2387,6 +2456,9 @@ Sobre proposições contrárias e sub-contrárias:
 - as [contrarias] não podem ser ambas *verdadeiras*, seja qual for a matéria
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       9d00ffe8-27b0-4d13-b56e-1661d4063da2
+:END:
 
 Quais pares de proposições não podem ser ambas verdadeiras,
 independentemente da matérias?
@@ -2397,6 +2469,9 @@ independentemente da matérias?
 [A]
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       3c084cdf-3ad3-49dd-a5c2-a46dcffc56ae
+:END:
 
 Quais pares de proposições não podem ser ambas falsas,
 independentemente da matérias?
@@ -2407,6 +2482,9 @@ independentemente da matérias?
 [B]
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       018b9d5e-add2-4558-96cb-3d38ec09a825
+:END:
 
 Das proposições a seguir, julgue verdadeiro ou falso, de acordo com as
 regras das proposições opostas.
@@ -2426,6 +2504,9 @@ B é verdadeiro por ser contrário e se tratar de matéria essencial.
 
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       6c2c1a02-9333-48f2-bb14-c29b384bc4c7
+:END:
 
 Das proposições a seguir, julgue verdadeiro ou falso, de acordo com as
 regras das proposições opostas.
@@ -2442,6 +2523,9 @@ São sub-contrárias => não podem ser ambas falsas => B é verdadeiro
 Trata-se de matéria essencial e são sub-contrárias => A é verdadeiro
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       aa8cdf81-fec9-464a-b7a4-fd31d4e607ff
+:END:
 
 Das proposições a seguir, julgue verdadeiro ou falso, de acordo com as
 regras das proposições opostas.
@@ -2459,6 +2543,9 @@ Trata-se de matéria contingente => não se pode concluir veracidade de
 outra a partir da falsidade de uma => B é falso
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       cbb996c6-c2e1-4063-8274-3f5234bc3504
+:END:
 
 Das proposições a seguir, julgue verdadeiro ou falso, de acordo com as
 regras das proposições opostas.
@@ -2477,6 +2564,9 @@ Trata-se de matéria contingente => não se pode concluir a falsidade da
 outra a partir da veracidade de uma => A é falso.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       b12ac249-6f1e-4598-83e5-167876dfbe89
+:END:
 
 Das proposições a seguir, julgue verdadeiro ou falso, de acordo com as
 regras das proposições opostas.
@@ -2495,6 +2585,9 @@ nem ambos verdadeiros, independentemente da matérias ser contingente
 ou essencial.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       09c6d094-f60c-4343-b9e5-408c78e6a3d3
+:END:
 
 Das proposições a seguir, julgue verdadeiro ou falso, de acordo com as
 regras das proposições opostas.
@@ -2512,7 +2605,301 @@ Trata-se de um par de contraditórias => não podem nem ser ambos falsos
 nem ambos verdadeiros, independentemente da matérias ser contingente
 ou essencial.
 
+** Conversão de proposições
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       9ede7172-726a-4377-b15b-2b46890dec07
+:END:
+
+A [conversão||"equivalência" or "conversão"] é a transformação de uma
+proposição noutra. Faz-se pela troca dos termos, passando o sujeito
+para o predicado e este para o sujeito, sem alterar a qualidade e a
+verdade das proposições.
+
+Exemplo:
+
+> algum homem é sábio
+
+converte-se para
+
+> algum sábio é homem
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       2c253bc0-4ea9-441a-aa52-8d3a919c87f4
+:END:
+
+Simples, acidental, ou contraposta?
+
+Na conversão [acidental], altera-se a quantidade do sujeito.
+
+Na conversão [contraposta], a quantidade é conservada, mas ambos os
+termos são negados.
+
+Na conversão [simples], mantém-se a quantidade do sujeito.
+
+Nota: a tabela a seguir indica qual tipo de proposição está sujeito a
+qual conversão.
+
+|             | A | E | I | O |
+| Simples     |   | X | X |   |
+| Acidental   | X | X |   |   |
+| Contraposta | X |   |   | X |
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       7469cfa3-6fa6-45eb-9d4a-5f2655882323
+:END:
+
+Quais são as conversões possíveis para a proposição a seguir?
+
+> Todo homem é racional
+
+Conversão acidental:
+
+> Algum racional é homem
+
+Conversão contraposta:
+
+> Todo não racional é não homem
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       b50577b4-20b2-48ae-8076-5836ab621de1
+:END:
+
+Quais são as conversões possíveis para a proposição a seguir?
+
+> Nenhum homem é planta (todo homem não é planta)
+
+Simples:
+
+> Nenhuma planta é homem (toda planta não é homem)
+
+Acidental:
+
+> Alguma planta não é homem
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       9d956178-312e-4f56-9412-591f46bc1b67
+:END:
+Quais são as conversões possíveis para a proposição a seguir?
+
+> Alguns homens são sábios
+
+Simples:
+
+> Alguns sábios são homens
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       e21c647a-ef61-4a8c-9853-43d85fe74ba1
+:END:
+
+Quais são as conversões possíveis para a proposição a seguir?
+
+> Algumas coisas verdes não são plantas
+
+Contraposta:
+
+> Algumas não-plantas não são coisas não-verdes
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       ee8950be-cfc9-48da-8679-9bd5279c6417
+:END:
+
+Dentro os tipos de conversões, quais são aceitas por uma proposição do
+tipo A (universal afirmativa)?
+
+- [ ] Simples
+- [X] Acidental
+- [X] Contraposta
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       b9b85916-6677-4392-9398-5077851216ee
+:END:
+
+Dentro os tipos de conversões, quais são aceitas por uma proposição do
+tipo E (universal negativa)?
+
+- [X] Simples
+- [X] Acidental
+- [ ] Contraposta
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       f4b10cff-11e4-4801-ada3-d62cbbcad0d3
+:END:
+
+Dentro os tipos de conversões, quais são aceitas por uma proposição do
+tipo I (particular afirmativa)?
+
+- [X] Simples
+- [ ] Acidental
+- [ ] Contraposta
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       696615d5-4609-4a84-83cf-a1a3f05e96c6
+:END:
+
+Dentro os tipos de conversões, quais são aceitas por uma proposição do
+tipo O (particular negativa)?
+
+- [ ] Simples
+- [ ] Acidental
+- [X] Contraposta
+
+*** Item                                                            :drill:
+
+A conversão [contraposta] deriva de
+
+- 1) a conversão simples
+- 2.1) do fato de "Não ser não-A" é o mesmo que "ser A"
+- 2.2) "ser A" é o mesmo que "não ser não-A" (mesmo que 2.1, mas lido
+  na direção oposta)
+
+
+**** More
+
+Comecemos com duas proposições que queremos avaliar se podem ser
+convertidas uma na outra:
+
+> I) Alguns As não são Bs (original)
+
+> II) Alguns não-Bs não são não-As (proposição que queremos avaliar se
+é convertível na original)
+
+Aplicando 2.1 a II temos:
+
+> III) Alguns não-Bs são As (equivalente a II)
+
+Aplicando 2.2 a I temos:
+
+> IV)  Alguns As são não-Bs (equivalente a I)
+
+Aplicando-se 1 a IV) temos:
+
+> V) Alguns não-Bs são As
+
+O resultado V é equivalente a IV que por sua vez é equivalente a I, e
+é igual a III que é equivalente a II. Ou seja, I e II são
+equivalentes.
+
+*** Item                                                            :drill:
+
+Podem ser convertidos por conversão [simples]:
+
+- Universais negativas
+- Particulares positivas
+
+Por conversão acidental:
+
+- [Universal] positiva
+- Universal [negativa]
+
+Por conversão contraposta:
+
+- [Universal] positiva
+- [Particular] negativa
+
+** Equivalência de proposições
+*** Item                                                            :drill:
+
+[Equivalência||"Equivalência" or "Conversão"] é a redução de duas
+proposições opostas à mesma significação. Esta redução faz-se por meio
+da partícula negativa "não".
+
+*** Item                                                            :drill:
+
+Conversão ou equivalência?
+
+> Todo homem é racional
+
+Por meio de [conversão] acidental vira:
+
+> Alguns racionais são homens
+
+e por [conversão] contraposta vira:
+
+> Todo não-racional é não-homem
+
+E por meio de [equivalência] contrária vira:
+
+> Todo homem não é racional (ou nenhum homem e racional)
+
+E por [equivalência] contraditória:
+
+> Nem todo homem é racional
+
+*** Item                                                            :drill:
+
+Conversão ou equivalência?
+
+Se o sujeito foi trocado de lugar com o predicado, trata-se de
+[conversão].
+
+Se o sujeito e o predicado se mantêm no lugar, mas adicionou-se a
+partícula negativa ao sujeito, trata-se de [equivalência].
+
+*** Item                                                            :drill:
+
+Duas [contraditórias||"contrárias" or "contraditórias"] tornam-se
+equivalentes antepondo a partícula negativa ao sujeito de uma
+delas. Assim, a negação altera a quantidade e a qualidade.
+
+*** Item                                                            :drill:
+
+Duas [contrárias||"contraditórias" or "contrárias"] tornam-se
+equivalentes, propondo a negação ao sujeito de uma delas. Assim a
+partícula negativa altera só a qualidade.
+
+*** Item                                                            :drill:
+
+Na transformação por [conversão||"equivalência" or "conversão"] não se
+altera a veracidade da proposição.
+
+Na transformação por [equivalência], sai-se de um par de proposições
+opostas (e portanto de diferente significado), e chega-se a um par de
+proposições que tem o mesmo significado.
+
+*** Item                                                            :drill:
+
+A transformação de equivalência pode ajudar a entender uma frase.
+
+Considere:
+
+> Nem todo homem que foi ao baile dançou com Rosinha
+
+O que isso quer dizer?
+
+Remove-se o nem, e troca-se a quantidade e a qualidade. Obtem-se:
+
+> [Alguns homem que foram ao baile não dançaram com Rosinha.]
+
+Que é muito mais claro.
+
+**** Mais detalhes
+
+De modo geral, se encontramos proposição na forma
+
+> Nem todo A é B.
+
+Podemos usar a regra de equivalência para produzir:
+
+> Alguns As não são Bs.
+
+Ou então:
+
+> Nem todo A não é B.
+
+Vira
+
+> Alguns As são B.
+
 *** Item                                                            :drill:
 *** Item                                                            :drill:
 *** Item                                                            :drill:
