@@ -3670,6 +3670,8 @@ m X
 m M
 #+end_quote
 
+Onde M: extremo maior, m: extremo menor, e X; termo médio.
+
 Sendo que cada proposição pode ser um dos tipos AEIO.
 
 A lei das figura [I] diz que:
@@ -3686,6 +3688,8 @@ M X
 X m
 m M
 #+end_quote
+
+Onde M: extremo maior, m: extremo menor, e X: termo médio.
 
 Sendo que cada proposição pode ser um dos tipos AEIO.
 
@@ -3707,6 +3711,8 @@ m X
 m M
 #+end_quote
 
+Onde M: extremo maior, m: estremo menor, e X: termo médio.
+
 Sendo que cada proposição pode ser um dos tipos AEIO.
 
 A lei da figura [III] diz que:
@@ -3723,6 +3729,8 @@ X M
 X m
 m M
 #+end_quote
+
+Onde M: extremo maior, m: estremo menor, e X: termo médio
 
 A lei da figura [IV] diz que:
 
