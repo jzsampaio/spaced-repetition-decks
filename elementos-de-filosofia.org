@@ -1223,17 +1223,17 @@ Dentre as 6 principais propriedades do termo:
   verbo exprime. E.g.: os cegos veem.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-25 qua>
+SCHEDULED: <2023-02-07 ter>
 :PROPERTIES:
 :ID:       b40bbc88-a985-43f1-bd1f-70dc77e9957e
-:DRILL_LAST_INTERVAL: 4.5553
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.0518
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:34]
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 08:58]
 :END:
 
 Na frase a seguir, o termo *cego* é tomado no presente ou no passado?
@@ -1267,17 +1267,17 @@ Dentre as 6 principais propriedades do termo:
   outra menor. E.g.: O pregai o Evangelho a toda a criatura.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-25 qua>
+SCHEDULED: <2023-02-09 qui>
 :PROPERTIES:
 :ID:       cfc71dd7-c923-4029-820a-1af2a7d03740
-:DRILL_LAST_INTERVAL: 4.8655
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.5749
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:35]
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 08:55]
 :END:
 
 Na frase a seguir, o termo *mansos* sofre o efeito de
@@ -1288,17 +1288,17 @@ ampliação ou de restrição?
 [ampliação]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-25 qua>
+SCHEDULED: <2023-02-07 ter>
 :PROPERTIES:
 :ID:       ad92b5ab-ad9c-4779-86d3-e4bc498cbab4
-:DRILL_LAST_INTERVAL: 4.5872
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.2045
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:27]
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 08:55]
 :END:
 
 Na frase a seguir, o termo *toda criatura* sofre do efeito de
@@ -1309,17 +1309,17 @@ ampliação ou de restrição?
 [restrição].
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-25 qua>
+SCHEDULED: <2023-02-06 seg>
 :PROPERTIES:
 :ID:       ea1c4fbc-5b2d-4353-b6a9-a68a749856af
-:DRILL_LAST_INTERVAL: 4.6541
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.7103
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:31]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 08:55]
 :END:
 
 Def[inição] é a explicação de uma coisa ou de um termo. Serve para
@@ -1360,17 +1360,17 @@ SCHEDULED: <2023-02-01 qua>
         - genética
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-25 qua>
+SCHEDULED: <2023-02-08 qua>
 :PROPERTIES:
 :ID:       e6b900a0-2192-4287-aab9-ab654f7934bf
-:DRILL_LAST_INTERVAL: 4.7145
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.3099
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:24]
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 08:58]
 :END:
 
 É possível dar uma definição essencial de todas as coisas?
@@ -1413,17 +1413,17 @@ Dessas noções podemos fazer uma descrição ou declaração por meio de
 noções, que sejam, relativamente a nós, mais conhecidas.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-25 qua>
+SCHEDULED: <2023-02-06 seg>
 :PROPERTIES:
 :ID:       5d26bf57-edba-471e-adcb-ec88022961d7
-:DRILL_LAST_INTERVAL: 4.6276
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 10.9564
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 1
 :DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:35]
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 08:57]
 :END:
 
 Regras para uma definição:
@@ -1550,21 +1550,21 @@ SCHEDULED: <2023-02-05 dom>
 negação.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-25 qua>
+SCHEDULED: <2023-02-07 ter>
 :PROPERTIES:
 :ID:       3f1a5b56-a35e-49fa-b416-bfe23948b2dc
-:DRILL_LAST_INTERVAL: 4.5025
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.017
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:32]
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 08:57]
 :END:
 
-O juízo é necessariamente um ato da [inteligência||"vontade" ou
-"inteligência"]; porque só essa faculdade pode conhecer a relação (que
+O juízo é necessariamente um ato da [inteligência||"vontade" ou "inteligência"];
+porque só essa faculdade pode conhecer a relação (que
 é uma coisa abstrata) entre dois objetos e por isso, entre duas
 ideias.
 
@@ -1574,20 +1574,20 @@ funda-se necessariamente na conveniência ou desconveniência
 representam.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-25 qua>
+SCHEDULED: <2023-01-30 seg>
 :PROPERTIES:
 :ID:       65a873bb-f601-4833-a260-adb4e13c04e2
-:DRILL_LAST_INTERVAL: 4.8556
+:DRILL_LAST_INTERVAL: 4.2291
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.667
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:29]
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:10]
 :END:
 
-Em relação ás 3 partes do *juízo*:
+Em relação às 3 partes do *juízo*:
 
 - A ideia de que alguma coisa se afirma ou nega, diz-se [sujeito||"substantivo" ou "sujeito"]
 - a ideia que se afirma ou nega do sujeito, chama-se [predicado||"objeto" ou "predicado"]
@@ -1617,17 +1617,17 @@ a verdadeiro e falso.
   predicado que lhe atribuímos, ou convém o que lhe negamos.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-25 qua>
+SCHEDULED: <2023-02-11 sáb>
 :PROPERTIES:
 :ID:       f1f87830-5ab7-4b9d-a41d-3d4ad786e383
-:DRILL_LAST_INTERVAL: 5.0757
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 16.3515
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:27]
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 08:58]
 :END:
 
 Quando a divisão do juízo entre direto e reflexo:
@@ -1790,17 +1790,17 @@ Nas frases a seguir o verbo é substantivo ou adjetivo?
 [Adjetivo]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-25 qua>
+SCHEDULED: <2023-02-09 qui>
 :PROPERTIES:
 :ID:       d0c04ae2-e2d1-4b44-a688-835efc2ccfd6
-:DRILL_LAST_INTERVAL: 4.8934
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.2045
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 07:26]
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 08:55]
 :END:
 
 A frase "Pedro ama", com verbo adjetivo "ama", resolve-se em "Pedro
@@ -1969,6 +1969,26 @@ As proposições modais se reduzem às absolutas.
 "é impossível que o homem seja bruto" corresponde a esta ["nenhum
 homem é bruto"].
 
+** Compreensão e extensão do predicado nas proposições afirmativas e negativas
+*** Item                                                            :drill:
+
+Universal ou particular?
+
+| Qualidade do predicado | Extensão     | Compreensão | Exemplo               |
+|------------------------+--------------+-------------+-----------------------|
+| Afirmativo             | [Particular] | Total       | Pedro é homem         |
+| Negativa               | [Universal]  | Em parte    | O animal não é planta |
+
+**** Comentários
+
+| Comentários                                                                       |
+|-----------------------------------------------------------------------------------|
+| Alguns homens são Pedro, mas tudo o que há em animal há em Pedro                  |
+| Nenhuma planta é animal, mas as plantas dividem algumas propriedades com o animal |
+
+*** Item                                                            :drill:
+*** Item                                                            :drill:
+*** Item                                                            :drill:
 ** Divisão das proposições compostas
 *** Item                                                            :drill:
 SCHEDULED: <2023-01-27 sex>
@@ -2115,17 +2135,17 @@ disjuntiva, adversativa, relativa, ou exponível?
 [relativa]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-26 qui>
+SCHEDULED: <2023-02-04 sáb>
 :PROPERTIES:
 :ID:       f3c2140a-561b-4692-9af1-52277a793502
-:DRILL_LAST_INTERVAL: 3.2434
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 8.8021
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
+:DRILL_EASE: 2.22
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:17]
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 08:58]
 :END:
 
 A proposição composta a seguir é copulativa, causal, condicional,
@@ -2137,8 +2157,17 @@ disjuntiva, adversativa, relativa, ou exponível?
 
 ** Qualidades das proposições
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-30 seg>
 :PROPERTIES:
 :ID:       225c4601-490d-4b9d-aa91-51e063d8d873
+:DRILL_LAST_INTERVAL: 4.035
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:03]
 :END:
 
 As qualidades das proposições (ou melhor: dos pares de proposições)
@@ -2149,8 +2178,17 @@ e o mesmo [predicado]. A repugnância está em ser uma afirmativa, e a
 outra negativa.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-30 seg>
 :PROPERTIES:
 :ID:       921086fa-e207-467c-bf3a-910960640683
+:DRILL_LAST_INTERVAL: 4.3636
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:06]
 :END:
 
 As proposições a seguir são contraditórias, contrárias, ou
@@ -2163,8 +2201,17 @@ sub-contrárias?
 [Contrárias]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-30 seg>
 :PROPERTIES:
 :ID:       9f251315-3544-4bed-acdd-1f0f6107dc30
+:DRILL_LAST_INTERVAL: 4.2298
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:03]
 :END:
 
 As proposições a seguir são contraditórias, contrárias, ou
@@ -2238,8 +2285,17 @@ seguir?
 [I]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-30 seg>
 :PROPERTIES:
 :ID:       e8e3c400-8031-4e36-b11f-73a1d3cf0570
+:DRILL_LAST_INTERVAL: 3.7671
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:06]
 :END:
 
 Na classificação AEIO, qual letra se dá para o tipo de proposição a
@@ -2323,8 +2379,17 @@ afirmativa ou negativa?
 [Particular e negativa]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-31 ter>
 :PROPERTIES:
 :ID:       35430238-3b49-43fe-b4d0-c141843f4673
+:DRILL_LAST_INTERVAL: 4.6943
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:03]
 :END:
 
 Nas proposições do tipo E o sujeito é universal ou particular? Ela é
@@ -2343,8 +2408,17 @@ afirmativa ou negativa?
 [Universal e afirmativa]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-30 seg>
 :PROPERTIES:
 :ID:       ebe2a120-652a-4131-8cec-11e02cdaebb8
+:DRILL_LAST_INTERVAL: 4.2391
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:06]
 :END:
 
 Nas proposições do tipo I o sujeito é universal ou particular? Ela é
@@ -2523,8 +2597,17 @@ independentemente da matérias?
 [A]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-29 dom>
 :PROPERTIES:
 :ID:       3c084cdf-3ad3-49dd-a5c2-a46dcffc56ae
+:DRILL_LAST_INTERVAL: 3.3033
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:08]
 :END:
 
 Quais pares de proposições não podem ser ambas falsas,
@@ -2536,8 +2619,17 @@ independentemente da matérias?
 [B]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-30 seg>
 :PROPERTIES:
 :ID:       018b9d5e-add2-4558-96cb-3d38ec09a825
+:DRILL_LAST_INTERVAL: 3.8432
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:02]
 :END:
 
 Das proposições a seguir, julgue verdadeiro ou falso, de acordo com as
@@ -2555,7 +2647,6 @@ Trata-se de proposições contrárias, sobre matéria essencial.
 
 A é verdadeiro por serem contrárias.
 B é verdadeiro por ser contrário e se tratar de matéria essencial.
-
 
 *** Item                                                            :drill:
 :PROPERTIES:
@@ -2597,8 +2688,17 @@ Trata-se de matéria contingente => não se pode concluir veracidade de
 outra a partir da falsidade de uma => B é falso
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-30 seg>
 :PROPERTIES:
 :ID:       cbb996c6-c2e1-4063-8274-3f5234bc3504
+:DRILL_LAST_INTERVAL: 4.2636
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:11]
 :END:
 
 Das proposições a seguir, julgue verdadeiro ou falso, de acordo com as
@@ -2661,8 +2761,17 @@ ou essencial.
 
 ** Conversão de proposições
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-31 ter>
 :PROPERTIES:
 :ID:       9ede7172-726a-4377-b15b-2b46890dec07
+:DRILL_LAST_INTERVAL: 5.1759
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:01]
 :END:
 
 A [conversão||"equivalência" or "conversão"] é a transformação de uma
@@ -2781,8 +2890,17 @@ tipo A (universal afirmativa)?
 - [X] Contraposta
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-29 dom>
 :PROPERTIES:
 :ID:       b9b85916-6677-4392-9398-5077851216ee
+:DRILL_LAST_INTERVAL: 3.0721
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:02]
 :END:
 
 Dentro os tipos de conversões, quais são aceitas por uma proposição do
@@ -2874,8 +2992,17 @@ O resultado V é equivalente a IV que por sua vez é equivalente a I, e
 equivalentes.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-30 seg>
 :PROPERTIES:
 :ID:       abc1d3a0-73e0-4020-a8a0-35fb8cdb8f2a
+:DRILL_LAST_INTERVAL: 4.0428
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:04]
 :END:
 
 Podem ser convertidos por conversão [simples]:
@@ -2990,8 +3117,17 @@ opostas (e portanto de diferente significado), e chega-se a um par de
 proposições que tem o mesmo significado.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-30 seg>
 :PROPERTIES:
 :ID:       4cdee66a-6b9c-4749-96a6-36d21749cec8
+:DRILL_LAST_INTERVAL: 4.0673
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:07]
 :END:
 
 A transformação de equivalência pode ajudar a entender uma frase.
@@ -3028,29 +3164,45 @@ Vira
 
 ** Raciocínio, seus elementos e divisão
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-30 seg>
 :PROPERTIES:
 :ID:       a6bfdd94-aa68-4e30-966f-efd6986e1b73
+:DRILL_LAST_INTERVAL: 4.2022
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:05]
 :END:
 
-Raciocínio é a união ou separação de duas [ideias||"ideias" or
-"proposições"] pelo fato de ambas convirem, ou uma convier e outra
+Raciocínio é a união ou separação de duas [ideias||"ideias" or "proposições"]
+pelo fato de ambas convirem, ou uma convier e outra
 não, com uma terceira, com a qual foram comparadas.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-31 ter>
 :PROPERTIES:
 :ID:       39675e98-e5cd-4436-b382-601f2315d7eb
+:DRILL_LAST_INTERVAL: 4.7851
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:10]
 :END:
 
 Ao compararmos ideias A e B com uma terceira C, há três casos:
 
-- a) Ambas A e B convém a C, portando A e B [convém||"convém" or "não
-  convém"] entre si. É o caso de um raciocínio
+- a) Ambas A e B convém a C, portando A e B [convém||"convém" or "não  convém"]
+  entre si. É o caso de um raciocínio
   [afirmativo||"analítico" or "afirmativo"].
-- b) Nem A nem B convém a C, nesse caso [nada pode ser afirmado sobre
-  conveniência ou não conveniência de A e B].
-- c) Uma convém a C, mas outra não, portando A e B [não convém||"não
-  convém" or "convém"] entre si. É o caso de um raciocínio
-  [negativo||"negativo" or "restritivo"].
+- b) Nem A nem B convém a C, nesse caso [nada pode ser afirmado sobre conveniência ou não conveniência de A e B].
+- c) Uma convém a C, mas outra não, portando A e B [não convém||"não convém" or "convém"] entre si.
+  É o caso de um raciocínio [negativo||"negativo" or "restritivo"].
 
 *** Item                                                            :drill:
 :PROPERTIES:
@@ -3070,6 +3222,9 @@ realiza-se quando a inteligência não vê imediatamente a relação entre
 duas diversas ideias.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       329b5eda-d9fd-46cb-b984-e7e2eadf4376
+:END:
 
 A matéria remota de um raciocínio são 3 ideias:
 
@@ -3078,12 +3233,27 @@ A matéria remota de um raciocínio são 3 ideias:
 - e outra é média e é o termo de comparação
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-30 seg>
+:PROPERTIES:
+:ID:       d1fda37f-a715-422b-802b-dd481a414256
+:DRILL_LAST_INTERVAL: 4.2368
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:06]
+:END:
 
 Em um raciocínio, o extremo [maior] é o predicado da conclusão.
 
 O extremo [menor] é o sujeito da mesma conclusão.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       e6858146-1e61-4d3d-9f25-6487755c1ed8
+:END:
 
 As premissas de um raciocínio formam o antecedente; a conclusão é o
 consequente.
@@ -3092,6 +3262,18 @@ O nexo que em virtude da forma existe entre o antecedente e o
 consequente, chama-se consequência.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-30 seg>
+:PROPERTIES:
+:ID:       e2f3fc9f-d2d7-4311-a39f-a30d73acb1a6
+:DRILL_LAST_INTERVAL: 4.4415
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:02]
+:END:
 
 As regras que determinam a validade de um raciocínio afirmativo ou
 negativo, se fundam no princípio da [contradição]:
@@ -3099,6 +3281,9 @@ negativo, se fundam no princípio da [contradição]:
 > uma coisa não pode simultaneamente ser e deixar de ser
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       6e14c387-e0be-4045-b1e9-0ed73ab451e8
+:END:
 
 Há duas espécies de argumentação:
 
@@ -3108,6 +3293,18 @@ Há duas espécies de argumentação:
   particulares subimos para uma terceira
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-31 ter>
+:PROPERTIES:
+:ID:       4930115f-2730-404b-932c-745d92346602
+:DRILL_LAST_INTERVAL: 5.1558
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:08]
+:END:
 
 [Silogismo||"Silogismo" or "Indução"] é a argumentação, pela qual se
 conclui que o predicado de um sujeito *universal* convém a um sujeito
@@ -3115,6 +3312,9 @@ conclui que o predicado de um sujeito *universal* convém a um sujeito
 universal.
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       5c3495d7-2ebb-4081-82a0-9a46874edc35
+:END:
 
 Em um silogismo:
 
@@ -3126,15 +3326,42 @@ Em um silogismo:
   deve atribuir-se o predicado da premissa maior.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-30 seg>
+:PROPERTIES:
+:ID:       d841fbe8-8bf2-4d73-97ec-28649046a5ce
+:DRILL_LAST_INTERVAL: 3.9341
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:08]
+:END:
 
 A um silogismo que, por brevidade, foram omitidas uma das premissas,
 chama-se ent[imema].
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       e543136f-2b61-43e0-8a71-b27e8c7907f3
+:END:
 
 Entinema é um silogismo em que [foram omitidas uma das premissas].
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-31 ter>
+:PROPERTIES:
+:ID:       12cd2aa8-9d5a-4486-b88a-6292657d2141
+:DRILL_LAST_INTERVAL: 5.1324
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:06]
+:END:
 
 Um crítica ao raciocínio por silogismo, e comum entre "filósofos"
 modernos, é a de que não se aprende nada por meio do silogismo, ou
@@ -3156,6 +3383,351 @@ de universais.
 Conferir notas de rodapé na página 109~111 para mais detalhes sobre as
 críticas de Locke, Stuart Mill, Spencer, e Bacon, bem como respostas
 escolásticas.
+
+** Silogismo Simples e suas regras
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       8fa19790-ed56-4bda-97f7-5ef52d2c7e16
+:END:
+
+O silogismo e simples, quando só consta de [proposições||"proposições"
+or "termos"] simples.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       d7ee39e1-de6a-4bb7-9977-14af295e2599
+:END:
+
+Para que um silogismo seja válido, é necessário que [uma das||"ambas as" or "uma das"] premissas
+contenha a conclusão, e a outra declare que tal continência existe.
+
+
+**** Mais
+
+Para que isso se verifica, os escolásticos listaram 8 regras, das
+quais destaco:
+
+- II nenhum termo deve ter na conclusão uma extensão maior que nas
+  premissas
+- V de duas premissas negativas nada se pode concluir
+- VI De duas afirmativas não se pode tirar uma conclusão negativa
+- VII A conclusão segue sempre a premissa mais fraca (negativa mais
+  fraca que afirmativa, e particular relativamente à universal).
+- VIII De duas premissas particulares nada pode concluir-se.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       49f66a0b-0591-47f9-917c-13b67b8367d7
+:END:
+
+Indique os termos maior, menor, e médio, e explique o motivo de o
+silogismo a seguir ser inválido:
+
+> Todo o cão ladra
+> Ora, uma constelação é cão
+> Logo, uma constelação ladra
+
+- Termo maior: [ladra]
+- Termo menor: [constelação]
+- Termo médio: [cão]
+- Motivo: [o termo médio cão é utilizado de forma equívoca na premissa
+  menor, e portanto não indica que o termo menor está contido na
+  premissa maior.]
+
+*** Item                                                            :drill:
+SCHEDULED: <2023-01-29 dom>
+:PROPERTIES:
+:ID:       51014b60-9cbe-4454-aa88-44cf147489fc
+:DRILL_LAST_INTERVAL: 2.6845
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 08:59]
+:END:
+
+Indique os termos maior, menor, e médio, e explique o motivo de o
+silogismo a seguir ser inválido:
+
+> Todo o homem é vivo
+> Ora, o bruto não é homem
+> Logo, o bruto não é vivo
+
+- Termo maior: [vivo]
+- Termo menor: [bruto]
+- Termo médio: [homem]
+
+**** Motivo
+
+O termo "vivo" na premissa maior (em forma A) é particular. Para ver
+isso, considere que do fato de que todo homem é vivo decorre a que
+*alguns* vivos são homens.
+
+O fato de, na premissa menor, o bruto esta excluído de homem, não
+indica que ele esteja excluído do predicado maior.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       ac4d2ac4-7a96-4993-b287-68432c403f9e
+:END:
+
+Indique os termos maior, menor, e médio, e explique o motivo de o
+silogismo a seguir ser inválido:
+
+> Todas as ações boas merecem louvor
+> Ora, alguma ocupação é boa
+> Logo, todas as ocupações merecem louvor
+
+- Termo maior: [merecedora de louvor]
+- Termo menor: [todas as ocupações]
+- Termo médio: [ação boa]
+
+**** Motivo
+
+O termo menor é universal na conclusão e particular na premissa.
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       155c5a4f-e62c-416d-9f8a-2b038425976e
+:END:
+
+Sobre o silogismo simples:
+
+- 3 são os [termos] (matéria distante) e 3 as [proposições] (matéria
+  próxima) presentes em um silogismo
+- 8 são as regras que determinam a validade de um silogismo
+- 4 são [as figuras||"os modos" or "as figuras"] (de acordo com a posição possível do termo médio)
+- 6 são as leis [das figuras||"dos modos" or "das figuras"]
+- 64 são [os modos||"as figuras" or "os modos"] possíveis (de acordo
+  com o número e qualidade das proposições das *premissas*), mas
+  reduzem-se a 19 modos legítimos
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       6dbc5df7-6d95-4e9f-b86a-feaf55940bb7
+:END:
+
+Em relação às 4 figuras de silogismo:
+
+- Na figura I o termo médio é:
+    * sujeito da premissa [maior]
+    * predicado da premissa [menor]
+- Na figura II o termo médio é:
+    * sujeito da premissa [menor]
+    * predicado da premissa [maior]
+- Na figura III o termo médio é [predicado] de ambas as premissas
+- Na figura IV o termo médio é [sujeito] de ambas as premissas
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       6fcf8e46-d3b1-4f38-9733-30493ce9cb1f
+:END:
+
+Sobre a figura de silogismo número I, assinale as proposições
+corretas:
+
+- [X] O termo médio é sujeito da premissa menor
+- [ ] O termo médio é predicado da premissa menor
+- [X] O termo médio é sujeito da premissa maior
+- [ ] O termo médio é predicado da premissa menor
+
+*** Item                                                            :drill:
+
+Assinale a posição do termo médio na figura de silogismo número III:
+
+|                | Sujeito | Predicado |
+| Premissa maior | [ ]     | [X]       |
+| Premissa menor | [ ]     | [X]       |
+| Conclusão      | [ ]     | [ ]       |
+
+  
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       69fe9ed6-07d4-44df-b595-d0b2f866ae53
+:END:
+
+Qual a figura em que se encontra o silogismo a seguir?
+
+#+begin_quote
+Todo o homem é racional;
+Ora, algum homem e ignorante;
+Logo, algum ignorante é racional.
+#+end_quote
+
+Figura [IV]
+
+*** Item                                                            :drill:
+:PROPERTIES:
+:ID:       dc0358bb-6782-48bc-abda-dc3a9e0188eb
+:END:
+
+As leis das figuras de silogismo são 6. Existem 1 para cada figura, e
+há uma das figuras que possui 3 regras. Qual figura é essa que possui
+três regas?
+
+[II]
+
+**** A saber
+
+As leis das figuras de silogismo são indicadas nos versos a seguir:
+
+- Figura I
+    * A menor seja afirmativa; a maior, universal
+- Figura II
+    * Se a maior é afirmativa, a menor deve ser universal
+    * Se a menor é afirmativa, a conclusão deve ser particular
+    * Se a conclusão é negativa, a maior deve ser universal
+- Figura III
+    * Uma das premissas seja negativa, a maior seja universal
+- Figura IV
+    * A menor seja afirmativa; a conclusão particular
+
+*** Item                                                            :drill:
+
+Sobre as 8 regras do silogismo simples:
+
+*sobre os termos (matéria distante)*
+- 1. Os termos devem ser três: maior, menor e médio
+- 2. [Nenhum termo||"Somente um dos termos" or "Nenhum termo"] deve
+  ter na conclusão uma extensão maior que nas premissas
+- 3. O termo médio não deve entrar na conclusão
+- 4. O termo médio deve ser universal,
+  [ao menos em uma||"no máximo em uma" or "ao menos em uma"] das premissas
+  
+*sobre as proposições (matéria próxima)*  
+- 5. De duas premissas negativas nada se pode concluir
+- 6. De duas premissas afirmativas não se pode tirar uma conclusão
+  negativa
+- 7. A conclusão segue sempre a premissa mais [fraca||"forte" or "fraca"]
+    * (a negativa é mais fraca que a afirmativa, e a particular é mais
+      fraca que a universal)
+- 8. De duas premissas [particulares||"universais" or "particulares"]
+  nada se pode concluir-se
+
+*** Item                                                            :drill:
+
+As regras dos silogismos são [8], a leis das figuras são [6].
+
+*** Item                                                            :drill:
+
+Pode-se concluir algo a partir das premissas a seguir? Por que?
+
+#+begin_quote
+Alguns brasileiros são brancos
+Alguns brasileiros são ricos
+#+end_quote
+
+**** Resposta
+
+Não. Porque não se pode concluir nada a partir de 2 premissas
+particulares (regra 8).
+
+*** Item                                                            :drill:
+
+Pode-se concluir algo a partir das premissas a seguir? Por que?
+
+#+begin_quote
+Alguns brasileiros não são brancos
+Alguns brasileiros não são ricos
+#+end_quote
+
+**** Resposta
+
+Não. Porque não se pode concluir nada a partir de 2 premissas
+negativas (regra 5).
+
+*** Item                                                            :drill:
+
+A regra 2 dos silogismos diz o seguinte:
+
+> Nenhum termo deve ter na conclusão uma
+  [extensão||"compreensão" or "extensão"] maior que nas premissas
+
+*** Item                                                            :drill:
+
+É possível encontrar um silogismo válido que tenha a seguinte cara?
+
+#+begin_quote
+Todo A é C
+Ora, alguns B são C
+Logo, alguns A não são B
+#+end_quote
+
+**** Resposta
+
+Não, pois de duas premissas afirmativa não se pode concluir uma
+negativa (regra VI).
+
+*** Item                                                            :drill:
+
+Um silogismo do tipo [I] tem a seguinte forma:
+
+#+begin_quote
+X M
+m X
+m M
+#+end_quote
+
+Sendo que cada proposição pode ser um dos tipos AEIO.
+
+A lei das figura [I] diz que:
+
+- A menor deve ser afirmativa (A ou I)
+- A maior universal (A ou E)
+
+*** Item                                                            :drill:
+
+Um silogismo do tipo [II] tem a seguinte forma:
+
+#+begin_quote
+M X
+X m
+m M
+#+end_quote
+
+Sendo que cada proposição pode ser um dos tipos AEIO.
+
+A lei das figura [II] diz que:
+
+- Se a maior é afirmativa (A e I), a menor deve ser universal (A e E)
+- Se a menor é afirmativa (A e I), a conclusão deve ser particular (I e O)
+- Se a conclusão é negativa (E e O), a maior deve ser universal (A e E)
+
+TODO o que é uma boa pergunta para essas leis?
+
+*** Item                                                            :drill:
+
+Um silogismo do tipo [III] tem a seguinte forma:
+
+#+begin_quote
+M X
+m X
+m M
+#+end_quote
+
+Sendo que cada proposição pode ser um dos tipos AEIO.
+
+A lei da figura [III] diz que:
+
+- Uma das premissas seja negativa (E e O)
+- A maior seja universal (A e E)
+
+*** Item                                                            :drill:
+
+Um silogismo do tipo [IV] tem a seguinte forma:
+
+#+begin_quote
+X M
+X m
+m M
+#+end_quote
+
+A lei da figura [IV] diz que:
+
+- A menor seja afirmativa (A e I)
+- A conclusão particular (I e O)
 
 * COMMENT Local variables
 # local variables:
