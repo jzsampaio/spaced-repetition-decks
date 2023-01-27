@@ -336,17 +336,17 @@ O estudo da lógica é dividido em 2 partes:
 ** Objetos da Lógica Formal
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-02-28 ter>
 :PROPERTIES:
 :ID:       51c7e8d0-f736-4363-8bf7-5c31f7fbe799
-:DRILL_LAST_INTERVAL: 11.4161
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 32.271
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-16 seg 19:49]
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:50]
 :END:
 
 As operações da inteligência (que são objeto da lógica) são 3:
@@ -1807,17 +1807,17 @@ A frase "Pedro ama", com verbo adjetivo "ama", resolve-se em "Pedro
 [é] amante", com o verbo substantivo.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-02-08 qua>
 :PROPERTIES:
 :ID:       93f7d98f-1623-4c8c-8aec-1fcdcac5fc5e
-:DRILL_LAST_INTERVAL: 3.9557
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.95
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:19]
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:36]
 :END:
 
 A proposição a seguir não é negativa nem positiva. Como se chama?
@@ -1827,17 +1827,17 @@ A proposição a seguir não é negativa nem positiva. Como se chama?
 proposição inf[inita].
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-02-06 seg>
 :PROPERTIES:
 :ID:       1e729011-724c-4fc9-a1f8-e88a8e1f02c1
-:DRILL_LAST_INTERVAL: 3.6455
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 9.8672
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:17]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:36]
 :END:
 
 Proposições universais tratam de um sujeito universal. Exemplo:
@@ -1859,17 +1859,17 @@ Somente para proposições fundadas metafísicas (fundada na própria
 essência das coias) é que não há exceções.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-02-08 qua>
 :PROPERTIES:
 :ID:       b7affa5a-4406-492f-b0eb-743ed3f3281e
-:DRILL_LAST_INTERVAL: 4.1971
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.867
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:18]
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:39]
 :END:
 
 Na proposição afirmativa
@@ -1883,17 +1883,17 @@ Tem-se que:
 - Se avaliarmos o conjunto dos indivíduos de A e B, podemos dizer que: A [⊆||"⊇" ou "⊆"] B
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-02-06 seg>
 :PROPERTIES:
 :ID:       08cae528-00c5-4c5f-93b5-36fc2f5e83fd
-:DRILL_LAST_INTERVAL: 3.7491
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 9.9049
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:16]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:38]
 :END:
 
 Na proposição
@@ -1932,17 +1932,17 @@ repugna ao sujeito. A proposição modal poder ser:
 - modal pos[sível]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-02-07 ter>
 :PROPERTIES:
 :ID:       9471e34c-15a1-44d3-9b91-34dad0677dbe
-:DRILL_LAST_INTERVAL: 4.1954
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.2382
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:14]
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:37]
 :END:
 
 As proposições modais se reduzem às absolutas.
@@ -1951,26 +1951,29 @@ A proposição modal necessária "é necessário que todo o homem seja
 racional" se reduz à [todo o homem é racional]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-02-07 ter>
 :PROPERTIES:
 :ID:       07eb80ac-5123-4f82-9b3c-4aba5c3a46d6
-:DRILL_LAST_INTERVAL: 3.9846
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.7789
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:17]
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:37]
 :END:
 
 As proposições modais se reduzem às absolutas.
 
-"é impossível que o homem seja bruto" corresponde a esta ["nenhum
-homem é bruto"].
+"é impossível que o homem seja bruto" corresponde a esta
+["nenhum homem é bruto"].
 
 ** Compreensão e extensão do predicado nas proposições afirmativas e negativas
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       bdb66cd7-49ad-4254-a111-1ef7a0a0741d
+:END:
 
 Universal ou particular?
 
@@ -1987,21 +1990,30 @@ Universal ou particular?
 | Nenhuma planta é animal, mas as plantas dividem algumas propriedades com o animal |
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       4f671730-c6d3-40b9-bb44-113ff4cd1d4d
+:END:
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       42351164-5fbd-4dfc-96b2-496c11bb437b
+:END:
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       7e7e576b-b8f5-4065-8e7f-48ac5a22e763
+:END:
 ** Divisão das proposições compostas
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-02-09 qui>
 :PROPERTIES:
 :ID:       14542acc-f7cf-45db-a29f-492d3b3ea999
-:DRILL_LAST_INTERVAL: 3.9367
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.5522
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:13]
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:39]
 :END:
 
 As proposições modais se reduzem às absolutas.
@@ -2009,17 +2021,17 @@ As proposições modais se reduzem às absolutas.
 "é possível que o homem seja douto" vira ["algum homem é douto"].
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-02-11 sáb>
 :PROPERTIES:
 :ID:       ba210fa9-6fd4-4dda-9364-8cec383e6bf7
-:DRILL_LAST_INTERVAL: 4.3664
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.8411
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:18]
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:37]
 :END:
 
 A proposição composta a seguir é copulativa, causal, condicional,
@@ -2030,17 +2042,17 @@ disjuntiva, adversativa, relativa, ou exponível?
 [condicional]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-02-08 qua>
 :PROPERTIES:
 :ID:       02b55d0c-d18d-4c83-95c8-19153ce6cf64
-:DRILL_LAST_INTERVAL: 4.1163
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.9358
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:18]
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:36]
 :END:
 
 A proposição composta a seguir é copulativa, causal, condicional,
@@ -2051,17 +2063,17 @@ disjuntiva, adversativa, relativa, ou exponível?
 [disjuntiva]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-02-08 qua>
 :PROPERTIES:
 :ID:       133a45d9-26b4-4b2f-a0ff-36a73ac6b11b
-:DRILL_LAST_INTERVAL: 4.018
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.4581
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:18]
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:38]
 :END:
 
 A proposição composta a seguir é copulativa, causal, condicional,
@@ -2072,17 +2084,17 @@ disjuntiva, adversativa, relativa, ou exponível?
 [copulativa]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-02-04 sáb>
 :PROPERTIES:
 :ID:       ef31c9b4-fe8e-4f5c-a1c9-d427d7bc2a3e
-:DRILL_LAST_INTERVAL: 3.941
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 7.8729
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:16]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:38]
 :END:
 
 A proposição composta a seguir é copulativa, causal, condicional,
@@ -2093,17 +2105,17 @@ disjuntiva, adversativa, relativa, ou exponível?
 [exponível]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-02-08 qua>
 :PROPERTIES:
 :ID:       a119b055-d3a3-4636-b1f2-576d8fc8c726
-:DRILL_LAST_INTERVAL: 4.4241
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.4396
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:15]
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:38]
 :END:
 
 A proposição composta a seguir é copulativa, causal, condicional,
@@ -2114,17 +2126,17 @@ disjuntiva, adversativa, relativa, ou exponível?
 [adversativa]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-02-05 dom>
 :PROPERTIES:
 :ID:       18ed2417-dd8a-4fc3-bc46-da1257e87eab
-:DRILL_LAST_INTERVAL: 3.5763
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 8.9414
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:15]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:37]
 :END:
 
 A proposição composta a seguir é copulativa, causal, condicional,
@@ -2349,8 +2361,17 @@ E quando são negativas?
 [E e O||duas letras]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-02-01 qua>
 :PROPERTIES:
 :ID:       ee97d3a8-ea4a-486b-ae85-765207ef897e
+:DRILL_LAST_INTERVAL: 4.5235
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:45]
 :END:
 
 Complete o quadro com A, E, I, e O
@@ -2427,8 +2448,17 @@ afirmativa ou negativa?
 [Particular e afirmativa]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-31 ter>
 :PROPERTIES:
 :ID:       20ee6dca-eed8-42b6-9257-28df28c9add2
+:DRILL_LAST_INTERVAL: 4.4978
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:39]
 :END:
 
 Proposições A e E são ditas [contrárias||"contrárias" or "sub-contrárias"].
@@ -2574,8 +2604,17 @@ sub-contrárisas, ou contraditórias?
 [contrárias].
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-31 ter>
 :PROPERTIES:
 :ID:       4e5368f4-0adb-48b6-b27d-3dcaaefe648e
+:DRILL_LAST_INTERVAL: 4.4286
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:47]
 :END:
 
 Sobre proposições contrárias e sub-contrárias:
@@ -2668,8 +2707,17 @@ São sub-contrárias => não podem ser ambas falsas => B é verdadeiro
 Trata-se de matéria essencial e são sub-contrárias => A é verdadeiro
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-02-01 qua>
 :PROPERTIES:
 :ID:       aa8cdf81-fec9-464a-b7a4-fd31d4e607ff
+:DRILL_LAST_INTERVAL: 5.3116
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:48]
 :END:
 
 Das proposições a seguir, julgue verdadeiro ou falso, de acordo com as
@@ -2739,8 +2787,17 @@ nem ambos verdadeiros, independentemente da matérias ser contingente
 ou essencial.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-31 ter>
 :PROPERTIES:
 :ID:       09c6d094-f60c-4343-b9e5-408c78e6a3d3
+:DRILL_LAST_INTERVAL: 3.9564
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:46]
 :END:
 
 Das proposições a seguir, julgue verdadeiro ou falso, de acordo com as
@@ -2827,8 +2884,17 @@ Conversão contraposta:
 > [Todo não racional é não homem]
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-31 ter>
 :PROPERTIES:
 :ID:       b50577b4-20b2-48ae-8076-5836ab621de1
+:DRILL_LAST_INTERVAL: 3.6742
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:42]
 :END:
 
 Quais são as conversões possíveis para a proposição a seguir?
@@ -3078,12 +3144,22 @@ Se o sujeito e o predicado se mantêm no lugar, mas adicionou-se a
 partícula negativa ao sujeito, trata-se de [equivalência].
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-31 ter>
 :PROPERTIES:
 :ID:       f7edc9cc-fed0-4d4e-8567-92964a8dedff
+:DRILL_LAST_INTERVAL: 4.0026
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:51]
 :END:
 
-Duas [contraditórias||"contrárias" or "contraditórias"] tornam-se
-equivalentes antepondo a partícula negativa ao sujeito de uma
+De acordo com as regras de equivalência, duas
+[contraditórias||"contrárias" or "contraditórias"] tornam-se
+equivalentes *antepondo* a partícula negativa ao sujeito de uma
 delas. Assim, a negação altera a quantidade e a qualidade.
 
 *** Item                                                            :drill:
@@ -3205,8 +3281,17 @@ Ao compararmos ideias A e B com uma terceira C, há três casos:
   É o caso de um raciocínio [negativo||"negativo" or "restritivo"].
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-31 ter>
 :PROPERTIES:
 :ID:       108ea5d8-3b65-470f-83bc-39155cf050b8
+:DRILL_LAST_INTERVAL: 4.2074
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:39]
 :END:
 
 A perfeição das substâncias intelectuais consiste no conhecimento da [verdade].
@@ -3251,15 +3336,23 @@ Em um raciocínio, o extremo [maior] é o predicado da conclusão.
 O extremo [menor] é o sujeito da mesma conclusão.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-31 ter>
 :PROPERTIES:
 :ID:       e6858146-1e61-4d3d-9f25-6487755c1ed8
+:DRILL_CARD_TYPE: hide1cloze
+:DRILL_LAST_INTERVAL: 3.9696
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:44]
 :END:
 
-As premissas de um raciocínio formam o antecedente; a conclusão é o
-consequente.
-
-O nexo que em virtude da forma existe entre o antecedente e o
-consequente, chama-se consequência.
+As premissas de um raciocínio formam o ante[cedente]; a conclusão é o
+cons[equente]. O ne[xo] que em virtude da *forma* que existe entre
+estes dois chama-se conse[quência].
 
 *** Item                                                            :drill:
 SCHEDULED: <2023-01-30 seg>
@@ -3386,12 +3479,21 @@ escolásticas.
 
 ** Silogismo Simples e suas regras
 *** Item                                                            :drill:
+SCHEDULED: <2023-02-01 qua>
 :PROPERTIES:
 :ID:       8fa19790-ed56-4bda-97f7-5ef52d2c7e16
+:DRILL_LAST_INTERVAL: 5.3636
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:48]
 :END:
 
-O silogismo e simples, quando só consta de [proposições||"proposições"
-or "termos"] simples.
+O silogismo e simples, quando só consta de [proposições||"proposições" or "termos"]
+simples.
 
 *** Item                                                            :drill:
 :PROPERTIES:
@@ -3416,8 +3518,17 @@ quais destaco:
 - VIII De duas premissas particulares nada pode concluir-se.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-02-01 qua>
 :PROPERTIES:
 :ID:       49f66a0b-0591-47f9-917c-13b67b8367d7
+:DRILL_LAST_INTERVAL: 4.8663
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:47]
 :END:
 
 Indique os termos maior, menor, e médio, e explique o motivo de o
@@ -3469,8 +3580,17 @@ O fato de, na premissa menor, o bruto esta excluído de homem, não
 indica que ele esteja excluído do predicado maior.
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-31 ter>
 :PROPERTIES:
 :ID:       ac4d2ac4-7a96-4993-b287-68432c403f9e
+:DRILL_LAST_INTERVAL: 3.7912
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:41]
 :END:
 
 Indique os termos maior, menor, e médio, e explique o motivo de o
@@ -3486,7 +3606,8 @@ silogismo a seguir ser inválido:
 
 **** Motivo
 
-O termo menor é universal na conclusão e particular na premissa.
+O termo menor é universal na conclusão e particular na premissa, e a
+conclusão deve seguir a premissa mais fraca.
 
 *** Item                                                            :drill:
 :PROPERTIES:
@@ -3505,8 +3626,17 @@ Sobre o silogismo simples:
   reduzem-se a 19 modos legítimos
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-02-01 qua>
 :PROPERTIES:
 :ID:       6dbc5df7-6d95-4e9f-b86a-feaf55940bb7
+:DRILL_LAST_INTERVAL: 4.6715
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:46]
 :END:
 
 Em relação às 4 figuras de silogismo:
@@ -3534,6 +3664,9 @@ corretas:
 - [ ] O termo médio é predicado da premissa menor
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       f3fb3644-5988-4dc3-a208-2b7ba83a733f
+:END:
 
 Assinale a posição do termo médio na figura de silogismo número III:
 
@@ -3541,7 +3674,6 @@ Assinale a posição do termo médio na figura de silogismo número III:
 | Premissa maior | [ ]     | [X]       |
 | Premissa menor | [ ]     | [X]       |
 | Conclusão      | [ ]     | [ ]       |
-
   
 *** Item                                                            :drill:
 :PROPERTIES:
@@ -3585,6 +3717,9 @@ As leis das figuras de silogismo são indicadas nos versos a seguir:
     * A menor seja afirmativa; a conclusão particular
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       a16a4e3b-d687-44c9-95ac-804cbad0d0d0
+:END:
 
 Sobre as 8 regras do silogismo simples:
 
@@ -3607,10 +3742,16 @@ Sobre as 8 regras do silogismo simples:
   nada se pode concluir-se
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       19e1d4c1-11c6-4385-899b-3321319d1c7f
+:END:
 
 As regras dos silogismos são [8], a leis das figuras são [6].
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       7b96ae9e-ace9-411f-bd57-2209496ce9ac
+:END:
 
 Pode-se concluir algo a partir das premissas a seguir? Por que?
 
@@ -3625,6 +3766,9 @@ Não. Porque não se pode concluir nada a partir de 2 premissas
 particulares (regra 8).
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       9c0309d1-2f98-4d60-9a83-e97498778032
+:END:
 
 Pode-se concluir algo a partir das premissas a seguir? Por que?
 
@@ -3639,6 +3783,9 @@ Não. Porque não se pode concluir nada a partir de 2 premissas
 negativas (regra 5).
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       7a59aa19-2e1a-41a9-b1cc-7ac3147be9d8
+:END:
 
 A regra 2 dos silogismos diz o seguinte:
 
@@ -3646,6 +3793,18 @@ A regra 2 dos silogismos diz o seguinte:
   [extensão||"compreensão" or "extensão"] maior que nas premissas
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-31 ter>
+:PROPERTIES:
+:ID:       02c59a70-fdca-4454-9b9e-ae4b374cf6c8
+:DRILL_LAST_INTERVAL: 4.0437
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:45]
+:END:
 
 É possível encontrar um silogismo válido que tenha a seguinte cara?
 
@@ -3661,6 +3820,18 @@ Não, pois de duas premissas afirmativa não se pode concluir uma
 negativa (regra VI).
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-02-01 qua>
+:PROPERTIES:
+:ID:       ab576663-2ec5-46c3-b727-54ec4a55e3b1
+:DRILL_LAST_INTERVAL: 4.7502
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:50]
+:END:
 
 Um silogismo do tipo [I] tem a seguinte forma:
 
@@ -3680,6 +3851,9 @@ A lei das figura [I] diz que:
 - A maior universal (A ou E)
 
 *** Item                                                            :drill:
+:PROPERTIES:
+:ID:       365b7dcd-6c34-4f89-81ef-8f1cc1c4bdfc
+:END:
 
 Um silogismo do tipo [II] tem a seguinte forma:
 
@@ -3702,6 +3876,18 @@ A lei das figura [II] diz que:
 TODO o que é uma boa pergunta para essas leis?
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-31 ter>
+:PROPERTIES:
+:ID:       86834d67-f3f0-4c89-a323-c25a48e6a196
+:DRILL_LAST_INTERVAL: 4.4713
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:41]
+:END:
 
 Um silogismo do tipo [III] tem a seguinte forma:
 
@@ -3721,6 +3907,18 @@ A lei da figura [III] diz que:
 - A maior seja universal (A e E)
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-02-01 qua>
+:PROPERTIES:
+:ID:       0647b56d-3394-4ad0-a4c8-0bc81020638b
+:DRILL_LAST_INTERVAL: 5.337
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-27 sex 08:50]
+:END:
 
 Um silogismo do tipo [IV] tem a seguinte forma:
 
@@ -3737,8 +3935,213 @@ A lei da figura [IV] diz que:
 - A menor seja afirmativa (A e I)
 - A conclusão particular (I e O)
 
+*** Item :drill:
+
+Considere todas os modos da figura I:
+
+> X M
+> m x
+> m M
+
+Lembrando as regras dos silogismos:
+
+*sobre os termos (matéria distante)*
+- 1. Os termos devem ser três: maior, menor e médio
+- 2. [Nenhum termo||"Somente um dos termos" or "Nenhum termo"] deve
+  ter na conclusão uma extensão maior que nas premissas
+- 3. O termo médio não deve entrar na conclusão
+- 4. O termo médio deve ser universal,
+  [ao menos em uma||"no máximo em uma" or "ao menos em uma"] das premissas
+  
+*sobre as proposições (matéria próxima)*  
+- 5. De duas premissas negativas nada se pode concluir
+- 6. De duas premissas afirmativas não se pode tirar uma conclusão
+  negativa
+- 7. A conclusão segue sempre a premissa mais [fraca||"forte" or "fraca"]
+    * (a negativa é mais fraca que a afirmativa, e a particular é mais
+      fraca que a universal)
+- 8. De duas premissas [particulares||"universais" or "particulares"]
+  nada se pode concluir-se
+
+Assim como as leis da figura I:
+
+- A menor deve ser afirmativa (A ou I)
+- A maior universal (A ou E)
+
+Avalie todas as 16 figuras e deduza que apenas [4] figuras são
+válidas.
+
+|    | Figura | Maior           | Menor           | Conclusão    | Válido? | Motivo                                                    |
+|----+--------+-----------------+-----------------+--------------+---------+-----------------------------------------------------------|
+| 01 | (AA)   | Todo X é M      | todo m é x      | logo ? m é M |         |                                                           |
+| 02 | (AE)   | Todo X é M      | todo m não é x  | logo ? m é M | F       | L: menor deve ser afirmativa                              |
+| 03 | (AI)   | Todo X é M      | algum m é x     | logo ? m é M |         |                                                           |
+| 04 | (AO)   | Todo X é M      | algum m não é x | logo ? m é M | F       | L: menor deve ser afirmativa                              |
+| 05 | (EA)   | Todo X não é M  | todo m é x      | logo ? m é M |         |                                                           |
+| 06 | (EE)   | Todo X não é M  | todo m não é x  | logo ? m é M | F       | R5: Duas premissas negativas                              |
+| 07 | (EI)   | Todo X não é M  | algum m é x     | logo ? m é M |         |                                                           |
+| 08 | (EO)   | Todo X não é M  | algum m não é x | logo ? m é M | F       | R5: Duas premissas negativas                              |
+| 09 | (IA)   | Algum X é M     | todo m é x      | logo ? m é M | F       | R4: Termo médio deve ser universal em ao menos 1 premissa |
+| 10 | (IE)   | Algum X é M     | todo m não é x  | logo ? m é M | F       | L: menor deve ser afirmativa                              |
+| 11 | (II)   | Algum X é M     | algum m é x     | logo ? m é M | F       | R8: Duas premissas particulares                           |
+| 11 | (IO)   | Algum X é M     | algum m não é x | logo ? m é M | F       | L: menor deve ser afirmativa                              |
+| 12 | (OA)   | Algum X não é M | todo m é x      | logo ? m é M | F       | R4: Termo médio deve ser universal em ao menos 1 premissa |
+| 13 | (OE)   | Algum X não é M | todo m não é x  | logo ? m é M | F       | R5: Duas premissas negativas                              |
+| 14 | (OI)   | Algum X não é M | algum m é x     | logo ? m é M | F       | R8: Duas premissas particulares                           |
+| 15 | (OO)   | Algum X não é M | algum m não é x | logo ? m é M | F       | R5: Duas premissas negativas                              |
+
+*** Item :drill:
+
+Considere o modo AA da figura I:
+
+> Todo X é M
+> Ora, todo m é X
+> Logo, (todo ou algum?) m (é ou não é) M
+
+Avalia todas as possibilidades para a conclusão, e conclua que a
+conclusão deve ser uma proposição *A*.
+
+Primeiro julgo a extensão dos termos em cada proposição.
+
+| Termo          | Extensão nas premissas |
+|----------------+------------------------|
+| Maior          | Particular             |
+| Menor          | Universal              |
+| Médio na menor | Universal              |
+| Médio na maior | Particular             |
+
+| Quantidade e qualidade | Conclusão       | Válida? | Motivo                                                            |
+|------------------------+-----------------+---------+-------------------------------------------------------------------|
+| A                      | Todo m é M      |         |                                                                   |
+| E                      | Todo m não é M  | F       | R2: O termo maior tem na conclusão extensão maior que na premissa |
+| I                      | Algum m é M     |         |                                                                   |
+| O                      | Algum m não é M | F       | R2: o termo maior tem na conclusão extensão maior que na premissa |
+
+*** Item :drill:
+
+Considere o modo AI da figura [I]:
+
+> Todo X é M
+> Ora, algum m é X
+> Logo, (todo ou algum?) m (é ou não é) M
+
+Avalia todas as possibilidades para a conclusão, e conclua que a
+conclusão deve ser uma proposição *I*.
+
+Primeiro julgo a extensão dos termos em cada proposição.
+
+| Termo          | Quantidade nas premissas |
+|----------------+--------------------------|
+| Maior          |  Particular              |
+| Menor          |  Particular              |
+| Médio na menor |  Particular              |
+| Médio na maior |  Universal               |
+
+
+| Quantidade e qualidade | Conclusão       | Qtd de m   | Qtd de M   | Válida? | Motivo                                                  |
+|------------------------+-----------------+------------+------------+---------+---------------------------------------------------------|
+| A                      | Todo m é M      | Universal  | Particular | F       | R2: m e universal na conclusão e particular na premissa |
+| E                      | Todo m não é M  | Universal  | Universal  | F       | R2: M é universal na conclusão e particular na premissa |
+| I                      | Algum m é M     | Particular | Particular |         |                                                         |
+| O                      | Algum m não é M | Particular | Universal  | F       | R2: M é universal na conclusão e particular na premissa |
+
+*** Item :drill:
+
+Considere o modo EA da figura [I]:
+
+> Todo X não é M
+> Ora, todo m é X
+> Logo, (todo ou algum?) m (é ou não é) M
+
+Avalia todas as possibilidades para a conclusão, e conclua que a
+conclusão deve ser uma proposição *E*.
+
+Primeiro julgo a extensão dos termos em cada proposição.
+
+| Termo          | Quantidade nas premissas |
+|----------------+--------------------------|
+| Maior          | Universal                |
+| Menor          | Universal                |
+| Médio na menor | Particular               |
+| Médio na maior | Universal                |
+
+
+| Quantidade e qualidade | Conclusão       | Qtd de m   | Qtd de M   | Válida? | Motivo                                                             |
+|------------------------+-----------------+------------+------------+---------+--------------------------------------------------------------------|
+| A                      | Todo m é M      | Universal  | Particular |         |                                                                    |
+| E                      | Todo m não é M  | Universal  | Universal  | F       | R7: Uma das premissas é negativa, logo também deve ser a conclusão |
+| I                      | Algum m é M     | Particular | Particular |         |                                                                    |
+| O                      | Algum m não é M | Particular | Universal  | F       | R7: Uma das premissas é negativa, logo também deve ser a conclusão |
+
+*** Item :drill:
+
+Considere o modo EI da figura [I]:
+
+> Todo X não é M
+> Ora, Algum m é X
+> Logo, (todo ou algum?) m (é ou não é) M
+
+Avalia todas as possibilidades para a conclusão, e conclua que a
+conclusão deve ser uma proposição *O*.
+
+Primeiro julgo a extensão dos termos em cada proposição.
+
+| Termo          | Quantidade nas premissas |
+|----------------+--------------------------|
+| Maior          | Universal                |
+| Menor          | Particular               |
+| Médio na menor | Particular               |
+| Médio na maior | Universal                |
+
+
+| Quantidade e qualidade | Conclusão       | Qtd de m   | Qtd de M   | Válida? | Motivo                                                                 |
+|------------------------+-----------------+------------+------------+---------+------------------------------------------------------------------------|
+| A                      | Todo m é M      | Universal  | Particular | F       | R2: o termo menor e particular nas premissas e deve o ser na conclusão |
+| E                      | Todo m não é M  | Universal  | Universal  | F       | R2                                                                     |
+| I                      | Algum m é M     | Particular | Particular | F       | R7: Uma das premissas é negativa, logo também deve ser a conclusão     |
+| O                      | Algum m não é M | Particular | Universal  |         |                                                                        |
+
+
+*** Item :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide1cloze
+:END:
+
+Uma representação compacta para as 6 leis das figuras é dada a seguir
+
+- m+, M∞
+- Se M+ ⇒ m∞
+- Se m+ ⇒ c1
+- Se c-  ⇒ M∞
+- ∃ p-,  M∞
+- m+, c1
+
+Por extenso teríamos:
+
+- Figura I
+    * [A menor seja afirmativa; a maior, universal]
+- Figura II
+    * [Se a maior é afirmativa, a menor deve ser universal]
+    * [Se a menor é afirmativa, a conclusão deve ser particular]
+    * [Se a conclusão é negativa, a maior deve ser universal]
+- Figura III
+    * [Uma das premissas seja negativa, a maior seja universal]
+- Figura IV
+    * [A menor seja afirmativa; a conclusão particular]
+
+      
+
 * COMMENT Local variables
 # local variables:
 # display-line-numbers-width: 3
 # ispell-local-dictionary: "brasileiro"
 # end:
+
+Load the elisp below to define a template for usage on this file.
+
+#+begin_src elisp
+(tempo-define-template "org-drill-4"
+                       '("*** Item :drill:\n")
+                       "<4"
+                       "Simples org dril template")
+#+end_src

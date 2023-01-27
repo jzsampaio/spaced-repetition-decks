@@ -432,6 +432,18 @@ Guardai-vos dos falsos profetas. É pelos [frutos] que os reconhecei.
 ** VIII
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-31 ter>
+:PROPERTIES:
+:ID:       83bf4202-c448-4792-8744-4248e226f3e7
+:DRILL_LAST_INTERVAL: 4.7437
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 20:45]
+:END:
 
 Ao curar um leproso e lhe pedir que ofereças sacrifícios ao templo,
 Jesus nos ensina também o sacramento da [penitência]: os pecados
@@ -439,11 +451,35 @@ Jesus nos ensina também o sacramento da [penitência]: os pecados
 penitência (as oferendas ao templo).
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-30 seg>
+:PROPERTIES:
+:ID:       ff107e8b-4439-4dd5-b05d-16aedd5aa247
+:DRILL_LAST_INTERVAL: 4.2196
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 20:45]
+:END:
 
 Ao permitir que os demônios entrem nos porcos, Jesus [aumentou a
 notoriedade do milagre].
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-30 seg>
+:PROPERTIES:
+:ID:       e835aae4-dbb1-4bcf-8fde-285cff77f6e0
+:DRILL_LAST_INTERVAL: 3.911
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 20:45]
+:END:
 
 Durante a tempestade em que Jesus dormia, ele testava a fé dos seus
 apóstolos. Ele também nos ensinava a manter a fé durante os tempos de
@@ -451,13 +487,20 @@ tri[bulação].
 
 
 *** Item                                                            :drill:
+SCHEDULED: <2023-01-30 seg>
+:PROPERTIES:
+:ID:       446d3026-4f0f-4489-8e20-ded643fce422
+:DRILL_LAST_INTERVAL: 3.8531
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2023-01-26 qui 20:44]
+:END:
 
 Quando Jesus responde a alguém que queria ser seu discípulo com "as
 aves do céus tem ninho, as raposas tem toca, mas o Filho do Homem não
 tem onde repousar a cabeça", ele se referia ao [engodo] e [orgulho]
 que havia no coração do homem, e que lhe faltava a fé.
-
-*** Item                                                            :drill:
-*** Item                                                            :drill:
-*** Item                                                            :drill:
-*** Item                                                            :drill:
