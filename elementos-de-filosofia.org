@@ -3674,7 +3674,7 @@ Assinale a posição do termo médio na figura de silogismo número III:
 | Premissa maior | [ ]     | [X]       |
 | Premissa menor | [ ]     | [X]       |
 | Conclusão      | [ ]     | [ ]       |
-  
+
 *** Item                                                            :drill:
 :PROPERTIES:
 :ID:       69fe9ed6-07d4-44df-b595-d0b2f866ae53
@@ -3730,8 +3730,8 @@ Sobre as 8 regras do silogismo simples:
 - 3. O termo médio não deve entrar na conclusão
 - 4. O termo médio deve ser universal,
   [ao menos em uma||"no máximo em uma" or "ao menos em uma"] das premissas
-  
-*sobre as proposições (matéria próxima)*  
+
+*sobre as proposições (matéria próxima)*
 - 5. De duas premissas negativas nada se pode concluir
 - 6. De duas premissas afirmativas não se pode tirar uma conclusão
   negativa
@@ -3936,6 +3936,33 @@ A lei da figura [IV] diz que:
 - A conclusão particular (I e O)
 
 *** Item :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide1cloze
+:END:
+
+Uma representação compacta para as 6 leis das figuras é dada a seguir
+
+- m+, M∞
+- Se M+ ⇒ m∞
+- Se m+ ⇒ c1
+- Se c-  ⇒ M∞
+- ∃ p-,  M∞
+- m+, c1
+
+Por extenso teríamos:
+
+- Figura I
+    * [A menor seja afirmativa; a maior, universal]
+- Figura II
+    * [Se a maior é afirmativa, a menor deve ser universal]
+    * [Se a menor é afirmativa, a conclusão deve ser particular]
+    * [Se a conclusão é negativa, a maior deve ser universal]
+- Figura III
+    * [Uma das premissas seja negativa, a maior seja universal]
+- Figura IV
+    * [A menor seja afirmativa; a conclusão particular]
+
+*** Item :drill:
 
 Considere todas os modos da figura I:
 
@@ -3952,8 +3979,8 @@ Lembrando as regras dos silogismos:
 - 3. O termo médio não deve entrar na conclusão
 - 4. O termo médio deve ser universal,
   [ao menos em uma||"no máximo em uma" or "ao menos em uma"] das premissas
-  
-*sobre as proposições (matéria próxima)*  
+
+*sobre as proposições (matéria próxima)*
 - 5. De duas premissas negativas nada se pode concluir
 - 6. De duas premissas afirmativas não se pode tirar uma conclusão
   negativa
@@ -4017,6 +4044,12 @@ Primeiro julgo a extensão dos termos em cada proposição.
 | I                      | Algum m é M     |         |                                                                   |
 | O                      | Algum m não é M | F       | R2: o termo maior tem na conclusão extensão maior que na premissa |
 
+Exemplo:
+
+> Todo homem é racional
+> Ora, todo pecador é homem
+> Logo, todo pecador é racional
+
 *** Item :drill:
 
 Considere o modo AI da figura [I]:
@@ -4044,6 +4077,12 @@ Primeiro julgo a extensão dos termos em cada proposição.
 | E                      | Todo m não é M  | Universal  | Universal  | F       | R2: M é universal na conclusão e particular na premissa |
 | I                      | Algum m é M     | Particular | Particular |         |                                                         |
 | O                      | Algum m não é M | Particular | Universal  | F       | R2: M é universal na conclusão e particular na premissa |
+
+Exemplo:
+
+> Todo homem é racional
+> Ora, algum homem é pecador
+> Logo, alguns pecadores são racionais
 
 *** Item :drill:
 
@@ -4073,12 +4112,18 @@ Primeiro julgo a extensão dos termos em cada proposição.
 | I                      | Algum m é M     | Particular | Particular |         |                                                                    |
 | O                      | Algum m não é M | Particular | Universal  | F       | R7: Uma das premissas é negativa, logo também deve ser a conclusão |
 
+Exemplo:
+
+> Todo homem não é anjo
+> Ora, todo pecador perdoado é homem
+> Logo, todo pecador perdoado não anjo
+
 *** Item :drill:
 
 Considere o modo EI da figura [I]:
 
 > Todo X não é M
-> Ora, Algum m é X
+> Ora, algum m é X
 > Logo, (todo ou algum?) m (é ou não é) M
 
 Avalia todas as possibilidades para a conclusão, e conclua que a
@@ -4101,35 +4146,100 @@ Primeiro julgo a extensão dos termos em cada proposição.
 | I                      | Algum m é M     | Particular | Particular | F       | R7: Uma das premissas é negativa, logo também deve ser a conclusão     |
 | O                      | Algum m não é M | Particular | Universal  |         |                                                                        |
 
+Exemplo:
+
+> Todo homem não é anjo
+> Ora, algum Deus é homem
+> Logo, algum Deus não é anjo
 
 *** Item :drill:
-:PROPERTIES:
-:DRILL_CARD_TYPE: hide1cloze
-:END:
 
-Uma representação compacta para as 6 leis das figuras é dada a seguir
+Considere as regras dos silogismos, assim como as leis da figura IV, e
+mostre que há 6 módulos legítimos para a figura IV.
 
-- m+, M∞
-- Se M+ ⇒ m∞
-- Se m+ ⇒ c1
-- Se c-  ⇒ M∞
-- ∃ p-,  M∞
-- m+, c1
+Lembrando as regras dos silogismos:
 
-Por extenso teríamos:
+*sobre os termos (matéria distante)*
+- 1. Os termos devem ser três: maior, menor e médio
+- 2. Nenhum termo deve ter na conclusão uma extensão maior que nas
+premissas
+- 3. O termo médio não deve entrar na conclusão
+- 4. O termo médio deve ser universal ao menos em uma das premissas
 
-- Figura I
-    * [A menor seja afirmativa; a maior, universal]
-- Figura II
-    * [Se a maior é afirmativa, a menor deve ser universal]
-    * [Se a menor é afirmativa, a conclusão deve ser particular]
-    * [Se a conclusão é negativa, a maior deve ser universal]
-- Figura III
-    * [Uma das premissas seja negativa, a maior seja universal]
-- Figura IV
-    * [A menor seja afirmativa; a conclusão particular]
+*sobre as proposições (matéria próxima)*
+- 5. De duas premissas negativas nada se pode concluir
+- 6. De duas premissas afirmativas não se pode tirar uma conclusão
+negativa
+- 7. A conclusão segue sempre a premissa mais fraca
+- 8. De duas premissas particulares nada se pode concluir-se
 
-      
+A lei da figura IV diz que:
+
+- A menor seja afirmativa (A e I)
+- A conclusão particular (I e O)
+
+O modo IV é:
+
+> X M
+> x m
+> m M
+
+| Modo | Premissa Maior  | Premissa Menor  | Ext. M | Ext. m | Ext. X M | Ext. X. m | Válido? | Motivo                                                     |
+|------+-----------------+-----------------+--------+--------+----------+-----------+---------+------------------------------------------------------------|
+| *AA* | Todo X é M      | Todo X é m      | 1      | 1      | +        | +         |         |                                                            |
+| AE   | Todo X é M      | Todo X não é m  | 1      | +      | +        | +         | F       | A menor seja afirmativa                                    |
+| *AI* | Todo X é M      | Algum X é m     | 1      | 1      | +        | 1         |         |                                                            |
+| AO   | Todo X é M      | Algum X não é m | 1      | +      | +        | 1         | F       | A menor seja afirmativa                                    |
+| *EA* | Todo X não é M  | Todo X é m      | +      | 1      | +        | +         |         |                                                            |
+| EE   | Todo X não é M  | Todo X não é m  | +      | +      | +        | +         | F       | 5. De duas premissas negativas nada se pode concluir       |
+| *EI* | Todo X não é M  | Algum X é m     | +      | 1      | +        | 1         |         |                                                            |
+| EO   | Todo X não é M  | Algum X não é m | +      | +      | +        | 1         | F       | 5. De duas premissas negativas nada se pode concluir       |
+| *IA* | Algum X é M     | Todo X é m      | 1      | 1      | 1        | +         |         |                                                            |
+| IE   | Algum X é M     | Todo X não é m  | 1      | +      | 1        | +         | F       | A menor seja afirmativa                                    |
+| II   | Algum X é M     | Algum X é m     | 1      | 1      | 1        | 1         | F       | 8. De duas premissas particulares nada se pode concluir-se |
+| IO   | Algum X é M     | Algum X não é m | 1      | +      | 1        | 1         | F       | 8. De duas premissas particulares nada se pode concluir-se |
+| *OA* | Algum X não é M | Todo X é m      | +      | 1      | 1        | +         |         |                                                            |
+| OE   | Algum X não é M | Todo X não é m  | +      | +      | 1        | +         | F       | 5. De duas premissas negativas nada se pode concluir       |
+| OI   | Algum X não é M | Algum X é m     | +      | 1      | 1        | 1         | F       | 8. De duas premissas particulares nada se pode concluir-se |
+| OO   | Algum X não é M | Algum X não é m | +      | +      | 1        | 1         | F       | 8. De duas premissas particulares nada se pode concluir-se |
+
+Legenda:
+
+- + :: universal
+- 1 :: particular
+- Ext. M :: Extensão do extremo maior nas premissas
+- Ext. m :: Extensão do extremo menor nas premissas
+- Ext. X. m :: Extensão do termo médio na premissa menor
+- Ext. X. M :: Extensão do termo médio na premissa maior
+
+*** Item :drill:
+
+Considere o modo AA da figura IV. Avalie todas as possibilidades, e
+conclua que a conclusão deve ter a forma I.
+
+> Todo X é M
+> Ora, todo x é m
+> Logo, ("Todo" ou "algum") m ("é" ou "não é") M
+
+Note que:
+
+- M e m é particular nas premissas
+- X é universal nas duas premissas
+
+Como M e m são particulares, temos que também devem ser na conclusão.
+
+- Em A, m seria universal na conclusão
+- Em E, M seria universal na conclusão
+- Em I, ambas são particulares
+- Em O, M seria universal na conclusão
+
+Portanto, a única conclusão possível é I.
+
+Exemplo:
+
+> Todo homem é racional
+> Ora, todo homem tem dois olhos
+> Portanto, alguns seres que tem dois olhos são racionais
 
 * COMMENT Local variables
 # local variables:
