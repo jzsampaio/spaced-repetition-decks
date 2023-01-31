@@ -3,17 +3,17 @@
 * Geral
 
 ** Item                                                              :drill:
-SCHEDULED: <2023-01-31 ter>
+SCHEDULED: <2023-03-10 sex>
 :PROPERTIES:
 :ID:       6f46a024-d837-4c88-8c60-784f5be8fede
-:DRILL_LAST_INTERVAL: 11.4959
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 37.9591
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 06:35]
+:DRILL_LAST_REVIEWED: [2023-01-31 ter 09:15]
 :END:
 
 O rei que era vivo durante o nascimento de Jesus, e que mandou matar
@@ -119,33 +119,33 @@ Os presentes levados pelos 3 reis magos são: ouro, incenso, e m[irra].
 Jesus foi batizado no rio [Jordão].
 
 *** Item :drill:
-SCHEDULED: <2023-01-31 ter>
+SCHEDULED: <2023-03-08 qua>
 :PROPERTIES:
 :ID:       be290616-136c-453b-b3bd-11bc1e1a9347
-:DRILL_LAST_INTERVAL: 10.838
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 35.9835
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 06:36]
+:DRILL_LAST_REVIEWED: [2023-01-31 ter 09:15]
 :END:
 
 Após ser batizado, Jesus passa [40||"12" or "40"] dias no deserto.
 
 *** Item :drill:
-SCHEDULED: <2023-01-28 sáb>
+SCHEDULED: <2023-02-21 ter>
 :PROPERTIES:
 :ID:       2851a824-1769-4ed2-be69-fd88374a9b08
-:DRILL_LAST_INTERVAL: 7.6776
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 20.8291
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 4.0
-:DRILL_EASE: 2.46
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 06:35]
+:DRILL_LAST_REVIEWED: [2023-01-31 ter 09:14]
 :END:
 
 As 3 tentações de Jesus no deserto foram:
@@ -194,17 +194,17 @@ ser preso.
 Ele anuncia: "Arrependei-vos, porque está próximo o Reino dos Céus".
 
 *** Item :drill:
-SCHEDULED: <2023-01-31 ter>
+SCHEDULED: <2023-03-08 qua>
 :PROPERTIES:
 :ID:       ef887cb5-d562-4ffa-a910-df791b4a3bdd
-:DRILL_LAST_INTERVAL: 11.264
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 35.5891
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 06:37]
+:DRILL_LAST_REVIEWED: [2023-01-31 ter 09:16]
 :END:
 
 Os 4 primeiros apóstolos chamados são:
@@ -236,17 +236,17 @@ A [Pedro] e seu irmão [André].
 
 ** V
 *** Item :drill:
-SCHEDULED: <2023-01-31 ter>
+SCHEDULED: <2023-03-03 sex>
 :PROPERTIES:
 :ID:       7ea66713-c7f3-4a08-832d-7d1eaa26a277
-:DRILL_LAST_INTERVAL: 11.0116
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 30.6735
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-20 sex 06:37]
+:DRILL_LAST_REVIEWED: [2023-01-31 ter 09:16]
 :END:
 
 O sermão da montanha se passa nas proximidades da cidade de
@@ -320,17 +320,17 @@ As leis que são aumentadas nesse discurso são:
 
 ** VI
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-02-12 dom>
 :PROPERTIES:
 :ID:       1f570db9-a003-4ccd-9f3e-30d0759f5a1f
-:DRILL_LAST_INTERVAL: 4.164
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.1236
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 13:14]
+:DRILL_LAST_REVIEWED: [2023-01-31 ter 09:14]
 :END:
 
 Ainda dentro do sermão da montanha, após as 8 bem-aventuranças, e a
@@ -345,51 +345,51 @@ Pois se o olho (intenção) estiver são o corpo inteiro (as obras)
 estará, mas se for a intenção tenebrosa, igualmente serão as obras.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-02-14 ter>
 :PROPERTIES:
 :ID:       7e9e91e2-9fdc-4cef-9117-fceaf793b2c8
-:DRILL_LAST_INTERVAL: 4.3264
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.715
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 13:13]
+:DRILL_LAST_REVIEWED: [2023-01-31 ter 09:13]
 :END:
 
 Onde está teu tesouro aí estará também teu [coração].
 
 ** VII
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-02-11 sáb>
 :PROPERTIES:
 :ID:       b6887d13-02fd-424c-bdf0-c28de7043de1
-:DRILL_LAST_INTERVAL: 4.2845
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.8651
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 13:14]
+:DRILL_LAST_REVIEWED: [2023-01-31 ter 09:13]
 :END:
 
 Tudo aquilo, portanto, que quereisque os homens vos façam, fazei-o vós
 a eles, pois esta é [a Lei e os Profetas||"2 nomes"].
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-02-13 seg>
 :PROPERTIES:
 :ID:       dfb6d645-aa42-45cb-90b0-2225d3a4afda
-:DRILL_LAST_INTERVAL: 4.299
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.9261
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 13:14]
+:DRILL_LAST_REVIEWED: [2023-01-31 ter 09:14]
 :END:
 
 Não deis aos [cães] (os que lutam para dilacerar a verdade) o que é
@@ -397,34 +397,34 @@ sagrado, nem atireis as vossas pérolas aos [porcos] (os que me
 menosprezam a verdade).
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-28 sáb>
+SCHEDULED: <2023-02-11 sáb>
 :PROPERTIES:
 :ID:       075d129d-b823-411e-b677-c0776bed3581
-:DRILL_LAST_INTERVAL: 4.5142
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.1133
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 13:14]
+:DRILL_LAST_REVIEWED: [2023-01-31 ter 09:14]
 :END:
 
 Estreita é a porta e apertado o caminho que conduz à [Vida]. E poucos
 são os que o encontram.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-02-11 sáb>
 :PROPERTIES:
 :ID:       1de608a7-40cd-4d98-8fac-0d747fba89cb
-:DRILL_LAST_INTERVAL: 3.7094
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.4561
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 13:13]
+:DRILL_LAST_REVIEWED: [2023-01-31 ter 09:14]
 :END:
 
 Guardai-vos dos falsos profetas. É pelos [frutos] que os reconhecei.
@@ -432,17 +432,17 @@ Guardai-vos dos falsos profetas. É pelos [frutos] que os reconhecei.
 ** VIII
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-31 ter>
+SCHEDULED: <2023-02-13 seg>
 :PROPERTIES:
 :ID:       83bf4202-c448-4792-8744-4248e226f3e7
-:DRILL_LAST_INTERVAL: 4.7437
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.2278
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-26 qui 20:45]
+:DRILL_LAST_REVIEWED: [2023-01-31 ter 09:15]
 :END:
 
 Ao curar um leproso e lhe pedir que ofereças sacrifícios ao templo,
@@ -451,34 +451,34 @@ Jesus nos ensina também o sacramento da [penitência]: os pecados
 penitência (as oferendas ao templo).
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-30 seg>
+SCHEDULED: <2023-02-10 sex>
 :PROPERTIES:
 :ID:       ff107e8b-4439-4dd5-b05d-16aedd5aa247
-:DRILL_LAST_INTERVAL: 4.2196
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.162
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-26 qui 20:45]
+:DRILL_LAST_REVIEWED: [2023-01-31 ter 09:15]
 :END:
 
 Ao permitir que os demônios entrem nos porcos, Jesus [aumentou a
 notoriedade do milagre].
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-30 seg>
+SCHEDULED: <2023-02-11 sáb>
 :PROPERTIES:
 :ID:       e835aae4-dbb1-4bcf-8fde-285cff77f6e0
-:DRILL_LAST_INTERVAL: 3.911
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.9705
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-26 qui 20:45]
+:DRILL_LAST_REVIEWED: [2023-01-31 ter 09:15]
 :END:
 
 Durante a tempestade em que Jesus dormia, ele testava a fé dos seus
@@ -487,20 +487,102 @@ tri[bulação].
 
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-30 seg>
+SCHEDULED: <2023-02-10 sex>
 :PROPERTIES:
 :ID:       446d3026-4f0f-4489-8e20-ded643fce422
-:DRILL_LAST_INTERVAL: 3.8531
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 9.6688
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-26 qui 20:44]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-31 ter 09:15]
 :END:
 
 Quando Jesus responde a alguém que queria ser seu discípulo com "as
 aves do céus tem ninho, as raposas tem toca, mas o Filho do Homem não
 tem onde repousar a cabeça", ele se referia ao [engodo] e [orgulho]
 que havia no coração do homem, e que lhe faltava a fé.
+
+** IX
+*** Item :drill:
+SCHEDULED: <2023-02-05 dom>
+:PROPERTIES:
+:ID:       6aa57152-0093-484f-83e2-504cc0a34932
+:DRILL_LAST_INTERVAL: 4.6661
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-31 ter 09:16]
+:END:
+
+No trecho em que Jesus fala sobre 1. não colocar remendo novo em roupa
+antiga, e 2. não colocar vinho novo em odre antigo, o "recipiente
+antigo" refere-se ao [fiel iniciante que ainda não está preparado para
+as restrições mais severas da Palavra].
+
+A roupa (exterior) refere-se às restrições para o corpo (jejum,
+abstinência, ...), o odre para vinho refere-se aos exercícios
+para o espírito (exemplo? quem sabe a vida de oração?)
+
+**** O Texto
+
+#+begin_quote
+"16.“Ninguém põe um remendo de pano novo numa veste
+velha, porque arrancaria uma parte da veste e o rasgão ficaria
+pior. 17.Não se coloca tampouco vinho novo em odres velhos; do
+contrário, os odres se rompem, o vinho se derrama e os odres se
+perdem. Coloca-se, porém, o vinho novo em odres novos, e assim tanto
+um como outro se conservam.”*" São Mateus, 9
+#+end_quote
+
+** XI
+
+*** Item :drill:
+
+Quando Jesus diz que "o menor no Reino dos Céus é maior do que João",
+[Agostinho|| quem disse o que vem a seguir?] aponta que uma
+interpretação correta é que "o menor" - ou seja, os pobre de espírito,
+os desprezados pelo mundo, os justos, os santos - quando elevados a
+glória no reino dos Céus serão maiores do que João (que é o maior dos
+nascidos nessa terra).
+
+**** Passagem
+#+begin_quote
+"11.Em verdade vos digo: entre os filhos das mulheres, não surgiu
+outro maior que João Batista. No entanto, o menor no Reino dos Céus é
+maior do que ele. São Mateus, 11
+#+end_quote
+
+*** Item                                                            :drill:
+
+O que se pode entender do seguinte?
+
+#+begin_quote
+12.Desde a época de João Batista até o presente, o Rei­no dos Céus é
+arrebatado *à força* e são os violentos que o conquistam."
+
+São Mateus, 11
+#+end_quote
+
+**** Interpretações tiradas do Catena Aurea
+
+- à força :: indica que é preciso força de caráter, de resolução, de
+  vontade para se obter o Reino do Céus. O reino não será dado aos
+  preguiçosos, os que não fazem muita questão, os que deixam para
+  atuar depois.
+- os violentos :: duas boas interpretações são 1. aqueles que
+  conseguem exercer a força mencionada anteriormente com intensidade,
+  e 2. os "violentos" poderiam ser os gentios, que não eram Judeus, e
+  não estavam incluídos na aliança com Abraão, mas que passavam a se
+  converter, e muitas vezes mais do que os próprios judeus.
+
+* COMMENT Local variables
+# local variables:
+# display-line-numbers-width: 3
+# ispell-local-dictionary: "brasileiro"
+# end:

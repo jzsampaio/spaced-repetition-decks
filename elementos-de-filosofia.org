@@ -2,17 +2,17 @@
 * Livro I - Lógica
 ** Introdução à Filosofia
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-03-02 qui>
 :PROPERTIES:
 :ID:       f8703fa1-b125-4bfc-8922-c966f1a360f6
-:DRILL_LAST_INTERVAL: 10.5108
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 30.6575
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-16 seg 19:49]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:29]
 :END:
 
 Filosofia, no sentido etimológico, significa amor [à sabedoria||"ao conhecimento" ou "à sabedoria"].
@@ -35,17 +35,17 @@ Filosofia é a ciência que trata das causas [supremas||"primeiras" ou "supremas
 descobertas pela luz natural da razão.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-28 sáb>
+SCHEDULED: <2023-03-11 sáb>
 :PROPERTIES:
 :ID:       d258199f-77dc-4f21-90ad-8c7122fd985b
-:DRILL_LAST_INTERVAL: 12.2359
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 39.5571
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-16 seg 19:47]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:35]
 :END:
 
 Pode-se dizer que a filosofia é uma ciência?
@@ -53,17 +53,17 @@ Pode-se dizer que a filosofia é uma ciência?
 [Sim]
 
 *** A Ciência                                                       :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-03-10 sex>
 :PROPERTIES:
 :ID:       a9852dff-2c3d-4cf1-9562-0b82135c9837
-:DRILL_LAST_INTERVAL: 11.3016
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 38.5691
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-16 seg 19:49]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:29]
 :END:
 
 A [ciência||"Filosofia" ou "ciência"] é uma série de conhecimentos
@@ -72,17 +72,17 @@ certos, coordenados e relativos a um determinado objeto.
 É o conhecimento das coisas pelas suas ca[usas].
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-28 sáb>
+SCHEDULED: <2023-03-06 seg>
 :PROPERTIES:
 :ID:       2595911c-517e-416b-9b89-81041ed9f92d
-:DRILL_LAST_INTERVAL: 11.6686
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 34.6061
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-16 seg 19:52]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:29]
 :END:
 
 Qual o objeto da Filosofia?
@@ -90,17 +90,17 @@ Qual o objeto da Filosofia?
 [A causa suprema dos entes]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-28 sáb>
+SCHEDULED: <2023-03-10 sex>
 :PROPERTIES:
 :ID:       7cb1d61c-2778-44a2-bdbe-8c5ec21cf5a5
-:DRILL_LAST_INTERVAL: 12.438
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 39.1831
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-16 seg 19:50]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:34]
 :END:
 
 Qual o meio pelo qual a Filosofia estuda a causa suprema dos entes?
@@ -124,17 +124,17 @@ SCHEDULED: <2023-02-02 qui>
 A Filosofia se divide em 3 partes: L[ógica], Met[afísica], e Mo[ral].
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-28 sáb>
+SCHEDULED: <2023-03-10 sex>
 :PROPERTIES:
 :ID:       d246a562-7e5e-442e-942d-0249c67b0950
-:DRILL_LAST_INTERVAL: 12.0173
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 38.6137
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-16 seg 19:47]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:30]
 :END:
 
 Dentre as partes da Filosofia (Lógica, Metafísica, e Moral):
@@ -189,17 +189,17 @@ As partes da Filosofia devem ser estudadas na seguinte ordem:
 3. [Moral]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-28 sáb>
+SCHEDULED: <2023-03-05 dom>
 :PROPERTIES:
 :ID:       4890d1e8-e334-4989-966a-489d88364574
-:DRILL_LAST_INTERVAL: 12.2061
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 33.6772
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-16 seg 19:51]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:29]
 :END:
 
 3 requisitos para o aluno de Filosofia:
@@ -276,17 +276,17 @@ O *objeto* da lógica é o conjunto de ope[rações] inte[lectuais] que
 devem ser realizados para alcançar a verdade.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-28 sáb>
+SCHEDULED: <2023-03-06 seg>
 :PROPERTIES:
 :ID:       7387e9f3-4647-47e3-b292-352963aef5f9
-:DRILL_LAST_INTERVAL: 12.3281
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 35.0856
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-16 seg 19:51]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:30]
 :END:
 
 Arte é o conjunto de regras ou preceitos, que ensinam a exe[cutar],
@@ -314,17 +314,17 @@ as propriedades do mesmo objeto.
 A lógica é uma ciência? [Sim].
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-28 sáb>
+SCHEDULED: <2023-03-10 sex>
 :PROPERTIES:
 :ID:       b8ba99a3-c740-4a70-9619-d5c428702b63
-:DRILL_LAST_INTERVAL: 11.7987
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 38.9721
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-16 seg 19:48]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:30]
 :END:
 
 O estudo da lógica é dividido em 2 partes:
@@ -423,17 +423,17 @@ Complete a tabela:
 
 ** Ideia, sua definição e análise
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-26 qui>
+SCHEDULED: <2023-03-04 sáb>
 :PROPERTIES:
 :ID:       7749b9a6-ab2f-4434-8438-cb20338dff7d
-:DRILL_LAST_INTERVAL: 10.432
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 32.5756
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-16 seg 19:50]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:29]
 :END:
 
 [Ideia||"Ideia" ou "Termo"] é a simples representação intelectual de uma coisa.
@@ -457,17 +457,17 @@ reproduzida pela ideia, [não se||"não se" ou "se"] adicionam
 [nem||"nem" ou "e"] se negam propriedades.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-28 sáb>
+SCHEDULED: <2023-03-06 seg>
 :PROPERTIES:
 :ID:       dc269c5c-b0c9-45c6-87ac-b2ed6a6873e6
-:DRILL_LAST_INTERVAL: 11.9117
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 35.1512
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-16 seg 19:50]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:34]
 :END:
 
 O objeto da ideia é a ess[ência] (ou natureza) do ser percebido.
@@ -493,17 +493,17 @@ SCHEDULED: <2023-01-31 ter>
 Ideia é a simples representação intelectual [da essência de um ser||"de um ser" ou "da essência de um ser"].
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-27 sex>
+SCHEDULED: <2023-03-04 sáb>
 :PROPERTIES:
 :ID:       de0c7886-6653-4be7-86a1-d48431eaf290
-:DRILL_LAST_INTERVAL: 11.1272
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 32.9895
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.7
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-16 seg 19:48]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:29]
 :END:
 
 Ideia é a simples representação intelectual de uma coisa.
@@ -1574,17 +1574,17 @@ funda-se necessariamente na conveniência ou desconveniência
 representam.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-30 seg>
+SCHEDULED: <2023-02-11 sáb>
 :PROPERTIES:
 :ID:       65a873bb-f601-4833-a260-adb4e13c04e2
-:DRILL_LAST_INTERVAL: 4.2291
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 3
+:DRILL_LAST_INTERVAL: 11.8382
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 3.667
-:DRILL_EASE: 2.7
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.8
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:10]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:37]
 :END:
 
 Em relação às 3 partes do *juízo*:
@@ -1595,17 +1595,17 @@ Em relação às 3 partes do *juízo*:
   chama-se cópula.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-29 dom>
+SCHEDULED: <2023-02-14 ter>
 :PROPERTIES:
 :ID:       7e2be76a-f51c-4fef-9792-937255084875
-:DRILL_LAST_INTERVAL: 5.8788
-:DRILL_REPEATS_SINCE_FAIL: 3
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 15.0004
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 4.0
-:DRILL_EASE: 2.46
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:08]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:40]
 :END:
 
 Sob as divisões do juízo entre afirmativo e negativo, e também quanto
@@ -1908,17 +1908,17 @@ Na proposição
 - Pode-se dizer reciprocamente que: nenhum [B] é [A]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-28 sáb>
+SCHEDULED: <2023-02-13 seg>
 :PROPERTIES:
 :ID:       0b7fa057-93bb-45ba-8f66-9e09dde85145
-:DRILL_LAST_INTERVAL: 4.9501
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.5826
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-23 seg 08:15]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:35]
 :END:
 
 Proposições simples podem ser divididas em absoluta e modal.
@@ -2169,17 +2169,17 @@ disjuntiva, adversativa, relativa, ou exponível?
 
 ** Qualidades das proposições
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-30 seg>
+SCHEDULED: <2023-02-09 qui>
 :PROPERTIES:
 :ID:       225c4601-490d-4b9d-aa91-51e063d8d873
-:DRILL_LAST_INTERVAL: 4.035
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.3597
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:03]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:39]
 :END:
 
 As qualidades das proposições (ou melhor: dos pares de proposições)
@@ -2250,17 +2250,17 @@ sub-contrárias?
 [Contraditórias]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-29 dom>
+SCHEDULED: <2023-02-13 seg>
 :PROPERTIES:
 :ID:       acb6cd50-2232-484e-a4ef-2d0ce6f4649e
-:DRILL_LAST_INTERVAL: 4.5688
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.9356
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:11]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:41]
 :END:
 
 As proposições a seguir são contraditórias, contrárias, ou
@@ -2297,17 +2297,17 @@ seguir?
 [I]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-30 seg>
+SCHEDULED: <2023-02-11 sáb>
 :PROPERTIES:
 :ID:       e8e3c400-8031-4e36-b11f-73a1d3cf0570
-:DRILL_LAST_INTERVAL: 3.7671
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.6236
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:06]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:39]
 :END:
 
 Na classificação AEIO, qual letra se dá para o tipo de proposição a
@@ -2330,17 +2330,17 @@ seguir?
 [O]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-29 dom>
+SCHEDULED: <2023-02-14 ter>
 :PROPERTIES:
 :ID:       72a8b8d9-84a0-490b-93bb-7f7ea3e65322
-:DRILL_LAST_INTERVAL: 4.8445
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.9731
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:11]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:41]
 :END:
 
 Na classificação AEIO, quais letras se dão às proposições cujos
@@ -2381,17 +2381,17 @@ Complete o quadro com A, E, I, e O
 | Sujeito Universal  | [E]                 | [A]                   |
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-28 sáb>
+SCHEDULED: <2023-02-12 dom>
 :PROPERTIES:
 :ID:       72ce0253-d326-452a-81d3-812595195c7c
-:DRILL_LAST_INTERVAL: 4.0435
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 13.2838
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:13]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:35]
 :END:
 
 Nas proposições do tipo O o sujeito é universal ou particular? Ela é
@@ -2496,17 +2496,17 @@ As proposições a seguir são opostas? Por que?
 [Não, pois não tratam to mesmo predicado]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-30 seg>
+SCHEDULED: <2023-02-20 seg>
 :PROPERTIES:
 :ID:       dba05d6e-07ce-42ca-82b4-d6f564713d47
-:DRILL_LAST_INTERVAL: 5.7846
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 21.2651
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:11]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:38]
 :END:
 
 Quanto a proposições contraditórias, se uma é falsa, podemos dizer que
@@ -2519,17 +2519,17 @@ Se uma é verdadeira, podemos dizer que a outra é falsa?
 [Sim]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-28 sáb>
+SCHEDULED: <2023-02-09 qui>
 :PROPERTIES:
 :ID:       57aa714a-f9e4-4f0c-9601-68b025cf6991
-:DRILL_LAST_INTERVAL: 4.0085
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 9.5765
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_AVERAGE_QUALITY: 3.5
 :DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:13]
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:34]
 :END:
 
 Quanto a proposições contrárias, se uma é verdadeira, podemos dizer
@@ -2553,17 +2553,17 @@ que a outra é verdadeira?
 [Não].
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-28 sáb>
+SCHEDULED: <2023-02-08 qua>
 :PROPERTIES:
 :ID:       d58879c5-4ebd-4179-8042-421f5b194b34
-:DRILL_LAST_INTERVAL: 3.6717
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 9.0246
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:10]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:35]
 :END:
 
 Quanto a proposições sub-contrárias, se uma é falsa podemos dizer que
@@ -2658,17 +2658,17 @@ independentemente da matérias?
 [B]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-30 seg>
+SCHEDULED: <2023-02-03 sex>
 :PROPERTIES:
 :ID:       018b9d5e-add2-4558-96cb-3d38ec09a825
-:DRILL_LAST_INTERVAL: 3.8432
+:DRILL_LAST_INTERVAL: 3.993
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
 :DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:02]
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:42]
 :END:
 
 Das proposições a seguir, julgue verdadeiro ou falso, de acordo com as
@@ -2922,17 +2922,17 @@ Simples:
 > [Alguns sábios são homens]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-29 dom>
+SCHEDULED: <2023-02-13 seg>
 :PROPERTIES:
 :ID:       e21c647a-ef61-4a8c-9853-43d85fe74ba1
-:DRILL_LAST_INTERVAL: 4.6354
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 14.1898
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:09]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:38]
 :END:
 
 Quais são as conversões possíveis para a proposição a seguir?
@@ -2998,17 +2998,17 @@ tipo I (particular afirmativa)?
 - [ ] Contraposta
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-28 sáb>
+SCHEDULED: <2023-02-03 sex>
 :PROPERTIES:
 :ID:       696615d5-4609-4a84-83cf-a1a3f05e96c6
-:DRILL_LAST_INTERVAL: 4.2175
+:DRILL_LAST_INTERVAL: 4.3628
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.667
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:09]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:42]
 :END:
 
 Dentro os tipos de conversões, quais são aceitas por uma proposição do
@@ -3122,17 +3122,17 @@ E por [equivalência] contraditória:
 > Nem todo homem é racional
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-28 sáb>
+SCHEDULED: <2023-02-12 dom>
 :PROPERTIES:
 :ID:       eec9ddb2-a8dc-4bf5-9722-dff81294f880
-:DRILL_LAST_INTERVAL: 4.223
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.5276
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:12]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:31]
 :END:
 
 Conversão ou equivalência?
@@ -3163,17 +3163,17 @@ equivalentes *antepondo* a partícula negativa ao sujeito de uma
 delas. Assim, a negação altera a quantidade e a qualidade.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-28 sáb>
+SCHEDULED: <2023-02-04 sáb>
 :PROPERTIES:
 :ID:       7e65cfb9-d87e-4ef7-ab49-a08e9e3d3414
-:DRILL_LAST_INTERVAL: 3.9938
+:DRILL_LAST_INTERVAL: 4.863
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.667
 :DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-24 ter 08:08]
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:41]
 :END:
 
 Duas [contrárias||"contraditórias" or "contrárias"] tornam-se
@@ -3193,17 +3193,17 @@ opostas (e portanto de diferente significado), e chega-se a um par de
 proposições que tem o mesmo significado.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-30 seg>
+SCHEDULED: <2023-02-11 sáb>
 :PROPERTIES:
 :ID:       4cdee66a-6b9c-4749-96a6-36d21749cec8
-:DRILL_LAST_INTERVAL: 4.0673
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 12.0727
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:07]
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:40]
 :END:
 
 A transformação de equivalência pode ajudar a entender uma frase.
@@ -3318,17 +3318,17 @@ A matéria remota de um raciocínio são 3 ideias:
 - e outra é média e é o termo de comparação
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-30 seg>
+SCHEDULED: <2023-02-10 sex>
 :PROPERTIES:
 :ID:       d1fda37f-a715-422b-802b-dd481a414256
-:DRILL_LAST_INTERVAL: 4.2368
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.8142
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:06]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:39]
 :END:
 
 Em um raciocínio, o extremo [maior] é o predicado da conclusão.
@@ -3355,17 +3355,17 @@ cons[equente]. O ne[xo] que em virtude da *forma* que existe entre
 estes dois chama-se conse[quência].
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-30 seg>
+SCHEDULED: <2023-02-10 sex>
 :PROPERTIES:
 :ID:       e2f3fc9f-d2d7-4311-a39f-a30d73acb1a6
-:DRILL_LAST_INTERVAL: 4.4415
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.1044
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:02]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:39]
 :END:
 
 As regras que determinam a validade de um raciocínio afirmativo ou
@@ -3419,17 +3419,17 @@ Em um silogismo:
   deve atribuir-se o predicado da premissa maior.
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-30 seg>
+SCHEDULED: <2023-02-10 sex>
 :PROPERTIES:
 :ID:       d841fbe8-8bf2-4d73-97ec-28649046a5ce
-:DRILL_LAST_INTERVAL: 3.9341
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.3224
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2023-01-26 qui 09:08]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:38]
 :END:
 
 A um silogismo que, por brevidade, foram omitidas uma das premissas,
@@ -3546,17 +3546,17 @@ silogismo a seguir ser inválido:
   premissa maior.]
 
 *** Item                                                            :drill:
-SCHEDULED: <2023-01-29 dom>
+SCHEDULED: <2023-02-05 dom>
 :PROPERTIES:
 :ID:       51014b60-9cbe-4454-aa88-44cf147489fc
-:DRILL_LAST_INTERVAL: 2.6845
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 6.2785
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
+:DRILL_EASE: 2.22
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2023-01-26 qui 08:59]
+:DRILL_LAST_REVIEWED: [2023-01-30 seg 19:36]
 :END:
 
 Indique os termos maior, menor, e médio, e explique o motivo de o
@@ -3938,6 +3938,7 @@ A lei da figura [IV] diz que:
 *** Item :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: hide1cloze
+:ID:       81361b66-39c6-441e-916d-8c99edcfbf1e
 :END:
 
 Uma representação compacta para as 6 leis das figuras é dada a seguir
@@ -3963,6 +3964,9 @@ Por extenso teríamos:
     * [A menor seja afirmativa; a conclusão particular]
 
 *** Item :drill:
+:PROPERTIES:
+:ID:       349e126f-7a75-448b-843d-836cad350eb8
+:END:
 
 Considere todas os modos da figura I:
 
@@ -4018,6 +4022,9 @@ válidas.
 | 15 | (OO)   | Algum X não é M | algum m não é x | logo ? m é M | F       | R5: Duas premissas negativas                              |
 
 *** Item :drill:
+:PROPERTIES:
+:ID:       3ea410c1-0071-431b-8ba8-bbee65cd84dc
+:END:
 
 Considere o modo AA da figura I:
 
@@ -4051,6 +4058,9 @@ Exemplo:
 > Logo, todo pecador é racional
 
 *** Item :drill:
+:PROPERTIES:
+:ID:       742d3cc3-4a3e-40c7-a029-3001d303b6e7
+:END:
 
 Considere o modo AI da figura [I]:
 
@@ -4085,6 +4095,9 @@ Exemplo:
 > Logo, alguns pecadores são racionais
 
 *** Item :drill:
+:PROPERTIES:
+:ID:       df2de3e6-f598-4793-a7d5-99bd10233019
+:END:
 
 Considere o modo EA da figura [I]:
 
@@ -4119,6 +4132,9 @@ Exemplo:
 > Logo, todo pecador perdoado não anjo
 
 *** Item :drill:
+:PROPERTIES:
+:ID:       39cf7514-e330-44b5-8407-afcad3b0f8f9
+:END:
 
 Considere o modo EI da figura [I]:
 
@@ -4153,6 +4169,9 @@ Exemplo:
 > Logo, algum Deus não é anjo
 
 *** Item :drill:
+:PROPERTIES:
+:ID:       3728e456-3ea0-422d-ba40-c7d098c6de20
+:END:
 
 Considere as regras dos silogismos, assim como as leis da figura IV, e
 mostre que há 6 módulos legítimos para a figura IV.
@@ -4213,6 +4232,9 @@ Legenda:
 - Ext. X. M :: Extensão do termo médio na premissa maior
 
 *** Item :drill:
+:PROPERTIES:
+:ID:       44bb7b79-0894-441a-a5d4-bbfcc9208398
+:END:
 
 Considere o modo AA da figura IV. Avalie todas as possibilidades, e
 conclua que a conclusão deve ter a forma I.
