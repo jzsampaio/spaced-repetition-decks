@@ -2047,15 +2047,13 @@ pessoas aumenta o dano.
           local é de que o dízimo é voluntário, e de valor a ser
           estipulado pelo fiel.
 * Orações
-** Item                                                              :drill:
-
-*Ó meu Jesus*
+** Ó meu Jesus                                                       :drill:
 
 Ó meu Jesus, perdoai-nos, livrai-nos do [fogo do inferno||"do inferno" or "fogo do inferno"],
 levai [as almas todas||"as almas todas" or "todas as almas"] para o Céu
 e socorrei principalmente aquelas que mais [precisarem||"precisam" or "precisarem"].
 
-** Item                                                              :drill:
+** Para antes de meditação                                           :drill:
 
 *Oração para antes da meditação*
 
@@ -2067,10 +2065,10 @@ Peço-Te perdão dos meus pecados
 e graça para fazer com f[ruto]
 este tempo de oração.
 Minha Mãe Imaculada, São José,
-Meu Pai e Senhor, Anjo da Guarda,
+Meu Pai e Senhor, meu Anjo da Guarda,
 [intercedei por mim||"intercedei por mim" or "rogai por nós"].
 
-** Item                                                              :drill:
+** Para depois da meditação                                          :drill:
 
 *Oração para depois da meditação*
 
@@ -2083,7 +2081,7 @@ Minha Mãe Imaculada, São José,
 meu Pai e Senhor, meu Anjo da Guarda,
 [intercedei por mim||"rogai por nós" or "intercedei por mim"].
 
-** Item                                                              :drill:
+** A São José, modelo dos trabalhadores                              :drill:
 
 *Oração a São José (São Pio X )*
 
@@ -2119,7 +2117,7 @@ tudo à vossa imitação, oh! [Patriarca] São José!
 Tal será a minha divisa na vida e na morte. Amém.
 
 
-** Item                                                              :drill:
+** Para pedir a castidade                                            :drill:
 
 *Oração para pedir a Castidade*
 
@@ -2162,7 +2160,7 @@ Eu quero ver a Deus! Amém! Amém! Amém!
 Obrigado Senhor, porque tua misericórdia é eterna!
 #+end_quote
 
-** Item                                                              :drill:
+** Antes das refeições                                               :drill:
 
 *Antes das refeição*
 
@@ -2171,11 +2169,108 @@ os alimentos que vamos tomar;
 que eles renovem as nossas forças
 para melhor Vos [servir e amar|| 2 verbos].
 
-** Item                                                              :drill:
+** Depois da refeição                                                :drill:
 
 *Depois da refeição*
 
 Nós Vos damos graças, Senhor,
 pelos vossos ben[efícios],
 a Vós que viveis e reinais
-pelos séculos dos séculos. Amém.
+pelos séculos dos séculos.
+
+Amém.
+
+** Vinde Espírito Santo                                              :drill:
+
+Vinde Espírito Santo,
+enchei os corações dos vossos fiéis,
+e ascendei neles o fogo do Vosso Amor.
+Enviai o vosso Espírito e tudo será criado,
+e renovareis a face da Terra.
+
+Oremos, Ó Deus
+que instruíste o coração dos Vosso fiéis
+com a luz do Espírito Santo,
+fazei que apreciemos
+retamente
+todas as coisas
+segundo o mesmo Espírito
+e gozemoas da sua consolação.
+
+Por Cristo Nosso Senhor, Amém.
+
+** Glória
+
+Glória a Deus na altuas,
+e paz na terra
+aos homens por Ele amados.
+
+Senhor Deus, Rei dos céus,
+Deus Pai todo-poderoso:
+nós Vos louvamos,
+nós Vos bendizemos,
+nós Vos adoramos,
+nós Vos glorificamos,
+nós Vos damos graças
+por Vossa imensa glórria.
+
+Senhor Jesus Cristo,
+Filho Unigênito,
+Senhor Deus,
+Cordeiro de Deus,
+Filho de Deus pai:
+
+Vós que tirais o pecado do mundo,
+tende piedade de nós;
+Vós que tirais o pecado do mundo,
+acolhei a nossa súplica;
+Vós que estais à direita do Pai,
+tende piedade de nós.
+
+Só Vós sois o Santo;
+só Vós, o Senhor;
+Só Vós o Altíssimo,
+Jesus Cristo;
+com o Espírito Santo,
+na glória de Deus Pai.
+Amen
+
+** Santo (Sanctus)
+
+Santo, Santo, Santo, Senhor Deus do Universo!
+O Céu e a Terra proclamam a Vossa glória.
+Hosana nas alturas!
+Bendito o que vem em Nome do Senhor.
+Hosana nas alturas!
+
+Primeira linha em latim:
+
+Sanctus, Sanctus, Sanctus, Dominius Deus Sabaoth! (Santo, Senhor Deus dos Exércitos!)
+
+** Cordeiro (Agnus Dei)
+
+Cordeiro de Deus que tirais o pecado do mundo
+tende piedade de nós
+
+Cordeiro de Deus que tirai o pecado do mundo
+Tende piedade de nós
+
+Cordeiro de Deus que tirai o pecado do mundo
+Dai-nos a paz, a vossa paz
+
+** Confesso a Deus (Confiteor Deo)
+
+“Confesso a Deus, Pai Todo-Poderoso
+e a vós, irmãos,
+que pequei muitas vezes
+por pensamentos e palavras,
+atos e omissões, (batendo no peito)
+por minha culpa,
+minha tão grande culpa.
+
+E peço à Virgem Maria,
+aos Anjos e Santos,
+e a vós, irmãos,
+que rogueis por mim a Deus,
+Nosso Senhor.”
+

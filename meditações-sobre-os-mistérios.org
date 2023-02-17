@@ -1,0 +1,98 @@
+#+TITLE: Meditações sobre os Mistérios do Terço
+* Gozosos
+* Dolorosos
+** Template
+**Oração e Agonia no horto**
+**Flagelação**
+**Coroação de espinhos**
+**O Caminho do Calvário**
+**Crucificação e morte**
+** <2023-02-10 sex>
+
+**Oração e Agonia de Nosso Senhor no horto**
+
+Como Jesus sabia de tudo o que iria acontece, e sabia desde o começo,
+por que transpira sangue no Getsêmani? Será que o sangue pode
+significar algo além mais da antecipação da dor?
+
+Notar que diante Pôncio Pilatos, dos soldados, e até a crucificação
+ele não recua, mas sozinho no Jardim, em suas preces, Ele transpira
+sangue.
+
+Seria da natureza humana exitar mais antes dos atos, do que nos atos
+em si mesmo? Estaria Jesus nos ensinando que, apesar da hesitação que
+é parte da nossa natureza, não devemos concluir que falharemos diante
+do nosso apostolado, pois, por maior que conheçamos a dor que está por
+vir, e ninguém conheceu melhor a dor que estava por vir que o próprio
+Cristo, quando vier a hora, é possível não exitar.
+
+**Coroa de Espinho**
+
+Notar que os soldados vestiram Jesus com uma capa púrpura, e que lhe
+deram uma vareta para servir de cetro, mas o episódio é mais
+famosamente lembrado pela coroa de espinhos.
+
+Me recordei das palavras que o Senhor diz a respeito de João: "Que
+fostes ver no deserto? Roupas finas? Um caniço agitado pelo vento? Um
+profeta?". No momento da coroação, o Cristo tem roupas finas e um
+cetro, e estes não lhe servem de muita coisa. Assim também é com
+aqueles que julgam ter o poder nessa terra, pois quando são tomados
+por poderes maior, a roupa fina e o cetro servirão de motivo de piada
+pelos que detêm o verdadeiro poder. Como os pretorianos caçoaram do
+Mestre durante o Seu julgamento, também serão caçoados por seus
+chapéus e espadas durante o julgamento final.
+
+**Caminho do monte calvário**
+
+Notei que o Cristo caiu e foi ajudado. Hora mas como pode o filho de
+Deus receber ajuda de um mero humano? Como se dá em muitas outras
+passagens, por exemplo em Caná, o Cristo opta pela ajuda dos
+humanos. Ele quer que participemos juntos no processa da salvação.
+
+Nas bodas de Caná, se a preocupação fosse em não deixar faltar vinho
+aos noivos, o Cristo poderia ter evitado que o vinho acabasse, mas ele
+permite que o vinho acabe. Além disso, quando decide dar vinhos aos
+noivos, poderia ter preenchido os vasos vazios com vinhos num estalar
+de dedos, mas pede que os servos primeiro os encham com água.
+
+Deus poderia ter feitos os humanos perfeitos, mas os fez
+imperfeitos. Poderia perdoá lhes todos os pecados, mas primeiro requer
+que os pecadores peçam perdão.
+
+Similarmente, ele poderia ter carregado a cruz sozinho, mas deixa-a
+cair para que um justo o ajude.
+
+Notei que o justo, apesar de ter ajudado o Cristo, não mudou o curso
+do seu destino. O Cristo ainda foi crucificado, apesar da ajuda do
+justo. Ainda assim, que bem aventurado esse justo que ajudou o Senhor!
+Me parece uma lição de caridade. Ao ajudarmos os pobres, muitas vezes
+não podemos mudar o curso da sua pobreza, mas podemos melhor a sua
+condição ligeiramente, e quem sabe, o Senhor veja o pequeno ato como o
+ato de um justo.
+
+**Crucificação**
+
+Lembrei do grito que o Senhor dá antes de morrer. Imaginei o seu
+sangue escapando pelos pulsos, inicialmente à elevada pressão, e então
+aos poucos, sendo que o sangue continuava a jorrar pelas
+pernas. Imaginei o corpo pesando mais e mais sob a respiração cada vez
+mais difícil. E antes da hora final, junta suas forças, dá um grande
+grito, e morre.
+
+Não quis desfalecer aos poucos, não quis morrer dormindo, mas usou de
+sua morte para nos mostrar que até a último segundo, é possível
+entregar mais à obra de Deus do que estamos acostumados a fazer.
+
+* Gloriosos
+* Luminosos
+* COMMENT Local variables
+# local variables:
+# display-line-numbers-width: 3
+# ispell-local-dictionary: "brasileiro"
+# end:
+
+#+begin_src elisp
+(ispell-change-dictionary "brasileiro")
+(ispell-buffer)
+(setq ispell-local-dictionary "brasileiro")
+#+end_src
